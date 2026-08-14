@@ -33,6 +33,7 @@ from patch_1st_read_repoint import patch as patch_1st_read_file
 from patch_esm import patch as patch_esm_file
 from patch_lipsync import patch as patch_lipsync_file
 from patch_ovlm_binary import patch as patch_ovlm_file
+from patch_movecatch_binary import patch as patch_movecatch_file
 from hangul_font_map import load_map, patch_skfont, set_space_mode
 from auto_fill_lipsync import build_translation_dict, LINE_PATTERN as LIPSYNC_LINE_PATTERN
 
@@ -45,6 +46,13 @@ ESM_NAMES = ['SMAP01', 'SMAP02', 'SMAP03', 'SMAP04', 'SMAP05']
 ESM_GROUP = {'SMAP01': 'G01', 'SMAP02': 'G02', 'SMAP03': 'G03', 'SMAP04': 'G04', 'SMAP05': 'G05'}
 LIPSYNC_NAMES = ['LIPSYNC1', 'LIPSYNC2', 'LIPSYNC3', 'LIPSYNC4']
 OVLM_FILES = [('APPEND', 'ADVDATA/APPEND/APPEND.BIN'), ('MGJT', 'MINIGAME/MGJT.BIN')]
+# 리포인팅 지원이 없는 데이터 파일들 (템플릿 경로, 디스크 상대 경로)
+MOVECATCH_FILES = [
+    ('ADVDATA/MOVE.txt', 'ADVDATA/MOVE.BIN'),
+    ('ADVDATA/EYECATCH/EYECATCH.txt', 'ADVDATA/EYECATCH/EYECATCH.BIN'),
+    ('ADVDATA/CINEMA/CINEMA.txt', 'ADVDATA/CINEMA/CINEMA.BIN'),
+    ('ADVDATA/ENDING.txt', 'ADVDATA/ENDING.BIN'),
+]
 
 def find_original(base_no_ext):
     for ext in ('.SBX', '.SBN'):
@@ -194,30 +202,64 @@ def main():
         else:
             os.remove(out_bin)
 
+    print("\n=== 4-1) 장소 이동/상태 표시 데이터(MOVE/EYECATCH/CINEMA/ENDING.BIN) 처리 중 ===")
+    movecatch_files_done = 0
+    total_movecatch_lines = 0
+    for template_rel, rel_disc_path in MOVECATCH_FILES:
+        template_path = os.path.join(TEMPLATES_DIR, template_rel)
+        src_bin = os.path.join(ORIGINAL_DIR, rel_disc_path)
+        if not (os.path.exists(template_path) and os.path.exists(src_bin)):
+            continue
+        out_bin = os.path.join(OUTPUT_DIR, rel_disc_path)
+        os.makedirs(os.path.dirname(out_bin), exist_ok=True)
+        applied, total, _, too_long = patch_movecatch_file(src_bin, template_path, out_bin, out_font_dir=None)
+        if applied > 0:
+            name = os.path.basename(rel_disc_path)
+            print(f"  {name}: {applied}/{total}개 문자열 번역 적용")
+            if too_long:
+                print(f"    주의: 원문보다 길어서 못 넣은 항목 {len(too_long)}개")
+                for i, orig, trans, enc_len, orig_len in too_long:
+                    print(f"      [{i:04d}] 원문 {orig_len}바이트: {trans!r}")
+                    all_skipped.append(('장소이동/상태(MOVE 등)', f'{name}', i, orig, trans, orig_len))
+            movecatch_files_done += 1
+            total_movecatch_lines += applied
+        else:
+            os.remove(out_bin)
+
     print("\n=== 5) 1ST_READ.BIN 전체 문자열 처리 중 ===")
     applied_msgs, total_msgs = 0, 0
     all_strings_template = os.path.join(TEMPLATES_DIR, ALL_STRINGS_TEMPLATE_REL)
     if os.path.exists(all_strings_template) and os.path.exists(ORIGINAL_1ST_READ):
         out_1st_read = os.path.join(OUTPUT_DIR, '1ST_READ.BIN')
         os.makedirs(OUTPUT_DIR, exist_ok=True)
-        stats1st = patch_1st_read_file(
-            ORIGINAL_1ST_READ, all_strings_template, out_1st_read, out_font_dir=None)
-        applied_msgs = stats1st['applied_inplace'] + stats1st['applied_repoint']
-        total_msgs = stats1st['total']
-        if applied_msgs > 0:
-            print(f"  1ST_READ.BIN: {applied_msgs}/{total_msgs}개 문자열 번역 적용"
-                  f" (제자리 {stats1st['applied_inplace']}개, 리포인팅 {stats1st['applied_repoint']}개)")
-            if stats1st['skipped_no_room']:
-                print(f"  주의: 포인터를 못 찾아 원문보다 길게 못 넣은 항목 {len(stats1st['skipped_no_room'])}개"
-                      " (아래 번호를 원문 길이 이내로 줄이면 반영됩니다)")
-                for i, orig, trans, orig_len in stats1st['skipped_no_room']:
-                    budget = orig_len // 2
-                    print(f"    [{i:03d}] 원문 {orig_len}바이트(한글 약 {budget}자까지) - "
-                          f"지금 번역: {trans!r}")
-                    all_skipped.append(('시스템 메시지(1ST_READ.BIN)', '1ST_READ.BIN', i, orig, trans, orig_len))
+        try:
+            stats1st = patch_1st_read_file(
+                ORIGINAL_1ST_READ, all_strings_template, out_1st_read, out_font_dir=None)
+        except SystemExit as e:
+            print(f"  {e}")
+            print("  1ST_READ.BIN 처리를 건너뛰고 나머지는 계속 진행합니다.")
+            stats1st = None
+
+        if stats1st is None:
+            if os.path.exists(out_1st_read):
+                os.remove(out_1st_read)
         else:
-            print("  번역된 내용이 없습니다 (건너뜀)")
-            os.remove(out_1st_read)
+            applied_msgs = stats1st['applied_inplace'] + stats1st['applied_repoint']
+            total_msgs = stats1st['total']
+            if applied_msgs > 0:
+                print(f"  1ST_READ.BIN: {applied_msgs}/{total_msgs}개 문자열 번역 적용"
+                      f" (제자리 {stats1st['applied_inplace']}개, 리포인팅 {stats1st['applied_repoint']}개)")
+                if stats1st['skipped_no_room']:
+                    print(f"  주의: 포인터를 못 찾아 원문보다 길게 못 넣은 항목 {len(stats1st['skipped_no_room'])}개"
+                          " (아래 번호를 원문 길이 이내로 줄이면 반영됩니다)")
+                    for i, orig, trans, orig_len in stats1st['skipped_no_room']:
+                        budget = orig_len // 2
+                        print(f"    [{i:03d}] 원문 {orig_len}바이트(한글 약 {budget}자까지) - "
+                              f"지금 번역: {trans!r}")
+                        all_skipped.append(('시스템 메시지(1ST_READ.BIN)', '1ST_READ.BIN', i, orig, trans, orig_len))
+            else:
+                print("  번역된 내용이 없습니다 (건너뜀)")
+                os.remove(out_1st_read)
     else:
         print("  translation_templates/1ST_READ/all_1st_read_strings.txt 또는 1ST_READ.BIN을 찾을 수 없어 건너뜀")
 
@@ -235,6 +277,7 @@ def main():
           f"ESM 전투대사 {esm_files_done}개 파일({total_esm_lines}줄), "
           f"립싱크 대사 {lip_files_done}개 파일({total_lip_lines}줄), "
           f"기타 오버레이 {ovlm_files_done}개 파일({total_ovlm_lines}개), "
+          f"장소이동/상태 {movecatch_files_done}개 파일({total_movecatch_lines}개), "
           f"1ST_READ.BIN 문자열 {applied_msgs}개, 한글 {num_hangul}자")
     print(f"결과물 폴더: {OUTPUT_DIR}")
     print("이 폴더 안의 내용을 그대로 zip으로 압축한 뒤 확장자를 .dcp로 바꿔서")

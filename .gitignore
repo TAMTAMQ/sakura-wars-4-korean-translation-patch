@@ -5,6 +5,9 @@ DISC/
 output/
 output_공백없음 \[GDI\]/
 패치파일.dcp
+길이초과_건너뜀_목록.txt
+translation_templates/검증결과.txt
+translation_templates/**/*_검증결과.txt
 __pycache__/
 tools/__pycache__/
 

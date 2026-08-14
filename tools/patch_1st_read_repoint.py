@@ -38,6 +38,24 @@ def patch(bin_path, translation_path, out_path, out_font_dir=None):
     messages = find_all_messages(bytes(data))
     translations = parse_translation_file(translation_path)
 
+    # 번역 템플릿은 [번호]가 곧 이 1ST_READ.BIN을 스캔했을 때의 순번이라고
+    # 가정하고 매칭한다 (아래 for 루프의 translations.get(i)). 그런데
+    # bin_path로 들어온 파일이 번역 템플릿을 만들 때 쓴 파일과 다르면
+    # (예: 추출 중 일부가 깨진 다른 복사본), 스캔 결과 개수/순서가
+    # 어긋나서 "원문"과 "번역"이 서로 다른 문장을 가리키는 상태로 조용히
+    # 패치가 진행되고, 엉뚱한 길이초과 보고서까지 나온다. 이런 사고를
+    # 막기 위해 개수가 다르면 그 자리에서 바로 멈춘다.
+    expected = max(translations.keys()) + 1 if translations else 0
+    if len(messages) != expected:
+        raise SystemExit(
+            f"[1ST_READ.BIN 불일치] 지금 스캔한 문자열 개수({len(messages)}개)가 "
+            f"번역 템플릿의 항목 개수({expected}개)와 다릅니다.\n"
+            f"  -> '{bin_path}' 파일이 translation_templates/1ST_READ/"
+            f"all_1st_read_strings.txt를 만들 때 쓴 파일과 다른 것으로 보입니다.\n"
+            f"  이 상태로 진행하면 원문과 번역이 서로 다른 문장으로 잘못 짝지어질 "
+            f"수 있어 안전하게 중단합니다. 원본 디스크에서 1ST_READ.BIN을 다시 "
+            f"확인해서 넣어주세요.")
+
     hangul_map = load_map()
     for text in translations.values():
         if text:

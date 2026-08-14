@@ -334,16 +334,20 @@ def run_check(src_path, tgt_path, do_fix=False):
     src_entries = clean_lines(src_raw)
     tgt_entries = clean_lines(tgt_raw)
 
-    log(f"\n===== {os.path.basename(tgt_path)} =====")
+    # 이 파일에 실제 문제가 하나라도 있을 때만 헤더+내용을 최종 로그에
+    # 남긴다 ("이상 없음"만 잔뜩 나열되는 걸 방지 - 검증결과.txt에는
+    # 문제 있는 파일만 남는다).
+    buf = [f"\n===== {os.path.basename(tgt_path)} ====="]
+    has_issue = False
 
     # 1. 번역본 라인 번호 검증
     num_issues = check_line_numbers(tgt_entries, "번역본")
     if num_issues:
-        log(f"[라인 번호 문제] {len(num_issues)}건")
-        for i in num_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[라인 번호 문제] {len(num_issues)}건")
+        buf.extend(num_issues)
     else:
-        log("[라인 번호] 이상 없음")
+        buf.append("[라인 번호] 이상 없음")
 
     # 2. 원본 대비 번역본 라인 개수/번호셋 비교
     src_nos = {e[0] for e in src_entries if e[0] is not None}
@@ -351,22 +355,24 @@ def run_check(src_path, tgt_path, do_fix=False):
     missing_in_tgt = sorted(src_nos - tgt_nos)
     extra_in_tgt = sorted(tgt_nos - src_nos)
     if missing_in_tgt:
-        log(f"[원본에는 있는데 번역본에 없는 번호] {len(missing_in_tgt)}건")
-        log('  ' + ', '.join(f"[{n:04d}]" for n in missing_in_tgt))
+        has_issue = True
+        buf.append(f"[원본에는 있는데 번역본에 없는 번호] {len(missing_in_tgt)}건")
+        buf.append('  ' + ', '.join(f"[{n:04d}]" for n in missing_in_tgt))
     if extra_in_tgt:
-        log(f"[번역본에만 있는 번호] {len(extra_in_tgt)}건")
-        log('  ' + ', '.join(f"[{n:04d}]" for n in extra_in_tgt))
+        has_issue = True
+        buf.append(f"[번역본에만 있는 번호] {len(extra_in_tgt)}건")
+        buf.append('  ' + ', '.join(f"[{n:04d}]" for n in extra_in_tgt))
     if not missing_in_tgt and not extra_in_tgt:
-        log("[원본-번역본 번호 대조] 이상 없음")
+        buf.append("[원본-번역본 번호 대조] 이상 없음")
 
     # 3. 일본어 잔존 검출
     jp_issues = check_japanese_remaining(tgt_entries)
     if jp_issues:
-        log(f"[일본어 잔존] {len(jp_issues)}건")
-        for i in jp_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[일본어 잔존] {len(jp_issues)}건")
+        buf.extend(jp_issues)
     else:
-        log("[일본어 잔존] 없음")
+        buf.append("[일본어 잔존] 없음")
 
     # 번호 -> 텍스트 맵 (4~6번 검사용, 양쪽에 공통으로 존재하는 번호만 비교)
     src_map = {e[0]: e[1] for e in src_entries if e[0] is not None}
@@ -375,11 +381,11 @@ def run_check(src_path, tgt_path, do_fix=False):
     # 4. 특수문자(∈, 〓) 누락/추가 검출 + 자동복구
     sp_issues, sp_fixes = check_special_chars(src_map, tgt_map)
     if sp_issues:
-        log(f"[특수문자(∈,〓) 불일치] {len([i for i in sp_issues if i.startswith('  [')])}건")
-        for i in sp_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[특수문자(∈,〓) 불일치] {len([i for i in sp_issues if i.startswith('  [')])}건")
+        buf.extend(sp_issues)
     else:
-        log("[특수문자(∈,〓) 불일치] 없음")
+        buf.append("[특수문자(∈,〓) 불일치] 없음")
 
     # 4-2. 이모지/이모티콘 임의 추가 검출 + 자동복구(제거)
     # sp_fixes로 이미 고쳐진 텍스트가 있으면 그 위에 이모지 제거를 이어서 적용한다
@@ -387,11 +393,11 @@ def run_check(src_path, tgt_path, do_fix=False):
     tgt_map_after_sp_fix.update(sp_fixes)
     emoji_issues, emoji_fixes = check_emoji(tgt_map_after_sp_fix)
     if emoji_issues:
-        log(f"[이모지/이모티콘 임의 추가] {len([i for i in emoji_issues if i.startswith('  [')])}건")
-        for i in emoji_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[이모지/이모티콘 임의 추가] {len([i for i in emoji_issues if i.startswith('  [')])}건")
+        buf.extend(emoji_issues)
     else:
-        log("[이모지/이모티콘 임의 추가] 없음")
+        buf.append("[이모지/이모티콘 임의 추가] 없음")
 
     # 두 자동복구 결과 병합 (같은 줄에 둘 다 해당하면 이모지 제거까지 반영된 버전이 최종본)
     fixes = dict(sp_fixes)
@@ -403,23 +409,25 @@ def run_check(src_path, tgt_path, do_fix=False):
     tgt_map_after_fixes.update(fixes)
     space_issues, space_fixes = check_spacing(src_map, tgt_map_after_fixes)
     if space_issues:
-        log(f"[공백 소실] {len([i for i in space_issues if i.startswith('  [')])}건")
-        for i in space_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[공백 소실] {len([i for i in space_issues if i.startswith('  [')])}건")
+        buf.extend(space_issues)
     else:
-        log("[공백 소실] 없음")
+        buf.append("[공백 소실] 없음")
     fixes.update(space_fixes)
 
     # 5. 라벨 줄이 엉뚱하게 바뀐 경우 검출
     label_issues = check_label_lines(src_map, tgt_map)
     if label_issues:
-        log(f"[라벨 줄 오염] {len([i for i in label_issues if i.startswith('  [')])}건")
-        for i in label_issues:
-            log(i)
+        has_issue = True
+        buf.append(f"[라벨 줄 오염] {len([i for i in label_issues if i.startswith('  [')])}건")
+        buf.extend(label_issues)
     else:
-        log("[라벨 줄 오염] 없음")
+        buf.append("[라벨 줄 오염] 없음")
 
     # 자동복구: 번역본 파일을 직접 덮어써서 반영 (새 파일 안 만듦)
+    # 자동복구는 has_issue와 무관하게 항상 실제로 적용하되(파일 내용
+    # 반영은 놓치면 안 되므로), 로그에 남길지는 has_issue 여부를 따른다.
     if do_fix and fixes:
         with open(tgt_path, 'w', encoding='utf-8') as f:
             for line_no, text, _ in tgt_entries:
@@ -428,9 +436,11 @@ def run_check(src_path, tgt_path, do_fix=False):
                 else:
                     tag = f"[{line_no:04d}]" if line_no is not None else ""
                     f.write(f"{tag}{text}\n")
-        log(f"[자동복구] {len(fixes)}건 반영 -> {tgt_path} (원본 덮어씀)")
-    elif do_fix:
-        log("[자동복구] 자동복구 가능한 항목 없음")
+        buf.append(f"[자동복구] {len(fixes)}건 반영 -> {tgt_path} (원본 덮어씀)")
+
+    if has_issue:
+        for line in buf:
+            log(line)
 
 
 def main():
@@ -472,8 +482,14 @@ def main():
         if only_in_tgt:
             log(f"[원본 폴더에 없는 파일] {only_in_tgt}")
 
+        flagged_count = 0
         for name in common:
+            before = len(_LOG_BUFFER)
             run_check(src_files[name], tgt_files[name], do_fix=do_fix)
+            if len(_LOG_BUFFER) > before:
+                flagged_count += 1
+        log(f"\n총 {len(common)}개 파일 중 문제 있는 파일 {flagged_count}개"
+            f" (나머지 {len(common) - flagged_count}개는 이상 없어 검증결과.txt에서 생략됨)")
 
         report_path = args.report or os.path.join(args.tgt, "검증결과.txt")
     else:

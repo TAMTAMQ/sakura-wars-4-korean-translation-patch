@@ -40,10 +40,13 @@
 | 1ST_READ.BIN (시스템 메시지/메뉴) | - | 214개 |
 | APPEND.BIN / MGJT.BIN (엔딩·마작 UI) | - | 518개 |
 | LIPSYNC1~4.LIP (음성 자막) | 4개 | 7,944줄 |
+| MOVE.BIN (맵 이동 메뉴 장소 이름) | - | 62개 |
+| EYECATCH.BIN (능력치/의욕 상태 라벨) | - | 7개 |
+| CINEMA.BIN / ENDING.BIN (디버그·에러 메시지) | - | 11개 |
 
 - 위 항목은 전부 번역 텍스트가 존재하며 자동 반영됩니다.
 - SYSDATA의 CBD 이미지(타이틀/아이캐치 등)는 그래픽 데이터로 텍스트가 없어 번역 대상이 아닙니다. RGB565, 64×64 Morton(Z-order) 타일 포맷임을 확인했습니다(추출: `tools/extract_cbd_images.py`, `tools/extract_cg_all.py`).
-- 대사 대부분은 원문보다 길게 번역해도 자동으로 리포인팅되어 화면에 그대로 반영됩니다(아래 "개발 내역" 참고). 여전히 원문 바이트 길이 제한이 남아있는 극소수 항목은 실행 후 `길이초과_건너뜀_목록.txt`에 정리됩니다.
+- 대사 대부분은 원문보다 길게 번역해도 자동으로 리포인팅되어 화면에 그대로 반영됩니다(아래 "개발 내역" 참고). 여전히 원문 바이트 길이 제한이 남아있는 극소수 항목은 실행 후 `길이초과_건너뜀_목록.txt`에 정리됩니다. MOVE/EYECATCH/CINEMA/ENDING.BIN은 실행 코드가 아닌 데이터 파일이라 포인터 유무를 확인할 수 없어, 안전하게 원문 바이트 길이 이내로만 제자리 교체합니다(리포인팅 미지원).
 
 ## 4. 직접 빌드하기
 
@@ -66,7 +69,7 @@
 정품 디스크 이미지의 데이터 트랙에서 아래 파일들을 받아와야 합니다.
 
 - `tools/1ST_READ.BIN`, `tools/SKFONT.CG`, `tools/SKFONT2.CG`, `tools/SKFONT3.CG`, `tools/SKFONT4.CG` — 디스크 루트에서 그대로 복사
-- `original_files/` — `python3 tools/extract_original_text_all.py` 등 `tools/extract_*.py` 스크립트로 디스크 원본에서 재추출 (ADVDATA/MINIGAME/SLG/SLG_ESM의 SBX/SBN/LIP/ESM 원본 바이너리)
+- `original_files/` — `python3 tools/extract_original_text_all.py` 등 `tools/extract_*.py` 스크립트로 디스크 원본에서 재추출 (ADVDATA/MINIGAME/SLG/SLG_ESM의 SBX/SBN/LIP/ESM 원본 바이너리), 그리고 `MOVE.BIN`/`EYECATCH.BIN`/`CINEMA.BIN`/`ENDING.BIN`은 디스크에서 같은 상대 경로로 그대로 복사(`original_files/ADVDATA/MOVE.BIN` 등)
 
 **작업 순서**:
 
@@ -80,8 +83,9 @@
    2) SRPG 전투 대사(ESM/CTPA·ASCR) 반영 (`tools/patch_esm.py`)
    3) 이미 번역해둔 SBX/SBN 대사를 LIPSYNC 템플릿에 자동으로 채우고 반영 (`tools/auto_fill_lipsync.py`, `tools/patch_lipsync.py`)
    4) 오버레이 실행 파일(APPEND.BIN, MGJT.BIN) 반영 (`tools/patch_ovlm_binary.py`)
-   5) 1ST_READ.BIN 반영, 리포인팅 포함 (`tools/patch_1st_read_repoint.py`)
-   6) 한글 폰트(SKFONT.CG~4.CG) 생성 (`tools/hangul_font_map.py`)
+   5) MOVE/EYECATCH/CINEMA/ENDING.BIN 반영, 원문 길이 이내 제자리 교체 (`tools/patch_movecatch_binary.py`)
+   6) 1ST_READ.BIN 반영, 리포인팅 포함 (`tools/patch_1st_read_repoint.py`)
+   7) 한글 폰트(SKFONT.CG~4.CG) 생성 (`tools/hangul_font_map.py`)
 3. 공백 표현 방식을 선택할 수 있습니다.
    ```bash
    python3 translate_all.py --spacing=skip   # 공백을 아예 넣지 않고 단어를 붙여씀 (기본값)
@@ -100,6 +104,7 @@
 - `SLG` — 전투 중 이벤트 대사
 - `SLG_ESM` — 전투 개시 시 외치는 대사
 - `1ST_READ`, `OVLM` — 시스템 메시지/메뉴/엔딩·마작 UI (원문 바이트 길이 제한 있음, 리포인팅 가능한 항목은 자동으로 길게 써도 됨)
+- `ADVDATA/MOVE.txt`, `ADVDATA/EYECATCH/EYECATCH.txt`, `ADVDATA/CINEMA/CINEMA.txt`, `ADVDATA/ENDING.txt` — 맵 이동 메뉴/능력치 상태/디버그 메시지 (원문 바이트 길이 제한 있음, 리포인팅 미지원)
 - `LIPSYNC` — 음성이 나오는 장면의 화면 표시 자막 (원문 바이트 길이 제한 있음)
 
 용어 통일 예: "아아, 무정" → "레 미제라블"(원작 인용구 그대로 번역).

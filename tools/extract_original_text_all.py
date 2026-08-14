@@ -21,7 +21,7 @@ from extract_1st_read_all import scan_strings as scan_1st_read_strings, is_exclu
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIGINAL_DIR = os.path.join(BASE_DIR, 'original_files')
 TEMPLATES_DIR = os.path.join(BASE_DIR, 'translation_templates')
-OUT_DIR = os.path.join(os.path.dirname(BASE_DIR), '원본폴더')
+OUT_DIR = os.path.join(BASE_DIR, 'original_txt')
 
 
 def find_original(base_no_ext):
