@@ -1,0 +1,41 @@
+[0000] 
+[0001] get_KAGEKIDAN_UNIT
+[0002] ev04003init
+[0003] fileload000
+[0004] s01c01
+[0005] s02c01
+[0006] s02c02
+[0007] s02c03
+[0008] s03c01
+[0009] ev04003_end
+[0010] ev04002_sm.mbo
+[0011] ev04002_mr.mbo
+[0012] ev04002_kn.mbo
+[0013] ev04002_ir.mbo
+[0014] ev04002_kr.mbo
+[0015] ev04002_or.mbo
+[0016] ev04002_rn.mbo
+[0017] ev04002_er.mbo
+[0018] ev04002_gr.mbo
+[0019] ev04002_cq.mbo
+[0020] ev04002_lb.mbo
+[0021] ev04002_hn.mbo
+[0022] ev04002_sk.mbo
+[0023] ev04003sb00.mbo
+[0024] ev04003eff00.be1
+[0025] ev04003eff00.bt1
+[0026] se_ev_403.snd
+[0027] 좋아…… 해낸 건가〓
+[0028] _job_vibrate
+[0029] 뭐, 뭐야〓//어떻게 된 거야∈
+[0030] main
+[0031] ev04003init
+[0032] fileload000
+[0033] s01c01
+[0034] s02c01
+[0035] s02c02
+[0036] s02c03
+[0037] s03c01
+[0038] ev04003_end
+[0039] get_KAGEKIDAN_UNIT
+[0040] _job_vibrate

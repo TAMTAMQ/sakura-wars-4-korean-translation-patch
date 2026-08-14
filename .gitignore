@@ -1,0 +1,20 @@
+# 원본 디스크 사본 (스크립트에서 사용하지 않음, 순수 참고용)
+DISC/
+
+# 빌드 결과물 (translate_all.py 실행으로 재생성 가능)
+output/
+output_공백없음 \[GDI\]/
+패치파일.dcp
+__pycache__/
+tools/__pycache__/
+
+# 원본 게임에서 추출한 바이너리 (실행에 필요하지만 저작권 있는 원본 게임 데이터.
+# original_files/는 tools/extract_original_text_all.py 등으로, 폰트 4종과
+# 1ST_READ.BIN은 원본 디스크에서 재추출 가능. README.md의 "직접 빌드하기" 참고)
+original_files/
+original_txt/
+tools/1ST_READ.BIN
+tools/SKFONT.CG
+tools/SKFONT2.CG
+tools/SKFONT3.CG
+tools/SKFONT4.CG
