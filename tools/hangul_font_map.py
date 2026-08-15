@@ -53,14 +53,67 @@ def save_map(m):
     with open(MAP_FILE, 'w', encoding='utf-8') as f:
         json.dump(m, f, ensure_ascii=False, indent=2)
 
+# 고정폭 필드(SMAP_ticker.txt 등)에서 번역문이 원문보다 짧을 때, 화면에
+# 안 보이는 채로 맨 뒤에 채워 넣어 바이트 수를 원문과 정확히 맞추기
+# 위한 전용 문자. 실제 번역문에는 절대 나오지 않는 코드포인트(Invisible
+# Separator)라서 오탐지 걱정이 없다.
+BLANK_PAD_CHAR = '⁣'
+
+# 한글 타일은 "안 쓰는 한자" 자리를 빌려서 그리는데, 이 "안 쓰는"이라는
+# 판단은 지금까지 번역해 온 대사(SBX/ESM/LIPSYNC 등) 안에서만 안 나온다는
+# 뜻이었다. 그런데 전투 커맨드 메뉴, 시스템 메시지("了解!" 등)처럼 우리가
+# 추출/번역하지 못한 곳(이미지이거나, 아직 못 찾은 하드코딩된 문자열)에서
+# 여전히 원본 그대로의 한자가 그려지는 곳이 있고, 그 한자가 하필 한글이
+# 배정된 타일과 겹치면 그 자리에 엉뚱한 한글이 대신 찍힌다(2026-08-15,
+# 사용자가 "了解!"가 "了할!"로 깨져 보이는 것을 확인 - 解(かい) 글자의
+# 타일에 '할'이 배정되어 있었음).
+#
+# 완전히 안전하다고 보장할 수는 없지만(하드코딩된 문자열을 전부 찾을 방법이
+# 없음), 전투/시스템 메뉴에 흔히 쓰일 만한 상용 한자들을 미리 막아두면
+# 위험을 크게 줄일 수 있다. 여기서 막은 한자들은 한글 타일로 절대 배정되지
+# 않는다.
+BLOCKED_KANJI = set(
+    "了解決定中止続行選択承認取消戻終了開始情報通信隊長環境解除防御回復救出撃破成功失敗設定確認"
+    "編隊出撃帰還戦闘勝利敗北移動攻撃継続一覧一時保存読込削除終戦開戦進行退却待機命令実行"
+    "変更更新登録追加削除切替操作選出配置装備武器道具使用装填発射砲撃爆発着弾命中回避防御"
+    "反撃援護支援補給修理修復強化弱体状態異常回復治療蘇生撤退撤収前進後退旋回停止発進着陸"
+    "離陸出撃帰投接近接触離脱警戒索敵発見捕捉照準射撃格闘白兵近接遠距離中距離範囲全体単体"
+    "自分味方敵対中立協力連携合体分離変形合流分岐終端始端継承相続決着勝敗引分中断再開再戦"
+    "次回前回今回毎回全回半分全部一部全員全体個別単独複数多数少数最大最小増加減少上昇下降"
+    "開幕終幕休止中休憩終業始業就業退勤出勤在籍除籍入隊退隊昇進降格任命解任配属異動転属"
+    "戻情報通信除防復隊長速力体験験経値上限段階種類効果範囲判定確率計算表示画面音声設定終盤序盤中盤敵味方勝負点数評価難易度標準通常特殊限定期間経過残余不足充分完了未完途中最初最後直前直後付近周辺一帯領域境界線内外側面正面背面上部下部中央端末先頭最後尾間隔距離速度加速減速回転角度方向位置座標移送搬送輸送運搬牽引推進駆動制御操縦操作管理監視観測測定計測記録保存呼出転送受信送信通達伝達報告連絡指示命令指令司令幕僚参謀将校兵士部隊軍隊編成組織構成配分割当配置配備展開集結解散撤収帰投出発到着経由通過横断縦断突破包囲奇襲強襲急襲奇策戦術戦略作戦計画立案検討評議会議討論協議交渉調整仲裁裁定"
+)
+
+def _kanji_to_tile(ch):
+    """한자 한 글자를 그 원본 폰트 타일 번호로 변환(assign_tiles가 새
+    한글 타일을 고를 때 BLOCKED_KANJI와 겹치는지 확인하는 용도)."""
+    try:
+        b = ch.encode('cp932')
+    except UnicodeEncodeError:
+        return None
+    if len(b) != 2:
+        return None
+    row = b[0] - 0x81 if b[0] <= 0x9F else b[0] - 0xC1
+    col = b[1] - 0x40 if b[1] < 0x7F else b[1] - 0x41
+    kuten = row * 188 + col
+    tile = KANJI_START_TILE + (kuten - KANJI_BASE_KUTEN)
+    if tile < KANJI_START_TILE or tile >= KANJI_START_TILE + MAX_KANJI_TILES:
+        return None
+    return tile
+
+BLOCKED_TILES = set(t for t in (_kanji_to_tile(c) for c in BLOCKED_KANJI) if t is not None)
+
 def assign_tiles(text, mapping):
     used = set(int(v) for v in mapping.values())
     next_tile = (max(used) + 1) if used else KANJI_START_TILE
     for ch in text:
         # 완성형 한글 음절(가,나,다...) + 단독 자모(ㅋ,ㅠ,ㅡ 등 강조/이모티콘용)
-        is_hangul = ('\uAC00' <= ch <= '\uD7A3') or ('\u3131' <= ch <= '\u318E')
+        is_hangul = ('가' <= ch <= '힣') or ('ㄱ' <= ch <= 'ㆎ')
         is_space = ch == ' ' and SPACE_MODE == 'tile'
-        if (is_hangul or is_space) and ch not in mapping:
+        is_pad = ch == BLANK_PAD_CHAR
+        if (is_hangul or is_space or is_pad) and ch not in mapping:
+            while next_tile in BLOCKED_TILES:
+                next_tile += 1
             if next_tile >= KANJI_START_TILE + MAX_KANJI_TILES:
                 raise SystemExit("배정 가능한 타일이 부족합니다 (최대 2996자)")
             mapping[ch] = next_tile
@@ -69,11 +122,11 @@ def assign_tiles(text, mapping):
 
 # 인코딩 안 되는 서양식 문장부호 -> 일본어(JIS)에 실제로 있는 비슷한 문자로 자동 치환
 PUNCT_SUBSTITUTES = {
-    '\u00b7': '\u30fb',  # · (가운뎃점) -> ・ (일본어 나카구로)
-    '\u2013': '\u2015',  # – (en dash) -> ― (일본어 장음 대시)
-    '\u2014': '\u2015',  # — (em dash) -> ―
-    '\u2011': '\u2015',  # ‑ (non-breaking hyphen) -> ―
-    '\u2012': '\u2015',  # ‒ (figure dash) -> ―
+    '·': '・',  # · (가운뎃점) -> ・ (일본어 나카구로)
+    '–': '―',  # – (en dash) -> ― (일본어 장음 대시)
+    '—': '―',  # — (em dash) -> ―
+    '‑': '―',  # ‑ (non-breaking hyphen) -> ―
+    '‒': '―',  # ‒ (figure dash) -> ―
 }
 
 def to_fullwidth_char(ch):
@@ -122,7 +175,7 @@ def _encode_plain(text, mapping):
     return bytes(out)
 
 
-def encode_mixed(text, mapping):
+def _encode_mixed_raw(text, mapping):
     out = bytearray()
     pos = 0
     for m in CONTROL_CODE_PATTERN.finditer(text):
@@ -131,6 +184,57 @@ def encode_mixed(text, mapping):
         pos = m.end()
     out += _encode_plain(text[pos:], mapping)
     return bytes(out)
+
+
+# 게임 자체 텍스트박스가 정확히 전각 16자(32바이트)마다 자동 줄바꿈을 하는데,
+# 우리가 넣는 '//' 강제 개행이 하필 그 경계와 같은 지점(직전 조각이 정확히
+# 32바이트)에 오면 "자동 줄바꿈 + 강제 개행"이 겹쳐서 빈 줄이 생긴다
+# (2026-08-15 확인, SPACE_MODE='skip'일 때 특히 잘 발생 - 공백이 0바이트라
+# 폭이 안 흔들려서 정확히 32의 배수가 되기 쉬움).
+#
+# 처음엔 안 보이는 패딩 글자를 끼워 넣어 32바이트 배수 자체를 피해보려
+# 했지만, 게임이 16글자를 딱 채우는 순간 커서를 다음 줄로 선점 이동시켜
+# 버려서 패딩 글자가(안 보이는 글자라도) 그 다음 줄에 혼자 남게 되어
+# 여전히 빈 줄처럼 보이는 문제가 있었다.
+#
+# 그래서 대신 그 경계에 걸리는 '//' 자체를 지운다(사용자 요청,
+# 2026-08-15) - 자동 줄바꿈이 이미 그 자리에서 줄을 나눠줄 것이므로,
+# 강제 개행을 또 넣을 필요가 없다.
+LINE_WRAP_BYTES = 32
+
+
+def _strip_wrap_boundary_breaks(text, mapping):
+    """'//'로 끝나는(뒤에 강제 개행이 오는) 조각의 인코딩 바이트 길이가
+    LINE_WRAP_BYTES(32, 전각 16자) 이상이면, 그 '//'를 지워서 자동
+    줄바꿈에게 개행을 맡긴다. 맨 마지막 조각(뒤에 '//'가 없어 강제
+    개행이 없는 부분)은 애초에 대상이 아니다.
+
+    2026-08-15: 원래는 정확히 32의 배수(32, 64, 96...)일 때만 지웠는데,
+    사용자 요청으로 32바이트 "이상"이면 배수 여부와 상관없이 무조건
+    지우는 것으로 완화했다 - 어차피 그 정도 길이면 자동 줄바꿈이 이미
+    한 번 이상 줄을 나눴을 것이므로. 단, 이 때문에 16자보다 긴 대부분의
+    대사에서 의도적으로 넣은 '//' 줄바꿈이 함께 지워진다는 점을
+    사용자도 인지하고 선택함."""
+    if '//' not in text:
+        return text
+    segs = text.split('//')
+    out_parts = [segs[0]]
+    changed = False
+    for i in range(1, len(segs)):
+        prev_seg = segs[i - 1]
+        encoded_len = len(_encode_mixed_raw(prev_seg, mapping)) if prev_seg else 0
+        if encoded_len >= LINE_WRAP_BYTES:
+            # 이 '//'를 지운다 - 바로 앞뒤 조각을 그냥 이어붙인다.
+            out_parts[-1] = out_parts[-1] + segs[i]
+            changed = True
+        else:
+            out_parts.append(segs[i])
+    return '//'.join(out_parts) if changed else text
+
+
+def encode_mixed(text, mapping):
+    text = _strip_wrap_boundary_breaks(text, mapping)
+    return _encode_mixed_raw(text, mapping)
 
 
 def encode_mixed_fit(text, mapping, budget):
@@ -164,11 +268,12 @@ def render_hangul_tile(ch, size, font_size=None):
     img = Image.new('L', (size, size), 0)
     draw = ImageDraw.Draw(img)
 
-    if ch == ' ':
+    if ch == ' ' or ch == BLANK_PAD_CHAR:
         # 완전히 빈 타일(픽셀 전부 0)이면 게임 렌더러가 "잘라낼 잉크가
         # 없다"고 판단해 폭을 줄이지 못하고 칸 전체(2칸 크기)로 표시하는
         #것으로 보임. 거의 안 보이는 아주 작은 점 하나를 중앙에 남겨서
-        # "내용이 있는 좁은 글자"로 인식되게 한다.
+        # "내용이 있는 좁은 글자"로 인식되게 한다. (BLANK_PAD_CHAR도 같은
+        # 이유로 동일하게 처리 - 화면에 실질적으로 안 보여야 함)
         cx, cy = size // 2, size // 2
         img.putpixel((cx, cy), 1)
         return img

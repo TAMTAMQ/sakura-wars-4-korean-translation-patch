@@ -31,6 +31,7 @@ sys.path.insert(0, TOOLS_DIR)
 from rebuild_sbx import rebuild as rebuild_sbx_file
 from patch_1st_read_repoint import patch as patch_1st_read_file
 from patch_esm import patch as patch_esm_file
+from patch_esm_ticker import patch as patch_esm_ticker_file
 from patch_lipsync import patch as patch_lipsync_file
 from patch_ovlm_binary import patch as patch_ovlm_file
 from patch_movecatch_binary import patch as patch_movecatch_file
@@ -39,6 +40,7 @@ from auto_fill_lipsync import build_translation_dict, LINE_PATTERN as LIPSYNC_LI
 
 ORIGINAL_DIR = os.path.join(BASE_DIR, 'original_files')
 TEMPLATES_DIR = os.path.join(BASE_DIR, 'translation_templates')
+ORIGINAL_TXT_DIR = os.path.join(BASE_DIR, 'original_txt')
 ORIGINAL_1ST_READ = os.path.join(TOOLS_DIR, '1ST_READ.BIN')
 OUTPUT_DIR = os.path.join(BASE_DIR, 'output')
 ALL_STRINGS_TEMPLATE_REL = os.path.join('1ST_READ', 'all_1st_read_strings.txt')
@@ -114,10 +116,21 @@ def main():
         out_esm = os.path.join(OUTPUT_DIR, 'SLG', ESM_GROUP[esm_name], esm_name + '.ESM')
         os.makedirs(os.path.dirname(out_esm), exist_ok=True)
         applied, total, _, _ = patch_esm_file(src_esm, template_path, out_esm, out_font_dir=None)
-        if applied > 0:
-            print(f"  {esm_name}.ESM: {applied}/{total}개 대사 번역 적용 (길이 제한 없음)")
+
+        # 오프셋 표로 참조되지 않는 "상태창 짧은 문구"(고정 24바이트) 추가 반영
+        ticker_orig = os.path.join(ORIGINAL_TXT_DIR, 'SLG_ESM', 'SMAP_ticker.txt')
+        ticker_tpl = os.path.join(TEMPLATES_DIR, 'SLG_ESM', 'SMAP_ticker.txt')
+        ticker_applied = 0
+        if os.path.exists(ticker_orig) and os.path.exists(ticker_tpl) and os.path.exists(out_esm):
+            ticker_applied, ticker_total, ticker_too_long, _ = patch_esm_ticker_file(
+                out_esm, ticker_orig, ticker_tpl, out_esm)
+            if ticker_too_long:
+                print(f"    {esm_name}.ESM 상태창 문구 24바이트 초과로 건너뜀: {len(ticker_too_long)}개")
+
+        if applied > 0 or ticker_applied > 0:
+            print(f"  {esm_name}.ESM: {applied}/{total}개 대사 번역 적용, 상태창 문구 {ticker_applied}개 추가 적용 (길이 제한 없음)")
             esm_files_done += 1
-            total_esm_lines += applied
+            total_esm_lines += applied + ticker_applied
         else:
             os.remove(out_esm)
 

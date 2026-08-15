@@ -10,6 +10,7 @@ translation_templates/검증결과.txt
 translation_templates/**/*_검증결과.txt
 __pycache__/
 tools/__pycache__/
+texture/
 
 # 원본 게임에서 추출한 바이너리 (실행에 필요하지만 저작권 있는 원본 게임 데이터.
 # original_files/는 tools/extract_original_text_all.py 등으로, 폰트 4종과
@@ -21,3 +22,7 @@ tools/SKFONT.CG
 tools/SKFONT2.CG
 tools/SKFONT3.CG
 tools/SKFONT4.CG
+
+# BPV1 이미지 압축 해제 결과 (tools/extract_bpv1.py로 재생성 가능,
+# 원본 게임 그래픽 데이터이므로 저작권 있는 원본 데이터)
+bpv1_extracted/
