@@ -97,7 +97,7 @@ def main():
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
                 stats = rebuild_sbx_file(src, template_path, out_path, out_font_dir=None)
                 if stats['translated_count'] > 0:
-                    print(f"  {rel_path}: {stats['translated_count']}/{stats['num_lines']}줄 번역 적용")
+                    print(f"  {rel_path}: {stats['translated_count']}/{stats['real_total']}줄 번역 적용")
                     sbx_files_done += 1
                     total_sbx_lines += stats['translated_count']
                 else:

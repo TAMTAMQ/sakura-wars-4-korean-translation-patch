@@ -18,7 +18,17 @@ import re
 LINE_PATTERN = re.compile(r'^\[(\d+)\]\s?(.*)$')
 SLASH_SPACE_PATTERN = re.compile(r'[ \t]*//[ \t]*')
 ELLIPSIS_PATTERN = re.compile(r'…{2,}')
-HANGUL_PATTERN = re.compile(r'[\uAC00-\uD7A3]')
+HANGUL_PATTERN = re.compile(r'[가-힣]')
+
+# 히라가나/가타카나/한자 중 하나라도 있어야 "실제로 번역이 필요한 일본어
+# 줄"로 친다. 빈 줄이나 "main", "_sub_xxx" 같은 내부 라벨/태그는 여기 안
+# 걸려서, 진행률(N/M) 집계의 분모에서 자동으로 빠진다.
+JAPANESE_PATTERN = re.compile(r'[぀-ヿ一-鿿]')
+
+def has_japanese(text):
+    """원문 한 줄에 실제로 번역 대상인 일본어(가나/한자)가 있는지 검사.
+    빈 줄, 순수 영숫자 라벨/태그(main, _sub_xxx 등)는 False."""
+    return bool(text) and bool(JAPANESE_PATTERN.search(text))
 
 def clean_text(text):
     """// 앞뒤 공백 제거 + (한글 포함 줄에 한해) 연속 말줄임표(…) 1개로 축약"""

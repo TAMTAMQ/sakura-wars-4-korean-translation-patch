@@ -32,7 +32,7 @@ _sub_ 로 시작하는 줄은 대사가 아니므로 절대 수정하지 마세�
 import struct, sys, re, os
 from prs_decompress import DecompressPrs
 from hangul_font_map import load_map, save_map, assign_tiles, encode_mixed
-from translation_io import parse_translation_file
+from translation_io import parse_translation_file, has_japanese
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -129,8 +129,17 @@ def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
         from hangul_font_map import patch_skfont
         patch_skfont(SCRIPT_DIR, out_font_dir, hangul_map)
 
+    # 진짜 가나/한자가 있는 줄 + 실제로 번역이 적용된 줄(퍼센트가 100%를
+    # 넘는 이상한 상황이 안 생기도록 합집합으로 계산 - 예: "……………"처럼
+    # 가나/한자는 없지만 말줄임표만 다듬어서 반영된 줄도 있음)
+    real_total = len({
+        i for i in range(num_lines)
+        if has_japanese(orig_raw[i].decode('shift_jis', errors='replace'))
+    } | translated_indices)
+
     return {
         'num_lines': num_lines,
+        'real_total': real_total,
         'translated_count': len(translated_indices),
         'orig_size': len(raw),
         'new_size': len(out_bytes),
@@ -143,6 +152,6 @@ if __name__ == '__main__':
         sys.exit(1)
     out_font_dir = sys.argv[4] if len(sys.argv) > 4 else 'patched_fonts'
     stats = rebuild(sys.argv[1], sys.argv[2], sys.argv[3], out_font_dir)
-    print(f"완료: {stats['translated_count']}/{stats['num_lines']}줄 번역 적용")
+    print(f"완료: {stats['translated_count']}/{stats['real_total']}줄 번역 적용")
     print(f"원본 크기: {stats['orig_size']} -> 새 크기: {stats['new_size']}")
     print(f"한글 {stats['hangul_count']}자 -> {out_font_dir}/ 폴더에 SKFONT.CG~4.CG 생성됨")

@@ -20,7 +20,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, SCRIPT_DIR)
 import lipsync_format as lf
 from hangul_font_map import load_map, save_map, assign_tiles, encode_mixed, patch_skfont
-from translation_io import parse_translation_file
+from translation_io import parse_translation_file, has_japanese
 
 def patch(lip_path, translation_path, out_path, out_font_dir=None):
     with open(lip_path, 'rb') as f:
@@ -42,7 +42,18 @@ def patch(lip_path, translation_path, out_path, out_font_dir=None):
     if out_font_dir and hangul_map:
         patch_skfont(SCRIPT_DIR, out_font_dir, hangul_map)
 
-    return applied, parsed['count'], len(hangul_map), encode_failed, too_long
+    # 진짜 가나/한자가 있는 줄 + 실제로 번역이 적용된 줄(퍼센트가 100%를
+    # 넘는 이상한 상황이 안 생기도록 합집합으로 계산)
+    japanese_indices = {
+        k for k in range(parsed['count'])
+        if has_japanese(lf.full_original_text(*parsed['entries'][k][:2]))
+    }
+    translated_indices = {
+        k for k in range(parsed['count'])
+        if translations.get(k) and translations[k] != lf.full_original_text(*parsed['entries'][k][:2])
+    }
+    real_total = len(japanese_indices | translated_indices)
+    return applied, real_total, len(hangul_map), encode_failed, too_long
 
 if __name__ == '__main__':
     if len(sys.argv) < 4:
