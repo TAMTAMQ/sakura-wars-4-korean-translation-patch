@@ -13,6 +13,11 @@ _sub_ 로 시작하는 줄은 대사가 아니므로 절대 수정하지 마세�
 뒤(트레일러 바로 앞)에 새로 추가한 뒤 그 줄의 오프셋 표 값 하나만
 그쪽을 가리키게 바꾼다.
 
+단, 이렇게 만든 비압축 ASCR이 게임의 시나리오 로딩 버퍼로 확인된
+0x48000바이트를 넘으면 원본 문자열 사본을 남기지 않고 텍스트 영역을
+조밀하게 다시 배치한다. 조밀 배치 후에도 한계를 넘으면 위험한 파일을
+출력하지 않고 오류로 중단한다.
+
 압축(SBX) 입력이어도 **출력은 항상 비압축(SBN) 내부 구조로 만들고
 파일 이름/확장자는 원본 그대로(.SBX) 유지한다.** 압축 여부는 파일
 확장자가 아니라 offset 8의 baaf55cc 마커로 판별되므로(우리 코드도
@@ -35,6 +40,7 @@ from hangul_font_map import load_map, save_map, assign_tiles, encode_mixed
 from translation_io import parse_translation_file, has_japanese
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MAX_UNCOMPRESSED_ASCR_SIZE = 0x48000
 
 def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
     with open(src_sbx_path, 'rb') as f:
@@ -84,6 +90,7 @@ def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
     out = bytearray(ascr[:trailer_start])  # 헤더+바이트코드+표+원문 텍스트, 위치 그대로
     appended = bytearray()
     translated_indices = set()
+    final_raw = list(orig_raw)
 
     for i in range(num_lines):
         text = translations.get(i)
@@ -102,6 +109,7 @@ def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
                 f"  현재는 폰트 매핑 미해결로 한글을 넣을 수 없습니다. 영어/일본어만 가능합니다."
             )
         translated_indices.add(i)
+        final_raw[i] = encoded
         pos = positions[i]
         blen = len(orig_raw[i])
         if len(encoded) <= blen:
@@ -114,6 +122,33 @@ def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
             struct.pack_into('<I', out, table_off + i*4, new_pos - table_off)
 
     new_ascr = out + appended + trailer
+    compacted = False
+
+    if len(new_ascr) > MAX_UNCOMPRESSED_ASCR_SIZE:
+        # 긴 번역문을 원문 뒤에 추가하는 보수적인 방식은 원문 문자열 사본을
+        # 그대로 남기므로 대형 시나리오에서 고정 로딩 버퍼를 넘을 수 있다.
+        # 텍스트 표 이전의 헤더/바이트코드는 그대로 보존하고, 표가 가리키는
+        # 문자열만 인덱스 순서로 연속 배치하여 중복 공간을 제거한다.
+        first_text_pos = min(positions)
+        if positions != sorted(positions) or len(set(positions)) != num_lines:
+            raise SystemExit(
+                '텍스트 영역 조밀 배치 불가: 문자열 위치가 순차/고유하지 않습니다.'
+            )
+        compact = bytearray(ascr[:first_text_pos])
+        for i, encoded in enumerate(final_raw):
+            new_pos = len(compact)
+            struct.pack_into('<I', compact, table_off + i*4, new_pos - table_off)
+            compact += encoded
+            compact.append(0)
+        compact += trailer
+        new_ascr = compact
+        compacted = True
+
+    if len(new_ascr) > MAX_UNCOMPRESSED_ASCR_SIZE:
+        raise SystemExit(
+            f'비압축 ASCR 크기 제한 초과: {len(new_ascr)} > '
+            f'{MAX_UNCOMPRESSED_ASCR_SIZE} (0x48000)'
+        )
 
     # 압축 여부 상관없이 항상 비압축(SBN) 형식으로 출력한다.
     # 실측한 진짜 SBN 파일들 기준 size 필드 = 전체 파일 크기 - 16.
@@ -143,6 +178,7 @@ def rebuild(src_sbx_path, translation_path, out_sbx_path, out_font_dir=None):
         'translated_count': len(translated_indices),
         'orig_size': len(raw),
         'new_size': len(out_bytes),
+        'compacted': compacted,
         'hangul_count': len(hangul_map),
     }
 
