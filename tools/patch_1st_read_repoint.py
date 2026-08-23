@@ -10,7 +10,7 @@
 import sys, re, os, struct
 from extract_1st_read_all import scan_strings, is_excluded
 from hangul_font_map import load_map, save_map, assign_tiles, encode_mixed, encode_mixed_fit, patch_skfont
-from translation_io import parse_translation_file
+from translation_io import parse_translation_file, has_japanese
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 BASE_ADDR = 0x8c010000
@@ -112,11 +112,26 @@ def patch(bin_path, translation_path, out_path, out_font_dir=None):
     if out_font_dir and hangul_map:
         patch_skfont(SCRIPT_DIR, out_font_dir, hangul_map)
 
+    # 진짜 가나/한자가 있는(=번역이 필요한) 문자열 수. 레이아웃용 공백/
+    # "ON"/"OFF"/제어 코드 같은 일본어 없는 placeholder는 번역할 내용
+    # 자체가 없으므로 분모(total)에서 빼서, 진행률(N/M)이 "일부러 안 채운
+    # 것"처럼 오해되지 않게 한다(2026-08-16, applied_inplace/repoint와
+    # 합집합으로 계산 - 예외적으로 번역이 적용된 항목도 놓치지 않기 위함).
+    applied_indices = {
+        i for i, (start, orig_len, orig_text) in enumerate(messages)
+        if translations.get(i) and translations.get(i) != orig_text
+    }
+    real_total = len({
+        i for i, (start, orig_len, orig_text) in enumerate(messages)
+        if has_japanese(orig_text)
+    } | applied_indices)
+
     return {
         'applied_inplace': applied_inplace,
         'applied_repoint': applied_repoint,
         'skipped_no_room': skipped_no_room,
         'total': len(messages),
+        'real_total': real_total,
         'hangul_count': len(hangul_map),
         'appended_bytes': len(appended),
     }

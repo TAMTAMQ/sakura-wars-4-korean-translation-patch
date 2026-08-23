@@ -24,6 +24,53 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'translation_templates')
 OUT_DIR = os.path.join(BASE_DIR, 'original_txt')
 
 
+def merge_lipsync_only_script_lines(rel_path, lines):
+    """SCRIPT 표에는 ``0``만 있고 실제 자막은 LIPSYNC에만 있는 줄을 복원.
+
+    S0310의 외출 선택/외출 이벤트는 SCRIPT가 흐름과 선택지만 보유하고,
+    음성이 있는 대사 본문은 LIPSYNC3에만 저장한다. 원문 추출 결과에서도
+    이 대사를 번역/검수할 수 있도록 확인된 1:1 슬롯에 병합한다.
+
+    S0340 [0844]처럼 한 SCRIPT 슬롯이 여러 히로인 대사를 동적으로 고르는
+    경우는 1:1 대응이 아니므로 여기서 병합하지 않는다.
+    """
+    normalized = rel_path.replace('\\', '/')
+    if normalized != 'ADVDATA/SCRIPT/S0310.txt':
+        return lines
+
+    lip_path = os.path.join(ORIGINAL_DIR, 'ADVDATA', 'LIPSYNC3.LIP')
+    with open(lip_path, 'rb') as f:
+        parsed = lf.parse(f.read())
+    lip_lines = [
+        lf.full_original_text(pre, text)
+        for pre, text, post in parsed['entries']
+    ]
+
+    mapping = {}
+    # 파티 뒤 외출 상대를 정하는 도입부와 세 선택지의 반응.
+    mapping.update(zip(range(109, 124), range(114, 129)))
+    mapping.update(zip(range(128, 131), range(129, 132)))
+    mapping.update(zip(range(132, 135), range(132, 135)))
+    mapping.update(zip(range(136, 144), range(135, 143)))
+
+    # 하위 마을/화도/아사쿠사 이벤트. SCRIPT의 비음성 선택지와 제어문은
+    # 그대로 두고, 0 슬롯만 LIPSYNC3 [0143]~[0337]과 순서대로 대응한다.
+    event_slots = [i for i in range(3485, 3772) if lines[i] == '0']
+    if len(event_slots) != 195:
+        raise ValueError(
+            f'S0310 LIPSYNC 병합 슬롯 수 불일치: expected 195, got {len(event_slots)}'
+        )
+    mapping.update(zip(event_slots, range(143, 338)))
+
+    for script_idx, lip_idx in mapping.items():
+        if lines[script_idx] != '0':
+            raise ValueError(
+                f'S0310 [{script_idx:04d}]가 0이 아님: {lines[script_idx]!r}'
+            )
+        lines[script_idx] = lip_lines[lip_idx]
+    return lines
+
+
 def find_original(base_no_ext):
     for ext in ('.SBX', '.SBN'):
         p = base_no_ext + ext
@@ -80,6 +127,7 @@ def process_sbx_dir(rel_dirs):
                     continue
                 try:
                     lines = extract_sbx_original_lines(src)
+                    lines = merge_lipsync_only_script_lines(rel_path, lines)
                 except Exception as e:
                     print(f"  [오류] {rel_path}: {e}")
                     continue

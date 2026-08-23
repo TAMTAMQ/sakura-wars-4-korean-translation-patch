@@ -258,7 +258,7 @@ def main():
                 os.remove(out_1st_read)
         else:
             applied_msgs = stats1st['applied_inplace'] + stats1st['applied_repoint']
-            total_msgs = stats1st['total']
+            total_msgs = stats1st['real_total']
             if applied_msgs > 0:
                 print(f"  1ST_READ.BIN: {applied_msgs}/{total_msgs}개 문자열 번역 적용"
                       f" (제자리 {stats1st['applied_inplace']}개, 리포인팅 {stats1st['applied_repoint']}개)")
