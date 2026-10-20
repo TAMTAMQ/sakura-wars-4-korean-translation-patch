@@ -2,8 +2,9 @@
 
 UDP(Universal Dreamcast Patcher)는 GUI 전용이라 자동 실행 확인에 쓰기 어렵다.
 track03.bin(2352바이트 raw 섹터, LBA 45000부터)의 ISO9660 디렉터리를 읽어
-DCP의 각 파일을 원래 자리에 덮어쓴다. 원래 할당 섹터보다 크면 트랙 끝에 붙이고
-디렉터리 레코드의 위치·크기를 고친다. EDC/ECC는 다시 계산하지 않는다(Flycast는 검사 안 함).
+DCP의 각 파일을 원래 자리에 덮어쓴다. 원래 할당 섹터보다 크면(v0.5가 SBX를
+비압축으로 넣어 2~3배 커졌다) 디렉터리 뒤~첫 파일 앞의 빈 섹터(약 6000개)에 넣고
+디렉터리 레코드의 위치·크기를 고친다. 트랙 크기는 바꾸지 않는다. EDC/ECC는 다시 계산하지 않는다(Flycast는 검사 안 함).
 
 usage: python src/make_test_gdi.py <원본 gdi 폴더> <DCP> <출력 폴더>
 """
@@ -38,20 +39,11 @@ def main(src, dcp, out):
         return bytes(res)
 
     def write(lba, data):
-        nonlocal nsec
         for i in range(0, len(data), 2048):
             idx = lba - TRACK_LBA + i // 2048
-            chunk = data[i:i + 2048].ljust(2048, b'\0')
-            if idx >= nsec:  # 새 섹터: 싱크·헤더를 붙여 트랙을 늘린다
-                fh.seek(idx * SECTOR)
-                m = idx + TRACK_LBA + 150
-                hdr = bytes.fromhex('00ffffffffffffffffffff00') + bytes([
-                    int(str(m // 4500 % 100), 16), int(str(m // 75 % 60), 16), int(str(m % 75), 16), 1])
-                fh.write(hdr + chunk + b'\0' * 288)
-                nsec = idx + 1
-            else:
-                fh.seek(idx * SECTOR + DATA)
-                fh.write(chunk)
+            assert idx < nsec, '트랙 밖 쓰기'
+            fh.seek(idx * SECTOR + DATA)
+            fh.write(data[i:i + 2048].ljust(2048, b'\0'))
 
     pvd = read(TRACK_LBA + 16)
     assert pvd[1:6] == b'CD001'
@@ -78,6 +70,12 @@ def main(src, dcp, out):
             pos += ln
 
     walk(struct.unpack_from('<I', root, 2)[0], struct.unpack_from('<I', root, 10)[0], '')
+    # 빈 공간: 디렉터리 등 마지막 비영 섹터 다음부터 첫 파일 앞까지
+    first = min(e[2] for e in entries.values())
+    free = TRACK_LBA + 16
+    for lba in range(TRACK_LBA + 16, first):
+        if any(read(lba)):
+            free = lba + 1
     with zipfile.ZipFile(dcp) as z:
         names = [n for n in z.namelist() if not n.endswith('/')]
         for n in names:
@@ -92,7 +90,10 @@ def main(src, dcp, out):
                 write(elba, data)
                 newlba = elba
             else:
-                newlba = nsec + TRACK_LBA
+                newlba = free
+                free += (len(data) + 2047) // 2048
+                if free > first:
+                    raise SystemExit('빈 공간 부족: ' + n)
                 write(newlba, data)
             # 디렉터리 레코드 수정(위치·크기, 양쪽 엔디언)
             sec = (dlba - TRACK_LBA) + dpos // 2048
@@ -100,7 +101,7 @@ def main(src, dcp, out):
             fh.seek(sec * SECTOR + DATA + off + 2)
             fh.write(struct.pack('<I', newlba) + struct.pack('>I', newlba) + struct.pack('<I', len(data)) + struct.pack('>I', len(data)))
     fh.close()
-    print('완료', gdi, '섹터', nsec)
+    print('완료', gdi, '빈 공간 남음', first - free, '섹터')
 
 
 if __name__ == '__main__':

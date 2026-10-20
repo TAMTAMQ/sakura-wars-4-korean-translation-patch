@@ -30,7 +30,7 @@
 - 낫표 폭: `src/make_bracket_patch.py`가 `config/code-patches.json`을 만들고 `build.py`가 원본 byte를 확인한 뒤 `1ST_READ.BIN`에 쓴다. 문자 출력 포인터(0x13D854)를 빈 영역 0xAE1A0의 새 진입점으로 돌려, 코드 0x8175~0x8178(「」『』)만 v0.5 훅 본문 사본으로 처리하고 나머지는 v0.5 훅(0x8C0BE044)으로 그대로 넘긴다. 사본에서 한글 코드 변환은 끄고, advance를 여는 낫표 = 크기−2, 닫는 낫표 = 크기×3/8로 둔다. capstone 역어셈블로 분기·리터럴을 확인했다. 게임 화면 확인은 아직 못 했다(emucap Flycast 실행 파일이 이 PC에 없다).
 - ？(타일 8)·！(타일 9): 일본어 원본 굵은 글리프가 한글 옆에서 두꺼워 보였다. `tighten_brackets.py`가 Noto Sans KR로 한글과 같은 방식(크기 0.85, 칸 가운데)으로 다시 그린다. 전각 숫자는 v0.5가 이미 가는 글리프로 바꿔 두었다.
 - 저장 경고 문구(메모리 카드 확인 등)가 작은 글씨인 것은 원본 게임도 같은 작은 시스템 글꼴을 쓰기 때문이다. 바꾸지 않았다.
-- 확인용 GDI: `python src/make_test_gdi.py <원본 GDI 폴더> out/sakura_wars_4_kr_dev.dcp out/test_gdi` (배포용 아님, EDC/ECC 미갱신).
+- 확인용 GDI: `python src/make_test_gdi.py <원본 GDI 폴더> out/sakura_wars_4_kr_dev.dcp out/test_gdi` (배포용 아님, EDC/ECC 미갱신). 트랙 크기는 원본 그대로다. v0.5의 비압축 SBX 등 원래 자리보다 큰 29개 파일은 디렉터리 뒤~첫 파일(LBA 51181) 앞 빈 섹터 6119개 중 약 1100개에 넣는다.
 
 ## SLG 이름판 원본 디자인 재제작 (2026-10-20)
 
