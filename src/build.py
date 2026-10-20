@@ -46,6 +46,15 @@ def build(root=ROOT,output=None):
                 if row.get(field)!=fixed[field]: raise ValueError('보호 필드 변경: '+key+' '+field)
             rows[key]=row
     if set(rows)!=set(bindings): raise ValueError('번역 ID 모집단 누락')
+    # LIPSYNC: 표의 off_b가 대사 중간(원본은 마지막 4글자)을 가리킨다. v0.5는 모든 항목에서
+    # 대사를 off_b까지 채웠다(짧게 끝나 off_b가 NUL 패딩을 가리키는 항목 0개). 짧아진 대사는
+    # 보이지 않는 채움 문자(U+2063, 빈 타일)로 off_b까지 채운다.
+    lip_offb={}
+    for rel,data in baseline.items():
+        if rel.endswith('.LIP'):
+            count=struct.unpack_from('<I',data,8)[0]
+            lip_offb[rel]=sorted(struct.unpack_from('<I',data,12+k*12+8)[0]-1 for k in range(count))
+    pad=bytes.fromhex(codes['⁣']) if lip_offb else b''
     result={k:bytearray(v) for k,v in baseline.items()}; writes={}; changed=[]
     def write(rel,pos,expected,new,owner):
         data=baseline[rel]
@@ -59,6 +68,11 @@ def build(root=ROOT,output=None):
         rel=row['file']; raw=bytes.fromhex(row['raw_hex']); encoded=encode(row['text'],codes)
         if len(encoded)>row['capacity']:
             raise ValueError(f"{key}: {len(encoded)}바이트 > 현재 가용 {row['capacity']}바이트. 리포인팅 설계 후 확장하세요.")
+        if rel in lip_offb:
+            start=row['offset']
+            need=max((b-start for b in lip_offb[rel] if start<b<=start+row['capacity']),default=0)
+            if (need-len(encoded))%len(pad) and need>len(encoded): raise ValueError(f'{key}: off_b까지 홀수 바이트')
+            while len(encoded)<need: encoded+=pad
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
         changed.append(key)
     # 기계어·포인터 패치: config/code-patches.json (src/make_bracket_patch.py가 생성)
