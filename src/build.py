@@ -61,6 +61,12 @@ def build(root=ROOT,output=None):
             raise ValueError(f"{key}: {len(encoded)}바이트 > 현재 가용 {row['capacity']}바이트. 리포인팅 설계 후 확장하세요.")
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
         changed.append(key)
+    # 기계어·포인터 패치: config/code-patches.json (src/make_bracket_patch.py가 생성)
+    cp=root/'config/code-patches.json'
+    for p in (readjson(cp)['patches'] if cp.exists() else []):
+        orig=bytes.fromhex(p['original_hex']); new=bytes.fromhex(p['new_hex'])
+        if len(orig)!=len(new): raise ValueError('코드 패치 길이 불일치: '+p['note'])
+        write(p['file'],p['offset'],orig,new,'code:'+p['note'])
     for asset_root in ['assets/images/native','assets/fonts/native','assets/video/native']:
         for path in (root/asset_root).rglob('*'):
             if not path.is_file(): continue

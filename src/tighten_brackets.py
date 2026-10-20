@@ -6,16 +6,22 @@
 칸 끝 쪽으로 옮겨, 획과 다음 글자 사이 간격을 한글 글자 간격에 맞춘다.
 막대 끝(캡) 모양은 그대로 남긴다.
 
+같은 김에 전각 ？(타일 8)·！(타일 9)를 한글과 같은 Noto Sans KR 굵기로 다시 그린다
+(원래 일본어 글꼴이라 한글 옆에서 굵어 보였다. 숫자는 v0.5가 이미 바꿨다).
+
 항상 originals/v05 기준선에서 다시 계산하므로 여러 번 실행해도 결과가 같다.
 """
 from pathlib import Path
 import numpy as np
+from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 FONTS = [('SKFONT.CG', 26), ('SKFONT2.CG', 24), ('SKFONT3.CG', 22), ('SKFONT4.CG', 22)]
 OPENING = {53: '「', 55: '『'}
 CLOSING = {54: '」', 56: '』'}
 HANGUL_TILES = range(492, 700)
+REDRAW = {8: '?', 9: '!'}
+NOTO = ROOT / 'assets/fonts/NotoSansKR-subset.ttf'
 MIN_BAR = 3  # 막대가 이보다 짧아지면 낫표로 읽히지 않는다
 
 
@@ -66,6 +72,14 @@ def main():
             # 여는 낫표 뒤에는 다음 글자의 왼쪽 여백, 닫는 낫표 앞에는 앞 글자의 오른쪽 여백
             new = tighten(v, closing, lm + rm, rm if closing else lm)
             data[t * stride:(t + 1) * stride] = encode(new)
+        for t, ch in REDRAW.items():
+            # hangul_font_map.render_hangul_tile과 같은 방식(크기 0.85, 칸 가운데)
+            font = ImageFont.truetype(str(NOTO), int(s * 0.85))
+            img = Image.new('L', (s, s), 0)
+            d = ImageDraw.Draw(img)
+            bb = d.textbbox((0, 0), ch, font=font)
+            d.text(((s - bb[2] + bb[0]) // 2 - bb[0], (s - bb[3] + bb[1]) // 2 - bb[1]), ch, fill=255, font=font)
+            data[t * stride:(t + 1) * stride] = encode((np.asarray(img) >> 4).astype(np.uint8))
         (ROOT / 'assets/fonts/native' / name).write_bytes(bytes(data))
         print(name, '한글 여백', lm, rm)
 
