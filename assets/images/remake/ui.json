@@ -1,0 +1,5608 @@
+{
+ "items": [
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1298,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      232,
+      54,
+      408,
+      93
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 2,
+     "radius": 4
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      98,
+      146,
+      282,
+      180
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      98,
+      226,
+      282,
+      260
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      98,
+      306,
+      282,
+      340
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      365,
+      146,
+      549,
+      180
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      365,
+      226,
+      549,
+      260
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      365,
+      306,
+      549,
+      340
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      200,
+      56,
+      440,
+      92
+     ],
+     "text": "게임 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 27,
+     "fill": [
+      64,
+      30,
+      4
+     ],
+     "track": 2
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      146,
+      282,
+      180
+     ],
+     "text": "연승 대전",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      226,
+      282,
+      260
+     ],
+     "text": "게임 방법",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      306,
+      282,
+      340
+     ],
+     "text": "패 편집",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      365,
+      146,
+      549,
+      180
+     ],
+     "text": "자유 대전",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      365,
+      226,
+      549,
+      260
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      365,
+      306,
+      549,
+      340
+     ],
+     "text": "게임 종료",
+     "font": "sans",
+     "weight": 600,
+     "size": 22,
+     "fill": [
+      20,
+      20,
+      24
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1277,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      236,
+      56,
+      410,
+      92
+     ],
+     "select": "far",
+     "color": [
+      106,
+      156,
+      82
+     ],
+     "thr": 70,
+     "dilate": 2,
+     "radius": 5
+    },
+    {
+     "op": "text",
+     "rect": [
+      220,
+      56,
+      430,
+      92
+     ],
+     "text": "패 편집",
+     "font": "sans",
+     "weight": 800,
+     "size": 28,
+     "fill": [
+      205,
+      49,
+      16
+     ],
+     "glow": [
+      [
+       150,
+       235,
+       100
+      ],
+      2,
+      1.6
+     ],
+     "track": 8
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      44,
+      262,
+      604,
+      286
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      44,
+      261,
+      604,
+      287
+     ],
+     "text": "현재 대전 패에서 교환할 패를 선택해 주세요.",
+     "font": "sans",
+     "weight": 500,
+     "size": 17,
+     "fill": [
+      235,
+      240,
+      240
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      122,
+      414,
+      206,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      296,
+      414,
+      374,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      474,
+      414,
+      556,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      122,
+      414,
+      206,
+      442
+     ],
+     "text": "초기화",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      296,
+      414,
+      374,
+      442
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      470,
+      414,
+      556,
+      442
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1294,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      236,
+      56,
+      410,
+      92
+     ],
+     "select": "far",
+     "color": [
+      106,
+      156,
+      82
+     ],
+     "thr": 70,
+     "dilate": 2,
+     "radius": 5
+    },
+    {
+     "op": "text",
+     "rect": [
+      220,
+      56,
+      430,
+      92
+     ],
+     "text": "패 편집",
+     "font": "sans",
+     "weight": 800,
+     "size": 28,
+     "fill": [
+      205,
+      49,
+      16
+     ],
+     "glow": [
+      [
+       150,
+       235,
+       100
+      ],
+      2,
+      1.6
+     ],
+     "track": 8
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      170,
+      262,
+      462,
+      286
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      150,
+      261,
+      480,
+      287
+     ],
+     "text": "교환할 패를 선택해 주세요.",
+     "font": "sans",
+     "weight": 500,
+     "size": 17,
+     "fill": [
+      235,
+      240,
+      240
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      122,
+      414,
+      206,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      296,
+      414,
+      374,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      474,
+      414,
+      556,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      122,
+      414,
+      206,
+      442
+     ],
+     "text": "초기화",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      296,
+      414,
+      374,
+      442
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      470,
+      414,
+      556,
+      442
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1299,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      200,
+      56,
+      442,
+      90
+     ],
+     "select": "near",
+     "color": [
+      100,
+      30,
+      200
+     ],
+     "thr": 220,
+     "dilate": 2,
+     "radius": 5
+    },
+    {
+     "op": "text",
+     "rect": [
+      190,
+      56,
+      452,
+      90
+     ],
+     "text": "대전 상대 선택",
+     "font": "sans",
+     "weight": 800,
+     "size": 26,
+     "fill": [
+      100,
+      30,
+      200
+     ],
+     "track": 4
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1272,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      148,
+      8,
+      338,
+      42
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 2,
+     "radius": 5
+    },
+    {
+     "op": "text",
+     "rect": [
+      140,
+      8,
+      346,
+      42
+     ],
+     "text": "필살 공격 선택",
+     "font": "serif",
+     "weight": 900,
+     "size": 25,
+     "fill": [
+      24,
+      24,
+      80
+     ],
+     "track": 3
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1263,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      74,
+      427,
+      154,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      74,
+      429,
+      154,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      74,
+      423,
+      154,
+      449
+     ],
+     "text": "필살 공격",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      214,
+      427,
+      282,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      214,
+      429,
+      282,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      214,
+      423,
+      282,
+      449
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      350,
+      427,
+      416,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      350,
+      429,
+      416,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      350,
+      423,
+      416,
+      449
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      512,
+      226,
+      576,
+      250
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      505,
+      226,
+      583,
+      250
+     ],
+     "text": "과제",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       30,
+       40,
+       40
+      ],
+      2
+     ],
+     "track": 4
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      429,
+      299,
+      451,
+      323
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      428,
+      299,
+      452,
+      323
+     ],
+     "text": "선",
+     "font": "sans",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       10,
+       10,
+       40
+      ],
+      1
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      484,
+      360,
+      528,
+      385
+     ],
+     "select": "near",
+     "color": [
+      30,
+      100,
+      200
+     ],
+     "thr": 220,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      484,
+      360,
+      560,
+      385
+     ],
+     "text": "오오가미",
+     "font": "sans",
+     "weight": 700,
+     "size": 15,
+     "fill": [
+      30,
+      100,
+      200
+     ],
+     "align": "left"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      508,
+      424,
+      584,
+      448
+     ],
+     "select": "light",
+     "thr": 140,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      570,
+      425,
+      584,
+      447
+     ],
+     "select": "far",
+     "color": [
+      90,
+      40,
+      110
+     ],
+     "thr": 60,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      500,
+      423,
+      590,
+      449
+     ],
+     "text": "제1국",
+     "font": "sans",
+     "weight": 600,
+     "size": 18,
+     "fill": [
+      235,
+      235,
+      240
+     ],
+     "track": 3
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1300,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      40,
+      28,
+      600,
+      68
+     ],
+     "select": "light",
+     "thr": 40,
+     "dilate": 2,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      40,
+      30,
+      600,
+      68
+     ],
+     "text": "제도 히로인을 선택해 주세요.",
+     "font": "sans",
+     "weight": 500,
+     "size": 26,
+     "fill": [
+      245,
+      245,
+      245
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1301,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      40,
+      28,
+      600,
+      68
+     ],
+     "select": "light",
+     "thr": 40,
+     "dilate": 2,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      40,
+      30,
+      600,
+      68
+     ],
+     "text": "그랜드 히로인을 선택해 주세요.",
+     "font": "sans",
+     "weight": 500,
+     "size": 26,
+     "fill": [
+      245,
+      245,
+      245
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 736,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      76,
+      26,
+      116,
+      100
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      14,
+      98,
+      58,
+      232
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      76,
+      24,
+      116,
+      102
+     ],
+     "text": "아사쿠사",
+     "font": "serif",
+     "weight": 700,
+     "size": 17,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      14,
+      96,
+      58,
+      234
+     ],
+     "text": "하나야시키",
+     "font": "serif",
+     "weight": 700,
+     "size": 25,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 737,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      78,
+      30,
+      116,
+      100
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      17,
+      78,
+      60,
+      252
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      76,
+      28,
+      118,
+      102
+     ],
+     "text": "긴자",
+     "font": "serif",
+     "weight": 700,
+     "size": 27,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      14,
+      86,
+      60,
+      256
+     ],
+     "text": "대제국극장",
+     "font": "serif",
+     "weight": 700,
+     "size": 27,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 738,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      62,
+      16,
+      98,
+      204
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      9,
+      134,
+      54,
+      262
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      60,
+      14,
+      98,
+      206
+     ],
+     "text": "초노급 공중전함",
+     "font": "serif",
+     "weight": 700,
+     "size": 21,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      138,
+      52,
+      258
+     ],
+     "text": "미카사",
+     "font": "serif",
+     "weight": 700,
+     "size": 33,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       210
+      ],
+      2,
+      2,
+      0.8
+     ],
+     "vertical": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 744,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "이상발생",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       255,
+       240,
+       150
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 745,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "이상발생",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       255,
+       240,
+       150
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 746,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "제어불능",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       255,
+       210,
+       190
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 747,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "제어불능",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       255,
+       210,
+       190
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 748,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "회선접속중",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       210,
+       255,
+       190
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 749,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      22,
+      33,
+      225,
+      95
+     ],
+     "ref_x": 22
+    },
+    {
+     "op": "text",
+     "rect": [
+      24,
+      36,
+      226,
+      92
+     ],
+     "text": "회선접속중",
+     "font": "serif",
+     "weight": 900,
+     "size": 44,
+     "fill": [
+      8,
+      8,
+      8
+     ],
+     "glow": [
+      [
+       210,
+       255,
+       190
+      ],
+      2,
+      1.2
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+   "block": 0,
+   "texture": 1,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      100,
+      62,
+      232,
+      256
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      90,
+      100,
+      256
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      108,
+      18,
+      256,
+      46
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      108,
+      18,
+      256,
+      46
+     ],
+     "text": "오오가미 화격단",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ]
+    },
+    {
+     "op": "patched",
+     "rect": [
+      262,
+      8,
+      512,
+      70
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      94,
+      96,
+      114
+     ],
+     "text": "코쿠리코",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      116,
+      96,
+      138
+     ],
+     "text": "하나비",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      148,
+      96,
+      170
+     ],
+     "text": "사쿠라",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      173,
+      96,
+      195
+     ],
+     "text": "스미레",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      198,
+      96,
+      220
+     ],
+     "text": "홍란",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      6,
+      223,
+      96,
+      245
+     ],
+     "text": "칸나",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      68,
+      226,
+      90
+     ],
+     "text": "에리카",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      91,
+      226,
+      114
+     ],
+     "text": "글리신",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      116,
+      226,
+      138
+     ],
+     "text": "로벨리아",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      148,
+      226,
+      170
+     ],
+     "text": "마리아",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      173,
+      226,
+      195
+     ],
+     "text": "아이리스",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      198,
+      226,
+      220
+     ],
+     "text": "레니",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      223,
+      226,
+      245
+     ],
+     "text": "오리히메",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      232,
+      110,
+      140
+     ],
+     "stroke": [
+      [
+       90,
+       30,
+       55
+      ],
+      2
+     ],
+     "align": "left",
+     "track": 1
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/GAME0.CSD",
+   "block": 0,
+   "texture": 1,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      4,
+      2,
+      208,
+      58
+     ],
+     "select": "far",
+     "color": [
+      245,
+      240,
+      205
+     ],
+     "thr": 110,
+     "dilate": 3,
+     "radius": 9,
+     "alpha": "keep"
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      62,
+      212,
+      190
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      4,
+      194,
+      208,
+      250
+     ],
+     "select": "far",
+     "color": [
+      245,
+      240,
+      205
+     ],
+     "thr": 110,
+     "dilate": 3,
+     "radius": 9,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      8,
+      4,
+      206,
+      58
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 900,
+     "size": 46,
+     "fill": {
+      "top": [
+       255,
+       252,
+       140
+      ],
+      "bottom": [
+       235,
+       165,
+       0
+      ]
+     },
+     "stroke": [
+      [
+       16,
+       16,
+       16
+      ],
+      2
+     ],
+     "shadow": [
+      [
+       110,
+       80,
+       30,
+       210
+      ],
+      4,
+      4,
+      0
+     ],
+     "track": 16
+    },
+    {
+     "op": "text",
+     "rect": [
+      8,
+      64,
+      206,
+      124
+     ],
+     "text": "론",
+     "font": "sans",
+     "weight": 900,
+     "size": 52,
+     "fill": {
+      "top": [
+       240,
+       70,
+       130
+      ],
+      "bottom": [
+       255,
+       200,
+       235
+      ]
+     },
+     "stroke": [
+      [
+       16,
+       16,
+       16
+      ],
+      2
+     ],
+     "shadow": [
+      [
+       110,
+       80,
+       30,
+       210
+      ],
+      4,
+      4,
+      0
+     ],
+     "track": 6
+    },
+    {
+     "op": "text",
+     "rect": [
+      8,
+      128,
+      206,
+      188
+     ],
+     "text": "쯔모",
+     "font": "sans",
+     "weight": 900,
+     "size": 50,
+     "fill": {
+      "top": [
+       140,
+       250,
+       250
+      ],
+      "bottom": [
+       20,
+       140,
+       230
+      ]
+     },
+     "stroke": [
+      [
+       16,
+       16,
+       16
+      ],
+      2
+     ],
+     "shadow": [
+      [
+       110,
+       80,
+       30,
+       210
+      ],
+      4,
+      4,
+      0
+     ],
+     "track": 10
+    },
+    {
+     "op": "text",
+     "rect": [
+      8,
+      194,
+      206,
+      250
+     ],
+     "text": "유국",
+     "font": "sans",
+     "weight": 900,
+     "size": 48,
+     "fill": {
+      "top": [
+       200,
+       90,
+       235
+      ],
+      "bottom": [
+       170,
+       240,
+       255
+      ]
+     },
+     "stroke": [
+      [
+       16,
+       16,
+       16
+      ],
+      2
+     ],
+     "shadow": [
+      [
+       110,
+       80,
+       30,
+       210
+      ],
+      4,
+      4,
+      0
+     ],
+     "track": 14
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/GAME0.CSD",
+   "block": 0,
+   "texture": 2,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      40,
+      12,
+      216,
+      52
+     ],
+     "select": "far",
+     "color": [
+      240,
+      225,
+      195
+     ],
+     "thr": 120,
+     "dilate": 2,
+     "radius": 7,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      40,
+      70,
+      216,
+      110
+     ],
+     "select": "far",
+     "color": [
+      225,
+      220,
+      215
+     ],
+     "thr": 120,
+     "dilate": 2,
+     "radius": 7,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      40,
+      12,
+      214,
+      52
+     ],
+     "text": "텐파이",
+     "font": "sans",
+     "weight": 900,
+     "size": 34,
+     "fill": {
+      "top": [
+       255,
+       110,
+       15
+      ],
+      "bottom": [
+       255,
+       225,
+       150
+      ]
+     },
+     "stroke": [
+      [
+       80,
+       30,
+       60
+      ],
+      2
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      40,
+      70,
+      214,
+      110
+     ],
+     "text": "노텐",
+     "font": "sans",
+     "weight": 900,
+     "size": 34,
+     "fill": {
+      "top": [
+       185,
+       215,
+       20
+      ],
+      "bottom": [
+       130,
+       245,
+       205
+      ]
+     },
+     "stroke": [
+      [
+       20,
+       20,
+       80
+      ],
+      2
+     ],
+     "track": 8
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/GAME0.CSD",
+   "block": 0,
+   "texture": 4,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      96,
+      50,
+      148,
+      97
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      145,
+      50,
+      232,
+      97
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      48,
+      96,
+      192,
+      147
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      50,
+      146,
+      236,
+      193
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      96,
+      198,
+      238,
+      233
+     ],
+     "select": "far",
+     "color": [
+      250,
+      240,
+      190
+     ],
+     "thr": 110,
+     "dilate": 2,
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      52,
+      146,
+      94
+     ],
+     "text": "제",
+     "font": "serif",
+     "weight": 900,
+     "size": 38,
+     "fill": {
+      "top": [
+       255,
+       240,
+       90
+      ],
+      "bottom": [
+       205,
+       150,
+       10
+      ]
+     },
+     "stroke": [
+      [
+       18,
+       45,
+       28
+      ],
+      3
+     ],
+     "shadow": [
+      [
+       60,
+       40,
+       0,
+       200
+      ],
+      3,
+      3,
+      0
+     ],
+     "track": 2
+    },
+    {
+     "op": "text",
+     "rect": [
+      147,
+      52,
+      228,
+      94
+     ],
+     "text": "경기",
+     "font": "serif",
+     "weight": 900,
+     "size": 38,
+     "fill": {
+      "top": [
+       255,
+       240,
+       90
+      ],
+      "bottom": [
+       205,
+       150,
+       10
+      ]
+     },
+     "stroke": [
+      [
+       18,
+       45,
+       28
+      ],
+      3
+     ],
+     "shadow": [
+      [
+       60,
+       40,
+       0,
+       200
+      ],
+      3,
+      3,
+      0
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      50,
+      98,
+      190,
+      144
+     ],
+     "text": "최종국",
+     "font": "serif",
+     "weight": 900,
+     "size": 40,
+     "fill": {
+      "top": [
+       255,
+       240,
+       90
+      ],
+      "bottom": [
+       205,
+       150,
+       10
+      ]
+     },
+     "stroke": [
+      [
+       18,
+       45,
+       28
+      ],
+      3
+     ],
+     "shadow": [
+      [
+       60,
+       40,
+       0,
+       200
+      ],
+      3,
+      3,
+      0
+     ],
+     "track": 8
+    },
+    {
+     "op": "text",
+     "rect": [
+      52,
+      148,
+      140,
+      190
+     ],
+     "text": "승자",
+     "font": "sans",
+     "weight": 900,
+     "size": 32,
+     "fill": {
+      "top": [
+       235,
+       40,
+       60
+      ],
+      "bottom": [
+       255,
+       160,
+       30
+      ]
+     },
+     "glow": [
+      [
+       255,
+       255,
+       255
+      ],
+      3,
+      1.4
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      146,
+      148,
+      234,
+      190
+     ],
+     "text": "패자",
+     "font": "sans",
+     "weight": 900,
+     "size": 32,
+     "fill": {
+      "top": [
+       150,
+       50,
+       200
+      ],
+      "bottom": [
+       30,
+       140,
+       240
+      ]
+     },
+     "glow": [
+      [
+       255,
+       255,
+       255
+      ],
+      3,
+      1.4
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      200,
+      236,
+      231
+     ],
+     "text": "승패 결과",
+     "font": "serif",
+     "weight": 900,
+     "size": 24,
+     "fill": [
+      220,
+      25,
+      30
+     ],
+     "shadow": [
+      [
+       120,
+       20,
+       20,
+       160
+      ],
+      1,
+      1,
+      0
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/GAME0.CSD",
+   "block": 0,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      158,
+      6,
+      185,
+      31
+     ],
+     "select": "far",
+     "color": [
+      60,
+      10,
+      250
+     ],
+     "thr": 130,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      198,
+      18,
+      221,
+      41
+     ],
+     "select": "far",
+     "color": [
+      60,
+      10,
+      250
+     ],
+     "thr": 130,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      168,
+      76,
+      234,
+      98
+     ],
+     "select": "dark",
+     "thr": 110,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "rowfill",
+     "rect": [
+      12,
+      148,
+      92,
+      170
+     ],
+     "select": "far",
+     "thr": 100,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep",
+     "color": [
+      225,
+      215,
+      195
+     ]
+    },
+    {
+     "op": "rowfill",
+     "rect": [
+      0,
+      182,
+      72,
+      199
+     ],
+     "select": "dark",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "rowfill",
+     "rect": [
+      0,
+      205,
+      72,
+      222
+     ],
+     "select": "far",
+     "thr": 100,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep",
+     "color": [
+      225,
+      215,
+      195
+     ]
+    },
+    {
+     "op": "rowfill",
+     "rect": [
+      0,
+      229,
+      72,
+      248
+     ],
+     "select": "far",
+     "thr": 100,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep",
+     "color": [
+      225,
+      215,
+      195
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      150,
+      163,
+      212,
+      188
+     ],
+     "select": "light",
+     "thr": 170,
+     "dilate": 2,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      157,
+      6,
+      186,
+      31
+     ],
+     "text": "선",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       10,
+       10,
+       40
+      ],
+      1
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      197,
+      18,
+      222,
+      42
+     ],
+     "text": "선",
+     "font": "sans",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       10,
+       10,
+       40
+      ],
+      1
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      168,
+      77,
+      234,
+      97
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 900,
+     "size": 17,
+     "fill": [
+      90,
+      50,
+      10
+     ],
+     "track": 8
+    },
+    {
+     "op": "text",
+     "rect": [
+      12,
+      148,
+      92,
+      170
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      80,
+      30,
+      45
+     ],
+     "track": 8
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      182,
+      72,
+      199
+     ],
+     "text": "필살 공격",
+     "font": "sans",
+     "weight": 800,
+     "size": 15,
+     "fill": [
+      80,
+      30,
+      45
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      2,
+      205,
+      66,
+      222
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 15,
+     "fill": [
+      80,
+      30,
+      45
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      4,
+      229,
+      64,
+      248
+     ],
+     "text": "과제",
+     "font": "sans",
+     "weight": 800,
+     "size": 15,
+     "fill": [
+      80,
+      30,
+      45
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      140,
+      162,
+      222,
+      189
+     ],
+     "text": "과제",
+     "font": "sans",
+     "weight": 900,
+     "size": 22,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "shadow": [
+      [
+       0,
+       30,
+       20,
+       220
+      ],
+      2,
+      2,
+      0
+     ],
+     "track": 6
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/MENU0.CSD",
+   "block": 0,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      236,
+      54,
+      404,
+      92
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 2,
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      226,
+      55,
+      414,
+      91
+     ],
+     "text": "게임 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 27,
+     "fill": [
+      64,
+      30,
+      4
+     ],
+     "track": 2
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/MENU0.CSD",
+   "block": 0,
+   "texture": 4,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      204,
+      58,
+      438,
+      89
+     ],
+     "select": "near",
+     "thr": 200,
+     "dilate": 2,
+     "radius": 5,
+     "alpha": "keep",
+     "color": [
+      120,
+      40,
+      200
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      194,
+      58,
+      448,
+      89
+     ],
+     "text": "대전 상대 선택",
+     "font": "sans",
+     "weight": 800,
+     "size": 26,
+     "fill": [
+      100,
+      30,
+      200
+     ],
+     "track": 4
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/MENU0.CSD",
+   "block": 0,
+   "texture": 10,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      244,
+      58,
+      404,
+      90
+     ],
+     "select": "far",
+     "thr": 130,
+     "dilate": 2,
+     "radius": 5,
+     "alpha": "keep",
+     "color": [
+      106,
+      156,
+      82
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      228,
+      56,
+      420,
+      92
+     ],
+     "text": "패 편집",
+     "font": "sans",
+     "weight": 800,
+     "size": 28,
+     "fill": [
+      205,
+      49,
+      16
+     ],
+     "glow": [
+      [
+       150,
+       235,
+       100
+      ],
+      2,
+      1.6
+     ],
+     "track": 8
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      120,
+      414,
+      190,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      296,
+      414,
+      366,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      472,
+      414,
+      512,
+      442
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      120,
+      414,
+      190,
+      442
+     ],
+     "text": "초기화",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ],
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      296,
+      414,
+      366,
+      442
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      474,
+      414,
+      550,
+      442
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/MENU0.CSD",
+   "block": 0,
+   "texture": 9,
+   "ops": [
+    {
+     "op": "rowfill",
+     "rect": [
+      128,
+      163,
+      168,
+      181
+     ],
+     "select": "far",
+     "color": [
+      225,
+      215,
+      195
+     ],
+     "thr": 70,
+     "dilate": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      90,
+      158,
+      166,
+      186
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      74,
+      32,
+      41
+     ],
+     "clip": [
+      128,
+      150,
+      200,
+      195
+     ]
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/WIN0.CSD",
+   "block": 0,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      196,
+      64,
+      256,
+      90
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      66,
+      140,
+      252,
+      175
+     ],
+     "select": "dark",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      66,
+      180,
+      252,
+      214
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      66,
+      220,
+      252,
+      255
+     ],
+     "select": "dark",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      199,
+      64,
+      227,
+      90
+     ],
+     "text": "과",
+     "font": "serif",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 0
+    },
+    {
+     "op": "text",
+     "rect": [
+      246,
+      64,
+      274,
+      90
+     ],
+     "text": "제",
+     "font": "serif",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 0
+    },
+    {
+     "op": "text",
+     "rect": [
+      66,
+      140,
+      252,
+      172
+     ],
+     "text": "필살 공격 선택",
+     "font": "serif",
+     "weight": 900,
+     "size": 25,
+     "fill": [
+      17,
+      17,
+      85
+     ],
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      66,
+      180,
+      252,
+      214
+     ],
+     "text": "놀이 방법 설명",
+     "font": "serif",
+     "weight": 900,
+     "size": 25,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 1
+    },
+    {
+     "op": "text",
+     "rect": [
+      66,
+      220,
+      252,
+      252
+     ],
+     "text": "점수표",
+     "font": "serif",
+     "weight": 900,
+     "size": 27,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 14
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/WIN0.CSD",
+   "block": 0,
+   "texture": 1,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      60,
+      4,
+      200,
+      36
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      176,
+      48,
+      222,
+      80
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      124,
+      96,
+      252,
+      138
+     ],
+     "select": "far",
+     "color": [
+      255,
+      0,
+      255
+     ],
+     "thr": 1,
+     "alpha_min": 1,
+     "dilate": 0,
+     "radius": 4
+    },
+    {
+     "op": "fill",
+     "rect": [
+      124,
+      96,
+      252,
+      138
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      170,
+      214,
+      252,
+      250
+     ],
+     "select": "far",
+     "color": [
+      255,
+      255,
+      204
+     ],
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      60,
+      4,
+      200,
+      36
+     ],
+     "text": "역 목록",
+     "font": "serif",
+     "weight": 900,
+     "size": 26,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      177,
+      48,
+      207,
+      80
+     ],
+     "text": "점",
+     "font": "serif",
+     "weight": 900,
+     "size": 26,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 0,
+     "clip": [
+      150,
+      40,
+      222,
+      90
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      211,
+      48,
+      241,
+      80
+     ],
+     "text": "수",
+     "font": "serif",
+     "weight": 900,
+     "size": 26,
+     "fill": [
+      17,
+      85,
+      51
+     ],
+     "track": 0,
+     "clip": [
+      150,
+      40,
+      222,
+      90
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      124,
+      98,
+      252,
+      138
+     ],
+     "text": "무승부",
+     "font": "sans",
+     "weight": 900,
+     "size": 30,
+     "fill": {
+      "top": [
+       20,
+       140,
+       120
+      ],
+      "bottom": [
+       30,
+       230,
+       40
+      ]
+     },
+     "glow": [
+      [
+       255,
+       220,
+       240
+      ],
+      3,
+      1.6
+     ],
+     "track": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      170,
+      218,
+      208,
+      248
+     ],
+     "text": "합",
+     "font": "serif",
+     "weight": 900,
+     "size": 24,
+     "fill": [
+      255,
+      136,
+      102
+     ],
+     "stroke": [
+      [
+       120,
+       20,
+       20
+      ],
+      2
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      214,
+      218,
+      252,
+      248
+     ],
+     "text": "계",
+     "font": "serif",
+     "weight": 900,
+     "size": 24,
+     "fill": [
+      255,
+      136,
+      102
+     ],
+     "stroke": [
+      [
+       120,
+       20,
+       20
+      ],
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/WARNING.CBD",
+   "block": 2,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      152,
+      397,
+      256,
+      451
+     ],
+     "select": "far",
+     "color": [
+      178,
+      200,
+      170
+     ],
+     "thr": 110,
+     "dilate": 2,
+     "radius": 4,
+     "alpha": "keep",
+     "local": true
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      152,
+      457,
+      256,
+      512
+     ],
+     "select": "far",
+     "color": [
+      178,
+      200,
+      170
+     ],
+     "thr": 110,
+     "dilate": 2,
+     "radius": 4,
+     "alpha": "keep",
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      158,
+      464,
+      352,
+      502
+     ],
+     "text": "옵션",
+     "clip": [
+      152,
+      456,
+      256,
+      512
+     ],
+     "font": "sans",
+     "size": 31,
+     "fill": [
+      17,
+      17,
+      85
+     ],
+     "stroke": [
+      [
+       190,
+       200,
+       230
+      ],
+      1
+     ],
+     "glow": [
+      [
+       17,
+       17,
+       85
+      ],
+      1,
+      2.0
+     ],
+     "track": 26,
+     "weight": 900
+    },
+    {
+     "op": "text",
+     "rect": [
+      54,
+      404,
+      248,
+      442
+     ],
+     "text": "옵션",
+     "clip": [
+      152,
+      396,
+      256,
+      452
+     ],
+     "font": "sans",
+     "size": 31,
+     "fill": [
+      17,
+      17,
+      85
+     ],
+     "stroke": [
+      [
+       190,
+       200,
+       230
+      ],
+      1
+     ],
+     "glow": [
+      [
+       17,
+       17,
+       85
+      ],
+      1,
+      2.0
+     ],
+     "track": 26,
+     "weight": 900
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/SAVEMENU.CBD",
+   "block": 0,
+   "texture": 4,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      120,
+      2,
+      144,
+      52
+     ],
+     "select": "dark",
+     "thr": 90,
+     "dilate": 1,
+     "radius": 3,
+     "alpha": "keep"
+    },
+    {
+     "op": "fill",
+     "rect": [
+      145,
+      2,
+      168,
+      51
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      120,
+      4,
+      144,
+      52
+     ],
+     "text": "뒤로",
+     "font": "serif",
+     "weight": 700,
+     "size": 19,
+     "fill": [
+      15,
+      15,
+      25
+     ],
+     "vertical": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      144,
+      4,
+      170,
+      52
+     ],
+     "text": "뒤로",
+     "font": "serif",
+     "weight": 700,
+     "size": 19,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "vertical": true,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       160
+      ],
+      1,
+      1,
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/SYSSELECT.CBD",
+   "block": 1,
+   "texture": 0,
+   "base": "patched",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      140,
+      483,
+      430,
+      512
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      196,
+      483,
+      428,
+      511
+     ],
+     "text": "시스템 파일이 없습니다",
+     "font": "sans",
+     "weight": 600,
+     "size": 20,
+     "fill": [
+      255,
+      238,
+      187
+     ],
+     "track": 1
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 580,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      262,
+      130,
+      370,
+      340
+     ],
+     "rgba": [
+      255,
+      255,
+      255,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      300,
+      141,
+      343,
+      305
+     ],
+     "text": "사랑하라 소녀여",
+     "font": "gungso",
+     "size": 24,
+     "fill": [
+      10,
+      10,
+      10
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 675,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      120,
+      50,
+      520,
+      425
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      441,
+      67,
+      488,
+      318
+     ],
+     "text": "짧은 목숨 사랑하라 소녀여",
+     "font": "gungso",
+     "size": 24,
+     "fill": [
+      245,
+      245,
+      245
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      344,
+      68,
+      392,
+      316
+     ],
+     "text": "붉은 입술 바래기 전에",
+     "font": "gungso",
+     "size": 24,
+     "fill": [
+      245,
+      245,
+      245
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      248,
+      68,
+      294,
+      379
+     ],
+     "text": "뜨거운 피가 식기 전에",
+     "font": "gungso",
+     "size": 24,
+     "fill": [
+      245,
+      245,
+      245
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      151,
+      70,
+      197,
+      403
+     ],
+     "text": "내일의 날은 없는 것이니",
+     "font": "gungso",
+     "size": 24,
+     "fill": [
+      245,
+      245,
+      245
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/OPTION_BG.CSD",
+   "block": 0,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      264,
+      36,
+      300,
+      110
+     ],
+     "select": "far",
+     "color": [
+      130,
+      55,
+      40
+     ],
+     "thr": 120,
+     "dilate": 1,
+     "radius": 4,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      266,
+      38,
+      298,
+      74
+     ],
+     "text": "제",
+     "font": "myeongjo",
+     "size": 32,
+     "fill": [
+      235,
+      240,
+      250
+     ],
+     "stroke": [
+      [
+       45,
+       55,
+       110
+      ],
+      2
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      266,
+      75,
+      298,
+      109
+     ],
+     "text": "격",
+     "font": "myeongjo",
+     "size": 32,
+     "fill": [
+      235,
+      240,
+      250
+     ],
+     "stroke": [
+      [
+       45,
+       55,
+       110
+      ],
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "source": "SLG/G01/SMAP01.ESM",
+   "block": 115,
+   "texture": 2,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      0,
+      56,
+      24
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      0,
+      56,
+      24
+     ],
+     "text": "돌아감",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      60,
+      0,
+      106,
+      24
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      60,
+      0,
+      106,
+      24
+     ],
+     "text": "종료",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      118,
+      0,
+      164,
+      24
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      118,
+      0,
+      164,
+      24
+     ],
+     "text": "정보",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      174,
+      0,
+      220,
+      24
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      174,
+      0,
+      220,
+      24
+     ],
+     "text": "통신",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      24,
+      56,
+      48
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      24,
+      56,
+      48
+     ],
+     "text": "감싸다",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      62,
+      24,
+      106,
+      48
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      62,
+      24,
+      106,
+      48
+     ],
+     "text": "대장",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      118,
+      24,
+      164,
+      48
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      118,
+      24,
+      164,
+      48
+     ],
+     "text": "환경",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      174,
+      24,
+      220,
+      48
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      174,
+      24,
+      220,
+      48
+     ],
+     "text": "상공",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      48,
+      104,
+      72
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      48,
+      104,
+      72
+     ],
+     "text": "옵션",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      106,
+      48,
+      206,
+      72
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      106,
+      48,
+      206,
+      72
+     ],
+     "text": "전투중단",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      208,
+      48,
+      256,
+      72
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      208,
+      48,
+      256,
+      72
+     ],
+     "text": "필살",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      72,
+      92,
+      96
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      72,
+      92,
+      96
+     ],
+     "text": "간접공격",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      92,
+      72,
+      184,
+      96
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      92,
+      72,
+      184,
+      96
+     ],
+     "text": "직접공격",
+     "font": "sans",
+     "weight": 400,
+     "size": 20,
+     "fill": [
+      238,
+      238,
+      238
+     ],
+     "track": 2
+    },
+    {
+     "op": "fill",
+     "rect": [
+      184,
+      72,
+      218,
+      96
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      184,
+      72,
+      218,
+      96
+     ],
+     "text": "잔여",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      236,
+      72,
+      256,
+      96
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      236,
+      72,
+      256,
+      96
+     ],
+     "text": "회",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      96,
+      48,
+      120
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      96,
+      48,
+      120
+     ],
+     "text": "내구",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      48,
+      96,
+      96,
+      120
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      48,
+      96,
+      96,
+      120
+     ],
+     "text": "기합",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      96,
+      96,
+      144,
+      120
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      96,
+      96,
+      144,
+      120
+     ],
+     "text": "공격",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      144,
+      96,
+      192,
+      120
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      144,
+      96,
+      192,
+      120
+     ],
+     "text": "방어",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      192,
+      96,
+      240,
+      120
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      192,
+      96,
+      240,
+      120
+     ],
+     "text": "행동",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      120,
+      48,
+      144
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      120,
+      48,
+      144
+     ],
+     "text": "능력",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      48,
+      120,
+      96,
+      144
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      48,
+      120,
+      96,
+      144
+     ],
+     "text": "신뢰",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      96,
+      120,
+      144,
+      144
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      96,
+      120,
+      144,
+      144
+     ],
+     "text": "합계",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      144,
+      120,
+      192,
+      144
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      144,
+      120,
+      192,
+      144
+     ],
+     "text": "회복",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      192,
+      120,
+      240,
+      144
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      192,
+      120,
+      240,
+      144
+     ],
+     "text": "차지",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      80,
+      144,
+      128,
+      168
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      80,
+      144,
+      128,
+      168
+     ],
+     "text": "이동",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      128,
+      144,
+      176,
+      168
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      128,
+      144,
+      176,
+      168
+     ],
+     "text": "일반",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      176,
+      144,
+      224,
+      168
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      176,
+      144,
+      224,
+      168
+     ],
+     "text": "범위",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "fill",
+     "rect": [
+      80,
+      168,
+      176,
+      192
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      136
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      80,
+      168,
+      176,
+      192
+     ],
+     "text": "사용불가",
+     "font": "myeongjo",
+     "size": 21,
+     "fill": {
+      "top": [
+       255,
+       255,
+       255
+      ],
+      "bottom": [
+       170,
+       165,
+       185
+      ]
+     },
+     "track": 2,
+     "shadow": [
+      [
+       0,
+       0,
+       0,
+       230
+      ],
+      1,
+      2,
+      0
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      84,
+      234,
+      104,
+      254
+     ],
+     "select": "all",
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      82,
+      232,
+      106,
+      256
+     ],
+     "text": "방",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      120,
+      60,
+      85
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      112,
+      234,
+      132,
+      254
+     ],
+     "select": "all",
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      110,
+      232,
+      134,
+      256
+     ],
+     "text": "방",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       90,
+       0,
+       40
+      ],
+      1
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      196,
+      234,
+      216,
+      254
+     ],
+     "select": "all",
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      194,
+      232,
+      218,
+      256
+     ],
+     "text": "방",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      120,
+      60,
+      85
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      224,
+      234,
+      244,
+      254
+     ],
+     "select": "all",
+     "radius": 5,
+     "alpha": "keep"
+    },
+    {
+     "op": "text",
+     "rect": [
+      222,
+      232,
+      246,
+      256
+     ],
+     "text": "방",
+     "font": "sans",
+     "weight": 900,
+     "size": 19,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       90,
+       0,
+       40
+      ],
+      1
+     ]
+    }
+   ]
+  }
+ ]
+}

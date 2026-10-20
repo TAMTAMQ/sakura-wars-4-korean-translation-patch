@@ -1,0 +1,108 @@
+"""v0.5 통합 기준선에서 편집한 문안과 자산을 합성한다."""
+import argparse, hashlib, json, os, re, shutil, struct, tempfile, zipfile
+from pathlib import Path
+
+ROOT=Path(__file__).resolve().parents[1]
+def sha(data): return hashlib.sha256(data).hexdigest()
+def readjson(path): return json.loads(path.read_text(encoding='utf-8'))
+def safe(root,name):
+    p=(root/name).resolve()
+    if not p.is_relative_to(root.resolve()): raise ValueError('경로 이탈: '+name)
+    return p
+
+def encode(text,codes):
+    out=bytearray(); i=0
+    while i<len(text):
+        if text.startswith('⟦',i):
+            end=text.index('⟧',i); out+=bytes.fromhex(text[i+1:end]); i=end+1; continue
+        ch=text[i]; i+=1
+        if ch in codes:
+            b=bytearray.fromhex(codes[ch])
+            if i<len(text) and text[i]==' ': b[0]|=8; i+=1
+            out+=b
+        else: out+=ch.encode('cp932')
+    if 0 in out: raise ValueError('문안에 NUL을 넣을 수 없습니다.')
+    return bytes(out)
+
+def build(root=ROOT,output=None):
+    manifest=readjson(root/'config/baseline.json')
+    bindings=readjson(root/'config/text-bindings.json')
+    index=readjson(root/'assets/translation/index.json')
+    codes=readjson(root/'config/encoding.json')
+    baseline={}
+    for item in manifest['files']:
+        data=safe(root/'originals/v05',item['path']).read_bytes()
+        if len(data)!=item['size'] or sha(data)!=item['sha256']: raise ValueError('기준선 불일치: '+item['path'])
+        baseline[item['path']]=data
+    rows={}; segment_hashes={}
+    for seg in index['segments']:
+        path=safe(root,seg['path']); segment_hashes[seg['path']]=sha(path.read_bytes())
+        for line in path.read_text(encoding='utf-8').splitlines():
+            if not line: continue
+            row=json.loads(line); key=row['id']
+            if key in rows or key not in bindings: raise ValueError('중복 또는 미등록 ID: '+key)
+            fixed=bindings[key]
+            for field in fixed:
+                if row.get(field)!=fixed[field]: raise ValueError('보호 필드 변경: '+key+' '+field)
+            rows[key]=row
+    if set(rows)!=set(bindings): raise ValueError('번역 ID 모집단 누락')
+    result={k:bytearray(v) for k,v in baseline.items()}; writes={}; changed=[]
+    def write(rel,pos,expected,new,owner):
+        data=baseline[rel]
+        if data[pos:pos+len(expected)]!=expected: raise ValueError('원본 byte 불일치: '+owner)
+        for start,end,other in writes.get(rel,[]):
+            if pos<end and start<pos+len(expected): raise ValueError('쓰기 겹침: '+owner+' / '+other)
+        writes.setdefault(rel,[]).append((pos,pos+len(expected),owner))
+        result[rel][pos:pos+len(expected)]=new
+    for key,row in rows.items():
+        if row['text']==row['baseline_text']: continue
+        rel=row['file']; raw=bytes.fromhex(row['raw_hex']); encoded=encode(row['text'],codes)
+        if len(encoded)>row['capacity']:
+            raise ValueError(f"{key}: {len(encoded)}바이트 > 현재 가용 {row['capacity']}바이트. 리포인팅 설계 후 확장하세요.")
+        write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
+        changed.append(key)
+    for asset_root in ['assets/images/native','assets/fonts/native','assets/video/native']:
+        for path in (root/asset_root).rglob('*'):
+            if not path.is_file(): continue
+            rel=path.relative_to(root/asset_root).as_posix()
+            if rel not in baseline: raise ValueError('미등록 자산: '+rel)
+            data=path.read_bytes()
+            if data==baseline[rel]: continue
+            if rel in writes: raise ValueError('문안과 자산 쓰기 충돌: '+rel)
+            if rel.endswith('.BIN'): raise ValueError('실행/혼합 BIN 교체는 별도 명세가 필요합니다: '+rel)
+            write(rel,0,baseline[rel],data,'native:'+rel)
+    for rel,data in result.items():
+        if rel not in writes and bytes(data)!=baseline[rel]: raise ValueError('미등록 최종 diff: '+rel)
+        if rel in writes:
+            # 등록한 쓰기 범위 밖의 byte는 기준선과 완전히 일치해야 한다.
+            cursor=0
+            for start,end,_ in sorted(writes[rel]):
+                if data[cursor:start]!=baseline[rel][cursor:start]: raise ValueError('보호 경계 침범: '+rel)
+                cursor=end
+            if len(data)==len(baseline[rel]) and data[cursor:]!=baseline[rel][cursor:]: raise ValueError('보호 경계 침범: '+rel)
+    output=output or root/'out/sakura_wars_4_kr_dev.dcp'
+    output.parent.mkdir(parents=True,exist_ok=True)
+    fd,tmp=tempfile.mkstemp(suffix='.partial',dir=output.parent); os.close(fd)
+    try:
+        with zipfile.ZipFile(tmp,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
+            for rel,data in result.items():
+                info=zipfile.ZipInfo(rel,(2026,10,20,0,0,0)); info.compress_type=zipfile.ZIP_DEFLATED
+                z.writestr(info,data)
+        with zipfile.ZipFile(tmp) as z:
+            if z.testzip() is not None: raise ValueError('ZIP CRC 오류')
+            for rel,data in result.items():
+                if z.read(rel)!=data: raise ValueError('출력 재검증 실패: '+rel)
+        os.replace(tmp,output)
+    finally:
+        if os.path.exists(tmp): os.unlink(tmp)
+    report={'output':str(output),'sha256':sha(output.read_bytes()),'files':len(result),
+        'changed_translation_ids':changed,'changed_files':sorted(writes),'baseline_payload_equal':not writes,
+        'segment_hashes':segment_hashes,'index_sha256':sha((root/'assets/translation/index.json').read_bytes()),
+        'runtime_verified':False,'release_approved':False}
+    (output.parent/'build-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    print(json.dumps({k:v for k,v in report.items() if k!='segment_hashes'},ensure_ascii=False,indent=2))
+    return report
+
+if __name__=='__main__':
+    parser=argparse.ArgumentParser(); parser.add_argument('--output',type=Path); args=parser.parse_args()
+    build(output=args.output)

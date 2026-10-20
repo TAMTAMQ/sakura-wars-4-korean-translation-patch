@@ -1,0 +1,562 @@
+[
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0001_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 1,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0001_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0002_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 2,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0002_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 3,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0003_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 3,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0003_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 4,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0004_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 4,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0004_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 5,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0005_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 5,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0005_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 6,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0006_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 6,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0006_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 7,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0007_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 7,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0007_0001.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 8,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0008_0000.png"
+ },
+ {
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 8,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G01/CMAP01.GRCT/0008_0001.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0001_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 1,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0001_0001.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 14,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0014_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 14,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0014_0001.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 15,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0015_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 15,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0015_0001.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 16,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0016_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 16,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0016_0001.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 17,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0017_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 17,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0017_0001.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 6,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0006_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 13,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0013_0000.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 7,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0007_0000.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 8,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0008_0000.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 9,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0009_0000.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 10,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0010_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0010_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0010_0000.png"
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 11,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0011_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0011_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G02/CMAP02.GRCT/0011_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 9,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0009_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0009_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 10,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0010_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0010_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0010_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 11,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0011_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0011_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0011_0000.png"
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 12,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0012_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0012_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G03/CMAP03.GRCT/0012_0000.png"
+ },
+ {
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0001_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G05/CMAP05.GRCT/0001_0000.png"
+ },
+ {
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G05/CMAP05.GRCT/0002_0000.png"
+ },
+ {
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G04/CMAP04.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0001_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G04/CMAP04.GRCT/0001_0000.png"
+ },
+ {
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G04/CMAP04.GRCT/0002_0000.png"
+ },
+ {
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/G05/CMAP05.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/OGAMI_K2_N.BC",
+  "block": 126,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/OGAMI_K2_N.BC/0126_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/OGAMI_K2_N.BC",
+  "block": 126,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/OGAMI_K2_N.BC/0126_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/SAKURA_K2_N.BC",
+  "block": 114,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/SAKURA_K2_N.BC/0114_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SAKURA_K2_N.BC",
+  "block": 114,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/SAKURA_K2_N.BC/0114_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+  "block": 185,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/SUMIRE_K2_N.BC/0185_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+  "block": 185,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/SUMIRE_K2_N.BC/0185_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_K2_N.BC",
+  "block": 135,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/MARIA_K2_N.BC/0135_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_K2_N.BC",
+  "block": 135,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/MARIA_K2_N.BC/0135_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_K2_N.BC",
+  "block": 114,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/KANNA_K2_N.BC/0114_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_K2_N.BC",
+  "block": 114,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/KANNA_K2_N.BC/0114_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/IRIS_K2_N.BC",
+  "block": 74,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_K2_N.BC/0074_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/IRIS_K2_N.BC/0074_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/IRIS_K2_N.BC/0074_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KOURAN_K2_N.BC",
+  "block": 97,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_K2_N.BC/0097_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KOURAN_K2_N.BC/0097_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/KOURAN_K2_N.BC/0097_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+  "block": 140,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/ORIHIME_K2_N.BC/0140_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+  "block": 140,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/ORIHIME_K2_N.BC/0140_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_K2_N.BC",
+  "block": 104,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/RENI_K2_N.BC/0104_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_K2_N.BC",
+  "block": 104,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/RENI_K2_N.BC/0104_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_F2_N.BC",
+  "block": 140,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/ERICA_F2_N.BC/0140_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_F2_N.BC",
+  "block": 140,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/ERICA_F2_N.BC/0140_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+  "block": 125,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/GLYCINE_F2_N.BC/0125_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+  "block": 125,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/GLYCINE_F2_N.BC/0125_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
+  "block": 115,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_F2_N.BC/0115_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/COQUELICOT_F2_N.BC/0115_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/COQUELICOT_F2_N.BC/0115_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+  "block": 190,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/LOBELIA_F2_N.BC/0190_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+  "block": 190,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/LOBELIA_F2_N.BC/0190_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_F2_N.BC",
+  "block": 85,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/HANABI_F2_N.BC/0085_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_F2_N.BC",
+  "block": 85,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/slg/SLG/UNITS/HANABI_F2_N.BC/0085_0000.png"
+ }
+]

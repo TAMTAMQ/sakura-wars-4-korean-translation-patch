@@ -1,0 +1,11 @@
+{
+  "baseline_files_audited": 232,
+  "image_files": 66,
+  "exported_textures": 313,
+  "pixel_changed_textures": 269,
+  "identical_blocks_omitted": 3637,
+  "original_comparison_missing": 0,
+  "videos_with_audio_and_full_decode_verified": 32,
+  "image_errors": 0,
+  "video_errors": 0
+}

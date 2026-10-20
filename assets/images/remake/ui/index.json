@@ -1,0 +1,282 @@
+[
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1298,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1298_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1298_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1298_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1277,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1277_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1277_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1277_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1294,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1294_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1294_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1294_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1299,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1299_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1299_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1299_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1272,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1272_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1272_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1272_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1263,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1263_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1263_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1263_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1300,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1300_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1300_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1300_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1301,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1301_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1301_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1301_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 736,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0736_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0736_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0736_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 737,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0737_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0737_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0737_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 738,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0738_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0738_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0738_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 744,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0744_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0744_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0744_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 745,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0745_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0745_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0745_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 746,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0746_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0746_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0746_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 747,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0747_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0747_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0747_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 748,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0748_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0748_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0748_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 749,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0749_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0749_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0749_0000.png"
+ },
+ {
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_0001.png"
+ },
+ {
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/GAME0.CSD/0000_0001.png"
+ },
+ {
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 2,
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0002_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/GAME0.CSD/0000_0002.png"
+ },
+ {
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 4,
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0004_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/GAME0.CSD/0000_0004.png"
+ },
+ {
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/GAME0.CSD/0000_0000.png"
+ },
+ {
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/MENU0.CSD/0000_0000.png"
+ },
+ {
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 4,
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0004_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/MENU0.CSD/0000_0004.png"
+ },
+ {
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 10,
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0010_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0010_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/MENU0.CSD/0000_0010.png"
+ },
+ {
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 9,
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0009_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0009_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/MENU0.CSD/0000_0009.png"
+ },
+ {
+  "source": "MINIGAME/WIN0.CSD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/WIN0.CSD/0000_0000.png"
+ },
+ {
+  "source": "MINIGAME/WIN0.CSD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/ui/MINIGAME/WIN0.CSD/0000_0001.png"
+ },
+ {
+  "source": "SYSDATA/WARNING.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/SYSDATA/WARNING.CBD/0002_0000.png"
+ },
+ {
+  "source": "SYSDATA/SAVEMENU.CBD",
+  "block": 0,
+  "texture": 4,
+  "original": "assets/extracted/images/SYSDATA/SAVEMENU.CBD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/SYSDATA/SAVEMENU.CBD/0000_BPV1/0004_patched.png",
+  "remake": "assets/images/remake/ui/SYSDATA/SAVEMENU.CBD/0000_0004.png"
+ },
+ {
+  "source": "SYSDATA/SYSSELECT.CBD",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/SYSDATA/SYSSELECT.CBD/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/SYSSELECT.CBD/0001_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/SYSDATA/SYSSELECT.CBD/0001_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 580,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0580_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0580_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0580_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 675,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0675_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0675_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0675_0000.png"
+ },
+ {
+  "source": "ADVDATA/OPTION_BG.CSD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/OPTION_BG.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/OPTION_BG.CSD/0000_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/ui/ADVDATA/OPTION_BG.CSD/0000_0000.png"
+ },
+ {
+  "source": "SLG/G01/SMAP01.ESM",
+  "block": 115,
+  "texture": 2,
+  "original": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_patched.png",
+  "remake": "assets/images/remake/ui/SLG/G01/SMAP01.ESM/0115_0002.png"
+ }
+]

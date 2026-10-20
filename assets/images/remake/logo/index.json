@@ -1,0 +1,66 @@
+[
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 733,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/CG_ALL1.DAT/0733_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 735,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/CG_ALL1.DAT/0735_0000.png"
+ },
+ {
+  "source": "SYSDATA/TITLESEQ.CBD",
+  "block": 3,
+  "texture": 0,
+  "original": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/SYSDATA/TITLESEQ.CBD/0003_0000.png"
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_0000.png"
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_0000.png"
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_0000.png"
+ },
+ {
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_0001.png"
+ },
+ {
+  "source": "MINIGAME/E2MGTITL.ADC",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/MINIGAME/E2MGTITL.ADC/0000_0000.png"
+ }
+]

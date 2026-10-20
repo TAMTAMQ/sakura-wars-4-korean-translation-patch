@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "cases": [
+    {
+      "id": "complete-boundary-is-identical",
+      "expected": "accept",
+      "given": "an unchanged decode and rebuild path reproduces every byte in its declared boundary",
+      "input": {
+        "boundary_id": "container",
+        "original": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 108],
+        "rebuilt": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 108]
+      },
+      "output": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 108]
+    },
+    {
+      "id": "tail-diff-hidden-by-payload-check",
+      "expected": "reject",
+      "given": "the decoded payload matches but one byte in the surrounding declared boundary changes",
+      "input": {
+        "boundary_id": "container",
+        "original": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 108],
+        "rebuilt": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 109]
+      }
+    },
+    {
+      "id": "partial-boundary-comparison",
+      "expected": "reject",
+      "given": "the rebuilt value omits bytes from the declared no-change boundary",
+      "input": {
+        "boundary_id": "container",
+        "original": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100, 45, 116, 97, 105, 108],
+        "rebuilt": [104, 101, 97, 100, 101, 114, 45, 112, 97, 121, 108, 111, 97, 100]
+      }
+    },
+    {
+      "id": "empty-boundary-id",
+      "expected": "reject",
+      "given": "the declared boundary has no identity",
+      "input": {
+        "boundary_id": " ",
+        "original": [1],
+        "rebuilt": [1]
+      }
+    }
+  ]
+}

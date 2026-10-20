@@ -1,0 +1,3475 @@
+[
+ {
+  "id": 0,
+  "verdict": "재제작 완료",
+  "category": "글꼴",
+  "note": "굵은 붓글씨가 작고 가는 글자로 바뀜 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 580,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b580 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0580_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0580_ADCG/0000_patched.png"
+ },
+ {
+  "id": 1,
+  "verdict": "재제작 완료",
+  "category": "글꼴",
+  "note": "글자가 작아지고 붓글씨 느낌이 약해짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 675,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b675 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0675_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0675_ADCG/0000_patched.png"
+ },
+ {
+  "id": 2,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 676,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b676 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0676_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0676_ADCG/0000_patched.png"
+ },
+ {
+  "id": 3,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 678,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b678 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0678_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0678_ADCG/0000_patched.png"
+ },
+ {
+  "id": 4,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 679,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b679 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0679_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0679_ADCG/0000_patched.png"
+ },
+ {
+  "id": 5,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 680,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b680 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0680_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0680_ADCG/0000_patched.png"
+ },
+ {
+  "id": 6,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 681,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b681 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0681_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0681_ADCG/0000_patched.png"
+ },
+ {
+  "id": 7,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 683,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b683 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0683_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0683_ADCG/0000_patched.png"
+ },
+ {
+  "id": 8,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 684,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b684 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0684_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0684_ADCG/0000_patched.png"
+ },
+ {
+  "id": 9,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 685,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b685 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0685_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0685_ADCG/0000_patched.png"
+ },
+ {
+  "id": 10,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 686,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b686 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0686_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0686_ADCG/0000_patched.png"
+ },
+ {
+  "id": 11,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 687,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b687 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0687_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0687_ADCG/0000_patched.png"
+ },
+ {
+  "id": 12,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 689,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b689 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0689_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0689_ADCG/0000_patched.png"
+ },
+ {
+  "id": 13,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 690,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b690 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0690_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0690_ADCG/0000_patched.png"
+ },
+ {
+  "id": 14,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 691,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b691 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0691_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0691_ADCG/0000_patched.png"
+ },
+ {
+  "id": 15,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 692,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b692 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0692_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0692_ADCG/0000_patched.png"
+ },
+ {
+  "id": 16,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 693,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b693 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0693_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0693_ADCG/0000_patched.png"
+ },
+ {
+  "id": 17,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 695,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b695 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0695_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0695_ADCG/0000_patched.png"
+ },
+ {
+  "id": 18,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 696,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b696 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0696_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0696_ADCG/0000_patched.png"
+ },
+ {
+  "id": 19,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 697,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b697 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0697_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0697_ADCG/0000_patched.png"
+ },
+ {
+  "id": 20,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 698,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b698 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0698_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0698_ADCG/0000_patched.png"
+ },
+ {
+  "id": 21,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 699,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b699 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0699_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0699_ADCG/0000_patched.png"
+ },
+ {
+  "id": 22,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 701,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b701 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0701_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0701_ADCG/0000_patched.png"
+ },
+ {
+  "id": 23,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 702,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b702 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0702_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0702_ADCG/0000_patched.png"
+ },
+ {
+  "id": 24,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 703,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b703 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0703_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0703_ADCG/0000_patched.png"
+ },
+ {
+  "id": 25,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 704,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b704 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0704_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0704_ADCG/0000_patched.png"
+ },
+ {
+  "id": 26,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 705,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b705 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0705_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0705_ADCG/0000_patched.png"
+ },
+ {
+  "id": 27,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 707,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b707 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0707_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0707_ADCG/0000_patched.png"
+ },
+ {
+  "id": 28,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 708,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b708 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0708_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0708_ADCG/0000_patched.png"
+ },
+ {
+  "id": 29,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 709,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b709 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0709_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0709_ADCG/0000_patched.png"
+ },
+ {
+  "id": 30,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 710,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b710 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0710_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0710_ADCG/0000_patched.png"
+ },
+ {
+  "id": 31,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 711,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b711 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0711_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0711_ADCG/0000_patched.png"
+ },
+ {
+  "id": 32,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 712,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b712 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0712_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0712_ADCG/0000_patched.png"
+ },
+ {
+  "id": 33,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 713,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b713 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0713_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0713_ADCG/0000_patched.png"
+ },
+ {
+  "id": 34,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 714,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b714 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0714_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0714_ADCG/0000_patched.png"
+ },
+ {
+  "id": 35,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 715,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b715 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0715_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0715_ADCG/0000_patched.png"
+ },
+ {
+  "id": 36,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 716,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b716 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0716_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0716_ADCG/0000_patched.png"
+ },
+ {
+  "id": 37,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 717,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b717 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0717_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0717_ADCG/0000_patched.png"
+ },
+ {
+  "id": 38,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 718,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b718 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0718_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0718_ADCG/0000_patched.png"
+ },
+ {
+  "id": 39,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 719,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b719 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0719_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0719_ADCG/0000_patched.png"
+ },
+ {
+  "id": 40,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 720,
+  "texture": 0,
+  "size": [
+   112,
+   102
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b720 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0720_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0720_ADCG/0000_patched.png"
+ },
+ {
+  "id": 41,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 722,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b722 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0722_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0722_ADCG/0000_patched.png"
+ },
+ {
+  "id": 42,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 723,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b723 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0723_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0723_ADCG/0000_patched.png"
+ },
+ {
+  "id": 43,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 724,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b724 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0724_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0724_ADCG/0000_patched.png"
+ },
+ {
+  "id": 44,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 725,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b725 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0725_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0725_ADCG/0000_patched.png"
+ },
+ {
+  "id": 45,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 726,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b726 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0726_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0726_ADCG/0000_patched.png"
+ },
+ {
+  "id": 46,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 728,
+  "texture": 0,
+  "size": [
+   640,
+   49
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b728 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0728_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0728_ADCG/0000_patched.png"
+ },
+ {
+  "id": 47,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 729,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b729 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0729_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0729_ADCG/0000_patched.png"
+ },
+ {
+  "id": 48,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 730,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b730 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0730_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0730_ADCG/0000_patched.png"
+ },
+ {
+  "id": 49,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 731,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b731 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0731_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0731_ADCG/0000_patched.png"
+ },
+ {
+  "id": 50,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "원본은 칸을 꽉 채운 굵은 명조에 부드러운 갈색 번짐 테두리. v0.5는 작은 둥근 고딕에 딱딱한 진갈색 외곽선 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 732,
+  "texture": 0,
+  "size": [
+   188,
+   171
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b732 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0732_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0732_ADCG/0000_patched.png"
+ },
+ {
+  "id": 51,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "붓글씨 로고가 일반 글꼴로 바뀜(현지화 로고로 볼 수 있음) → 참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 733,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b733 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_patched.png"
+ },
+ {
+  "id": 52,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "붓글씨 로고가 일반 글꼴로 바뀜(현지화 로고로 볼 수 있음) → 참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 735,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b735 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_patched.png"
+ },
+ {
+  "id": 53,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판 위 글자에 불투명 검은 상자를 덧댐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 736,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b736 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0736_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0736_ADCG/0000_patched.png"
+ },
+ {
+  "id": 54,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판 위 글자에 불투명 검은 상자를 덧댐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 737,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b737 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0737_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0737_ADCG/0000_patched.png"
+ },
+ {
+  "id": 55,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판 위 글자에 불투명 검은 상자를 덧댐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 738,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b738 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0738_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0738_ADCG/0000_patched.png"
+ },
+ {
+  "id": 56,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 739,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b739 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0739_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0739_ADCG/0000_patched.png"
+ },
+ {
+  "id": 57,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 740,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b740 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0740_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0740_ADCG/0000_patched.png"
+ },
+ {
+  "id": 58,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 741,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b741 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0741_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0741_ADCG/0000_patched.png"
+ },
+ {
+  "id": 59,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 742,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b742 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0742_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0742_ADCG/0000_patched.png"
+ },
+ {
+  "id": 60,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 744,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b744 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0744_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0744_ADCG/0000_patched.png"
+ },
+ {
+  "id": 61,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 745,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b745 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0745_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0745_ADCG/0000_patched.png"
+ },
+ {
+  "id": 62,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 746,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b746 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0746_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0746_ADCG/0000_patched.png"
+ },
+ {
+  "id": 63,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 747,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b747 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0747_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0747_ADCG/0000_patched.png"
+ },
+ {
+  "id": 64,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 748,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b748 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0748_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0748_ADCG/0000_patched.png"
+ },
+ {
+  "id": 65,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "굵고 큰 명조가 작고 가는 글자로 바뀜, 글자 뒤 사선 무늬가 단색으로 지워짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 749,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b749 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0749_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0749_ADCG/0000_patched.png"
+ },
+ {
+  "id": 66,
+  "verdict": "재제작 완료",
+  "category": "가독성",
+  "note": "하단 버튼 3개 글자가 번짐에 묻혀 거의 안 보임, 「제1국」 판과 親 아이콘 디자인 변경 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1263,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1263 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1263_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1263_ADCG/0000_patched.png"
+ },
+ {
+  "id": 67,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1264,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1264 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1264_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1264_ADCG/0000_patched.png"
+ },
+ {
+  "id": 68,
+  "verdict": "재제작 완료",
+  "category": "번짐",
+  "note": "머리 배너 글자를 지운 자리가 번져 있고 글자색이 바뀜 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1272,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1272 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1272_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1272_ADCG/0000_patched.png"
+ },
+ {
+  "id": 69,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1273,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1273 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1273_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1273_ADCG/0000_patched.png"
+ },
+ {
+  "id": 70,
+  "verdict": "재제작 완료",
+  "category": "번짐",
+  "note": "머리 배너와 하단 버튼 3개가 어두운 번짐으로 덮여 가독성 낮음, 안내문 배경도 번짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1277,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1277 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1277_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1277_ADCG/0000_patched.png"
+ },
+ {
+  "id": 71,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1293,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1293 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1293_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1293_ADCG/0000_patched.png"
+ },
+ {
+  "id": 72,
+  "verdict": "재제작 완료",
+  "category": "번짐",
+  "note": "머리 배너와 하단 버튼 3개가 어두운 번짐으로 덮여 가독성 낮음, 안내문 배경도 번짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1294,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1294 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1294_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1294_ADCG/0000_patched.png"
+ },
+ {
+  "id": 73,
+  "verdict": "재제작 완료",
+  "category": "가독성",
+  "note": "메뉴 버튼 6개가 보라색 번짐으로 덮여 글자가 거의 안 보임, 머리 배너 번짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1298,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1298 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1298_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1298_ADCG/0000_patched.png"
+ },
+ {
+  "id": 74,
+  "verdict": "재제작 완료",
+  "category": "번짐",
+  "note": "머리 배너 번짐, 글자색 변경 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1299,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1299 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1299_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1299_ADCG/0000_patched.png"
+ },
+ {
+  "id": 75,
+  "verdict": "재제작 완료",
+  "category": "잔상",
+  "note": "안내문 글자가 작아졌고 아래에 흰 점 잔상이 남음 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1300,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1300 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1300_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1300_ADCG/0000_patched.png"
+ },
+ {
+  "id": 76,
+  "verdict": "재제작 완료",
+  "category": "잔상",
+  "note": "안내문 글자가 작아졌고 아래에 흰 점 잔상이 남음 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1301,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1301 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1301_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1301_ADCG/0000_patched.png"
+ },
+ {
+  "id": 77,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/ELEVATOR.CSD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/ELEVATOR.CSD b0 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/ELEVATOR.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/ELEVATOR.CSD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 78,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/ELEVATOR.CSD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/ELEVATOR.CSD b0 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/ELEVATOR.CSD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/ELEVATOR.CSD/0000_BPV1/0001_patched.png"
+ },
+ {
+  "id": 79,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 15,
+  "members": [
+   "ADVDATA/EYECATCH/EYEC_DTS00.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS01.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS02.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS03.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS04.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS05.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS06.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS07.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS08.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS09.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS10.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS11.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS12.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS13.CBD b1 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS14.CBD b1 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 80,
+  "verdict": "재제작 완료",
+  "category": "",
+  "note": "참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   256,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/EYEC_DTS00.CBD b2 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 81,
+  "verdict": "재제작 완료",
+  "category": "",
+  "note": "참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   256,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/EYEC_DTS01.CBD b2 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 82,
+  "verdict": "재제작 완료",
+  "category": "",
+  "note": "참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   256,
+   512
+  ],
+  "copies": 13,
+  "members": [
+   "ADVDATA/EYECATCH/EYEC_DTS02.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS03.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS04.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS05.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS06.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS07.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS08.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS09.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS10.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS11.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS12.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS13.CBD b2 t0",
+   "ADVDATA/EYECATCH/EYEC_DTS14.CBD b2 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 83,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "이름 글자의 굵은 테두리가 사라짐, 로고 자리에 사각형 배경을 덧댐 → 원본 디자인으로 재제작 → 로고를 참고 방식으로 다시 재제작",
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   512,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/TAIN_DTS.CBD b0 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_patched.png"
+ },
+ {
+  "id": 84,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 0,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/TAIN_DTS.CBD b0 t2"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0002_patched.png"
+ },
+ {
+  "id": 85,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 14,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/TAIN_DTS.CBD b14 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0000_patched.png"
+ },
+ {
+  "id": 86,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 14,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/TAIN_DTS.CBD b14 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0001_patched.png"
+ },
+ {
+  "id": 87,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 14,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/EYECATCH/TAIN_DTS.CBD b14 t2"
+  ],
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0014_BPV1/0002_patched.png"
+ },
+ {
+  "id": 88,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "帝撃 문장이 「제격」 큰 글자로 바뀌고 주변이 번짐 → 원본 디자인으로 재제작",
+  "source": "ADVDATA/OPTION_BG.CSD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   512,
+   512
+  ],
+  "copies": 2,
+  "members": [
+   "ADVDATA/OPTION_BG.CSD b0 t0",
+   "SYSDATA/TITLEMENU.CBD b0 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/OPTION_BG.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/OPTION_BG.CSD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 89,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "미니게임 타이틀 로고 전체가 단순 사각형 상자로 교체됨. 부제 「론하라 처녀여」는 본편 「사랑하라 소녀여」와 맞지 않음(확인 필요) → 원본 디자인으로 재제작 → 로고를 참고 방식으로 다시 재제작",
+  "source": "MINIGAME/E2MGTITL.ADC",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/E2MGTITL.ADC b0 t0"
+  ],
+  "original": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_patched.png"
+ },
+ {
+  "id": 90,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "親 아이콘·리치 버튼·왼쪽 메뉴가 평평한 사각형으로 덮이고 X/Y/B 버튼을 가림, お題 제목 잔상 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/GAME0.CSD b0 t0"
+  ],
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 91,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "리치·유국 뒤 노란 광택 띠가 지워지고 그라데이션 글자가 단색이 됨 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/GAME0.CSD b0 t1"
+  ],
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0001_patched.png"
+ },
+ {
+  "id": 92,
+  "verdict": "재제작 완료",
+  "category": "번짐",
+  "note": "텐파이·노텐 배경이 초록·빨강 덩어리로 번짐 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/GAME0.CSD b0 t2"
+  ],
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0002_patched.png"
+ },
+ {
+  "id": 93,
+  "verdict": "재제작 완료",
+  "category": "번짐+어순",
+  "note": "배경 번짐. 第·숫자·試合 조각에 「번째」「경기」를 넣어 「번째 1 경기」 순서가 될 수 있음(게임 조합 순서 확인 필요) → 원본 디자인으로 재제작",
+  "source": "MINIGAME/GAME0.CSD",
+  "block": 0,
+  "texture": 4,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 2,
+  "members": [
+   "MINIGAME/GAME0.CSD b0 t4",
+   "MINIGAME/WIN0.CSD b0 t2"
+  ],
+  "original": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/MINIGAME/GAME0.CSD/0000_BPV1/0004_patched.png"
+ },
+ {
+  "id": 94,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "배너 배경이 평탄해짐 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   512,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/MENU0.CSD b0 t0"
+  ],
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 95,
+  "verdict": "재제작 완료",
+  "category": "일본어 잔재",
+  "note": "「選択」의 「択」 조각이 「선택」 뒤에 남음, 배너 평탄화 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 4,
+  "size": [
+   512,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/MENU0.CSD b0 t4"
+  ],
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0004_patched.png"
+ },
+ {
+  "id": 96,
+  "verdict": "재제작 완료",
+  "category": "누락",
+  "note": "「もどる」 버튼 자리가 회색 사각형으로 지워지고 글자가 없음 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 9,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/MENU0.CSD b0 t9"
+  ],
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0009_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0009_patched.png"
+ },
+ {
+  "id": 97,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "머리 배너가 초록 사각형으로 평탄화, 하단 버튼 디자인 변경 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/MENU0.CSD",
+  "block": 0,
+  "texture": 10,
+  "size": [
+   512,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/MENU0.CSD b0 t10"
+  ],
+  "original": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0010_original.png",
+  "patched": "assets/extracted/images/MINIGAME/MENU0.CSD/0000_BPV1/0010_patched.png"
+ },
+ {
+  "id": 98,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "평평한 크림색 사각형이 장식과 아이콘을 덮음 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/WIN0.CSD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/WIN0.CSD b0 t0"
+  ],
+  "original": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 99,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "평평한 크림색 사각형이 장식과 아이콘을 덮음 → 원본 디자인으로 재제작",
+  "source": "MINIGAME/WIN0.CSD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "MINIGAME/WIN0.CSD b0 t1"
+  ],
+  "original": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/MINIGAME/WIN0.CSD/0000_BPV1/0001_patched.png"
+ },
+ {
+  "id": 100,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b0 t0",
+   "SLG/G02/CMAP02.GRCT b0 t0",
+   "SLG/G03/CMAP03.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 101,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b0 t1",
+   "SLG/G02/CMAP02.GRCT b0 t1",
+   "SLG/G03/CMAP03.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0000_BPV1/0001_patched.png"
+ },
+ {
+  "id": 102,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 4,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b1 t0",
+   "SLG/G02/CMAP02.GRCT b1 t0",
+   "SLG/G03/CMAP03.GRCT b2 t0",
+   "SLG/UNITS/SAKURA_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 103,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 1,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 4,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b1 t1",
+   "SLG/G02/CMAP02.GRCT b1 t1",
+   "SLG/G03/CMAP03.GRCT b2 t1",
+   "SLG/UNITS/SAKURA_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0001_BPV1/0001_patched.png"
+ },
+ {
+  "id": 104,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b2 t0",
+   "SLG/G03/CMAP03.GRCT b3 t0",
+   "SLG/UNITS/SUMIRE_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 105,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 2,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b2 t1",
+   "SLG/G03/CMAP03.GRCT b3 t1",
+   "SLG/UNITS/SUMIRE_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0002_BPV1/0001_patched.png"
+ },
+ {
+  "id": 106,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 3,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b3 t0",
+   "SLG/G03/CMAP03.GRCT b4 t0",
+   "SLG/UNITS/MARIA_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0000_patched.png"
+ },
+ {
+  "id": 107,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 3,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b3 t1",
+   "SLG/G03/CMAP03.GRCT b4 t1",
+   "SLG/UNITS/MARIA_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0003_BPV1/0001_patched.png"
+ },
+ {
+  "id": 108,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 4,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b4 t0",
+   "SLG/G03/CMAP03.GRCT b5 t0",
+   "SLG/UNITS/KANNA_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0000_patched.png"
+ },
+ {
+  "id": 109,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 4,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b4 t1",
+   "SLG/G03/CMAP03.GRCT b5 t1",
+   "SLG/UNITS/KANNA_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0004_BPV1/0001_patched.png"
+ },
+ {
+  "id": 110,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 5,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b5 t0",
+   "SLG/G02/CMAP02.GRCT b2 t0",
+   "SLG/UNITS/IRIS_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0000_patched.png"
+ },
+ {
+  "id": 111,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 5,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b5 t1",
+   "SLG/G02/CMAP02.GRCT b2 t1",
+   "SLG/UNITS/IRIS_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0005_BPV1/0001_patched.png"
+ },
+ {
+  "id": 112,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 6,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b6 t0",
+   "SLG/G02/CMAP02.GRCT b3 t0",
+   "SLG/UNITS/KOURAN_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0000_patched.png"
+ },
+ {
+  "id": 113,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 6,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b6 t1",
+   "SLG/G02/CMAP02.GRCT b3 t1",
+   "SLG/UNITS/KOURAN_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0006_BPV1/0001_patched.png"
+ },
+ {
+  "id": 114,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 7,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b7 t0",
+   "SLG/G02/CMAP02.GRCT b4 t0",
+   "SLG/UNITS/ORIHIME_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0000_patched.png"
+ },
+ {
+  "id": 115,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 7,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b7 t1",
+   "SLG/G02/CMAP02.GRCT b4 t1",
+   "SLG/UNITS/ORIHIME_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0007_BPV1/0001_patched.png"
+ },
+ {
+  "id": 116,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 8,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b8 t0",
+   "SLG/G02/CMAP02.GRCT b5 t0",
+   "SLG/UNITS/RENI_K2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0000_patched.png"
+ },
+ {
+  "id": 117,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G01/CMAP01.GRCT",
+  "block": 8,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G01/CMAP01.GRCT b8 t1",
+   "SLG/G02/CMAP02.GRCT b5 t1",
+   "SLG/UNITS/RENI_K2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/CMAP01.GRCT/0008_BPV1/0001_patched.png"
+ },
+ {
+  "id": 118,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "SLG/G01/SMAP01.ESM",
+  "block": 115,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 5,
+  "members": [
+   "SLG/G01/SMAP01.ESM b115 t1",
+   "SLG/G02/SMAP02.ESM b118 t1",
+   "SLG/G03/SMAP03.ESM b118 t1",
+   "SLG/G04/SMAP04.ESM b115 t1",
+   "SLG/G05/SMAP05.ESM b118 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0001_patched.png"
+ },
+ {
+  "id": 119,
+  "verdict": "재제작 완료",
+  "category": "글꼴",
+  "note": "글꼴만 변경, 배치는 원본과 같음 → 원본 디자인으로 재제작",
+  "source": "SLG/G01/SMAP01.ESM",
+  "block": 115,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 5,
+  "members": [
+   "SLG/G01/SMAP01.ESM b115 t2",
+   "SLG/G02/SMAP02.ESM b118 t2",
+   "SLG/G03/SMAP03.ESM b118 t2",
+   "SLG/G04/SMAP04.ESM b115 t2",
+   "SLG/G05/SMAP05.ESM b118 t2"
+  ],
+  "original": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_patched.png"
+ },
+ {
+  "id": 120,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 6,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b6 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_patched.png"
+ },
+ {
+  "id": 121,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 7,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b7 t0",
+   "SLG/G03/CMAP03.GRCT b6 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_patched.png"
+ },
+ {
+  "id": 122,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 8,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b8 t0",
+   "SLG/G03/CMAP03.GRCT b7 t0",
+   "SLG/G04/CMAP04.GRCT b4 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_patched.png"
+ },
+ {
+  "id": 123,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 9,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 3,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b9 t0",
+   "SLG/G03/CMAP03.GRCT b8 t0",
+   "SLG/G04/CMAP04.GRCT b3 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_patched.png"
+ },
+ {
+  "id": 124,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 10,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b10 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0010_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0010_BPV1/0000_patched.png"
+ },
+ {
+  "id": 125,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 11,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G02/CMAP02.GRCT b11 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0011_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0011_BPV1/0000_patched.png"
+ },
+ {
+  "id": 126,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b1 t0",
+   "SLG/UNITS/ERICA_F2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 127,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 1,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b1 t1",
+   "SLG/UNITS/ERICA_F2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_patched.png"
+ },
+ {
+  "id": 128,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 9,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b9 t0",
+   "SLG/G04/CMAP04.GRCT b5 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0009_BPV1/0000_patched.png"
+ },
+ {
+  "id": 129,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 10,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b10 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0010_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0010_BPV1/0000_patched.png"
+ },
+ {
+  "id": 130,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 11,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b11 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0011_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0011_BPV1/0000_patched.png"
+ },
+ {
+  "id": 131,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 12,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b12 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0012_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0012_BPV1/0000_patched.png"
+ },
+ {
+  "id": 132,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 13,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b13 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_patched.png"
+ },
+ {
+  "id": 133,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 14,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b14 t0",
+   "SLG/UNITS/GLYCINE_F2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0000_patched.png"
+ },
+ {
+  "id": 134,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 14,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b14 t1",
+   "SLG/UNITS/GLYCINE_F2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_patched.png"
+ },
+ {
+  "id": 135,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 15,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b15 t0",
+   "SLG/UNITS/COQUELICOT_F2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0000_patched.png"
+ },
+ {
+  "id": 136,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 15,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b15 t1",
+   "SLG/UNITS/COQUELICOT_F2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_patched.png"
+ },
+ {
+  "id": 137,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 16,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b16 t0",
+   "SLG/UNITS/LOBELIA_F2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0000_patched.png"
+ },
+ {
+  "id": 138,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 16,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b16 t1",
+   "SLG/UNITS/LOBELIA_F2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_patched.png"
+ },
+ {
+  "id": 139,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 17,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b17 t0",
+   "SLG/UNITS/HANABI_F2.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0000_patched.png"
+ },
+ {
+  "id": 140,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 17,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 2,
+  "members": [
+   "SLG/G03/CMAP03.GRCT b17 t1",
+   "SLG/UNITS/HANABI_F2.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_patched.png"
+ },
+ {
+  "id": 141,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G04/CMAP04.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 142,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G04/CMAP04.GRCT b1 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 143,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G04/CMAP04.GRCT",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G04/CMAP04.GRCT b2 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G04/CMAP04.GRCT/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 144,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G05/CMAP05.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 145,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G05/CMAP05.GRCT b1 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 146,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/G05/CMAP05.GRCT",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G05/CMAP05.GRCT b2 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G05/CMAP05.GRCT/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 147,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
+  "block": 115,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/COQUELICOT_F2_N.BC b115 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_F2_N.BC/0115_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/COQUELICOT_F2_N.BC/0115_BPV1/0000_patched.png"
+ },
+ {
+  "id": 148,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/ERICA_F2_N.BC",
+  "block": 140,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_F2_N.BC b140 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0000_patched.png"
+ },
+ {
+  "id": 149,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/ERICA_F2_N.BC",
+  "block": 140,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_F2_N.BC b140 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ERICA_F2_N.BC/0140_BPV1/0001_patched.png"
+ },
+ {
+  "id": 150,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+  "block": 125,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_F2_N.BC b125 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0000_patched.png"
+ },
+ {
+  "id": 151,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+  "block": 125,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_F2_N.BC b125 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/GLYCINE_F2_N.BC/0125_BPV1/0001_patched.png"
+ },
+ {
+  "id": 152,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/HANABI_F2_N.BC",
+  "block": 85,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_F2_N.BC b85 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0000_patched.png"
+ },
+ {
+  "id": 153,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/HANABI_F2_N.BC",
+  "block": 85,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_F2_N.BC b85 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/HANABI_F2_N.BC/0085_BPV1/0001_patched.png"
+ },
+ {
+  "id": 154,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/IRIS_K2_N.BC",
+  "block": 74,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/IRIS_K2_N.BC b74 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_K2_N.BC/0074_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/IRIS_K2_N.BC/0074_BPV1/0000_patched.png"
+ },
+ {
+  "id": 155,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/KANNA_K2_N.BC",
+  "block": 114,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_K2_N.BC b114 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0000_patched.png"
+ },
+ {
+  "id": 156,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/KANNA_K2_N.BC",
+  "block": 114,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_K2_N.BC b114 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KANNA_K2_N.BC/0114_BPV1/0001_patched.png"
+ },
+ {
+  "id": 157,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/KOURAN_K2_N.BC",
+  "block": 97,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KOURAN_K2_N.BC b97 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_K2_N.BC/0097_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/KOURAN_K2_N.BC/0097_BPV1/0000_patched.png"
+ },
+ {
+  "id": 158,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+  "block": 190,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_F2_N.BC b190 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0000_patched.png"
+ },
+ {
+  "id": 159,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+  "block": 190,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_F2_N.BC b190 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/LOBELIA_F2_N.BC/0190_BPV1/0001_patched.png"
+ },
+ {
+  "id": 160,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/MARIA_K2_N.BC",
+  "block": 135,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_K2_N.BC b135 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0000_patched.png"
+ },
+ {
+  "id": 161,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/MARIA_K2_N.BC",
+  "block": 135,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_K2_N.BC b135 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/MARIA_K2_N.BC/0135_BPV1/0001_patched.png"
+ },
+ {
+  "id": 162,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/OGAMI_K2_N.BC",
+  "block": 126,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/OGAMI_K2_N.BC b126 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0000_patched.png"
+ },
+ {
+  "id": 163,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/OGAMI_K2_N.BC",
+  "block": 126,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/OGAMI_K2_N.BC b126 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/OGAMI_K2_N.BC/0126_BPV1/0001_patched.png"
+ },
+ {
+  "id": 164,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+  "block": 140,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_K2_N.BC b140 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0000_patched.png"
+ },
+ {
+  "id": 165,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+  "block": 140,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_K2_N.BC b140 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/ORIHIME_K2_N.BC/0140_BPV1/0001_patched.png"
+ },
+ {
+  "id": 166,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/RENI_K2_N.BC",
+  "block": 104,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_K2_N.BC b104 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0000_patched.png"
+ },
+ {
+  "id": 167,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/RENI_K2_N.BC",
+  "block": 104,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_K2_N.BC b104 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/RENI_K2_N.BC/0104_BPV1/0001_patched.png"
+ },
+ {
+  "id": 168,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/SAKURA_K2_N.BC",
+  "block": 114,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_K2_N.BC b114 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0000_patched.png"
+ },
+ {
+  "id": 169,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/SAKURA_K2_N.BC",
+  "block": 114,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_K2_N.BC b114 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SAKURA_K2_N.BC/0114_BPV1/0001_patched.png"
+ },
+ {
+  "id": 170,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+  "block": 185,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_K2_N.BC b185 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0000_patched.png"
+ },
+ {
+  "id": 171,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "반투명 판·명조·그림자·검은 상자 삭제 → assets/images/remake/slg 에서 원본 디자인으로 재제작",
+  "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+  "block": 185,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_K2_N.BC b185 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/UNITS/SUMIRE_K2_N.BC/0185_BPV1/0001_patched.png"
+ },
+ {
+  "id": 172,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "강조용 「戻る」(오른쪽)가 번역되지 않음 → 원본 디자인으로 재제작",
+  "source": "SYSDATA/SAVEMENU.CBD",
+  "block": 0,
+  "texture": 4,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 2,
+  "members": [
+   "SYSDATA/SAVEMENU.CBD b0 t4",
+   "SYSDATA/SAVESLG.CBD b0 t1"
+  ],
+  "original": "assets/extracted/images/SYSDATA/SAVEMENU.CBD/0000_BPV1/0004_original.png",
+  "patched": "assets/extracted/images/SYSDATA/SAVEMENU.CBD/0000_BPV1/0004_patched.png"
+ },
+ {
+  "id": 173,
+  "verdict": "재제작 완료",
+  "category": "오역",
+  "note": "「システムファイルがありません」을 「시스템 파일이 아닙니다」로 옮김 → 「없습니다」 → 원본 디자인으로 재제작",
+  "source": "SYSDATA/SYSSELECT.CBD",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   512,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/SYSSELECT.CBD b1 t0"
+  ],
+  "original": "assets/extracted/images/SYSDATA/SYSSELECT.CBD/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/SYSSELECT.CBD/0001_BPV1/0000_patched.png"
+ },
+ {
+  "id": 174,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "SYSDATA/TITLEMENU.CBD",
+  "block": 0,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/TITLEMENU.CBD b0 t2"
+  ],
+  "original": "assets/extracted/images/SYSDATA/TITLEMENU.CBD/0000_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/SYSDATA/TITLEMENU.CBD/0000_BPV1/0002_patched.png"
+ },
+ {
+  "id": 175,
+  "verdict": "재제작 완료",
+  "category": "",
+  "note": "참고 로고 방식(사쿠라 한글화 + 大戦 유지 + 대·전 이름표)으로 재제작",
+  "source": "SYSDATA/TITLESEQ.CBD",
+  "block": 3,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/TITLESEQ.CBD b3 t0"
+  ],
+  "original": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_patched.png"
+ },
+ {
+  "id": 176,
+  "verdict": "정상",
+  "category": "",
+  "note": "",
+  "source": "SYSDATA/WARNING.CBD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/WARNING.CBD b0 t0"
+  ],
+  "original": "assets/extracted/images/SYSDATA/WARNING.CBD/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/WARNING.CBD/0000_BPV1/0000_patched.png"
+ },
+ {
+  "id": 177,
+  "verdict": "재제작 완료",
+  "category": "디자인",
+  "note": "「オプション」 띠의 투명 배경이 초록 그림으로 채워짐 → 원본 디자인으로 재제작",
+  "source": "SYSDATA/WARNING.CBD",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   256,
+   512
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/WARNING.CBD b2 t0"
+  ],
+  "original": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_patched.png"
+ }
+]

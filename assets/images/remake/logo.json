@@ -1,0 +1,326 @@
+{
+ "items": [
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 733,
+   "texture": 0,
+   "background": "transparent",
+   "transform": [
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 735,
+   "texture": 0,
+   "background": "transparent",
+   "transform": [
+    1,
+    0,
+    48
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      118,
+      258,
+      490,
+      284
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      118,
+      257,
+      490,
+      285
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 22,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 3
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/TITLESEQ.CBD",
+   "block": 3,
+   "texture": 0,
+   "erase_all": false,
+   "transform": [
+    1,
+    46,
+    81
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      160,
+      292,
+      500,
+      320
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      160,
+      291,
+      500,
+      321
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 22,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 3
+    }
+   ],
+   "dark_below": 185
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+   "block": 2,
+   "texture": 0,
+   "erase_all": false,
+   "transform": [
+    0.355,
+    29.6,
+    308.9
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      62,
+      381,
+      186,
+      394
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      60,
+      380,
+      190,
+      395
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 9,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 1
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+   "block": 2,
+   "texture": 0,
+   "erase_all": false,
+   "transform": [
+    0.357,
+    29.6,
+    308.9
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      62,
+      381,
+      186,
+      394
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      60,
+      380,
+      190,
+      395
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 9,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 1
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+   "block": 2,
+   "texture": 0,
+   "erase_all": false,
+   "transform": [
+    0.357,
+    29.6,
+    308.9
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      62,
+      381,
+      186,
+      394
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      60,
+      380,
+      190,
+      395
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 9,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 1
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+   "block": 0,
+   "texture": 1,
+   "erase_all": false,
+   "transform": [
+    0.245,
+    353,
+    90.2
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      372,
+      141,
+      470,
+      152
+     ],
+     "band": [
+      255,
+      240,
+      225
+     ],
+     "rect": [
+      368,
+      140,
+      474,
+      153
+     ],
+     "text": "～ 사랑하라 소녀여 ～",
+     "size": 7,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 0
+    }
+   ],
+   "base_image": "assets/images/remake/ui/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_0001.png"
+  },
+  {
+   "source": "MINIGAME/E2MGTITL.ADC",
+   "block": 0,
+   "texture": 0,
+   "erase_all": false,
+   "transform": [
+    0.99,
+    47.0,
+    92.5
+   ],
+   "erase_extra": [],
+   "blue_erase": [
+    450,
+    85,
+    600,
+    290
+   ],
+   "extra": [
+    {
+     "text": "장",
+     "rect": [
+      452,
+      96,
+      592,
+      282
+     ],
+     "top": [
+      150,
+      215,
+      255
+     ],
+     "bottom": [
+      20,
+      90,
+      230
+     ]
+    }
+   ],
+   "subtitle": [
+    {
+     "erase": [
+      150,
+      301,
+      490,
+      326
+     ],
+     "band": [
+      255,
+      245,
+      235
+     ],
+     "rect": [
+      150,
+      300,
+      490,
+      327
+     ],
+     "text": "～ 론하라 소녀여 ～",
+     "size": 22,
+     "color": [
+      226,
+      80,
+      115
+     ],
+     "track": 4
+    }
+   ],
+   "dark_below": 185
+  }
+ ]
+}

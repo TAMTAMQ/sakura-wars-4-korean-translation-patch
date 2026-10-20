@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Sakura Taisen 4 Korean Translation Patch Contributors
+Copyright (c) 2026 mcpads
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-이 MIT 라이선스는 이 저장소의 파이썬 도구 소스코드(tools/*.py, translate_all.py)에만
-적용됩니다. 게임 원본 데이터, 번역 텍스트, 번들 폰트의 권리 관계는 README.md의
-"라이선스 / 권리" 항목을 참고하세요.

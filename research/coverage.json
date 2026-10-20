@@ -1,0 +1,1162 @@
+[
+  {
+    "path": "1ST_READ.BIN",
+    "structured_text_rows": 214,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/APPEND/APPEND.BIN",
+    "structured_text_rows": 252,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/APPEND/EBG_VIEWER.SBX",
+    "structured_text_rows": 175,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/CG_ALL1.DAT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/CINEMA/CINEMA.BIN",
+    "structured_text_rows": 8,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/ELEVATOR.CSD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/ENDING.BIN",
+    "structured_text_rows": 14,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYECATCH.BIN",
+    "structured_text_rows": 7,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS03.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS04.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS05.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS06.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS07.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS08.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS09.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS10.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS11.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS12.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS13.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/EYEC_DTS14.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/GR.IDX",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/LIPSYNC1.LIP",
+    "structured_text_rows": 1527,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/LIPSYNC2.LIP",
+    "structured_text_rows": 2470,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/LIPSYNC3.LIP",
+    "structured_text_rows": 2185,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/LIPSYNC4.LIP",
+    "structured_text_rows": 1762,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/MOVE.BIN",
+    "structured_text_rows": 31,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/OPTION_BG.CSD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0120.SBX",
+    "structured_text_rows": 1318,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0130.SBX",
+    "structured_text_rows": 3172,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0140.SBX",
+    "structured_text_rows": 121,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0210.SBX",
+    "structured_text_rows": 1437,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0220.SBX",
+    "structured_text_rows": 3823,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0230.SBX",
+    "structured_text_rows": 121,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0240.SBX",
+    "structured_text_rows": 376,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0310.SBX",
+    "structured_text_rows": 4144,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0320.SBX",
+    "structured_text_rows": 2223,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0330.SBX",
+    "structured_text_rows": 122,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0340.SBX",
+    "structured_text_rows": 1128,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0410.SBX",
+    "structured_text_rows": 3382,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "ADVDATA/SCRIPT/S0510.SBX",
+    "structured_text_rows": 2903,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/E2MGTITL.ADC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "MINIGAME/ETC.SBN",
+    "structured_text_rows": 49,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/GAME0.CSD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "MINIGAME/JT00SAKU.SBN",
+    "structured_text_rows": 68,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT01SUMI.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT02MARI.SBN",
+    "structured_text_rows": 62,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT03KANN.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT04IRIS.SBN",
+    "structured_text_rows": 61,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT05KORA.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT06ORIH.SBN",
+    "structured_text_rows": 57,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT07RENI.SBN",
+    "structured_text_rows": 57,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT08ERIC.SBN",
+    "structured_text_rows": 89,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT09GLYC.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT10COQU.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT11LOBE.SBN",
+    "structured_text_rows": 59,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT12HANA.SBN",
+    "structured_text_rows": 56,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT13MEL_.SBN",
+    "structured_text_rows": 44,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT14SIE_.SBN",
+    "structured_text_rows": 45,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT15KAYA.SBN",
+    "structured_text_rows": 45,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT16YONE.SBN",
+    "structured_text_rows": 44,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT17KAED.SBN",
+    "structured_text_rows": 44,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT18KASU.SBN",
+    "structured_text_rows": 44,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT19YURI.SBN",
+    "structured_text_rows": 45,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT20TSUB.SBN",
+    "structured_text_rows": 46,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT21KOTO.SBN",
+    "structured_text_rows": 42,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT22YUKI.SBN",
+    "structured_text_rows": 44,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT23KIKU.SBN",
+    "structured_text_rows": 42,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/JT24GRAN.SBN",
+    "structured_text_rows": 45,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/MENU0.CSD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "MINIGAME/MGJT.BIN",
+    "structured_text_rows": 266,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/TUT.SBN",
+    "structured_text_rows": 209,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "MINIGAME/WIN0.CSD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/COQ_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/END.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/ERI_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/GIY_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/HAN_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/IRI_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KAN_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2IR.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2KN.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2KR.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2MR.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2OG.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2OR.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2RN.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2SK.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KB2SM.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KF2C.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KF2E.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KF2G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KF2H.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KF2L.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/KOU_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/LOB_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/M1.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/M2.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/MAR_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/MIKASA.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/OP2.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/ORI_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/REN_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/SAK_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SFDDATA/SUM_G.SFD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SKFONT.CG",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SKFONT2.CG",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SKFONT3.CG",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SKFONT4.CG",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G01/CMAP01.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G01/SMAP01.ESM",
+    "structured_text_rows": 25,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/CMAP02.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G02/E/EV02001.SBN",
+    "structured_text_rows": 263,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02002.SBN",
+    "structured_text_rows": 210,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02003.SBN",
+    "structured_text_rows": 62,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02004.SBN",
+    "structured_text_rows": 4,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02012.SBN",
+    "structured_text_rows": 40,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02013.SBN",
+    "structured_text_rows": 41,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02014.SBN",
+    "structured_text_rows": 30,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02015.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02016.SBN",
+    "structured_text_rows": 31,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02017.SBN",
+    "structured_text_rows": 12,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02018.SBN",
+    "structured_text_rows": 12,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02019.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02020.SBN",
+    "structured_text_rows": 33,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02021.SBN",
+    "structured_text_rows": 11,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02022.SBN",
+    "structured_text_rows": 11,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02023.SBN",
+    "structured_text_rows": 18,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/E/EV02024.SBN",
+    "structured_text_rows": 26,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G02/SMAP02.ESM",
+    "structured_text_rows": 482,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/CMAP03.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G03/E/EV03001.SBN",
+    "structured_text_rows": 117,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03002.SBN",
+    "structured_text_rows": 28,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03003.SBN",
+    "structured_text_rows": 93,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03004.SBN",
+    "structured_text_rows": 314,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03005.SBN",
+    "structured_text_rows": 136,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03006.SBN",
+    "structured_text_rows": 4,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03007.SBN",
+    "structured_text_rows": 13,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03009.SBN",
+    "structured_text_rows": 35,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03010.SBN",
+    "structured_text_rows": 35,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03011.SBN",
+    "structured_text_rows": 36,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03012.SBN",
+    "structured_text_rows": 38,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03013.SBN",
+    "structured_text_rows": 34,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03014.SBN",
+    "structured_text_rows": 8,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03015.SBN",
+    "structured_text_rows": 6,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03016.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03017.SBN",
+    "structured_text_rows": 7,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03018.SBN",
+    "structured_text_rows": 7,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03020.SBN",
+    "structured_text_rows": 34,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03021.SBN",
+    "structured_text_rows": 2,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/E/EV03022.SBN",
+    "structured_text_rows": 2,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G03/SMAP03.ESM",
+    "structured_text_rows": 490,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/CMAP04.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G04/E/EV04001.SBN",
+    "structured_text_rows": 102,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04002.SBN",
+    "structured_text_rows": 88,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04003.SBN",
+    "structured_text_rows": 40,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04005.SBN",
+    "structured_text_rows": 4,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04006.SBN",
+    "structured_text_rows": 34,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04007.SBN",
+    "structured_text_rows": 40,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04008.SBN",
+    "structured_text_rows": 30,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04009.SBN",
+    "structured_text_rows": 27,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04010.SBN",
+    "structured_text_rows": 28,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04011.SBN",
+    "structured_text_rows": 33,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04012.SBN",
+    "structured_text_rows": 28,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04013.SBN",
+    "structured_text_rows": 36,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04014.SBN",
+    "structured_text_rows": 37,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04015.SBN",
+    "structured_text_rows": 28,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04016.SBN",
+    "structured_text_rows": 34,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04017.SBN",
+    "structured_text_rows": 37,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04018.SBN",
+    "structured_text_rows": 39,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04019.SBN",
+    "structured_text_rows": 12,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04020.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04021.SBN",
+    "structured_text_rows": 17,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04022.SBN",
+    "structured_text_rows": 13,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04024.SBN",
+    "structured_text_rows": 11,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04025.SBN",
+    "structured_text_rows": 14,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04026.SBN",
+    "structured_text_rows": 11,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04027.SBN",
+    "structured_text_rows": 14,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04028.SBN",
+    "structured_text_rows": 13,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04029.SBN",
+    "structured_text_rows": 12,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04030.SBN",
+    "structured_text_rows": 14,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04031.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04032.SBN",
+    "structured_text_rows": 17,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04033.SBN",
+    "structured_text_rows": 12,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04034.SBN",
+    "structured_text_rows": 10,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04035.SBN",
+    "structured_text_rows": 73,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04036.SBN",
+    "structured_text_rows": 81,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04037.SBN",
+    "structured_text_rows": 282,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04038.SBN",
+    "structured_text_rows": 14,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/E/EV04039.SBN",
+    "structured_text_rows": 25,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G04/SMAP04.ESM",
+    "structured_text_rows": 530,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G05/CMAP05.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/G05/E/EV05001.SBN",
+    "structured_text_rows": 43,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G05/E/EV05002.SBN",
+    "structured_text_rows": 402,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G05/E/EV05003.SBN",
+    "structured_text_rows": 4,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/G05/SMAP05.ESM",
+    "structured_text_rows": 495,
+    "mode": "구조화 번역 + 원본 보존"
+  },
+  {
+    "path": "SLG/UNITS/COQUELICOT_F2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/COQUELICOT_F2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/ERICA_F2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/ERICA_F2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/GLYCINE_F2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/GLYCINE_F2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/HANABI_F2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/HANABI_F2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/IRIS_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/IRIS_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/KANNA_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/KANNA_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/KOURAN_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/KOURAN_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/LOBELIA_F2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/LOBELIA_F2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/MARIA_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/MARIA_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/OGAMI_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/ORIHIME_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/ORIHIME_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/RENI_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/RENI_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/SAKURA_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/SAKURA_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/SUMIRE_K2.GRCT",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SLG/UNITS/SUMIRE_K2_N.BC",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/SAVEMENU.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/SAVESLG.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/SYSSELECT.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/TITLEMENU.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/TITLESEQ.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  },
+  {
+    "path": "SYSDATA/WARNING.CBD",
+    "structured_text_rows": 0,
+    "mode": "바이너리 그대로 통합"
+  }
+]

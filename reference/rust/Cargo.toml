@@ -1,0 +1,19 @@
+[package]
+name = "patch-guard"
+description = "Platform-neutral validation guards for reproducible binary patch builds"
+version = "0.4.0"
+edition = "2024"
+license = "MIT"
+rust-version = "1.85"
+
+[dependencies]
+anyhow = "1"
+expected-write = { git = "https://github.com/mcpads/retro-typed-isa" }
+sha2 = "0.10"
+
+[dev-dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[lints.clippy]
+all = "warn"

@@ -1,0 +1,1183 @@
+{
+ "_comment": "SLG 컷인 이름판 재제작 입력. 문구는 v0.5 개선판 이미지의 한국어를 옮겨 적은 것이다. rects는 [텍스처 번호, x0, y0, x1, y1]이며 한 chain의 조각들은 게임에서 이어 붙여 보이므로 글자가 조각 경계를 넘어 이어진다. style: plate=반투명 검은 판, box=불투명 검은 상자. layout: center=가운데, spaced=원본처럼 글자 칸 고르게 배치(공백 무시), left=x에서 시작.",
+ "font": {
+  "path": "C:/Windows/Fonts/NotoSerifKR-VF.ttf",
+  "weight": 600
+ },
+ "templates": {
+  "member": [
+   {
+    "key": "T",
+    "rects": [
+     [
+      0,
+      0,
+      80,
+      80,
+      104
+     ],
+     [
+      0,
+      0,
+      104,
+      128,
+      128
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "N",
+    "rects": [
+     [
+      1,
+      0,
+      0,
+      128,
+      24
+     ],
+     [
+      1,
+      0,
+      24,
+      88,
+      48
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 5
+   },
+   {
+    "key": "B",
+    "rects": [
+     [
+      1,
+      88,
+      24,
+      128,
+      48
+     ],
+     [
+      1,
+      96,
+      72,
+      128,
+      96
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 0
+   },
+   {
+    "key": "A",
+    "rects": [
+     [
+      1,
+      0,
+      48,
+      128,
+      72
+     ],
+     [
+      1,
+      0,
+      72,
+      96,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "U",
+    "rects": [
+     [
+      1,
+      0,
+      96,
+      128,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "spaced"
+   }
+  ],
+  "unit_bc2": [
+   {
+    "key": "N",
+    "rects": [
+     [
+      1,
+      0,
+      0,
+      64,
+      32
+     ],
+     [
+      1,
+      0,
+      32,
+      64,
+      64
+     ],
+     [
+      0,
+      0,
+      0,
+      64,
+      32
+     ],
+     [
+      0,
+      0,
+      32,
+      64,
+      64
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 6
+   }
+  ],
+  "unit_bc1": [
+   {
+    "key": "N",
+    "rects": [
+     [
+      0,
+      0,
+      0,
+      64,
+      32
+     ],
+     [
+      0,
+      0,
+      32,
+      64,
+      64
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 6
+   }
+  ],
+  "pilot": [
+   {
+    "key": "H",
+    "rects": [
+     [
+      0,
+      0,
+      0,
+      128,
+      24
+     ]
+    ],
+    "style": "plate",
+    "layout": "spaced"
+   },
+   {
+    "key": "T",
+    "rects": [
+     [
+      0,
+      0,
+      24,
+      128,
+      48
+     ],
+     [
+      0,
+      0,
+      48,
+      80,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "B",
+    "rects": [
+     [
+      0,
+      80,
+      48,
+      128,
+      72
+     ],
+     [
+      0,
+      96,
+      96,
+      120,
+      120
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 0
+   },
+   {
+    "key": "A",
+    "rects": [
+     [
+      0,
+      0,
+      72,
+      128,
+      96
+     ],
+     [
+      0,
+      0,
+      96,
+      96,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   }
+  ],
+  "oni": [
+   {
+    "key": "NAME",
+    "rects": [
+     [
+      0,
+      64,
+      0,
+      128,
+      24
+     ]
+    ],
+    "style": "box",
+    "layout": "spaced"
+   },
+   {
+    "key": "C1",
+    "rects": [
+     [
+      0,
+      64,
+      24,
+      128,
+      48
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "C2",
+    "rects": [
+     [
+      0,
+      64,
+      48,
+      128,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "R3",
+    "rects": [
+     [
+      0,
+      0,
+      72,
+      96,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "left",
+    "x": 4,
+    "track": 2
+   },
+   {
+    "key": "R4",
+    "rects": [
+     [
+      0,
+      0,
+      96,
+      128,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "left",
+    "x": 4,
+    "track": 2
+   },
+   {
+    "key": "NONE",
+    "rects": [
+     [
+      0,
+      96,
+      72,
+      124,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 0
+   },
+   {
+    "key": "PAD",
+    "rects": [
+     [
+      0,
+      124,
+      72,
+      128,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 0
+   }
+  ],
+  "object": [
+   {
+    "key": "C0",
+    "rects": [
+     [
+      0,
+      64,
+      0,
+      128,
+      24
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "C1",
+    "rects": [
+     [
+      0,
+      64,
+      24,
+      128,
+      48
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "C2",
+    "rects": [
+     [
+      0,
+      64,
+      48,
+      128,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "K",
+    "rects": [
+     [
+      0,
+      0,
+      72,
+      128,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "spaced"
+   },
+   {
+    "key": "BOX",
+    "rects": [
+     [
+      0,
+      0,
+      96,
+      72,
+      120
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "NONE",
+    "rects": [
+     [
+      0,
+      72,
+      96,
+      120,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   }
+  ],
+  "object_low": [
+   {
+    "key": "C1",
+    "rects": [
+     [
+      0,
+      64,
+      24,
+      128,
+      48
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "C2",
+    "rects": [
+     [
+      0,
+      64,
+      48,
+      128,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 1
+   },
+   {
+    "key": "K",
+    "rects": [
+     [
+      0,
+      0,
+      72,
+      128,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "spaced"
+   },
+   {
+    "key": "BOX",
+    "rects": [
+     [
+      0,
+      0,
+      96,
+      72,
+      120
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "NONE",
+    "rects": [
+     [
+      0,
+      72,
+      96,
+      120,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   }
+  ],
+  "warship": [
+   {
+    "key": "N",
+    "rects": [
+     [
+      0,
+      0,
+      0,
+      128,
+      24
+     ],
+     [
+      0,
+      0,
+      48,
+      80,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "P",
+    "rects": [
+     [
+      0,
+      0,
+      24,
+      128,
+      48
+     ],
+     [
+      0,
+      0,
+      72,
+      80,
+      96
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "BOX",
+    "rects": [
+     [
+      0,
+      0,
+      96,
+      72,
+      120
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 2
+   },
+   {
+    "key": "NONE",
+    "rects": [
+     [
+      0,
+      72,
+      96,
+      120,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   }
+  ],
+  "nagayasu": [
+   {
+    "key": "N",
+    "rects": [
+     [
+      0,
+      0,
+      0,
+      128,
+      24
+     ],
+     [
+      0,
+      0,
+      24,
+      80,
+      48
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 3
+   },
+   {
+    "key": "B",
+    "rects": [
+     [
+      0,
+      80,
+      24,
+      128,
+      48
+     ],
+     [
+      0,
+      96,
+      96,
+      120,
+      120
+     ]
+    ],
+    "style": "box",
+    "layout": "center",
+    "track": 0
+   },
+   {
+    "key": "W",
+    "rects": [
+     [
+      0,
+      0,
+      48,
+      128,
+      72
+     ]
+    ],
+    "style": "plate",
+    "layout": "spaced"
+   },
+   {
+    "key": "A",
+    "rects": [
+     [
+      0,
+      0,
+      72,
+      128,
+      96
+     ],
+     [
+      0,
+      0,
+      96,
+      96,
+      120
+     ]
+    ],
+    "style": "plate",
+    "layout": "center",
+    "track": 2
+   }
+  ]
+ },
+ "blocks": [
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 0,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조 대장",
+    "N": "오오가미 이치로",
+    "B": "오오가미",
+    "A": "낭호멸각 천지신명",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 1,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "신구지 사쿠라",
+    "B": "사쿠라",
+    "A": "파사검정 앵화천승",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 2,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "칸자키 스미레",
+    "B": "스미레",
+    "A": "칸자키풍진류 공작의 춤",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 3,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "마리아 타치바나",
+    "B": "마리아",
+    "A": "리디니크",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 4,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "키리시마 칸나",
+    "B": "칸나",
+    "A": "공상군",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 5,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "아이리스",
+    "B": "아이리스",
+    "A": "이리스 프로디지와 장 폴",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 6,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "이홍란",
+    "B": "홍란",
+    "A": "꼬마로봇 2식",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 7,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "솔레타 오리히메",
+    "B": "오리히메",
+    "A": "오소레미오",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "block": 8,
+   "template": "member",
+   "text": {
+    "T": "제국화격단·화조",
+    "N": "레니 밀히슈트라세",
+    "B": "레니",
+    "A": "브라우어 포겔",
+    "U": "광무2식"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 1,
+   "template": "member",
+   "text": {
+    "T": "파리화격단·화조 부대장",
+    "N": "에리카 폰티느",
+    "B": "에리카",
+    "A": "에반질",
+    "U": "광무F2"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 14,
+   "template": "member",
+   "text": {
+    "T": "파리화격단·화조 부대장",
+    "N": "글리신 블뢰메르",
+    "B": "글리신",
+    "A": "게르 상트",
+    "U": "광무F2"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 15,
+   "template": "member",
+   "text": {
+    "T": "파리화격단·화조 부대장",
+    "N": "코쿠리코",
+    "B": "코쿠리코",
+    "A": "마르슈 샤톤",
+    "U": "광무F2"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 16,
+   "template": "member",
+   "text": {
+    "T": "파리화격단·화조 부대장",
+    "N": "로벨리아 카를리니",
+    "B": "로벨리아",
+    "A": "카르도 프리지오네",
+    "U": "광무F2"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 17,
+   "template": "member",
+   "text": {
+    "T": "파리화격단·화조 부대장",
+    "N": "키타오지 하나비",
+    "B": "하나비",
+    "A": "키타오지 하나비 세 번째 춤 설월풍화",
+    "U": "광무F2"
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 6,
+   "template": "pilot",
+   "text": {
+    "H": "???",
+    "T": "마조기병 시카미",
+    "B": "시카미",
+    "A": "천고불역 지신의 분노"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 13,
+   "template": "pilot",
+   "text": {
+    "H": "???",
+    "T": "마조기병 하쿠시키",
+    "B": "하쿠시키",
+    "A": "천고불역 천신의 위엄"
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 7,
+   "template": "oni",
+   "text": {
+    "NAME": "녹귀",
+    "C1": "귀식신",
+    "C2": "마조",
+    "R3": "「녹」",
+    "R4": "기병 증귀",
+    "NONE": "없음"
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 8,
+   "template": "oni",
+   "text": {
+    "NAME": "적귀",
+    "C1": "귀식신",
+    "C2": "마조",
+    "R3": "「적」",
+    "R4": "기병 증귀",
+    "NONE": "없음"
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 9,
+   "template": "oni",
+   "text": {
+    "NAME": "청귀",
+    "C1": "귀식신",
+    "C2": "마조",
+    "R3": "「청」",
+    "R4": "기병 증귀",
+    "NONE": "없음"
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 10,
+   "template": "object",
+   "text": {
+    "K": "병기",
+    "BOX": "홍련",
+    "NONE": "없음",
+    "C0": "종식신",
+    "C1": "「홍련」",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G02/CMAP02.GRCT",
+   "block": 11,
+   "template": "object",
+   "text": {
+    "K": "지형",
+    "BOX": "철책",
+    "NONE": "없음",
+    "C0": "하나야시키",
+    "C1": "중앙",
+    "C2": "철책"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 9,
+   "template": "object",
+   "text": {
+    "K": "지형",
+    "BOX": "금결계",
+    "NONE": "없음",
+    "C0": "금결계",
+    "C1": "",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 10,
+   "template": "object",
+   "text": {
+    "K": "병기",
+    "BOX": "주궁",
+    "NONE": "없음",
+    "C0": "고식신",
+    "C1": "「주궁」",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 11,
+   "template": "object",
+   "text": {
+    "K": "승용차",
+    "BOX": "승용차",
+    "NONE": "없음",
+    "C0": "칸자키",
+    "C1": "자동차",
+    "C2": "제"
+   }
+  },
+  {
+   "source": "SLG/G03/CMAP03.GRCT",
+   "block": 12,
+   "template": "object",
+   "text": {
+    "K": "노선버스",
+    "BOX": "버스",
+    "NONE": "없음",
+    "C0": "대제국",
+    "C1": "교통",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G05/CMAP05.GRCT",
+   "block": 1,
+   "template": "object_low",
+   "text": {
+    "K": "병기",
+    "BOX": "우의",
+    "NONE": "없음",
+    "C1": "우의",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G05/CMAP05.GRCT",
+   "block": 2,
+   "template": "object_low",
+   "text": {
+    "K": "병기",
+    "BOX": "우의",
+    "NONE": "없음",
+    "C1": "우의",
+    "C2": ""
+   }
+  },
+  {
+   "source": "SLG/G04/CMAP04.GRCT",
+   "block": 0,
+   "template": "warship",
+   "text": {
+    "N": "공중전함 미카사",
+    "P": "동력 파이프",
+    "BOX": "파이프",
+    "NONE": "없음"
+   }
+  },
+  {
+   "source": "SLG/G04/CMAP04.GRCT",
+   "block": 1,
+   "template": "warship",
+   "text": {
+    "N": "공중전함 미카사",
+    "P": "부포 제어반",
+    "BOX": "제어반",
+    "NONE": "없음"
+   }
+  },
+  {
+   "source": "SLG/G04/CMAP04.GRCT",
+   "block": 2,
+   "template": "nagayasu",
+   "text": {
+    "N": "오오쿠보 나가야스",
+    "B": "나가야스",
+    "W": "신체",
+    "A": "천고불역 오행영기"
+   }
+  },
+  {
+   "source": "SLG/G05/CMAP05.GRCT",
+   "block": 0,
+   "template": "nagayasu",
+   "text": {
+    "N": "오오쿠보 나가야스",
+    "B": "나가야스",
+    "W": "신체",
+    "A": {
+     "text": "없음",
+     "layout": "left",
+     "x": 6
+    }
+   }
+  },
+  {
+   "source": "SLG/UNITS/OGAMI_K2_N.BC",
+   "block": 126,
+   "template": "unit_bc2",
+   "text": {
+    "N": "오오가미 이치로"
+   }
+  },
+  {
+   "source": "SLG/UNITS/SAKURA_K2_N.BC",
+   "block": 114,
+   "template": "unit_bc2",
+   "text": {
+    "N": "신구지 사쿠라"
+   }
+  },
+  {
+   "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+   "block": 185,
+   "template": "unit_bc2",
+   "text": {
+    "N": "칸자키 스미레"
+   }
+  },
+  {
+   "source": "SLG/UNITS/MARIA_K2_N.BC",
+   "block": 135,
+   "template": "unit_bc2",
+   "text": {
+    "N": "마리아·타치바나"
+   }
+  },
+  {
+   "source": "SLG/UNITS/KANNA_K2_N.BC",
+   "block": 114,
+   "template": "unit_bc2",
+   "text": {
+    "N": "키리시마 칸나"
+   }
+  },
+  {
+   "source": "SLG/UNITS/IRIS_K2_N.BC",
+   "block": 74,
+   "template": "unit_bc1",
+   "text": {
+    "N": "아이리스"
+   }
+  },
+  {
+   "source": "SLG/UNITS/KOURAN_K2_N.BC",
+   "block": 97,
+   "template": "unit_bc1",
+   "text": {
+    "N": "이홍란"
+   }
+  },
+  {
+   "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+   "block": 140,
+   "template": "unit_bc2",
+   "text": {
+    "N": "솔레타·오리히메"
+   }
+  },
+  {
+   "source": "SLG/UNITS/RENI_K2_N.BC",
+   "block": 104,
+   "template": "unit_bc2",
+   "text": {
+    "N": "레니·밀히슈트라세"
+   }
+  },
+  {
+   "source": "SLG/UNITS/ERICA_F2_N.BC",
+   "block": 140,
+   "template": "unit_bc2",
+   "text": {
+    "N": "에리카·폰티느"
+   }
+  },
+  {
+   "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+   "block": 125,
+   "template": "unit_bc2",
+   "text": {
+    "N": "글리신·블뢰메르"
+   }
+  },
+  {
+   "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
+   "block": 115,
+   "template": "unit_bc1",
+   "text": {
+    "N": "코쿠리코"
+   }
+  },
+  {
+   "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+   "block": 190,
+   "template": "unit_bc2",
+   "text": {
+    "N": "로벨리아·카를리니"
+   }
+  },
+  {
+   "source": "SLG/UNITS/HANABI_F2_N.BC",
+   "block": 85,
+   "template": "unit_bc2",
+   "text": {
+    "N": "키타오지 하나비"
+   }
+  }
+ ]
+}

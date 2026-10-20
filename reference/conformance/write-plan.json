@@ -1,0 +1,346 @@
+{
+  "schema_version": 2,
+  "cases": [
+    {
+      "id": "owned-data-write",
+      "expected": "accept",
+      "given": "one data write has one owner, an exact original-byte precondition, and one matching data region",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "data",
+            "start": 1,
+            "end": 3,
+            "kind": "data"
+          }
+        ],
+        "writes": [
+          {
+            "id": "first",
+            "owner": "layout",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [8, 9],
+            "intent": "data"
+          }
+        ]
+      },
+      "output": [0, 8, 9, 3]
+    },
+    {
+      "id": "overlapping-writes",
+      "expected": "reject",
+      "given": "two writes overlap even though they name the same owner",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "data",
+            "start": 1,
+            "end": 4,
+            "kind": "data"
+          }
+        ],
+        "writes": [
+          {
+            "id": "first",
+            "owner": "layout",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [8, 9],
+            "intent": "data"
+          },
+          {
+            "id": "second",
+            "owner": "layout",
+            "offset": 2,
+            "expected_original": [2],
+            "replacement": [7],
+            "intent": "data"
+          }
+        ]
+      },
+      "rejection": "overlapping_writes"
+    },
+    {
+      "id": "protected-region-write",
+      "expected": "reject",
+      "given": "a tracked write targets a protected region",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "data",
+            "start": 1,
+            "end": 3,
+            "kind": "protected"
+          }
+        ],
+        "writes": [
+          {
+            "id": "first",
+            "owner": "layout",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [8, 9],
+            "intent": "data"
+          }
+        ]
+      },
+      "rejection": "protected_region"
+    },
+    {
+      "id": "wrong-original-bytes",
+      "expected": "reject",
+      "given": "the declared original-byte precondition differs from the verified baseline",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "data",
+            "start": 1,
+            "end": 3,
+            "kind": "data"
+          }
+        ],
+        "writes": [
+          {
+            "id": "first",
+            "owner": "layout",
+            "offset": 1,
+            "expected_original": [9, 9],
+            "replacement": [8, 9],
+            "intent": "data"
+          }
+        ]
+      },
+      "rejection": "original_bytes"
+    },
+    {
+      "id": "untracked-final-diff",
+      "expected": "reject",
+      "given": "the final image changes one byte outside all Expected Writes",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "data",
+            "start": 1,
+            "end": 3,
+            "kind": "data"
+          }
+        ],
+        "writes": [
+          {
+            "id": "first",
+            "owner": "layout",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [8, 9],
+            "intent": "data"
+          }
+        ],
+        "audit_output": [0, 8, 9, 9]
+      },
+      "rejection": "untracked_diff"
+    },
+    {
+      "id": "raw-data-in-machine-code",
+      "expected": "reject",
+      "given": "a data-intent write tries to place opcode bytes in a declared machine-code region",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "code",
+            "start": 1,
+            "end": 3,
+            "kind": "machine_code"
+          }
+        ],
+        "writes": [
+          {
+            "id": "hook",
+            "owner": "code-patch",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [170, 187],
+            "intent": "data"
+          }
+        ]
+      },
+      "rejection": "intent_region"
+    },
+    {
+      "id": "machine-code-without-verifier",
+      "expected": "reject",
+      "given": "a machine-code write declares assembly provenance but no target ISA verifier is installed",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "code",
+            "start": 1,
+            "end": 3,
+            "kind": "machine_code"
+          }
+        ],
+        "writes": [
+          {
+            "id": "hook",
+            "owner": "code-patch",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [170, 187],
+            "intent": "machine_code",
+            "assembly_source_id": "asm/hook.s",
+            "isa_profile_id": "fixture-isa"
+          }
+        ]
+      },
+      "rejection": "missing_verifier"
+    },
+    {
+      "id": "verified-machine-code",
+      "expected": "accept",
+      "given": "the target verifier matches replacement bytes to the assembly source, returns a contiguous structured decode, and reassembles that decode to the same bytes",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "code",
+            "start": 1,
+            "end": 3,
+            "kind": "machine_code"
+          }
+        ],
+        "writes": [
+          {
+            "id": "hook",
+            "owner": "code-patch",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [170, 187],
+            "intent": "machine_code",
+            "assembly_source_id": "asm/hook.s",
+            "isa_profile_id": "fixture-isa"
+          }
+        ],
+        "verifier": {
+          "assembly_source_id": "asm/hook.s",
+          "isa_profile_id": "fixture-isa",
+          "assembled": [170, 187],
+          "decoded": [
+            {
+              "offset": 0,
+              "len": 1,
+              "canonical": "fixture_a"
+            },
+            {
+              "offset": 1,
+              "len": 1,
+              "canonical": "fixture_b"
+            }
+          ],
+          "reassembled": [170, 187]
+        }
+      },
+      "output": [0, 170, 187, 3]
+    },
+    {
+      "id": "machine-code-decode-gap",
+      "expected": "reject",
+      "given": "the target verifier leaves a gap between decoded instructions",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "code",
+            "start": 1,
+            "end": 3,
+            "kind": "machine_code"
+          }
+        ],
+        "writes": [
+          {
+            "id": "hook",
+            "owner": "code-patch",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [170, 187],
+            "intent": "machine_code",
+            "assembly_source_id": "asm/hook.s",
+            "isa_profile_id": "fixture-isa"
+          }
+        ],
+        "verifier": {
+          "assembly_source_id": "asm/hook.s",
+          "isa_profile_id": "fixture-isa",
+          "assembled": [170, 187],
+          "decoded": [
+            {
+              "offset": 0,
+              "len": 1,
+              "canonical": "fixture_a"
+            },
+            {
+              "offset": 2,
+              "len": 1,
+              "canonical": "fixture_b"
+            }
+          ],
+          "reassembled": [170, 187]
+        }
+      },
+      "rejection": "decode_gap"
+    },
+    {
+      "id": "machine-code-reassembly-mismatch",
+      "expected": "reject",
+      "given": "the structured decode reassembles to bytes that differ from the replacement",
+      "input": {
+        "baseline": [0, 1, 2, 3],
+        "regions": [
+          {
+            "id": "code",
+            "start": 1,
+            "end": 3,
+            "kind": "machine_code"
+          }
+        ],
+        "writes": [
+          {
+            "id": "hook",
+            "owner": "code-patch",
+            "offset": 1,
+            "expected_original": [1, 2],
+            "replacement": [170, 187],
+            "intent": "machine_code",
+            "assembly_source_id": "asm/hook.s",
+            "isa_profile_id": "fixture-isa"
+          }
+        ],
+        "verifier": {
+          "assembly_source_id": "asm/hook.s",
+          "isa_profile_id": "fixture-isa",
+          "assembled": [170, 187],
+          "decoded": [
+            {
+              "offset": 0,
+              "len": 1,
+              "canonical": "fixture_a"
+            },
+            {
+              "offset": 1,
+              "len": 1,
+              "canonical": "fixture_b"
+            }
+          ],
+          "reassembled": [170, 68]
+        }
+      },
+      "rejection": "reassembly"
+    }
+  ]
+}
