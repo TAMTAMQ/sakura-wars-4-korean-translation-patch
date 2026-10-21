@@ -144,7 +144,8 @@
     ],
     "style": "plate",
     "layout": "center",
-    "track": 6
+    "track": 6,
+    "fit_original": true
    }
   ],
   "unit_bc1": [
@@ -168,7 +169,8 @@
     ],
     "style": "plate",
     "layout": "center",
-    "track": 6
+    "track": 6,
+    "fit_original": true
    }
   ],
   "pilot": [
@@ -1073,7 +1075,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "오오가미 이치로"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/SAKURA_K2_N.BC",
@@ -1081,7 +1084,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "신구지 사쿠라"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/SUMIRE_K2_N.BC",
@@ -1089,7 +1093,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "칸자키 스미레"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/MARIA_K2_N.BC",
@@ -1097,7 +1102,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "마리아·타치바나"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/KANNA_K2_N.BC",
@@ -1105,7 +1111,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "키리시마 칸나"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/IRIS_K2_N.BC",
@@ -1113,7 +1120,8 @@
    "template": "unit_bc1",
    "text": {
     "N": "아이리스"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/KOURAN_K2_N.BC",
@@ -1121,7 +1129,8 @@
    "template": "unit_bc1",
    "text": {
     "N": "이홍란"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/ORIHIME_K2_N.BC",
@@ -1129,7 +1138,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "솔레타·오리히메"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/RENI_K2_N.BC",
@@ -1137,7 +1147,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "레니·밀히슈트라세"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/ERICA_F2_N.BC",
@@ -1145,7 +1156,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "에리카·폰티느"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/GLYCINE_F2_N.BC",
@@ -1153,7 +1165,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "글리신·블뢰메르"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
@@ -1161,7 +1174,8 @@
    "template": "unit_bc1",
    "text": {
     "N": "코쿠리코"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/LOBELIA_F2_N.BC",
@@ -1169,7 +1183,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "로벨리아·카를리니"
-   }
+   },
+   "use_v05": true
   },
   {
    "source": "SLG/UNITS/HANABI_F2_N.BC",
@@ -1177,7 +1192,8 @@
    "template": "unit_bc2",
    "text": {
     "N": "키타오지 하나비"
-   }
+   },
+   "use_v05": true
   }
  ]
 }

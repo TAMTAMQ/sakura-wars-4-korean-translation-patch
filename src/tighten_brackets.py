@@ -6,8 +6,9 @@
 칸 끝 쪽으로 옮겨, 획과 다음 글자 사이 간격을 한글 글자 간격에 맞춘다.
 막대 끝(캡) 모양은 그대로 남긴다.
 
-같은 김에 전각 ？(타일 8)·！(타일 9)·０~９(타일 147~156)를 한글과 같은 Noto Sans KR,
-같은 크기 비율로 다시 그린다(원래 글리프는 한글 옆에서 굵고 커 보였다).
+같은 김에 전각 ？(타일 8)·！(타일 9)·０~９(147~156)·Ａ~Ｚ(157~182)·ａ~ｚ(183~208)를
+한글과 같은 Noto Sans KR, 같은 크기 비율로 다시 그린다(원래 글리프는 한글 옆에서 굵고 커
+보였고, v0.5 영문 일부에는 빗금 얼룩도 있었다).
 
 항상 originals/v05 기준선에서 다시 계산하므로 여러 번 실행해도 결과가 같다.
 """
@@ -20,7 +21,8 @@ FONTS = [('SKFONT.CG', 26), ('SKFONT2.CG', 24), ('SKFONT3.CG', 22), ('SKFONT4.CG
 OPENING = {53: '「', 55: '『'}
 CLOSING = {54: '」', 56: '』'}
 HANGUL_TILES = range(492, 700)
-REDRAW = {8: '?', 9: '!', **{147 + i: str(i) for i in range(10)}}  # ？！, 전각 ０~９
+REDRAW = {8: '?', 9: '!', **{147 + i: str(i) for i in range(10)},  # ？！, 전각 ０~９
+          **{157 + i: chr(65 + i) for i in range(26)}, **{183 + i: chr(97 + i) for i in range(26)}}  # Ａ~Ｚ, ａ~ｚ
 # 한자 유지 표기(광무・改): 改(0x89FC) 칸은 한글 「망」이 쓰고 있어, 원문에 한 번도 안 나오는
 # 岐(0x8AF2) 칸에 改를 그린다. config/encoding.json 「改」 = f2f2. 원본 일본어 글리프는 한글보다
 # 훨씬 굵어서, 한자가 들어 있는 맑은 고딕으로 한글과 같은 방식으로 그린다.
@@ -90,7 +92,9 @@ def main():
             img = Image.new('L', (s, s), 0)
             d = ImageDraw.Draw(img)
             bb = d.textbbox((0, 0), ch, font=font)
-            d.text(((s - bb[2] + bb[0]) // 2 - bb[0], (s - bb[3] + bb[1]) // 2 - bb[1]), ch, fill=255, font=font)
+            # 영문·숫자는 기준선을 맞춘다(「H」 높이로 세로 위치 고정). 글자마다 가운데 정렬하면 소문자 높이가 들쭉날쭉하다
+            vb = d.textbbox((0, 0), 'H', font=font) if ch.isascii() and ch.isalnum() else bb
+            d.text(((s - bb[2] + bb[0]) // 2 - bb[0], (s - vb[3] + vb[1]) // 2 - vb[1]), ch, fill=255, font=font)
             data[t * stride:(t + 1) * stride] = encode((np.asarray(img) >> 4).astype(np.uint8))
         (ROOT / 'assets/fonts/native' / name).write_bytes(bytes(data))
         print(name, '한글 여백', lm, rm)

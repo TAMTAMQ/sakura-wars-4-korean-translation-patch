@@ -39,8 +39,37 @@ def glyph_px(height):
     return round(height * 0.84)
 
 
-def render_mask(text, width, height, layout, track, x_off, font_cfg):
+def place(ink, starts, W, cuts, align, x_off):
+    """글자 잉크 구간(ink: 글자 원점 기준 [l, r])을 조각 경계(cuts)를 넘지 않게 배치한다.
+    경계에 걸린 글자는 다음 조각 시작으로 민다. 넘치면 None."""
+    def run(x0):
+        out, shift = [], 0.0
+        for (l, r), s in zip(ink, starts):
+            x = x0 + s + shift
+            for c in cuts:
+                if x + l < c < x + r:
+                    shift += c - (x + l) + SS
+                    x = x0 + s + shift
+            out.append(x)
+        end = max(x + r for x, (l, r) in zip(out, ink)) if out else x0
+        return out, end
+    lo = x_off * SS + 2 * SS
+    pos, end = run(lo)
+    if end > W - 2 * SS:
+        return None
+    if align == 'center':
+        for k in range(40):  # 가운데로 옮겨 보되 경계 때문에 넘치면 덜 옮긴다
+            off = (W - (end - lo)) / 2 - lo
+            p2, e2 = run(lo + off * (1 - k / 40))
+            if e2 <= W - 2 * SS:
+                return p2
+    return pos
+
+
+def render_mask(text, width, height, layout, track, x_off, font_cfg, cuts=()):
     """chain 전체 폭의 글자 마스크(0~1)를 만든다."""
+    if cuts and layout != 'spaced':
+        return render_chain(text, width, height, layout, track, x_off, font_cfg, cuts)
     W, H = width * SS, height * SS
     size = glyph_px(height) * SS
     font = load_font(font_cfg, size)
@@ -89,6 +118,46 @@ def render_mask(text, width, height, layout, track, x_off, font_cfg):
     return np.asarray(layer, dtype=np.float64) / 255
 
 
+def render_chain(text, width, height, layout, track, x_off, font_cfg, cuts):
+    """여러 조각으로 나뉘는 띠: 글자가 조각 경계를 가로지르지 않게 배치한다.
+    (경계에 걸린 글자는 두 조각에 나뉘어 들어가, 게임이 조각을 따로 그리는 화면에서
+    남은 획이 그림자처럼 보였다.)"""
+    W, H = width * SS, height * SS
+    size = glyph_px(height) * SS
+    font = load_font(font_cfg, size)
+    box = font.getbbox('한')
+    font = load_font(font_cfg, round(size * size / (box[3] - box[1])))
+    box = font.getbbox('한')
+    top = (H - (box[3] - box[1])) / 2 - box[1] - SS
+    chars = list(text)
+    cuts = [c * SS for c in cuts]
+    for k in range(51):
+        s = 1 - k * 0.01
+        starts, x, ink = [], 0.0, []
+        for c in chars:
+            b = font.getbbox(c) if c != ' ' else (0, 0, 0, 0)
+            starts.append(x)
+            ink.append((b[0] * s, b[2] * s + 3 * SS))  # 오른쪽 아래 그림자 몫 3px
+            x += (font.getlength(c) + track * SS) * s
+        pos = place(ink, starts, W, cuts, layout, x_off)
+        if pos is not None:
+            break
+    else:
+        print('  경계 맞춤 실패(기존 배치 사용):', text, width, cuts)
+        return render_mask(text, width, height, layout, track, x_off, font_cfg)
+    layer = Image.new('L', (W, H), 0)
+    for c, x in zip(chars, pos):
+        if c == ' ':
+            continue
+        gw = int(np.ceil(font.getlength(c))) + 2 * SS
+        g = Image.new('L', (gw, H), 0)
+        ImageDraw.Draw(g).text((0, top), c, font=font, fill=255)
+        g = g.resize((max(1, round(gw * s)), H), Image.LANCZOS)
+        layer.paste(g, (int(round(x)), 0), g)
+    layer = layer.resize((width, height), Image.BOX)
+    return np.asarray(layer, dtype=np.float64) / 255
+
+
 def compose(mask, style):
     h, w = mask.shape
     base = 1.0 if style == 'box' else PLATE_ALPHA
@@ -120,6 +189,11 @@ def main():
                 if r[0] not in images:
                     t = tex[key]
                     images[r[0]] = np.asarray(Image.open(ROOT / t['original_png']).convert('RGBA')).copy()
+        if blk.get('use_v05'):
+            # 게임이 조각을 어떻게 그리는지 확실하지 않은 띠는 v0.5 개선판 배치를 그대로 쓴다
+            for t in images:
+                images[t] = np.asarray(Image.open(ROOT / tex[(blk['source'], blk['block'], t)]['png']).convert('RGBA')).copy()
+            chains = []
         for chain in chains:
             text = blk['text'].get(chain['key'], '')
             if isinstance(text, dict):  # 블록별로 배치를 바꿀 때 {"text", "layout", "x", "track"}
@@ -129,8 +203,26 @@ def main():
             assert len(heights) == 1, chain
             h = heights.pop()
             width = sum(r[3] - r[1] for r in chain['rects'])
-            mask = render_mask(text, width, h, chain['layout'], chain.get('track', 0), chain.get('x', 0), cfg['font']) \
-                if text else np.zeros((h, width))
+            used = width
+            if chain.get('fit_original'):
+                # 전투 컷인 이름 띠: 게임은 원본 글자가 쓴 조각까지만, 마지막 조각은 원본 글자 끝까지만 그린다.
+                # (넘친 한글이 잘리고 잘린 획이 줄무늬처럼 보였다) → 그 폭 안에만 쓰고 끝 2px은 비운다.
+                used, off = 0, 0
+                for t, x0, y0, x1, y1 in chain['rects']:
+                    a = images[t][y0:y1, x0:x1]
+                    xs = np.where(((a[..., 3] > 60) & (a[..., :3].max(-1) > 120)).any(0))[0]
+                    if len(xs):
+                        used = off + xs.max() + 1
+                    off += x1 - x0
+                used -= 2
+            cuts, acc = [], 0
+            for r in chain['rects'][:-1]:
+                acc += r[3] - r[1]
+                if acc < used:
+                    cuts.append(acc)
+            mask = render_mask(text, used, h, chain['layout'], chain.get('track', 0), chain.get('x', 0), cfg['font'],
+                               cuts) if text else np.zeros((h, used))
+            mask = np.pad(mask, ((0, 0), (0, width - used)))
             rgba = compose(mask, chain['style'])
             off = 0
             for t, x0, y0, x1, y1 in chain['rects']:

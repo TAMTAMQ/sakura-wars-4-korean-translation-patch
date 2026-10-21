@@ -101,8 +101,18 @@ def build(root=ROOT,output=None):
             if rel not in baseline: raise ValueError('미등록 자산: '+rel)
             data=path.read_bytes()
             if data==baseline[rel]: continue
-            if rel in writes: raise ValueError('문안과 자산 쓰기 충돌: '+rel)
             if rel.endswith('.BIN'): raise ValueError('실행/혼합 BIN 교체는 별도 명세가 필요합니다: '+rel)
+            if rel in writes:
+                # 같은 파일에 문안·고정 패치가 있으면 자산은 바뀐 구간만 쓴다(겹치면 write가 막는다)
+                if len(data)!=len(baseline[rel]): raise ValueError('문안과 자산 쓰기 충돌(크기 변경): '+rel)
+                base=baseline[rel]; diff=[i for i in range(len(data)) if data[i]!=base[i]]
+                s=p=diff[0]
+                for i in diff[1:]+[None]:
+                    if i is None or i>p+16:
+                        write(rel,s,base[s:p+1],data[s:p+1],'native:'+rel)
+                        if i is not None: s=i
+                    if i is not None: p=i
+                continue
             write(rel,0,baseline[rel],data,'native:'+rel)
     for rel,data in result.items():
         if rel not in writes and bytes(data)!=baseline[rel]: raise ValueError('미등록 최종 diff: '+rel)

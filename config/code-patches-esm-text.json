@@ -1,0 +1,164 @@
+{
+ "patches": [
+  {
+   "file": "SLG/G01/SMAP01.ESM",
+   "offset": 401516,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G01/SMAP01.ESM",
+   "offset": 401668,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G01/SMAP01.ESM",
+   "offset": 401820,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G01/SMAP01.ESM",
+   "offset": 401968,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G02/SMAP02.ESM",
+   "offset": 467600,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G02/SMAP02.ESM",
+   "offset": 467752,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G02/SMAP02.ESM",
+   "offset": 467904,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G02/SMAP02.ESM",
+   "offset": 468052,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G03/SMAP03.ESM",
+   "offset": 355892,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G03/SMAP03.ESM",
+   "offset": 356044,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G03/SMAP03.ESM",
+   "offset": 356196,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G03/SMAP03.ESM",
+   "offset": 356344,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G04/SMAP04.ESM",
+   "offset": 304384,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G04/SMAP04.ESM",
+   "offset": 304536,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G04/SMAP04.ESM",
+   "offset": 304688,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G04/SMAP04.ESM",
+   "offset": 304836,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G05/SMAP05.ESM",
+   "offset": 218780,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G05/SMAP05.ESM",
+   "offset": 218932,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G05/SMAP05.ESM",
+   "offset": 219084,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  },
+  {
+   "file": "SLG/G05/SMAP05.ESM",
+   "offset": 219232,
+   "original_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf0aef984f154",
+   "new_hex": "f0a4f17bf8f3f8b2f2aaf240f8c8f19cf35df0cf8144",
+   "kind": "text",
+   "note": "전투 상태창 「今は、この命令を出している。」: v0.5 문구가 「…있」에서 끊김 → 「지금은 이 명령을 내렸다．」(문안 행 밖 고정 문자열)"
+  }
+ ]
+}
