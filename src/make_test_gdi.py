@@ -79,6 +79,11 @@ def main(src, dcp, out):
     with zipfile.ZipFile(dcp) as z:
         names = [n for n in z.namelist() if not n.endswith('/')]
         for n in names:
+            if n == 'bootsector/IP.BIN':  # 부트 섹터: 트랙 첫 16섹터
+                data = z.read(n)
+                assert len(data) == 16 * 2048
+                write(TRACK_LBA, data)
+                continue
             key = n.upper()
             if key not in entries:
                 print('ISO에 없는 파일(건너뜀):', n)

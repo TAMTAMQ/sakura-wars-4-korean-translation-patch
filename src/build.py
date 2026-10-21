@@ -58,6 +58,14 @@ def build(root=ROOT,output=None):
             count=struct.unpack_from('<I',data,8)[0]
             lip_offb[rel]=sorted(struct.unpack_from('<I',data,12+k*12+8)[0]-1 for k in range(count))
     pad=bytes.fromhex(codes['⁣']) if lip_offb else b''
+    # 지역 해제: 원본 부트 섹터(IP.BIN)를 DCP의 bootsector/IP.BIN으로 넣는다(config/region-free.json)
+    rf=root/'config/region-free.json'
+    if rf.exists():
+        rfc=readjson(rf); ip=safe(root,rfc['source'])
+        if not ip.exists(): raise ValueError('원본 IP.BIN 없음: '+rfc['source']+' (원본 GDI track03 첫 16섹터)')
+        data=ip.read_bytes()
+        if len(data)!=rfc['size'] or sha(data)!=rfc['sha256']: raise ValueError('기준선 불일치: '+rfc['source'])
+        baseline['bootsector/IP.BIN']=data
     result={k:bytearray(v) for k,v in baseline.items()}; writes={}; changed=[]
     def write(rel,pos,expected,new,owner):
         data=baseline[rel]
@@ -83,6 +91,9 @@ def build(root=ROOT,output=None):
         orig=bytes.fromhex(p['original_hex']); new=bytes.fromhex(p['new_hex'])
         if len(orig)!=len(new): raise ValueError('코드 패치 길이 불일치: '+p['note'])
         write(p['file'],p['offset'],orig,new,'code:'+p['note'])
+    if rf.exists():
+        for p in rfc['patches']:
+            write('bootsector/IP.BIN',p['offset'],bytes.fromhex(p['original_hex']),bytes.fromhex(p['new_hex']),'region-free')
     for asset_root in ['assets/images/native','assets/fonts/native','assets/video/native']:
         for path in (root/asset_root).rglob('*'):
             if not path.is_file(): continue

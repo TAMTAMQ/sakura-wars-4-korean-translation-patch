@@ -1,0 +1,23 @@
+{
+ "note": "지역 해제(Region Free). 원본 IP.BIN(originals/bootsector/IP.BIN, 원본 GDI track03 첫 16섹터)에 적용. 릴리스 「실기 실행을 위한 수정본」 v2/v3와 같은 변경",
+ "source": "originals/bootsector/IP.BIN",
+ "size": 32768,
+ "sha256": "a7aa83d30ee3e4dcc0d72582669fbcf793832d7dd9129c7591dea4160c1426da",
+ "patches": [
+  {
+   "offset": 48,
+   "original_hex": "4a2020",
+   "new_hex": "4a5545"
+  },
+  {
+   "offset": 14116,
+   "original_hex": "20202020202020202020202020202020202020",
+   "new_hex": "466f722055534120616e642043414e4144412e"
+  },
+  {
+   "offset": 14148,
+   "original_hex": "2020202020202020202020",
+   "new_hex": "466f72204555524f50452e"
+  }
+ ]
+}

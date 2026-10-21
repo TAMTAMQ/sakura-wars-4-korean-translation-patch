@@ -99,3 +99,7 @@ v0.5가 지운 반투명 판·명조·그림자·검은 상자를 되살린 PNG 
 릴리스의 「실기 실행을 위한 수정본」 v2(지연 슬롯 이슈 3개 롤백)·v3(번역 외 17개 롤백)가 필요했던 이유: v0.5가 1ST_READ.BIN의 NOP 빈칸 두 곳(0x92760, 0x93640)에 함수를 넣었는데, 두 빈칸의 첫 칸이 바로 앞 `bra`(0x9275E, 0x9363E)의 지연 슬롯이었다. 새 함수 첫 명령 `mov.l @(disp,PC),r1`이 분기 때마다 지연 슬롯에서 실행된다(PC 상대 로드 + r1 덮어쓰기). 에뮬레이터는 넘어가지만 실기에서는 멈춘다. v3의 IP.BIN은 지역 코드 J → JUE(지역 해제)만 바꿨다.
 
 `src/make_slot_fix_patch.py` → `config/code-patches-slotfix.json`: 두 함수를 빈 영역 0xAE300·0xAE320으로 그대로 옮기고(주소 mod 4 동일), 원래 빈칸은 원본 NOP으로 복원, 함수 A 포인터(0x13B888)를 고치고, 함수 B는 0x93642 점프대를 거치게 했다. v0.5 기능은 유지된다. 실행 파일의 v0.5 변경 구간 전체를 지연 슬롯 규칙으로 검사해 남은 문제 없음(0x2188xx 이후는 문자열 데이터 오탐). 실기 확인은 아직 못 했다.
+
+## 지역 해제 (2026-10-21)
+
+DCP에 `bootsector/IP.BIN`을 넣는다(`config/region-free.json`). 원본 부트 섹터(원본 GDI track03 첫 16섹터)를 `originals/bootsector/IP.BIN`에 두면(로컬 전용, 세가 부트 코드라 git 제외) 빌드가 해시를 확인하고 지역 코드 J → JUE, 「For USA and CANADA.」「For EUROPE.」 문구만 바꾼다. 결과는 릴리스 수정본 v3의 IP.BIN과 바이트 동일. `make_test_gdi.py`도 부트 섹터를 쓴다.
