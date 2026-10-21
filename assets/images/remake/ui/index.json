@@ -278,5 +278,21 @@
   "original": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_original.png",
   "patched": "assets/extracted/images/SLG/G01/SMAP01.ESM/0115_BPV1/0002_patched.png",
   "remake": "assets/images/remake/ui/SLG/G01/SMAP01.ESM/0115_0002.png"
+ },
+ {
+  "source": "SLG/G01/E/EV01001EFF00.BT1",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0002_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/SLG/G01/E/EV01001EFF00.BT1/0002_0000.png"
+ },
+ {
+  "source": "SLG/G01/E/EV01001EFF00.BT1",
+  "block": 4,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0004_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0004_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/SLG/G01/E/EV01001EFF00.BT1/0004_0000.png"
  }
 ]

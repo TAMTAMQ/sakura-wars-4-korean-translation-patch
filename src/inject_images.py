@@ -30,6 +30,7 @@ from prs_compress import compress_optimal as compress  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / 'originals/v05'
+DISC = ROOT / 'originals/disc'  # v0.5가 손대지 않은 파일(config/disc-baseline.json)은 원본 디스크가 기준선
 NATIVE = ROOT / 'assets/images/native'
 STAGES = ['slg', 'staffroll', 'ui', 'logo']
 ALLOW_MOVE = '--allow-move' in sys.argv  # 기본: 레코드를 옮기지 않는다(파일 크기·위치 그대로)
@@ -298,7 +299,7 @@ def main():
         by_file[src][block] = texs
     report = {'files': [], 'errors': []}
     for rel, blocks in sorted(by_file.items()):
-        raw = (BASE / rel).read_bytes()
+        raw = (BASE / rel if (BASE / rel).exists() else DISC / rel).read_bytes()
         specs = E.block_specs(raw)
         if rel.endswith('CG_ALL1.DAT') and (NATIVE / 'ADVDATA/GR.IDX').exists():
             (NATIVE / 'ADVDATA/GR.IDX').write_bytes((BASE / 'ADVDATA/GR.IDX').read_bytes())

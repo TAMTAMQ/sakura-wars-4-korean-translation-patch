@@ -19,11 +19,15 @@ ui.json 항목: {"source", "block", "texture", "ops": [...]}
    "track": 0, "squeeze": 1.0}
 """
 import json
+import sys
 from pathlib import Path
 
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import export_images as E  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / 'assets/images/remake/ui.json'
@@ -239,13 +243,29 @@ def quantize(arr, pf):
     return arr
 
 
+def disc_texture(source, block, texture):
+    """추출 색인에 없는 텍스처(v0.5가 손대지 않은 파일)를 원본에서 직접 디코딩한다."""
+    path = ROOT / 'originals/v05' / source
+    if not path.exists():
+        path = ROOT / 'originals/disc' / source
+    sig, off, packed, comp, exp = E.block_specs(path.read_bytes())[block]
+    dec = E.decompress(packed, exp) if comp else packed
+    _, img, meta = (E.decode_bpv(dec) if sig == 'BPV1' else E.decode_adcg(dec))[texture]
+    out = ROOT / 'assets/extracted/images' / source / f'{block:04d}_{sig}' / f'{texture:04d}_original.png'
+    out.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out)
+    rel = out.relative_to(ROOT).as_posix()
+    return {'original_png': rel, 'png': rel, 'pixel_format': meta['pixel_format']}
+
+
 def main():
     cfg = json.loads(CONFIG.read_text(encoding='utf-8'))
     index = json.loads((ROOT / 'assets/extracted/images/index.json').read_text(encoding='utf-8'))
     tex = {(t['source'], t['block'], t['texture']): t for t in index['textures']}
     rows = []
     for item in cfg['items']:
-        t = tex[(item['source'], item['block'], item['texture'])]
+        key = (item['source'], item['block'], item['texture'])
+        t = tex[key] if key in tex else disc_texture(*key)
         base = t['png'] if item.get('base') == 'patched' else t['original_png']
         arr = np.asarray(Image.open(ROOT / base).convert('RGBA')).copy()
         for op in item['ops']:

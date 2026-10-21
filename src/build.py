@@ -30,8 +30,11 @@ def build(root=ROOT,output=None):
     index=readjson(root/'assets/translation/index.json')
     codes=readjson(root/'config/encoding.json')
     baseline={}
-    for item in manifest['files']:
-        data=safe(root/'originals/v05',item['path']).read_bytes()
+    # v0.5가 손대지 않은 파일은 원본 디스크가 기준선이다(예: 1화 연출 BT1의 제목 텍스처)
+    extra=root/'config/disc-baseline.json'
+    disc_items=[{**i,'origin':'disc'} for i in (readjson(extra)['files'] if extra.exists() else [])]
+    for item in manifest['files']+disc_items:
+        data=safe(root/'originals'/item.get('origin','v05'),item['path']).read_bytes()
         if len(data)!=item['size'] or sha(data)!=item['sha256']: raise ValueError('기준선 불일치: '+item['path'])
         baseline[item['path']]=data
     rows={}; segment_hashes={}

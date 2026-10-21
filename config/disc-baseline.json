@@ -1,0 +1,11 @@
+{
+ "note": "v0.5가 손대지 않아 originals/v05에 없는 파일. 기준선 = originals/disc",
+ "files": [
+  {
+   "path": "SLG/G01/E/EV01001EFF00.BT1",
+   "size": 265020,
+   "sha256": "dad1cd1094377525a90c549bf68be69ac59cc5f0871dbca4681907112ea734eb",
+   "reason": "오프닝 시 다음 세로 제목 「サクラ大戦4」「〜恋せよ乙女〜」 텍스처(블록 2, 4)"
+  }
+ ]
+}

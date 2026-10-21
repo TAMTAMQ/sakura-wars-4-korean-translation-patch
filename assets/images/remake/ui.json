@@ -5603,6 +5603,106 @@
      ]
     }
    ]
+  },
+  {
+   "source": "SLG/G01/E/EV01001EFF00.BT1",
+   "block": 2,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      100,
+      14,
+      160,
+      244
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      108,
+      22,
+      148,
+      234
+     ],
+     "text": "사쿠라대전４",
+     "font": "gungso",
+     "size": 31,
+     "fill": [
+      255,
+      255,
+      255
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true,
+     "stroke": [
+      [
+       255,
+       255,
+       255
+      ],
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "source": "SLG/G01/E/EV01001EFF00.BT1",
+   "block": 4,
+   "texture": 0,
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      100,
+      40,
+      160,
+      218
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      110,
+      48,
+      146,
+      214
+     ],
+     "text": "사랑하라소녀여",
+     "font": "gungso",
+     "size": 23,
+     "fill": [
+      255,
+      255,
+      255
+     ],
+     "vertical": true,
+     "top": true,
+     "justify": true,
+     "stroke": [
+      [
+       255,
+       255,
+       255
+      ],
+      0.5
+     ]
+    }
+   ]
   }
  ]
 }

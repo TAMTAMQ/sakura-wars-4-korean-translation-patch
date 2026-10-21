@@ -1740,6 +1740,37 @@
    ]
   },
   {
+   "source": "SLG/G01/E/EV01001EFF00.BT1",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    },
+    {
+     "block": 4,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
    "source": "SLG/G01/SMAP01.ESM",
    "blocks": [
     {
