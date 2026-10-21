@@ -67,3 +67,7 @@ __pycache__/
 # 생성물·외부 참고 자료(배포하지 않음)
 /assets/images/review/image_review.html
 /한글 디자인 참고용 로고.png
+
+# 저작권 자료: 게임 원본 그림에서 나온 이미지는 저장소에 올리지 않는다 (로컬에서만 생성·사용)
+*.png
+/assets/images/remake/slg_compare.html
