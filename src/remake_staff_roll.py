@@ -115,6 +115,24 @@ def fit(block, arr):
     raise ValueError(f'블록 {block}: 가장 단순화해도 {size} > {room}')
 
 
+def keep_inside(arr, orig):
+    """글자(빛 포함)를 원본 글자 범위 안으로 넣는다(넘치면 줄이고 원본 범위 가운데로).
+    원본보다 1~2px 넓게 퍼져 텍스처 가장자리에 닿는 것이 있었다."""
+    def box(a):
+        m = a[..., 3] > 20
+        ys, xs = np.where(m.any(1))[0], np.where(m.any(0))[0]
+        return xs.min(), ys.min(), xs.max() + 1, ys.max() + 1
+    ox0, oy0, ox1, oy1 = box(orig)
+    rx0, ry0, rx1, ry1 = box(arr)
+    s = min(1.0, (ox1 - ox0) / (rx1 - rx0), (oy1 - oy0) / (ry1 - ry0))
+    im = Image.fromarray(arr).crop((rx0, ry0, rx1, ry1))
+    if s < 1:
+        im = im.resize((max(1, int((rx1 - rx0) * s)), max(1, int((ry1 - ry0) * s))), Image.LANCZOS)
+    out = Image.new('RGBA', (arr.shape[1], arr.shape[0]), (0, 0, 0, 0))
+    out.paste(im, (ox0 + (ox1 - ox0 - im.width) // 2, oy0 + (oy1 - oy0 - im.height) // 2))
+    return np.asarray(out).copy()
+
+
 def main():
     cfg = json.loads(CONFIG.read_text(encoding='utf-8'))
     index = json.loads((ROOT / 'assets/extracted/images/index.json').read_text(encoding='utf-8'))
@@ -127,6 +145,7 @@ def main():
         h, w = orig.shape[:2]
         arr = render(text, w, h, ink_box(orig), cfg['font'])
         arr, level, size, room = fit(int(block), arr)
+        arr = keep_inside(arr, orig)
         out = OUT / f'{int(block):04d}_0000.png'
         Image.fromarray(arr).save(out)
         rows.append({'source': cfg['source'], 'block': int(block), 'texture': 0, 'text': text,
