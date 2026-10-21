@@ -1,0 +1,49 @@
+{
+ "patches": [
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 713472,
+   "original_hex": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "new_hex": "04d101e0022104d222600820fc8b03d02b40090034780a8c30780a8c80f90a8c05d112600820028901e00b000900e62fd62f02d02b40090034780a8cc4430a8c",
+   "kind": "machine-code",
+   "isa": "SH-4 little-endian",
+   "note": "v0.5 함수 A·B를 지연 슬롯 밖으로 이동"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 599904,
+   "original_hex": "04d101e0022104d222600820fc8b03d02b40090034780a8c30780a8c80f90a8c",
+   "new_hex": "0900090009000900090009000900090009000900090009000900090009000900",
+   "kind": "machine-code",
+   "isa": "SH-4 little-endian",
+   "note": "함수 A 자리 원본 NOP 복원(0x9275E bra의 지연 슬롯)"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 603712,
+   "original_hex": "05d112600820028901e00b000900e62fd62f02d02b40090034780a8cc4430a8c",
+   "new_hex": "090001d02b40090020e30b8c0900090009000900090009000900090009000900",
+   "kind": "machine-code",
+   "isa": "SH-4 little-endian",
+   "note": "함수 B 자리: 슬롯 NOP 복원 + 0x93642 점프대"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 1292424,
+   "original_hex": "60270a8c",
+   "new_hex": "00e30b8c",
+   "kind": "machine-code",
+   "isa": "SH-4 little-endian",
+   "note": "함수 A 포인터 → 0xAE300"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 607168,
+   "original_hex": "3ea9",
+   "new_hex": "3fa9",
+   "kind": "machine-code",
+   "isa": "SH-4 little-endian",
+   "note": "bra → 0x93642 점프대"
+  }
+ ]
+}

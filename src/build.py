@@ -78,9 +78,8 @@ def build(root=ROOT,output=None):
             while len(encoded)<need: encoded+=pad
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
         changed.append(key)
-    # 기계어·포인터 패치: config/code-patches.json (src/make_bracket_patch.py가 생성)
-    cp=root/'config/code-patches.json'
-    for p in (readjson(cp)['patches'] if cp.exists() else []):
+    # 기계어·포인터 패치: config/code-patches*.json (src/make_bracket_patch.py, make_slot_fix_patch.py가 생성)
+    for p in [p for cp in sorted((root/'config').glob('code-patches*.json')) for p in readjson(cp)['patches']]:
         orig=bytes.fromhex(p['original_hex']); new=bytes.fromhex(p['new_hex'])
         if len(orig)!=len(new): raise ValueError('코드 패치 길이 불일치: '+p['note'])
         write(p['file'],p['offset'],orig,new,'code:'+p['note'])
