@@ -143,9 +143,8 @@ def main():
         t = tex[(cfg['source'], int(block), 0)]
         orig = np.asarray(Image.open(ROOT / t['original_png']).convert('RGBA'))
         h, w = orig.shape[:2]
-        arr = render(text, w, h, ink_box(orig), cfg['font'])
-        arr, level, size, room = fit(int(block), arr)
-        arr = keep_inside(arr, orig)
+        arr = keep_inside(render(text, w, h, ink_box(orig), cfg['font']), orig)
+        arr, level, size, room = fit(int(block), arr)  # 자리 맞춤(단순화)은 위치를 정한 뒤에
         out = OUT / f'{int(block):04d}_0000.png'
         Image.fromarray(arr).save(out)
         rows.append({'source': cfg['source'], 'block': int(block), 'texture': 0, 'text': text,

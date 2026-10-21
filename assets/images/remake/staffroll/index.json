@@ -8,7 +8,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0679_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0679_0000.png",
   "simplify_level": 1,
-  "compressed": 7279,
+  "compressed": 7358,
   "room": 8152
  },
  {
@@ -19,8 +19,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0680_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0680_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0680_0000.png",
-  "simplify_level": 2,
-  "compressed": 3843,
+  "simplify_level": 3,
+  "compressed": 3466,
   "room": 4056
  },
  {
@@ -32,7 +32,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0681_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0681_0000.png",
   "simplify_level": 1,
-  "compressed": 7416,
+  "compressed": 7511,
   "room": 8152
  },
  {
@@ -44,7 +44,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0684_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0684_0000.png",
   "simplify_level": 1,
-  "compressed": 7622,
+  "compressed": 7812,
   "room": 8152
  },
  {
@@ -55,8 +55,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0685_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0685_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0685_0000.png",
-  "simplify_level": 0,
-  "compressed": 5507,
+  "simplify_level": 1,
+  "compressed": 4896,
   "room": 6104
  },
  {
@@ -68,7 +68,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0686_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0686_0000.png",
   "simplify_level": 1,
-  "compressed": 6085,
+  "compressed": 5992,
   "room": 6104
  },
  {
@@ -79,8 +79,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0687_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0687_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0687_0000.png",
-  "simplify_level": 0,
-  "compressed": 5998,
+  "simplify_level": 1,
+  "compressed": 5202,
   "room": 6104
  },
  {
@@ -92,7 +92,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0690_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0690_0000.png",
   "simplify_level": 0,
-  "compressed": 9456,
+  "compressed": 12240,
   "room": 12248
  },
  {
@@ -103,8 +103,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0691_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0691_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0691_0000.png",
-  "simplify_level": 0,
-  "compressed": 7878,
+  "simplify_level": 1,
+  "compressed": 6945,
   "room": 8152
  },
  {
@@ -115,8 +115,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0692_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0692_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0692_0000.png",
-  "simplify_level": 0,
-  "compressed": 8336,
+  "simplify_level": 1,
+  "compressed": 7303,
   "room": 10200
  },
  {
@@ -128,7 +128,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0693_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0693_0000.png",
   "simplify_level": 0,
-  "compressed": 6542,
+  "compressed": 8137,
   "room": 8152
  },
  {
@@ -139,8 +139,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0696_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0696_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0696_0000.png",
-  "simplify_level": 0,
-  "compressed": 8641,
+  "simplify_level": 1,
+  "compressed": 7640,
   "room": 10200
  },
  {
@@ -152,7 +152,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0697_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0697_0000.png",
   "simplify_level": 1,
-  "compressed": 7208,
+  "compressed": 7277,
   "room": 8152
  },
  {
@@ -163,8 +163,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0698_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0698_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0698_0000.png",
-  "simplify_level": 0,
-  "compressed": 8432,
+  "simplify_level": 1,
+  "compressed": 7354,
   "room": 10200
  },
  {
@@ -176,7 +176,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0699_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0699_0000.png",
   "simplify_level": 1,
-  "compressed": 7237,
+  "compressed": 7282,
   "room": 8152
  },
  {
@@ -188,7 +188,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0702_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0702_0000.png",
   "simplify_level": 4,
-  "compressed": 3838,
+  "compressed": 3951,
   "room": 4056
  },
  {
@@ -200,7 +200,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0703_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0703_0000.png",
   "simplify_level": 1,
-  "compressed": 5684,
+  "compressed": 5744,
   "room": 6104
  },
  {
@@ -212,7 +212,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0704_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0704_0000.png",
   "simplify_level": 1,
-  "compressed": 7072,
+  "compressed": 7237,
   "room": 8152
  },
  {
@@ -224,7 +224,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0705_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0705_0000.png",
   "simplify_level": 2,
-  "compressed": 5181,
+  "compressed": 5689,
   "room": 6104
  },
  {
@@ -236,7 +236,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0708_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0708_0000.png",
   "simplify_level": 0,
-  "compressed": 3038,
+  "compressed": 3463,
   "room": 4056
  },
  {
@@ -248,7 +248,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0709_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0709_0000.png",
   "simplify_level": 0,
-  "compressed": 3112,
+  "compressed": 3698,
   "room": 4056
  },
  {
@@ -259,8 +259,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0710_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0710_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0710_0000.png",
-  "simplify_level": 0,
-  "compressed": 3796,
+  "simplify_level": 1,
+  "compressed": 2955,
   "room": 4056
  },
  {
@@ -272,7 +272,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0711_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0711_0000.png",
   "simplify_level": 0,
-  "compressed": 3010,
+  "compressed": 3365,
   "room": 4056
  },
  {
@@ -284,7 +284,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0712_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0712_0000.png",
   "simplify_level": 0,
-  "compressed": 3060,
+  "compressed": 3670,
   "room": 4056
  },
  {
@@ -296,7 +296,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0713_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0713_0000.png",
   "simplify_level": 0,
-  "compressed": 3240,
+  "compressed": 3617,
   "room": 4056
  },
  {
@@ -308,7 +308,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0714_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0714_0000.png",
   "simplify_level": 0,
-  "compressed": 3158,
+  "compressed": 3820,
   "room": 4056
  },
  {
@@ -320,7 +320,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0715_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0715_0000.png",
   "simplify_level": 1,
-  "compressed": 3557,
+  "compressed": 3287,
   "room": 4056
  },
  {
@@ -332,7 +332,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0716_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0716_0000.png",
   "simplify_level": 1,
-  "compressed": 3644,
+  "compressed": 3365,
   "room": 4056
  },
  {
@@ -344,7 +344,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0717_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0717_0000.png",
   "simplify_level": 0,
-  "compressed": 3063,
+  "compressed": 3665,
   "room": 4056
  },
  {
@@ -356,7 +356,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0718_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0718_0000.png",
   "simplify_level": 3,
-  "compressed": 1890,
+  "compressed": 1791,
   "room": 2008
  },
  {
@@ -367,8 +367,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0719_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0719_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0719_0000.png",
-  "simplify_level": 3,
-  "compressed": 1859,
+  "simplify_level": 2,
+  "compressed": 1993,
   "room": 2008
  },
  {
@@ -380,7 +380,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0720_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0720_0000.png",
   "simplify_level": 0,
-  "compressed": 2966,
+  "compressed": 3592,
   "room": 4056
  },
  {
@@ -392,7 +392,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0723_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0723_0000.png",
   "simplify_level": 2,
-  "compressed": 5319,
+  "compressed": 5788,
   "room": 6104
  },
  {
@@ -403,8 +403,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0724_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0724_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0724_0000.png",
-  "simplify_level": 0,
-  "compressed": 8312,
+  "simplify_level": 1,
+  "compressed": 7327,
   "room": 10200
  },
  {
@@ -416,7 +416,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0725_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0725_0000.png",
   "simplify_level": 0,
-  "compressed": 5656,
+  "compressed": 6998,
   "room": 10200
  },
  {
@@ -428,7 +428,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0726_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0726_0000.png",
   "simplify_level": 1,
-  "compressed": 5696,
+  "compressed": 5710,
   "room": 6104
  },
  {
@@ -439,8 +439,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0729_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0729_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0729_0000.png",
-  "simplify_level": 0,
-  "compressed": 6905,
+  "simplify_level": 1,
+  "compressed": 5885,
   "room": 8152
  },
  {
@@ -452,7 +452,7 @@
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0730_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0730_0000.png",
   "simplify_level": 0,
-  "compressed": 6339,
+  "compressed": 7913,
   "room": 10200
  },
  {
@@ -463,8 +463,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0731_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0731_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0731_0000.png",
-  "simplify_level": 0,
-  "compressed": 8078,
+  "simplify_level": 1,
+  "compressed": 7192,
   "room": 10200
  },
  {
@@ -475,8 +475,8 @@
   "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0732_ADCG/0000_original.png",
   "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0732_ADCG/0000_patched.png",
   "remake": "assets/images/remake/staffroll/0732_0000.png",
-  "simplify_level": 0,
-  "compressed": 8372,
+  "simplify_level": 1,
+  "compressed": 7410,
   "room": 10200
  }
 ]
