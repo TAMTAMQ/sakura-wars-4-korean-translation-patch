@@ -1,0 +1,12 @@
+{"id": "dialogue:f2b75719b03abaa5", "source": "この試合では、//ボクのパイが//ボーナスパイになってるんだよ。", "text": "이 시합에서는，//내 패가//보너스 패가 되어 있다구．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0003"}]}
+{"id": "dialogue:30534c017460121b", "source": "今回のお題はこれだよ。//この中の、どれか１組を//そろえてね。", "text": "이번 주제는 이거야．//이 중에서，어느 한 세트를//맞춰 줘．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0004"}]}
+{"id": "dialogue:4f5dbe625c5db885", "source": "よーし！//ボクが親だね∈", "text": "좋아∈//내가 딜러네∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0005"}]}
+{"id": "dialogue:703ff64047347294", "source": "今度は、//イチローが親だよ！", "text": "이번에는，//이치로가 딜러야∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0006"}]}
+{"id": "dialogue:f40d9190b7ae8bb6", "source": "やった～！//ボク、勝っちゃったーっ∈", "text": "해냈다～∈//나，이겼어～∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0007"}, {"id": "MINIGAME/JT10COQU.SBN#0017"}]}
+{"id": "dialogue:537f0f6d52d04d2c", "source": "もうちょっとだったのに……", "text": "조금만 더하면 됐는데…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0008"}, {"id": "MINIGAME/JT10COQU.SBN#0018"}]}
+{"id": "dialogue:6b199eab86b476c8", "source": "今度は負けないからね！", "text": "이번에는 지지 않을 거야∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0009"}, {"id": "MINIGAME/JT10COQU.SBN#0019"}]}
+{"id": "dialogue:b59f1633619b4ada", "source": "あー、楽しかった。//また遊ぼうよ、イチロー。", "text": "아～，즐거웠어．//또 놀자，이치로．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0010"}, {"id": "MINIGAME/JT10COQU.SBN#0020"}]}
+{"id": "dialogue:0d9668121efd8dea", "source": "次の対戦相手は、//ボクよりも強いよ。//がんばってね！", "text": "다음 대전 상대는，//나보다 강할 거야．//힘내∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0011"}]}
+{"id": "dialogue:70ca22bd0e9c7df9", "source": "ねぇ、イチロー、//もう１回遊びたいんだけど……//だめかな？", "text": "있잖아，이치로，//한 번 더 놀고 싶은데…//안 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0014"}]}
+{"id": "dialogue:6ffc0c0c86306783", "source": "わ～い。//ボク、がんばるよ！//手加減しちゃダメだからね∈", "text": "와～이∈//나，열심히 할게∈//살살해 주는 건 안 돼∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0015"}]}
+{"id": "dialogue:479fd543fa1f79ca", "source": "そっか……//じゃ、また今度遊ぼうね！", "text": "그렇구나…//그럼，다음에 또 놀자∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT10COQU.SBN#0016"}]}

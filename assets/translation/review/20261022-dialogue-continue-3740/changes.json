@@ -1,0 +1,188 @@
+[
+  {
+    "unit": "dialogue:6ed9742e5aa0cb82",
+    "source": "こんどはアイリスたちが、//巴里にあそびに行くからね∈//ぜったいに行くからね！",
+    "before": {
+      "id": "dialogue:6ed9742e5aa0cb82",
+      "source": "こんどはアイリスたちが、//巴里にあそびに行くからね∈//ぜったいに行くからね！",
+      "text": "이번에는 우리가，//파리에 놀러 갈 거야∈//꼭 갈 거야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0505"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6ed9742e5aa0cb82",
+      "source": "こんどはアイリスたちが、//巴里にあそびに行くからね∈//ぜったいに行くからね！",
+      "text": "다음에는 우리가，//파리에 놀러 갈 거야∈//꼭 갈 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0505"
+        }
+      ]
+    },
+    "reason": "이별하면서 미래 방문을 약속하는 今度를 다음에로 교정"
+  },
+  {
+    "unit": "dialogue:18296cee053d322e",
+    "source": "なぁ、大神はん、//ちょっとだけ……ええ？",
+    "before": {
+      "id": "dialogue:18296cee053d322e",
+      "source": "なぁ、大神はん、//ちょっとだけ……ええ？",
+      "text": "있제，오오가미 씨，//잠깐만…응？",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0822"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0853"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:18296cee053d322e",
+      "source": "なぁ、大神はん、//ちょっとだけ……ええ？",
+      "text": "오오가미 씨，//잠깐만…괜찮나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0822"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0853"
+        }
+      ]
+    },
+    "reason": "시간을 잠시 내 달라는 홍란의 요청을 의미가 드러나게 표현"
+  },
+  {
+    "unit": "dialogue:9254fc25f42ec0ab",
+    "source": "しめっぽいのは//好きやないし……//こういう方がええやろ。",
+    "before": {
+      "id": "dialogue:9254fc25f42ec0ab",
+      "source": "しめっぽいのは//好きやないし……//こういう方がええやろ。",
+      "text": "축축한 건//별로 안 좋아하니까…//이런 기 낫겠제．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0827"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0860"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9254fc25f42ec0ab",
+      "source": "しめっぽいのは//好きやないし……//こういう方がええやろ。",
+      "text": "울적한 건//별로 안 좋아하니까…//이런 기 낫겠제．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0827"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0860"
+        }
+      ]
+    },
+    "reason": "이별 장면의 しめっぽい는 물리적으로 축축하다는 뜻이 아닌 침울한 분위기"
+  },
+  {
+    "unit": "dialogue:79c8bf6be8f4879d",
+    "source": "なんでもいいんですから、//誓ってくれないと//一人前になれないんですよ。",
+    "before": {
+      "id": "dialogue:79c8bf6be8f4879d",
+      "source": "なんでもいいんですから、//誓ってくれないと//一人前になれないんですよ。",
+      "text": "뭐든 좋으니까，//맹세해 주지 않으면//제 몫을 다할 수 없다니까요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0898"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:79c8bf6be8f4879d",
+      "source": "なんでもいいんですから、//誓ってくれないと//一人前になれないんですよ。",
+      "text": "뭐든 좋으니，//맹세해 주지 않으면//어엿한 수녀가 못 된다니까요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0898"
+        }
+      ]
+    },
+    "reason": "一人前になる는 일의 몫을 다한다는 뜻이 아닌 어엿한 수녀가 된다는 뜻"
+  },
+  {
+    "unit": "dialogue:55a3653bbba0577e",
+    "source": "キレイな体に……//なっておきたいじゃないか。//だから……ね。",
+    "before": {
+      "id": "dialogue:55a3653bbba0577e",
+      "source": "キレイな体に……//なっておきたいじゃないか。//だから……ね。",
+      "text": "깨끗한 몸이…//되어 두고 싶잖아．//그러니까…말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0971"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1130"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:55a3653bbba0577e",
+      "source": "キレイな体に……//なっておきたいじゃないか。//だから……ね。",
+      "text": "깨끗한 몸이…//되고 싶잖아．//그러니까…말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0971"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1130"
+        }
+      ]
+    },
+    "reason": "되어 두고 싶다는 일본어 보조동사 직역 자연화"
+  },
+  {
+    "unit": "dialogue:0044335ca574d960",
+    "source": "アタシのプロポーションは、//前に会ったときから、//変わってないよ。",
+    "before": {
+      "id": "dialogue:0044335ca574d960",
+      "source": "アタシのプロポーションは、//前に会ったときから、//変わってないよ。",
+      "text": "내 프로포션은，//전에 만났을 때부터，//변하지 않았어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0977"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1144"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0044335ca574d960",
+      "source": "アタシのプロポーションは、//前に会ったときから、//変わってないよ。",
+      "text": "내 몸매는，//전에 만났을 때부터，//변하지 않았어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0977"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1144"
+        }
+      ]
+    },
+    "reason": "같은 화자의 앞선 プロポーション 교정과 몸매 표기 통일"
+  }
+]

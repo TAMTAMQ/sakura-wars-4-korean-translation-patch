@@ -1,0 +1,56 @@
+[
+  {
+    "unit": "dialogue:831f2364e80b2cc0",
+    "source": "もう……すぐにイチローは、//調子にのるんだから……",
+    "before": {
+      "id": "dialogue:831f2364e80b2cc0",
+      "source": "もう……すぐにイチローは、//調子にのるんだから……",
+      "text": "정말이지…이치로는 금방//우쭐해진다니까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0650"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:831f2364e80b2cc0",
+      "source": "もう……すぐにイチローは、//調子にのるんだから……",
+      "text": "정말…이치로는 금방//장난이 심해진다니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0650"
+        }
+      ]
+    },
+    "reason": "볼을 계속 만지며 장난치는 장면에 맞춰 調子にのる의 의미 교정."
+  },
+  {
+    "unit": "dialogue:afa7cfe4c826d9f8",
+    "source": "はぁはぁ……//なんとか脱出できたか……//生きた心地がしなかったよ。",
+    "before": {
+      "id": "dialogue:afa7cfe4c826d9f8",
+      "source": "はぁはぁ……//なんとか脱出できたか……//生きた心地がしなかったよ。",
+      "text": "하아，하아…//어떻게든 탈출했나…//살아 있는 기분이 아니었어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0868"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:afa7cfe4c826d9f8",
+      "source": "はぁはぁ……//なんとか脱出できたか……//生きた心地がしなかったよ。",
+      "text": "하아，하아…//어떻게든 탈출했나…//간이 콩알만 해졌어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0868"
+        }
+      ]
+    },
+    "reason": "生きた心地がしない 관용구를 한국어로 자연스럽게 교정."
+  }
+]

@@ -6,7 +6,7 @@
 
 ## 바로 시작하기
 
-1. `assets/translation/segments/`에서 게임 경로에 대응하는 `.jsonl`을 연다. 각 줄의 `text`가 현재 개선판 문안이다. `text`와 `review`를 편집한다. `baseline_text`, `id`, `offset`, `raw_hex` 등 보호 필드는 그대로 둔다.
+1. `python src/dialogue.py find '검색할 대사'`로 공유 문안을 찾는다. 검색 결과의 `assets/translation/units/` 파일에서 `text`와 `review`를 편집한다. 같은 문안은 일반 대사·음성 자막 등 모든 사용처에 함께 반영된다. `segments/`는 읽기 전용 적용 위치이며 `baseline_text`, `id`, `offset`, `raw_hex`는 수정하지 않는다. [공유 대사 편집 방법](docs/dialogue-management.md)을 참고한다.
 2. 이 폴더에서 `./build.ps1`을 실행한다. 일반 Python은 `python src/build.py`로 실행해도 된다. 빌드 자체는 Python 표준 라이브러리만 사용한다.
 3. `out/sakura_wars_4_kr_dev.dcp`를 Universal Dreamcast Patcher로 지원 원본에 적용한다. 실행 확인 결과는 산출물 해시와 함께 기록한다.
 
@@ -16,13 +16,14 @@
 
 | 경로 | 내용 |
 |---|---|
-| `assets/translation/segments/` | 개선판에서 복원한 편집용 텍스트 40,338개. 본편·전투·음성 자막·메뉴를 게임 경로로 분류 |
+| `assets/translation/units/` | 편집 권위본. 공유 문안 23,029개와 사용처·말투/배치 변형·공유 구절 |
+| `assets/translation/segments/` | 출현 위치 40,338개. 현재 문안 사본 없이 공유 문안 참조와 원본 보호 정보를 보관 |
 | `assets/translation/index.json` | 주 빌드가 읽는 문안 파일 목록과 검토 상태 |
 | `assets/images/native/` | 개선판 게임 내장 이미지·모델·관련 색인. 기존 Flycast 텍스처와 별개 |
 | `assets/video/native/` | 개선판에 포함된 동영상 32개 |
 | `assets/images/previews/`, `docs/images.html` | 구 추출물. 새 결과는 `assets/extracted/` 참고 |
 | `assets/fonts/` | 개선판 글꼴 4종, 기존 글꼴 원천 및 매핑 |
-| `src/build.py`, `build.ps1` | 개선판 기준선 + 현재 편집 내용을 합성하는 주 빌드 |
+| `src/dialogue.py`, `src/build.py`, `build.ps1` | 공유 대사 검색·편집·연결 검사와 주 빌드 |
 | `config/` | 입력 해시·보호 텍스트 경계·반각 인코딩 등 채택 설정 |
 | `originals/v05/` | DCP에서 꺼낸 변경 불가 기준선 232개 파일 |
 | `originals/disc/`, `originals/extracted/` | 기존 폴더의 원본 자료 사본. 실제 지원 이미지 검증은 별도 필요 |

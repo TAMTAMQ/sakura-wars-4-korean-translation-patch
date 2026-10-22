@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SLG/G02/E/EV02001.SBN#0208",
+    "before": {
+      "source": "韻壱引宇穐衣∈"
+    },
+    "after": {
+      "source": "そこまでです∈"
+    },
+    "reference": "research/legacy/original_txt/SLG/G02/E/EV02001.txt",
+    "reference_sha256": "6929817b566a48d5f679fdb4a541a2a4d1f8db777bf8ef57ceaa221b06496070",
+    "table_index": 208
+  },
+  {
+    "id": "SLG/G02/E/EV02001.SBN#0211",
+    "before": {
+      "source": "渦憶渥臆曳、還逢∈"
+    },
+    "after": {
+      "source": "帝国華撃団、参上∈"
+    },
+    "reference": "research/legacy/original_txt/SLG/G02/E/EV02001.txt",
+    "reference_sha256": "6929817b566a48d5f679fdb4a541a2a4d1f8db777bf8ef57ceaa221b06496070",
+    "table_index": 211
+  }
+]

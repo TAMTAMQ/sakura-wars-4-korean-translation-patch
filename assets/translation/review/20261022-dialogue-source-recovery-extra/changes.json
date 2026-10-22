@@ -1,0 +1,612 @@
+[
+  {
+    "unit": "dialogue:5baacf80a1b58abd",
+    "source": "「あぁ、無情」か……//どういった舞台にしたら、//いいんだろう……",
+    "before": {
+      "id": "dialogue:5baacf80a1b58abd",
+      "source": "「慰，亜煙握」葦唄……//淫刈亜煙鮎或亜一飲旭//解安引……",
+      "text": "「레 미제라블」이라…//어떤 무대로 만들면//좋을까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0110"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5baacf80a1b58abd",
+      "source": "「あぁ、無情」か……//どういった舞台にしたら、//いいんだろう……",
+      "text": "「레 미제라블」이라…//어떤 무대로 만들면//좋을까…",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0110"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:c5fd7ac28240afc6",
+    "source": "考えがまとまらないな……//演出の方針についてだけでも、//かえでさんに相談してみるか。",
+    "before": {
+      "id": "dialogue:c5fd7ac28240afc6",
+      "source": "位於葦亜握斡姐亜歌亜蔭遠……//以伊亜餓塊穐亜鮎叡瑛一葦唄胤//扱穐易亜涯闇鞄亜頴挨叡苅引．",
+      "text": "생각이 정리가 안 되네…//연출 방향에 대해서만이라도//카에데 씨한테 상의해 볼까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0111"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5fd7ac28240afc6",
+      "source": "考えがまとまらないな……//演出の方針についてだけでも、//かえでさんに相談してみるか。",
+      "text": "생각이 정리가 안 되네…//연출 방향에 대해서만이라도//카에데 씨한테 상의해 볼까．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0111"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f6f56ba93457ded9",
+    "source": "すみません、かえでさん。//大神ですけど、//すこしよろしいですか？",
+    "before": {
+      "id": "dialogue:f6f56ba93457ded9",
+      "source": "厩瓦謂絢綾，亜扱穐易亜涯．//迂迂姐営亥易衣，//郁乾亜噂云衛逸衣？",
+      "text": "실례합니다，카에데 씨．//오오가미입니다，//잠시 시간 좀 내주실 수 있을까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0114"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f6f56ba93457ded9",
+      "source": "すみません、かえでさん。//大神ですけど、//すこしよろしいですか？",
+      "text": "실례합니다，카에데 씨．//오오가미입니다，//잠시 시간 좀 내주실 수 있을까요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0114"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:59d8819915f77e06",
+    "source": "あ、大神くん。//開いてるから、どうぞ。",
+    "before": {
+      "id": "dialogue:59d8819915f77e06",
+      "source": "慰，亜迂迂姐営亜駅．//侃胃芦衛絢引亜飲淫鰻．",
+      "text": "아，오오가미 군．//열려 있으니까 들어와．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0115"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:59d8819915f77e06",
+      "source": "あ、大神くん。//開いてるから、どうぞ。",
+      "text": "아，오오가미 군．//열려 있으니까 들어와．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0115"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:bc9e755f384948a3",
+    "source": "どうしたの？//なにか悩みごと？",
+    "before": {
+      "id": "dialogue:bc9e755f384948a3",
+      "source": "煙冠亜鞍葦押？//寒姐亜員刊韻斡唄胤？",
+      "text": "무슨 일이야？//뭔가 고민이라도 있어？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0116"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bc9e755f384948a3",
+      "source": "どうしたの？//なにか悩みごと？",
+      "text": "무슨 일이야？//뭔가 고민이라도 있어？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0116"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:0b95f0a2d0c29449",
+    "source": "はい……//今度の舞台……どうやって//演出しようかと思って……",
+    "before": {
+      "id": "dialogue:0b95f0a2d0c29449",
+      "source": "遠……//葦碍亜煙鮎……淫馨粟//以伊異宇亜員刊葦亜獲瑛……",
+      "text": "네…//이번 무대…어떻게//연출할지 고민이 돼서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0117"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0b95f0a2d0c29449",
+      "source": "はい……//今度の舞台……どうやって//演出しようかと思って……",
+      "text": "네…//이번 무대…어떻게//연출할지 고민이 돼서…",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0117"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:ba86010057e89ed2",
+    "source": "そうね……難しい問題ね。//どうやって、お話を//見せていくかだけど……",
+    "before": {
+      "id": "dialogue:ba86010057e89ed2",
+      "source": "円勘乙吋……淫胃果亜応渦遠．//淫馨粟亜葦押壱為//閏威勧宇亜撹葦宇……",
+      "text": "그렇구나…어려운 문제네．//어떻게 이야기를//보여줄지의 문제랄까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0118"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ba86010057e89ed2",
+      "source": "そうね……難しい問題ね。//どうやって、お話を//見せていくかだけど……",
+      "text": "그렇구나…어려운 문제네．//어떻게 이야기를//보여줄지의 문제랄까…",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0118"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:07ef20bd3d18bb46",
+    "source": "許しを受けて、//人を信じようとする//ジャン・バルジャンと……",
+    "before": {
+      "id": "dialogue:07ef20bd3d18bb46",
+      "source": "案瑛為亜鉛員//鵜加安亜巻衛胃亜暗鯵//逢亜怨逢延……",
+      "text": "용서를 받고，//사람을 믿으려 하는//장 발장과…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0119"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:07ef20bd3d18bb46",
+      "source": "許しを受けて、//人を信じようとする//ジャン・バルジャンと……",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0119"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:efb66ea3fa8ce256"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:e750c3916482504c",
+    "source": "法だけを信じて、厳格に生きる//ジャベールの生き方の対立。//これを一本の柱として……",
+    "before": {
+      "id": "dialogue:e750c3916482504c",
+      "source": "喚一安亜巻員亜堪臆暗粟亜禾慰姐鯵//甥奄赫挨亜姦挨亜餓仮延挨亜鮎較．//葦完亜暗吋挨亜官衛或亜寛員……",
+      "text": "법만을 믿고 엄격하게 살아가는//자베르의 삶．//두 사람의 대립을 하나의 축으로…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0120"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e750c3916482504c",
+      "source": "法だけを信じて、厳格に生きる//ジャベールの生き方の対立。//これを一本の柱として……",
+      "text": "법만을 믿고 엄격하게 살아가는//자베르의 삶．//두 사람의 대립을 하나의 축으로…",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0120"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:219cf230ee2cbf52",
+    "source": "もう一本は……そうね、//あの子たちが一番//興味を引かれたものにするのは？",
+    "before": {
+      "id": "dialogue:219cf230ee2cbf52",
+      "source": "綾窺亜暗吋鯵……円愛粟，//円亜燕飲葦亜姐逢//鎧営或介沿鴬亜完或亜暗鯵亜干亜淫恩？",
+      "text": "다른 하나는…그래，//그 아이들이 가장//흥미로워했던 걸로 하는 건 어때？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0121"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:219cf230ee2cbf52",
+      "source": "もう一本は……そうね、//あの子たちが一番//興味を引かれたものにするのは？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0121"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:f1bcbf5733ad1fb0"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:8624b5733f9b930f",
+    "source": "……そうですね。",
+    "before": {
+      "id": "dialogue:8624b5733f9b930f",
+      "source": "……円愛遠衣．",
+      "text": "…그렇군요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0122"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8624b5733f9b930f",
+      "source": "……そうですね。",
+      "text": "…그렇군요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0122"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:b0cc9c1af212aeb8",
+    "source": "コゼットの結婚の話ですか？",
+    "before": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "越渦娃挨亜幹浬亜葦押壱亥姐衣？",
+      "text": "코제트의 결혼 이야기인가요？",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "コゼットの結婚の話ですか？",
+      "text": "코제트의 결혼 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:2abbcd019e1ce1b5",
+    "source": "テナルディエの強欲の話ですか？",
+    "before": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "鞄吋赫恰穐挨亜患感亜葦押壱亥姐衣？",
+      "text": "테나르디에의 탐욕 이야기인가요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "テナルディエの強欲の話ですか？",
+      "text": "테나르디에의 탐욕 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f268682d34ce954f",
+    "source": "ミリエル司教の救済の話ですか？",
+    "before": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "営斡慣亜溢憾挨亜乙陰亜葦押壱亥姐衣？",
+      "text": "미리엘 주교님의 구원 이야기인가요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "ミリエル司教の救済の話ですか？",
+      "text": "미리엘 주교님의 구원 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:d8e1bda10c0dd996",
+    "source": "コゼットの結婚の話ですか？//さくらくんたちが、//好きだと言ったシーンですよね。",
+    "before": {
+      "id": "dialogue:d8e1bda10c0dd996",
+      "source": "越渦娃挨亜幹浬亜葦押壱亥姐衣？//鵜嘘唄亜換葦敢亜綾飲//解慰闇綾員亜沿鴬亜逢旭葦骸．",
+      "text": "코제트의 결혼 이야기인가요？//사쿠라 일행이//좋아한다고 했던 장면이죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0127"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d8e1bda10c0dd996",
+      "source": "コゼットの結婚の話ですか？//さくらくんたちが、//好きだと言ったシーンですよね。",
+      "text": "코제트의 결혼 이야기인가요？//사쿠라 일행이//좋아한다고 했던 장면이죠．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0127"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:a1eab0fe24e3b7b0",
+    "source": "うん……それがいいわね。//コゼットとマリユスの結婚は//希望に満ちた未来ですもの。",
+    "before": {
+      "id": "dialogue:a1eab0fe24e3b7b0",
+      "source": "柑……円粟亜解姻遠．//越渦娃鰻亜烏斡閲稲挨亜幹浬鴛//桓外衛或亜姐崖闇亜営運絢引．",
+      "text": "응…그게 좋겠어．//코제트와 마리우스의 결혼은//희망으로 가득한 미래일 테니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0128"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a1eab0fe24e3b7b0",
+      "source": "うん……それがいいわね。//コゼットとマリユスの結婚は//希望に満ちた未来ですもの。",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0128"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:f65022b9011be042"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:249e35c6df4e326c",
+    "source": "テナルディエの強欲の話ですか？//すみれくんが、//不愉快だと言ってましたけど。",
+    "before": {
+      "id": "dialogue:249e35c6df4e326c",
+      "source": "鞄吋赫恰穐挨亜患感亜葦押壱亥姐衣？//稲営悦亜換鴛//雨棺暗綾員亜沿蟹鯵易衣．",
+      "text": "테나르디에의 탐욕 이야기 말인가요？스미레 군은//불쾌하다고 하던데요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0129"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:249e35c6df4e326c",
+      "source": "テナルディエの強欲の話ですか？//すみれくんが、//不愉快だと言ってましたけど。",
+      "text": "테나르디에의 탐욕 이야기 말인가요？스미레 군은//불쾌하다고 하던데요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0129"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:c64d6e729f104dbb",
+    "source": "わざわざ、不愉快なものを//テーマにする必要は//ないでしょう。",
+    "before": {
+      "id": "dialogue:c64d6e729f104dbb",
+      "source": "款葦亜雨棺闇亜完//鞄烏或亜寛安亜萎衣鯵//虻姻骸．",
+      "text": "굳이 불쾌한 것을//테마로 삼을 필요는//없겠지요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0130"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c64d6e729f104dbb",
+      "source": "わざわざ、不愉快なものを//テーマにする必要は//ないでしょう。",
+      "text": "굳이 불쾌한 것을//테마로 삼을 필요는//없겠지요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0130"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:6bda4cfa69547aa8",
+    "source": "そうね……//コゼットとマリユスの//結婚の話はどう？",
+    "before": {
+      "id": "dialogue:6bda4cfa69547aa8",
+      "source": "円愛粟……//越渦娃鰻亜烏斡閲稲挨//幹浬亜葦押壱鯵亜淫恩？",
+      "text": "그러게…//코제트와 마리우스의//결혼 이야기는 어때？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0131"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6bda4cfa69547aa8",
+      "source": "そうね……//コゼットとマリユスの//結婚の話はどう？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0131"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:02c1d7af0b9b7eee"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:cc78cbbc62e8805c",
+    "source": "このシーン、//さくらたちがとても//気に入っていたでしょ？",
+    "before": {
+      "id": "dialogue:cc78cbbc62e8805c",
+      "source": "葦亜逢旭，//鵜嘘唄亜換葦敢亜綾飲亜慰溢//烏顎穐亜飲淫沿蟹歓慰？",
+      "text": "이 장면，//사쿠라 일행이 무척//마음에 들어 했었잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0132"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cc78cbbc62e8805c",
+      "source": "このシーン、//さくらたちがとても//気に入っていたでしょ？",
+      "text": "이 장면，//사쿠라 일행이 무척//마음에 들어 했었잖아？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0132"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:4869a15a99b61b64",
+    "source": "それじゃあ、//コゼットとマリユスの結婚の話を//もう一本の柱にします。",
+    "before": {
+      "id": "dialogue:4869a15a99b61b64",
+      "source": "円汗，//越渦娃鰻亜烏斡閲稲挨亜幹浬亜葦押壱為//漢亜綾窺亜官衛或亜寛安粟衣．",
+      "text": "그럼，//코제트와 마리우스의 결혼 이야기를//또 다른 축으로 삼을게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0133"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4869a15a99b61b64",
+      "source": "それじゃあ、//コゼットとマリユスの結婚の話を//もう一本の柱にします。",
+      "text": "그럼，//코제트와 마리우스의 결혼 이야기를//또 다른 축으로 삼을게요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0133"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:a9685523a2a513a9",
+    "source": "それがいいわね。//うん、いい舞台に//なりそうじゃないの。",
+    "before": {
+      "id": "dialogue:a9685523a2a513a9",
+      "source": "円粟亜解姻遠．//柑，亜解鴛亜煙鮎姐//澗亜潅亜温鴛易．",
+      "text": "그게 좋겠어．//응，멋진 무대가//될 것 같아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0134"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a9685523a2a513a9",
+      "source": "それがいいわね。//うん、いい舞台に//なりそうじゃないの。",
+      "text": "그게 좋겠어．//응，멋진 무대가//될 것 같아．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0134"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  }
+]

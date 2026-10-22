@@ -1,0 +1,12 @@
+{"id": "dialogue:9ecb830715600624", "source": "この試合では、//あたいのパイが//ボーナスパイになってるぜ。", "text": "이 시합에서는，//내 패가//보너스 패가 되어 있다고．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0003"}]}
+{"id": "dialogue:a3f304fc1ca8d30b", "source": "今回のお題だ。//この中の、どれか１組は、//そろえてくれよ。", "text": "이번 주제다．//이 중에서，어느 한 세트를//맞춰 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0004"}]}
+{"id": "dialogue:f592151af0066fae", "source": "今度は、//あたいが親をやるぜ。", "text": "이번에는，//내가 딜러를 맡을게．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0005"}]}
+{"id": "dialogue:751b84a562647c1e", "source": "次は、//隊長が親だぜ。", "text": "다음은，//대장이 딜러야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0006"}]}
+{"id": "dialogue:1bbc8db74a99c976", "source": "へっへ～ん。//どうだ、まいったか！", "text": "헤헷～．//어때，항복했나∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0007"}, {"id": "MINIGAME/JT03KANN.SBN#0017"}]}
+{"id": "dialogue:f3bcdf0b3c6aa035", "source": "あーっ！//負けちまったか。", "text": "아앗∈//져 버렸나．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0008"}, {"id": "MINIGAME/JT03KANN.SBN#0018"}]}
+{"id": "dialogue:e52e177d89d7b9b8", "source": "次は負けねぇからな！", "text": "다음엔 지지 않겠다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0009"}, {"id": "MINIGAME/JT03KANN.SBN#0019"}]}
+{"id": "dialogue:2b8bb22d597e8fc5", "source": "ふ～、いい汗かいたぜ。//どうだ、隊長！//もいっちょやらねぇか？", "text": "후～，좋은 땀 흘렸네．//어때，대장∈//한 판 더 하지 않을래？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0010"}, {"id": "MINIGAME/JT03KANN.SBN#0020"}]}
+{"id": "dialogue:64806d4d71c4f0b8", "source": "次の相手は強敵だぜ……//油断しないようにな！", "text": "다음 상대는 강적이다…//방심하지 말라고∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0011"}]}
+{"id": "dialogue:05e74610b63090d9", "source": "なぁ、隊長！//もうひと勝負、//つきあってくれねぇか？", "text": "있잖아，대장∈//한 판 더，//상대해 주지 않을래？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0014"}]}
+{"id": "dialogue:0fa5bf73dab7c09d", "source": "そうくると思ったぜ！//次も手加減しねぇからな∈", "text": "그렇게 나올 줄 알았다고∈//다음에도 봐 주는 건 없다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0015"}]}
+{"id": "dialogue:2f22e54d51b75aed", "source": "なんだなんだ、//だらしねぇなぁ！//また対戦してくれよ。", "text": "뭐야 뭐야，//한심하잖아∈//다음에 또 한판 붙자고．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT03KANN.SBN#0016"}]}

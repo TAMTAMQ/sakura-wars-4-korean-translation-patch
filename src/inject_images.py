@@ -15,6 +15,7 @@
 
 출력: assets/images/native/<컨테이너>, assets/images/remake/inject_report.json
 """
+import argparse
 import json
 import struct
 import sys
@@ -32,7 +33,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / 'originals/v05'
 DISC = ROOT / 'originals/disc'  # v0.5가 손대지 않은 파일(config/disc-baseline.json)은 원본 디스크가 기준선
 NATIVE = ROOT / 'assets/images/native'
-STAGES = ['slg', 'staffroll', 'ui', 'logo']
+STAGES = ['slg', 'staffroll', 'ui', 'logo', 'individual']
 ALLOW_MOVE = '--allow-move' in sys.argv  # 기본: 레코드를 옮기지 않는다(파일 크기·위치 그대로)
 
 
@@ -141,7 +142,7 @@ def rebuild_bpv(dec, images):
     return bytes(dec)
 
 
-def rebuild_adcg(dec, img):
+def rebuild_adcg(dec, img, expansion=None):
     dec = bytearray(dec)
     count = E.u32(dec, 4)
     tw, th = struct.unpack_from('<HH', dec, 8)
@@ -158,6 +159,42 @@ def rebuild_adcg(dec, img):
         entries.append((e, e + ptr, xy & 65535, xy >> 16))
     data_start = min(s for _, s, _, _ in entries)
     old_unique = len({s for _, s, _, _ in entries})
+    if expansion is not None:
+        if len(dec) != expansion['original_decoded_size']:
+            raise ValueError('ADCG 확장 기준선 크기 불일치')
+        if data_start != table + count * 16 or len(dec) != data_start + old_unique * size:
+            raise ValueError('ADCG 확장 대상의 표·픽셀 풀 경계 불일치')
+        existing = {(x, y) for _, _, x, y in entries}
+        extra = [tuple(xy) for xy in expansion['additional_tiles']]
+        if existing.intersection(extra) or len(set(extra)) != len(extra):
+            raise ValueError('ADCG 확장 타일 중복')
+        rows = []
+        next_id = max(E.u32(dec, e) for e, _, _, _ in entries) + 1
+        for e, start, x, y in entries:
+            old = np.asarray(E.texture(bytes(dec[start:start + size]), tw, th, pf, 1).convert('RGBA')).copy()
+            rows.append((E.u32(dec, e), x, y, E.u32(dec, e + 12), old))
+        # 추가 타일도 기존 타일과 같은 플래그(0x80000000)를 써야 한다. 0이면 실기에서 투명 부분이 검은 상자로 그려졌다.
+        flags = {row[3] for row in rows}
+        if len(flags) != 1:
+            raise ValueError('ADCG 확장 대상의 타일 플래그가 섞여 있음')
+        for i, (x, y) in enumerate(extra):
+            if x % tw or y % th or not (0 <= x < fw and 0 <= y < fh):
+                raise ValueError('ADCG 확장 타일 좌표 오류')
+            rows.append((next_id + i, x, y, rows[0][3], np.zeros((th, tw, 4), np.uint8)))
+        tiles = []
+        for _, x, y, _, tile in rows:
+            vw, vh = min(tw, fw - x), min(th, fh - y)
+            tile[:vh, :vw] = img[y:y + vh, x:x + vw]
+            tiles.append(encode_texture(tile, bytes(size), tw, th, pf, 1))
+        unique = {tile: i for i, tile in enumerate(dict.fromkeys(tiles))}
+        start = table + len(rows) * 16
+        output = bytearray(dec[:table])
+        struct.pack_into('<I', output, 4, len(rows))
+        for i, ((tile_id, x, y, flags, _), tile) in enumerate(zip(rows, tiles)):
+            entry = table + i * 16
+            output += struct.pack('<IIII', tile_id, start + unique[tile] * size - entry, x | (y << 16), flags)
+        output += b''.join(unique)
+        return bytes(output)
     tiles = []
     for e, s, x, y in entries:
         old = np.asarray(E.texture(bytes(dec[s:s + size]), tw, th, pf, 1).convert('RGBA')).copy()
@@ -205,10 +242,8 @@ def write_block(raw, spec, specs_index, new_dec, rel):
             raise ValueError('비압축 블록 크기 변경')
         raw[off + 8:off + 8 + size] = new_dec
         return raw, {'compressed': False}
-    if len(new_dec) != a:
-        raise ValueError('압축 해제 크기 변경')
     payload = compress(new_dec)
-    if E.decompress(payload, a) != new_dec:
+    if E.decompress(payload, len(new_dec)) != new_dec:
         raise ValueError('PRS 왕복 검증 실패')
     nxt = specs_index[1] if specs_index else len(raw)
     tail = bytes(raw[off + 16 + b:nxt])
@@ -220,11 +255,11 @@ def write_block(raw, spec, specs_index, new_dec, rel):
         trailer = b'CPRS\0\0\0\0EOFC\0\0\0\0'
         if off + 16 + len(body) + len(trailer) > limit:
             # 원래 자리(다음 2048 경계 레코드 전)에 안 들어가면 파일 끝으로 옮긴다. GR.IDX는 main에서 고친다.
-            record = bytes(raw[off - 8:off]) + b'ADCG' + struct.pack('<III', len(body) + 8, a, len(payload)) + body + trailer
+            record = bytes(raw[off - 8:off]) + b'ADCG' + struct.pack('<III', len(body) + 8, len(new_dec), len(payload)) + body + trailer
             return raw, {'compressed': True, 'payload': len(payload), 'slot': limit - off - 32, 'old': b,
                          'relocate': record}
         raw[off + 16:limit] = body + trailer + b'\0' * (limit - off - 16 - len(body) - len(trailer))
-        struct.pack_into('<II', raw, off + 4, len(body) + 8, a)
+        struct.pack_into('<II', raw, off + 4, len(body) + 8, len(new_dec))
         struct.pack_into('<I', raw, off + 12, len(payload))
         return raw, {'compressed': True, 'payload': len(payload), 'slot': limit - off - 16 - 16, 'old': b}
     first = next((i for i, v in enumerate(tail) if v), len(tail))
@@ -292,12 +327,23 @@ def decode_block(spec):
     return dec, (E.decode_bpv(dec) if sig == 'BPV1' else E.decode_adcg(dec))
 
 
-def main():
+def main(source_prefix=None):
     work = targets()
+    if source_prefix is not None:
+        work = {key: value for key, value in work.items() if key[0].startswith(source_prefix)}
+        if not work:
+            raise ValueError('선택한 경로에 재삽입 대상 없음: ' + source_prefix)
     by_file = defaultdict(dict)
+    expansion_path = ROOT / 'config/image-expansions.json'
+    expansions = {(r['source'], r['block']): r for r in json.loads(expansion_path.read_text(encoding='utf-8'))['blocks']} if expansion_path.exists() else {}
     for (src, block), texs in work.items():
         by_file[src][block] = texs
     report = {'files': [], 'errors': []}
+    report_path = ROOT / 'assets/images/remake/inject_report.json'
+    if source_prefix is not None and report_path.exists():
+        previous = json.loads(report_path.read_text(encoding='utf-8'))
+        report = {key: [r for r in previous.get(key, []) if r['source'] not in by_file]
+                  for key in ('files', 'errors')}
     for rel, blocks in sorted(by_file.items()):
         raw = (BASE / rel if (BASE / rel).exists() else DISC / rel).read_bytes()
         specs = E.block_specs(raw)
@@ -313,7 +359,9 @@ def main():
                 if spec[0] == 'BPV1':
                     new_dec = rebuild_bpv(dec, imgs)
                 else:
-                    new_dec = rebuild_adcg(dec, imgs[0])
+                    new_dec = rebuild_adcg(dec, imgs[0], expansions.get((rel, bi)))
+                if len(new_dec) != len(dec) and (rel, bi) not in expansions:
+                    raise ValueError('미등록 압축 해제 크기 변경')
                 nxt = specs[bi + 1] if bi + 1 < len(specs) else None
                 new, info = write_block(new, spec, nxt, new_dec, rel)
                 rows.append({'block': bi, 'textures': sorted(texs), **info})
@@ -367,10 +415,12 @@ def main():
         except Exception as exc:
             report['errors'].append({'source': rel, 'error': str(exc)})
             print('실패', rel, exc)
-    (ROOT / 'assets/images/remake/inject_report.json').write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding='utf-8')
+    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=1), encoding='utf-8')
     print('완료', len(report['files']), '파일, 실패', len(report['errors']))
     return 1 if report['errors'] else 0
 
 
 if __name__ == '__main__':
-    sys.exit(main())
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--source-prefix', help='선택한 게임 경로만 기준선에서 재삽입한다. 나머지 파일과 검증 기록은 보존한다.')
+    sys.exit(main(parser.parse_args().source_prefix))

@@ -1,0 +1,326 @@
+[
+  {
+    "unit": "dialogue:91291515e8f2a627",
+    "source": "それに、%xt1たちと//こういう舞台を見れば、なにかの//きっかけになるかと思ってね。",
+    "before": {
+      "id": "dialogue:91291515e8f2a627",
+      "source": "それに、%xt1たちと//こういう舞台を見れば、なにかの//きっかけになるかと思ってね。",
+      "text": "게다가，％ｘｔ１일행과//이런 무대를 보면，무언가의//계기가 되지 않을까 해서 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0294"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:91291515e8f2a627",
+      "source": "それに、%xt1たちと//こういう舞台を見れば、なにかの//きっかけになるかと思ってね。",
+      "text": "게다가，%xt1일행과//이런 무대를 보면，무언가의//계기가 되지 않을까 해서 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0294"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:3710026b5a18ff5e",
+    "source": "%xt1はどう思う？",
+    "before": {
+      "id": "dialogue:3710026b5a18ff5e",
+      "source": "%xt1はどう思う？",
+      "text": "％ｘｔ１은 어떻게 생각해？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3251"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3710026b5a18ff5e",
+      "source": "%xt1はどう思う？",
+      "text": "%xt1은 어떻게 생각해？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3251"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:25006e2732453afd",
+    "source": "%xt1、準備はいいか∈",
+    "before": {
+      "id": "dialogue:25006e2732453afd",
+      "source": "%xt1、準備はいいか∈",
+      "text": "％ｘｔ１，준비는 됐나∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3414"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:25006e2732453afd",
+      "source": "%xt1、準備はいいか∈",
+      "text": "%xt1，준비는 됐나∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3414"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:3b2d5b1d7d4ab9dd",
+    "source": "%xt1、必ず生きて帰るぞ∈",
+    "before": {
+      "id": "dialogue:3b2d5b1d7d4ab9dd",
+      "source": "%xt1、必ず生きて帰るぞ∈",
+      "text": "％ｘｔ１，반드시 살아서 돌아가자∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1936"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3b2d5b1d7d4ab9dd",
+      "source": "%xt1、必ず生きて帰るぞ∈",
+      "text": "%xt1，반드시 살아서 돌아가자∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1936"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:d74cba318f2d6ac3",
+    "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+    "before": {
+      "id": "dialogue:d74cba318f2d6ac3",
+      "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+      "text": "％ｘｔ１，반드시 살아서 돌아가자∈이 제도의 평화를//우리 손으로 되찾는 거야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1943"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d74cba318f2d6ac3",
+      "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+      "text": "%xt1，반드시 살아서 돌아가자∈이 제도의 평화를//우리 손으로 되찾는 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1943"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:33ee0088c57d7fca",
+    "source": "今の帝都を見ても……//%xt1の話を聞いても……//それでも失敗だったと言うのか！",
+    "before": {
+      "id": "dialogue:33ee0088c57d7fca",
+      "source": "今の帝都を見ても……//%xt1の話を聞いても……//それでも失敗だったと言うのか！",
+      "text": "지금의 제도를 보고도…//％ｘｔ１의 이야기를 듣고도…//그래도 실패였다는 말인가∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0855"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:33ee0088c57d7fca",
+      "source": "今の帝都を見ても……//%xt1の話を聞いても……//それでも失敗だったと言うのか！",
+      "text": "지금의 제도를 보고도…//%xt1의 이야기를 듣고도…//그래도 실패였다는 말인가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0855"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:b5eccd80580af79f",
+    "source": "%xt1と生きていきます。",
+    "before": {
+      "id": "dialogue:b5eccd80580af79f",
+      "source": "%xt1と生きていきます。",
+      "text": "％ｘｔ１과 함께 살겠습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0197"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b5eccd80580af79f",
+      "source": "%xt1と生きていきます。",
+      "text": "%xt1과 함께 살겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0197"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:ea262cdcb216d4e0",
+    "source": "%t1セット、合格よ！//なかなかやるわね。",
+    "before": {
+      "id": "dialogue:ea262cdcb216d4e0",
+      "source": "%t1セット、合格よ！//なかなかやるわね。",
+      "text": "％ｔ１세트，합격이야∈//제법인걸．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0432"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ea262cdcb216d4e0",
+      "source": "%t1セット、合格よ！//なかなかやるわね。",
+      "text": "%t1세트，합격이야∈//제법인걸．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0432"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:b45694d763adff10",
+    "source": "%t1セット、合格よ。//まだまだ……かな？",
+    "before": {
+      "id": "dialogue:b45694d763adff10",
+      "source": "%t1セット、合格よ。//まだまだ……かな？",
+      "text": "％ｔ１세트，합격이야．//아직 멀었나？",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0434"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b45694d763adff10",
+      "source": "%t1セット、合格よ。//まだまだ……かな？",
+      "text": "%t1세트，합격이야．//아직 멀었나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0434"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:6c67f29a0791a62f",
+    "source": "……%t1セット、合格。//大神くん、//しっかりしないとダメよ。",
+    "before": {
+      "id": "dialogue:6c67f29a0791a62f",
+      "source": "……%t1セット、合格。//大神くん、//しっかりしないとダメよ。",
+      "text": "…％ｔ１세트，합격．//오오가미 군，//정신 차려야 해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0436"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6c67f29a0791a62f",
+      "source": "……%t1セット、合格。//大神くん、//しっかりしないとダメよ。",
+      "text": "…%t1세트，합격．//오오가미 군，//정신 차려야 해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0436"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:5b7444542f2d640f",
+    "source": "◆クイズレベルがおかしい：%t0",
+    "before": {
+      "id": "dialogue:5b7444542f2d640f",
+      "source": "◆クイズレベルがおかしい：%t0",
+      "text": "◆퀴즈 레벨이 이상해：％ｔ０",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2185"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5b7444542f2d640f",
+      "source": "◆クイズレベルがおかしい：%t0",
+      "text": "◆퀴즈 레벨이 이상해：%t0",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2185"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  },
+  {
+    "unit": "dialogue:8ee5a116bd412fd6",
+    "source": "◆失敗：問題番号%t0：問題数%t2",
+    "before": {
+      "id": "dialogue:8ee5a116bd412fd6",
+      "source": "◆失敗：問題番号%t0：問題数%t2",
+      "text": "◆실패：문제 번호 ％ｔ０：문제 수 ％ｔ２",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2363"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8ee5a116bd412fd6",
+      "source": "◆失敗：問題番号%t0：問題数%t2",
+      "text": "◆실패：문제 번호 %t0：문제 수 %t2",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2363"
+        }
+      ]
+    },
+    "reason": "원문과 번역을 읽고 확인. 인명·숫자 치환용 ASCII 제어 토큰을 전각 문자로 잘못 번역한 부분 복원. 본문 표현은 유지"
+  }
+]

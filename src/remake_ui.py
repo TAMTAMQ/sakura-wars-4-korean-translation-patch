@@ -22,7 +22,6 @@ import json
 import sys
 from pathlib import Path
 
-import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
@@ -73,6 +72,7 @@ def select_mask(arr, rect, op):
     full[y0:y1, x0:x1] = m.astype(np.uint8) * 255
     d = op.get('dilate', 1)
     if d:
+        import cv2
         full = cv2.dilate(full, np.ones((2 * d + 1, 2 * d + 1), np.uint8))
         clip = np.zeros_like(full)
         clip[y0:y1, x0:x1] = 255
@@ -81,6 +81,7 @@ def select_mask(arr, rect, op):
 
 
 def inpaint(arr, op):
+    import cv2
     if op.get('local'):  # rect 밖(다른 그림 칸)의 색을 끌어오지 않도록 rect만 잘라서 채운다
         x0, y0, x1, y1 = op['rect']
         sub = np.ascontiguousarray(arr[y0:y1, x0:x1])
@@ -94,6 +95,34 @@ def inpaint(arr, op):
     out[..., :3] = rgb
     if op.get('alpha') != 'keep':  # 불투명 띠 가장자리에서는 바깥 투명값이 번지지 않게 keep
         out[..., 3] = cv2.inpaint(np.ascontiguousarray(arr[..., 3]), mask, r, cv2.INPAINT_TELEA)
+    return out
+
+
+def extend_vertical(arr, op):
+    """판의 위·아래 끝을 유지하고 지정한 가로 단면을 반복해 세로로 늘린다."""
+    x0, y0, x1, y1 = op['rect']
+    at, extra = op['at'], op['extra']
+    if not (0 <= x0 < x1 <= arr.shape[1] and 0 <= y0 < y1 <= arr.shape[0]
+            and 0 < at < y1 - y0 and extra > 0 and y1 + extra <= arr.shape[0]):
+        raise ValueError('세로 배경 연장 범위 오류')
+    src = arr[y0:y1, x0:x1].copy()
+    extended = np.concatenate((src[:at], np.repeat(src[at:at + 1], extra, axis=0), src[at:]), axis=0)
+    out = arr.copy()
+    out[y0:y1 + extra, x0:x1] = extended
+    return out
+
+
+def clear_panel(arr, op):
+    """푸른 테두리를 침범하지 않고 반투명 검정 판의 글자·번짐만 지운다."""
+    out = arr.copy()
+    x0, y0, x1, y1 = op['rect']
+    scan0, scan1 = op['edge_scan']
+    for y in range(y0, y1):
+        row = arr[y, scan0:scan1, :3].astype(np.int32)
+        blue = np.flatnonzero(row[:, 2] - row[:, 0] >= 20)
+        end = min(x1, scan0 + int(blue[0]) - 2) if len(blue) else x1
+        if end > x0:
+            out[y, x0:end] = op['rgba']
     return out
 
 
@@ -269,7 +298,11 @@ def main():
         base = t['png'] if item.get('base') == 'patched' else t['original_png']
         arr = np.asarray(Image.open(ROOT / base).convert('RGBA')).copy()
         for op in item['ops']:
-            if op['op'] == 'inpaint':
+            if op['op'] == 'extend_vertical':
+                arr = extend_vertical(arr, op)
+            elif op['op'] == 'clear_panel':
+                arr = clear_panel(arr, op)
+            elif op['op'] == 'inpaint':
                 arr = inpaint(arr, op)
             elif op['op'] == 'rowfill':
                 # 가로줄 무늬 바탕: 글자 픽셀을 같은 줄의 나머지 픽셀 중앙값으로 채운다

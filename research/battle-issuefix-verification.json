@@ -1,0 +1,72 @@
+{
+  "dcp": "D:\\trans\\translation-assistant\\work\\sakura_wars_4_kr\\out\\sakura_wars_4_kr_dev.dcp",
+  "sha256": "fc5ef76fb66a95a668d9f8570db3560459c16b0341b9d0fc2fa41682c3b80bc5",
+  "victory_captions": [
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#0823",
+      "offset": 134609,
+      "table_off_b": 134607,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    },
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#1475",
+      "offset": 184634,
+      "table_off_b": 184632,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#2418",
+      "offset": 335649,
+      "table_off_b": 335647,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1044",
+      "offset": 185725,
+      "table_off_b": 185723,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#2133",
+      "offset": 301764,
+      "table_off_b": 301762,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#1710",
+      "offset": 229774,
+      "table_off_b": 229772,
+      "original_hex": "8c8882df81b8",
+      "text": "결정∈",
+      "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함",
+      "verified_hex": "f2abf18e81b8"
+    }
+  ],
+  "split_fields_verified": 72,
+  "max_artificial_gap_px": 0,
+  "sheets": [
+    "assets/images/remake/battle_issuefix/layout-01.png",
+    "assets/images/remake/battle_issuefix/layout-02.png",
+    "assets/images/remake/battle_issuefix/layout-03.png",
+    "assets/images/remake/battle_issuefix/layout-04.png",
+    "assets/images/remake/battle_issuefix/layout-05.png",
+    "assets/images/remake/battle_issuefix/layout-06.png"
+  ],
+  "runtime_verified": false,
+  "runtime_limitation": "emucap launch_plan: Flycast adapter binary is unavailable"
+}

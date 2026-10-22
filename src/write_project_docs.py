@@ -116,6 +116,9 @@ NotoSansKR-subset.ttf 및 라이선스를 함께 보존한다. 주 빌드는 폰
 '''
 }
 def main():
+    import json
+    if json.loads((ROOT/'assets/translation/index.json').read_text(encoding='utf-8')).get('schema'):
+        raise SystemExit('이관 이전 문서 생성기입니다. 현재 공유 대사 문서를 덮어쓸 수 없습니다.')
     for path,text in DOCS.items():
         dest=ROOT/path; dest.parent.mkdir(parents=True,exist_ok=True); dest.write_text(text,encoding='utf-8')
     with (ROOT/'.gitignore').open('a',encoding='utf-8') as f:

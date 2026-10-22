@@ -1,0 +1,32 @@
+{"id": "dialogue:1dda3ad4fd2787b3", "source": "エリカくん、//なんだかウキウキして……//どうかしたのかい？", "text": "에리카 군，//왠지 들떠 있는 것 같은데…//무슨 일이라도 있어？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0001"}]}
+{"id": "dialogue:e16c1aead0c34082", "source": "大神さんと戦えるかと思うと……//なんだか、うれしくて、//おどりたくなっちゃいます！", "text": "오오가미 씨와 함께 싸운다고 생각하니…//왠지 기뻐서，//춤추고 싶어져요∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0002"}]}
+{"id": "dialogue:0f74be22c17b06f0", "source": "大神さん∈//さっそく命令してくれますか！", "text": "오오가미 씨∈//바로 명령해 주시겠어요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0003"}]}
+{"id": "dialogue:1a2fe477fe4a1693", "source": "前に出て戦ってくれ！", "text": "앞으로 나가서 싸워 줘∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0005"}, {"id": "SLG/G03/E/EV03010.SBN#0005"}]}
+{"id": "dialogue:e93ab1981679e17a", "source": "後方で援護だ！", "text": "후방에서 엄호하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0006"}]}
+{"id": "dialogue:cc2800a6191c2cf5", "source": "黒ネコのワルツを頼む！", "text": "검은 고양이 왈츠를 부탁해∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0007"}]}
+{"id": "dialogue:878dac52760789c7", "source": "よし、エリカくん……//前に出て戦ってくれ！//格闘戦だ！", "text": "좋아，에리카 군…//앞으로 나가서 싸워 줘∈//격투전이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0008"}]}
+{"id": "dialogue:3391fba1f07f95e0", "source": "はい、まかせてください∈//この日のために、//天罰の特訓をしてたんです！", "text": "네，맡겨 주세요∈//이날을 위해，//천벌 특훈을 해 왔답니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0009"}]}
+{"id": "dialogue:354f590be804ac83", "source": "……って、もしかして//わたしの光武の性能……//忘れちゃったんですか？", "text": "…설마//제 광무의 성능…//잊어버리신 건가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0010"}]}
+{"id": "dialogue:19362e8a21555407", "source": "わたしは、回復したり、//後ろから援護したりするのが//得意なんですよ！", "text": "저는 회복하거나，//뒤에서 지원하는 게//특기랍니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0011"}]}
+{"id": "dialogue:aa5fea48b739d3a7", "source": "こんなときにふざけてると、//天罰を与えちゃいますからね！", "text": "이런 때에 장난치고 있으면，//천벌을 내려 버릴 거예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0012"}]}
+{"id": "dialogue:5d59e3a9c6e85ece", "source": "す、すまない！//それじゃ、//後ろから援護してくれ∈", "text": "미，미안해∈//그럼，//뒤에서 엄호해 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0013"}]}
+{"id": "dialogue:c53497c7af08b427", "source": "はーい！//わかりましたぁ∈", "text": "네～∈//알겠습니다아∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0014"}]}
+{"id": "dialogue:d72525e5babf60a5", "source": "エリカくんは//後方からの援護だ！//機体の回復も頼む∈", "text": "에리카 군은//후방 지원을 맡아 줘∈//기체 회복도 부탁해∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0015"}]}
+{"id": "dialogue:8a3586109b931708", "source": "はい、わかりましたぁ！//バッチリまかせてください∈", "text": "네，알겠습니다아∈//맡겨만 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0016"}]}
+{"id": "dialogue:6de0082af436e0b0", "source": "それにしても、大神さん……//わたしの光武の性能、//覚えててくれたんですね。", "text": "그나저나，오오가미 씨…//제 광무의 성능을，//기억해 주셨군요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0017"}]}
+{"id": "dialogue:a33199c50f16dcf7", "source": "ああ、もちろんだよ。//忘れるわけがないだろ。", "text": "아아，물론이지．//잊을 리가 없잖아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0018"}]}
+{"id": "dialogue:8d7e267844447b20", "source": "エヘヘヘ……//それじゃ、//エリカ、行っきまーす∈", "text": "에헤헤헤…//그럼，//에리카，갑니다～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0019"}]}
+{"id": "dialogue:0e0602098e8883c7", "source": "「黒ネコのワルツ」を頼む！//敵は目の前だ……//ステップをまちがうなよ！", "text": "「검은 고양이의 왈츠」를 부탁한다∈적은 눈앞이다…//스텝을 틀리지 마라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0020"}]}
+{"id": "dialogue:b6d5053386106b5a", "source": "はい……いきます！//「一回まわって、ニャ～！」", "text": "네…갑니다∈//「한 바퀴 돌아서，냐～∈」", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0021"}]}
+{"id": "dialogue:92caec86619052e6", "source": "「二回まわって、ミ～！」", "text": "「두 번 돌아서，미～∈」", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0022"}]}
+{"id": "dialogue:41693ee65533c9c3", "source": "か、過激なお客さんですねぇ……//ステージに物を//投げないでくださ～い！", "text": "과，과격한 손님이시네요…//무대로 물건을//던지지 말아 주세～요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0023"}]}
+{"id": "dialogue:db8577bf15ed6bd9", "source": "あれ？//聞こえてないのかな？", "text": "어라？//안 들리는 건가？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0024"}]}
+{"id": "dialogue:cd8190cf7c4ef970", "source": "す、すまない、エリカくん。//俺が悪かった……//もうやめてくれ∈", "text": "미，미안해，에리카 군．//내가 잘못했어…//이제 그만해 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0025"}]}
+{"id": "dialogue:7c55ab2b47321f45", "source": "そうですか？//じゃ、やめときます！//蒸鬼のみなさん、またね～！", "text": "그런가요？//그럼，그만할게요∈//증귀 여러분，또 봐～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0026"}]}
+{"id": "dialogue:117b84b8be602562", "source": "エ、エリカくんに//冗談を言うのは、命がけだな……//今度から気をつけよう。", "text": "에，에리카 군에게//농담하는 건 목숨을 걸어야겠는걸…//다음부터는 조심해야겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0027"}]}
+{"id": "dialogue:f2212928479d93e7", "source": "大神さん！//戦闘中にお昼寝なんて、//ズルイですよ∈", "text": "오오가미 씨∈//전투 중에 낮잠이라니，//치사해요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0029"}]}
+{"id": "dialogue:0807a7eb0ec49d22", "source": "い、いや、ちがうんだ。//エリカくんの光武の性能を//思い出していたんだよ。", "text": "아，아니，그게 아니라．//에리카 군의 광무 성능을//떠올리고 있었던 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0030"}]}
+{"id": "dialogue:0336d440a1d2ec54", "source": "あのですね、回復したり//後ろから援護したりするのが//得意なんですよ！", "text": "저기 말이죠，회복하거나//뒤에서 지원하는 게//특기거든요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0031"}]}
+{"id": "dialogue:7540c4a6f1a88571", "source": "巴里で一緒に戦ったのに、//忘れないでくださいよ。//もぅ、ダメだなぁ、大神さんは。", "text": "파리에서 함께 싸웠는데，//잊으시면 안 돼요．//정말이지，오오가미 씨는 못 말린다니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0032"}]}
+{"id": "dialogue:06c2479153649151", "source": "あぁ、そうだったな。//じゃあ、後方支援を頼むよ。", "text": "아아，그랬었지．//그럼，후방 지원을 부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0033"}]}
+{"id": "dialogue:e9d94875f5918cd1", "source": "はい、わっかりましたぁ∈", "text": "네，알겠습니다아∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03009.SBN#0034"}]}

@@ -1,0 +1,618 @@
+{
+ "SLG/G01/CMAP01.GRCT|0|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0000_0000.png",
+  "sha256": "3ad341a4afa6b0875c4f877085ffd7f6e154485918470ea4d7e6a5aabdd776d5"
+ },
+ "SLG/G01/CMAP01.GRCT|0|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0000_0001.png",
+  "sha256": "8b0e8d6389fbf0d5a80d6a08b1b7be74646063204de9f15f2d59cec0aba0740c"
+ },
+ "SLG/G01/CMAP01.GRCT|1|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0001_0000.png",
+  "sha256": "05a9b5435c27d3f26172640cf4f15ef83f74d332feccf3bccf965df9ec5868f6"
+ },
+ "SLG/G01/CMAP01.GRCT|1|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0001_0001.png",
+  "sha256": "975d8474badc64e73b856776087d9e3dd58156502e776e4217f4c1dd54bd2a3e"
+ },
+ "SLG/G01/CMAP01.GRCT|2|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0002_0000.png",
+  "sha256": "11b6b6bde722e606cd615e53c6b4744b4df52c7249d3c55a70695c2562831cef"
+ },
+ "SLG/G01/CMAP01.GRCT|2|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0002_0001.png",
+  "sha256": "73c70d0e90faaeb53cb981226e75b34c2c7c916879a1906e964aed184364ea06"
+ },
+ "SLG/G01/CMAP01.GRCT|3|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0003_0000.png",
+  "sha256": "122c3c3be81ff5937e5337b08a2929ecc491fa86c924631c301de639c56b56df"
+ },
+ "SLG/G01/CMAP01.GRCT|3|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0003_0001.png",
+  "sha256": "b282cff914710aca5168e4e5e53e7a15354c8f0c2305987e0bffc48684b69204"
+ },
+ "SLG/G01/CMAP01.GRCT|4|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0004_0000.png",
+  "sha256": "b8dc84a6d6597003ef33b59a1a951d5cf2b803b54318ca06f10b5aeb085f333b"
+ },
+ "SLG/G01/CMAP01.GRCT|4|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0004_0001.png",
+  "sha256": "c059496c6e3232b7799e0d3dfc0c72376b7152bd516248e694bca7e457c4d84d"
+ },
+ "SLG/G01/CMAP01.GRCT|5|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0005_0000.png",
+  "sha256": "c06027700f18e101291cfd93549d93db92d8bbc971488e819d469e4afdcf5045"
+ },
+ "SLG/G01/CMAP01.GRCT|5|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0005_0001.png",
+  "sha256": "64c45b501f080b5a631ee3680ce282a8798cb8bf3c83d4f74c0b5790d77f5bd9"
+ },
+ "SLG/G01/CMAP01.GRCT|6|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0006_0000.png",
+  "sha256": "0804d8451b4727021546e04c32b824a226826e065afb81b18384dc1e8901fd93"
+ },
+ "SLG/G01/CMAP01.GRCT|6|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0006_0001.png",
+  "sha256": "930e8b98b5211e299aa14e88bef5d1cd2c0c9db7713cb5c0ff2db0a47cbe2c7d"
+ },
+ "SLG/G01/CMAP01.GRCT|7|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0007_0000.png",
+  "sha256": "71100beee6a528d557e9a8985c4913dc8bed4daa2cb09090822555758fc57481"
+ },
+ "SLG/G01/CMAP01.GRCT|7|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0007_0001.png",
+  "sha256": "5645b5afd6e1be956cb7176c85e2b35909de97894ebe4272a1fe8ac50a69f40d"
+ },
+ "SLG/G01/CMAP01.GRCT|8|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0008_0000.png",
+  "sha256": "32c13f0683c84be1995d81ec926d3f7a02deb8042544c252c1f2ee7534bd3db1"
+ },
+ "SLG/G01/CMAP01.GRCT|8|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/CMAP01.GRCT/0008_0001.png",
+  "sha256": "e57329bffd324b5ae5f6a7c9be95a423301288622b8f9945232c9c29d5010c02"
+ },
+ "SLG/G03/CMAP03.GRCT|1|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0001_0000.png",
+  "sha256": "fd6b59a69bb139a4e3118b5310e02397ca055535c48a16f29ff82d2cc515f373"
+ },
+ "SLG/G03/CMAP03.GRCT|1|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0001_0001.png",
+  "sha256": "1bad1d7b13fbb74bcf2690bcb1bb06708ea9c667a8c5e2b6f628e9ce4559e972"
+ },
+ "SLG/G03/CMAP03.GRCT|14|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0014_0000.png",
+  "sha256": "a7ae5b4c081eb99de88a25a7057dd05512ce10f8aba719a304ac409a35fd5abe"
+ },
+ "SLG/G03/CMAP03.GRCT|14|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0014_0001.png",
+  "sha256": "50c961be7b533de483b8881d2c51e5092f840ec8d3ffd85f27736ed1a213f930"
+ },
+ "SLG/G03/CMAP03.GRCT|15|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0015_0000.png",
+  "sha256": "ec23f326f322da9a0f19de881d0ae30df07d79fd32dcffe9fcb4c7f0741353e0"
+ },
+ "SLG/G03/CMAP03.GRCT|15|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0015_0001.png",
+  "sha256": "dbbe9d413c36e0f730b06b00512acc99fd3702a24670ab41a4a950e1a6d7783f"
+ },
+ "SLG/G03/CMAP03.GRCT|16|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0016_0000.png",
+  "sha256": "a9369586ffcaf550bd1f12f1df6835f6e32f20a60fe09d1afd004ffa178db294"
+ },
+ "SLG/G03/CMAP03.GRCT|16|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0016_0001.png",
+  "sha256": "999812a314028c35fd8d663e35cd523e065e02dc1aca41e7854ccdbf58de70c5"
+ },
+ "SLG/G03/CMAP03.GRCT|17|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0017_0000.png",
+  "sha256": "0fa64972d79ea05e5821da4ab9c2275a2ef96b3731162c5671c3c90249327cd1"
+ },
+ "SLG/G03/CMAP03.GRCT|17|1": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0017_0001.png",
+  "sha256": "7248a09eb8d239110f213c6618cf6a251757d53e8e1255c4ae8162b7f5e7d1d3"
+ },
+ "SLG/G02/CMAP02.GRCT|6|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0006_0000.png",
+  "sha256": "6c781d7c4aaf18e995f28a206450846100431443a2cf98e6f208a3f062a8934a"
+ },
+ "SLG/G03/CMAP03.GRCT|13|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0013_0000.png",
+  "sha256": "c95cf8992be82b9e85ea635ea3d7de5b2d0898b944f507cb0198cc792863024c"
+ },
+ "SLG/G02/CMAP02.GRCT|7|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0007_0000.png",
+  "sha256": "5cacd737c0602ae710e31fc8963a72ec77653f912404cb6e52a164ffd5a0af3c"
+ },
+ "SLG/G02/CMAP02.GRCT|8|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0008_0000.png",
+  "sha256": "bdb51d62735656580b21878f06bad0c54529588ccbbb10ef4b6449a26c4769fb"
+ },
+ "SLG/G02/CMAP02.GRCT|9|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0009_0000.png",
+  "sha256": "ff8fa045b705a10b740f4a4f8983ee3c118f001463268ac7289c82da66e13f53"
+ },
+ "SLG/G02/CMAP02.GRCT|10|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0010_0000.png",
+  "sha256": "4dcf49130f7e6e73f08a67932ab2c5bee81535c2583f5dda928befc3697a03f8"
+ },
+ "SLG/G02/CMAP02.GRCT|11|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G02/CMAP02.GRCT/0011_0000.png",
+  "sha256": "8bf8d6ed820db0845ba0d554ba89fb4b323f6f3b41db6fe1cc6e06d65d7938f7"
+ },
+ "SLG/G03/CMAP03.GRCT|9|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0009_0000.png",
+  "sha256": "b9b212d230bcf7306234cb4384415281c7e8d648d653a2c34bb8108de43cea84"
+ },
+ "SLG/G03/CMAP03.GRCT|10|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0010_0000.png",
+  "sha256": "3c58d8e382f1dabb584210d4cac1c1f734de1b9e06578e668eb956d39678c3ac"
+ },
+ "SLG/G03/CMAP03.GRCT|11|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0011_0000.png",
+  "sha256": "a7bdf60010f2b098fab13a2307a53a47cd0d72c832c50f7e4793ab9ff0d1e1da"
+ },
+ "SLG/G03/CMAP03.GRCT|12|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G03/CMAP03.GRCT/0012_0000.png",
+  "sha256": "9eacc25e7a08eac6ea7793d681d62b5ceccd8c5fbbbee3623fe98f231cb688ab"
+ },
+ "SLG/G05/CMAP05.GRCT|1|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G05/CMAP05.GRCT/0001_0000.png",
+  "sha256": "d94ea625333825682265b6f9869449c5b2fc466e04f443187fe78d32dc96cc4d"
+ },
+ "SLG/G05/CMAP05.GRCT|2|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G05/CMAP05.GRCT/0002_0000.png",
+  "sha256": "b9f3ed80ec88bf44b6a11ad003b4097afb07e9b6ca9e894ca61393e0b7e94be4"
+ },
+ "SLG/G04/CMAP04.GRCT|0|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G04/CMAP04.GRCT/0000_0000.png",
+  "sha256": "91042c14c9a89f569efe6b18254d8a09b9dd6aa2cbab21ae99dd53a8d533dfd0"
+ },
+ "SLG/G04/CMAP04.GRCT|1|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G04/CMAP04.GRCT/0001_0000.png",
+  "sha256": "9f84096117f2265ed4c8b331feea7a731c4a145b61be6935381e83fb2114b1cb"
+ },
+ "SLG/G04/CMAP04.GRCT|2|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G04/CMAP04.GRCT/0002_0000.png",
+  "sha256": "b7d7fb43551f263316d259f90e42f2e8d378d157a33d82129608c000fb81b2dc"
+ },
+ "SLG/G05/CMAP05.GRCT|0|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G05/CMAP05.GRCT/0000_0000.png",
+  "sha256": "6e8b493ee843ebafee7e777f04884ba311af1e51d53fa4e1cbf66292f21d7682"
+ },
+ "SLG/UNITS/OGAMI_K2_N.BC|126|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/OGAMI_K2_N.BC/0126_0001.png",
+  "sha256": "a04b516167eac28fecea7f6d42e39ad0408d70a5874e7c8c773ee1e46e3923a4"
+ },
+ "SLG/UNITS/OGAMI_K2_N.BC|126|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/OGAMI_K2_N.BC/0126_0000.png",
+  "sha256": "18df8fb02c82a8147a70c1e83e3832d902f320c2f4b57ce207bfe6784156f4bc"
+ },
+ "SLG/UNITS/SAKURA_K2_N.BC|114|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/SAKURA_K2_N.BC/0114_0001.png",
+  "sha256": "d94bae0ba5b1e282cece0e5f99230b578eb5c38b5a99bedaf1bb736b270e9f4f"
+ },
+ "SLG/UNITS/SAKURA_K2_N.BC|114|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/SAKURA_K2_N.BC/0114_0000.png",
+  "sha256": "0a33a386058cb1fb9ec7d2fce61396aff473495de4391031623044f6983bdac8"
+ },
+ "SLG/UNITS/SUMIRE_K2_N.BC|185|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/SUMIRE_K2_N.BC/0185_0001.png",
+  "sha256": "1fd32bb043432396885de1c3b1440d062d2ae6a8d1fca072cfb6b80ee66e307c"
+ },
+ "SLG/UNITS/SUMIRE_K2_N.BC|185|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/SUMIRE_K2_N.BC/0185_0000.png",
+  "sha256": "25217f8cbda1dace66a17154d85d473dd3d7cb74d2a557e21a7800f801a88ae0"
+ },
+ "SLG/UNITS/MARIA_K2_N.BC|135|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/MARIA_K2_N.BC/0135_0001.png",
+  "sha256": "f05086c728dc87139bc94991cbf6cd17de67a782465deec33dc64a4878b69f3b"
+ },
+ "SLG/UNITS/MARIA_K2_N.BC|135|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/MARIA_K2_N.BC/0135_0000.png",
+  "sha256": "f817deab5e561dcc3e3878b709ea3623dd2b5f05f2d061b16d8bfae5417f85fc"
+ },
+ "SLG/UNITS/KANNA_K2_N.BC|114|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/KANNA_K2_N.BC/0114_0001.png",
+  "sha256": "f57d8fdf89dceb9ac88c4518a31af2f7602d3c43927916d0087fac35d0d3dcf8"
+ },
+ "SLG/UNITS/KANNA_K2_N.BC|114|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/KANNA_K2_N.BC/0114_0000.png",
+  "sha256": "49c9694130135daa437d45fef47b65c009842e2306565d229325bd222f4e0074"
+ },
+ "SLG/UNITS/IRIS_K2_N.BC|74|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/IRIS_K2_N.BC/0074_0000.png",
+  "sha256": "072929c730136f47e5ef6015454a9c7530b8fec5223ae11b2d7fb2a76f70e357"
+ },
+ "SLG/UNITS/KOURAN_K2_N.BC|97|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/KOURAN_K2_N.BC/0097_0000.png",
+  "sha256": "8b8c2b0ddcdcdf59405e7fb3f3fc912cdc9368a06e6954ee3e8570a02e09a9b2"
+ },
+ "SLG/UNITS/ORIHIME_K2_N.BC|140|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/ORIHIME_K2_N.BC/0140_0001.png",
+  "sha256": "a19d4f1015cffb305b5601ec6c2be9317303ea0fa1cd074b2cc212a6b263fcb1"
+ },
+ "SLG/UNITS/ORIHIME_K2_N.BC|140|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/ORIHIME_K2_N.BC/0140_0000.png",
+  "sha256": "5ed2b5d4f166445a91c65b0ef59a8a746ea80877ba734d071d30bd0e0f396d31"
+ },
+ "SLG/UNITS/RENI_K2_N.BC|104|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/RENI_K2_N.BC/0104_0001.png",
+  "sha256": "897e8d70602bd8a4d359133fea4abc3c856fcc126459c0476a432d7d8304c6a4"
+ },
+ "SLG/UNITS/RENI_K2_N.BC|104|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/RENI_K2_N.BC/0104_0000.png",
+  "sha256": "bd9054f2907349ab4936bbf55ff0b0be55f2bf6015d7e320083fc70b0b05ee06"
+ },
+ "SLG/UNITS/ERICA_F2_N.BC|140|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/ERICA_F2_N.BC/0140_0001.png",
+  "sha256": "5677a8efc04605e92d5248bc6eaeb3cf6641a7e72253be4c71a61ba4e6c846f5"
+ },
+ "SLG/UNITS/ERICA_F2_N.BC|140|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/ERICA_F2_N.BC/0140_0000.png",
+  "sha256": "ea9db1dbd306eb0b54ed40e0ddeaa9a777b20a1f82eb677effbe8b3fdc963510"
+ },
+ "SLG/UNITS/GLYCINE_F2_N.BC|125|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/GLYCINE_F2_N.BC/0125_0001.png",
+  "sha256": "01453de423e6d5f213908052b51a9774d7550dba16dbc7524e3a6edcd567ec7c"
+ },
+ "SLG/UNITS/GLYCINE_F2_N.BC|125|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/GLYCINE_F2_N.BC/0125_0000.png",
+  "sha256": "b702452819fb7e8c4ec2600b7fc7429b8f9c3022881f4da722da0edf7dafccfb"
+ },
+ "SLG/UNITS/COQUELICOT_F2_N.BC|115|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/COQUELICOT_F2_N.BC/0115_0000.png",
+  "sha256": "874d7f1cdb208114ac2487e5ce8b5ba8883819cf645f425abf375014a0d99743"
+ },
+ "SLG/UNITS/LOBELIA_F2_N.BC|190|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/LOBELIA_F2_N.BC/0190_0001.png",
+  "sha256": "80d9984421540b9fb2f5ea7cd6be5086396cc447022239a2e32e641145d2eb89"
+ },
+ "SLG/UNITS/LOBELIA_F2_N.BC|190|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/LOBELIA_F2_N.BC/0190_0000.png",
+  "sha256": "857eafa5bad7ff97ab542c060267be9c92c3b8aba98b0dee2b821aa5a001563d"
+ },
+ "SLG/UNITS/HANABI_F2_N.BC|85|1": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/HANABI_F2_N.BC/0085_0001.png",
+  "sha256": "6f93208bab94947ae71d6763b02eeaeb64b16b8adfcfec6754069afa50df8b2d"
+ },
+ "SLG/UNITS/HANABI_F2_N.BC|85|0": {
+  "path": "assets/images/review/remake_baseline/SLG/UNITS/HANABI_F2_N.BC/0085_0000.png",
+  "sha256": "66402350977a9238000da2cebfdcd42abb8888d435308a42b81a44a2c0f570c9"
+ },
+ "ADVDATA/CG_ALL1.DAT|679|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0679_0000.png",
+  "sha256": "63906d54439b7f66d91e25e6b978733563816a4d0885b9b07ed99de796a01705"
+ },
+ "ADVDATA/CG_ALL1.DAT|680|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0680_0000.png",
+  "sha256": "45552c93cec3098cd6e54bacd7cc199269af8ac95be4aad7a9219198209e641d"
+ },
+ "ADVDATA/CG_ALL1.DAT|681|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0681_0000.png",
+  "sha256": "e53cbdefdaa9476d31403941054565bd4e41638ae0012bfc9c35f58c9032c5c4"
+ },
+ "ADVDATA/CG_ALL1.DAT|684|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0684_0000.png",
+  "sha256": "b69c5e9c249ccdfdc0fa19d063d8ada8f643faa60e4f6d0fa960742bfec1a141"
+ },
+ "ADVDATA/CG_ALL1.DAT|685|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0685_0000.png",
+  "sha256": "66392105623bf9b9660feeb86ee9ad7de7aea3aa2ef2086f4a3c25e6ed789089"
+ },
+ "ADVDATA/CG_ALL1.DAT|686|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0686_0000.png",
+  "sha256": "f2f22ad2614e57f44a0d3e0a4a47bab210d9f7330a5d102286ca20cb882a9a13"
+ },
+ "ADVDATA/CG_ALL1.DAT|687|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0687_0000.png",
+  "sha256": "7207bc36cdc612b1708ef4834085c8707656f5230a4d33e240fc855d4b090183"
+ },
+ "ADVDATA/CG_ALL1.DAT|690|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0690_0000.png",
+  "sha256": "4cc79b32b33b43094c591155743069e66b501b8d3bf0d50b649a98c9c1d9ded1"
+ },
+ "ADVDATA/CG_ALL1.DAT|691|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0691_0000.png",
+  "sha256": "05d33cfff35fbb2650ab3d7505dcb074cba27d50dfce0c907d6218b2f509ef32"
+ },
+ "ADVDATA/CG_ALL1.DAT|692|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0692_0000.png",
+  "sha256": "ae9d30a78a558ff9dd70ecbc48d1cd5a21bb54584da6575d16bef2cfbf065540"
+ },
+ "ADVDATA/CG_ALL1.DAT|693|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0693_0000.png",
+  "sha256": "5c5ddee3827cc89a0ec6378adbb9201807ef3fce1b3082008063428d90c2e957"
+ },
+ "ADVDATA/CG_ALL1.DAT|696|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0696_0000.png",
+  "sha256": "d361d1ec9da6eac6a283ae19a4ec231042bf1eb49191bd46ce3c71e145576bda"
+ },
+ "ADVDATA/CG_ALL1.DAT|697|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0697_0000.png",
+  "sha256": "35a093889ab4c49ca0c36574c6556788014edc690e120e64084415cb574586ef"
+ },
+ "ADVDATA/CG_ALL1.DAT|698|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0698_0000.png",
+  "sha256": "c190ea0f808d0a381817888c3fd96f6459929b2cddae36443009ad713c861140"
+ },
+ "ADVDATA/CG_ALL1.DAT|699|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0699_0000.png",
+  "sha256": "22fdb3d17b5bb63764e9a5c1405215c5b14b900139baf83a3a33ba583375d273"
+ },
+ "ADVDATA/CG_ALL1.DAT|702|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0702_0000.png",
+  "sha256": "0fffadd56f4363a295ae0393d6b1e442209fe9a92ca8cd921f602f4f47036bac"
+ },
+ "ADVDATA/CG_ALL1.DAT|703|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0703_0000.png",
+  "sha256": "a2a18c21282ec19bf82f3e099afda1400020e2a8f0ff1c50c1e31699d888f4d7"
+ },
+ "ADVDATA/CG_ALL1.DAT|704|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0704_0000.png",
+  "sha256": "99b5a4f74d927fa96467d0c0d60c12452e9678a86bf7bd7042d0f28540008a2f"
+ },
+ "ADVDATA/CG_ALL1.DAT|705|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0705_0000.png",
+  "sha256": "5b0ffc7ab9a93a565d6b0c3f1d3d2e8d528caa536fd41e2880d8b95ac3030d9c"
+ },
+ "ADVDATA/CG_ALL1.DAT|708|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0708_0000.png",
+  "sha256": "fe9ea49c392231b1a3b9dc574b7fe4ba8aa958700154dc3020e139681fd6a599"
+ },
+ "ADVDATA/CG_ALL1.DAT|709|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0709_0000.png",
+  "sha256": "b77b45d7b73fec94ca337080120734875cc56f8c55b1b7e52872dca1400c8aaf"
+ },
+ "ADVDATA/CG_ALL1.DAT|710|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0710_0000.png",
+  "sha256": "8bdb6427affd394ca22fa544286d42f96815cf4e6162487c366fd204378d7f13"
+ },
+ "ADVDATA/CG_ALL1.DAT|711|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0711_0000.png",
+  "sha256": "46137d06136246c333fd0f8fdf39f659637e3b54a718ad73607ee4742f73dc28"
+ },
+ "ADVDATA/CG_ALL1.DAT|712|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0712_0000.png",
+  "sha256": "0c0a1240d36f93a473ec795ffc275cc7c1bf10a9bc20e285c6883080e46980d8"
+ },
+ "ADVDATA/CG_ALL1.DAT|713|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0713_0000.png",
+  "sha256": "527333efccbfd348a6f391283c583a08cccd987e67d565109a1311825386aeb3"
+ },
+ "ADVDATA/CG_ALL1.DAT|714|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0714_0000.png",
+  "sha256": "935b646e78b07804ddf0737ac6d355b08c87870649f7571b9ecd30f3a8caf986"
+ },
+ "ADVDATA/CG_ALL1.DAT|715|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0715_0000.png",
+  "sha256": "bdc518bd19430e571adca7a368e3624bbad45c1aeaf6aac78c725a2eb4807b13"
+ },
+ "ADVDATA/CG_ALL1.DAT|716|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0716_0000.png",
+  "sha256": "8605cee3861a83f0fc7e3480ebb7d8d3b5069bbaa8c837a5d050d10845ca3b4a"
+ },
+ "ADVDATA/CG_ALL1.DAT|717|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0717_0000.png",
+  "sha256": "21899c5686e05c4f335608b8f19ccf9e81b55c0be50c62c21552fc7ec83d0b9a"
+ },
+ "ADVDATA/CG_ALL1.DAT|718|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0718_0000.png",
+  "sha256": "72c03bd7907a3c8881cc1703fd68bed0c3720ee5b539574ac55c016380da0cbe"
+ },
+ "ADVDATA/CG_ALL1.DAT|719|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0719_0000.png",
+  "sha256": "3cc9966aca8c16081eee73ed121fb3ab9bf02084106842b1846c3d08b666a80c"
+ },
+ "ADVDATA/CG_ALL1.DAT|720|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0720_0000.png",
+  "sha256": "e3b5119efaed3811e7e7a5cecad7e3da6796e62d3ca243c02580359f84c3dc68"
+ },
+ "ADVDATA/CG_ALL1.DAT|723|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0723_0000.png",
+  "sha256": "35d5334980fa6f32c74ee502f08300634952cc76feeb7547cb311eb7d05fde24"
+ },
+ "ADVDATA/CG_ALL1.DAT|724|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0724_0000.png",
+  "sha256": "217adea7d93059f1e5291423bf2dcd81fbd80aa95adee50f305dcf82b5a4847f"
+ },
+ "ADVDATA/CG_ALL1.DAT|725|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0725_0000.png",
+  "sha256": "98e49513a10d1d9371cb0fdc58995275e42fc27947848e1ea7a27a18121f0b52"
+ },
+ "ADVDATA/CG_ALL1.DAT|726|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0726_0000.png",
+  "sha256": "33e955e94bcd97835ca8c7e2714dee4ff8aa660955a49c97ab5f339fb2e4fc95"
+ },
+ "ADVDATA/CG_ALL1.DAT|729|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0729_0000.png",
+  "sha256": "8c78e0d3720206e21587c03a7d3be3b350b4508c46c03ce58f4f8fe71cf5e005"
+ },
+ "ADVDATA/CG_ALL1.DAT|730|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0730_0000.png",
+  "sha256": "382de6263d9daabd45c679d3cf17d3abb93be8f19cafb901868c0770a163b1a3"
+ },
+ "ADVDATA/CG_ALL1.DAT|731|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0731_0000.png",
+  "sha256": "36d633407f1d7c8a6debf483934071cf04aca505a02b3ac0eda5c153f0f81df8"
+ },
+ "ADVDATA/CG_ALL1.DAT|732|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0732_0000.png",
+  "sha256": "2adc277c60cbf7fc27f134e7b0f0a93d5bf4a60a1291115147e22ce3c0eb4db6"
+ },
+ "ADVDATA/CG_ALL1.DAT|1298|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1298_0000.png",
+  "sha256": "c63cff0a10613944b1f488659d4eab0639364e3aa4adfee965428e3695207c50"
+ },
+ "ADVDATA/CG_ALL1.DAT|1277|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1277_0000.png",
+  "sha256": "f3499ff998b6c48859c240681046de358edf28f4d3054b6fcc3d930cd52c171c"
+ },
+ "ADVDATA/CG_ALL1.DAT|1294|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1294_0000.png",
+  "sha256": "ce47f958a23c157ae926d1e0946d30629336aaf3d8db885171f5f77adf147ac4"
+ },
+ "ADVDATA/CG_ALL1.DAT|1299|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1299_0000.png",
+  "sha256": "416708847505ee7b55e963062e8e055a258ffc102201035d9340364030103567"
+ },
+ "ADVDATA/CG_ALL1.DAT|1272|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1272_0000.png",
+  "sha256": "ae2367161097381c1f8ee87d06b5a9691ead60bcad902f465a30ac70e7de1426"
+ },
+ "ADVDATA/CG_ALL1.DAT|1263|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1263_0000.png",
+  "sha256": "c69e076fd59976074b17f26cb6e3e0d360ec13e42924d53c99b0db0587e1ae0a"
+ },
+ "ADVDATA/CG_ALL1.DAT|1300|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1300_0000.png",
+  "sha256": "1978c919564f2bd7ae4f4c3ec2d51756c678171b8762dd7bfb5fdce83759d12e"
+ },
+ "ADVDATA/CG_ALL1.DAT|1301|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/1301_0000.png",
+  "sha256": "7220383138da62442132e4ffc598ad6b48e0190f3f49a49aa8cc45a502e7cd9c"
+ },
+ "ADVDATA/CG_ALL1.DAT|736|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0736_0000.png",
+  "sha256": "2c7d3b36d4964c72a82e1ecaad7a92ef6ea49bffffc51d7fbe9dd830a57d3f83"
+ },
+ "ADVDATA/CG_ALL1.DAT|737|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0737_0000.png",
+  "sha256": "742ff516c1f2847379a533a390a98af72f93c4d6745bd807ac1c082b5842c9a0"
+ },
+ "ADVDATA/CG_ALL1.DAT|738|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0738_0000.png",
+  "sha256": "dc83eba81dc90163e31adc6fcb7e9c865c0201ac6c4acce4910b7d6ad25cb23e"
+ },
+ "ADVDATA/CG_ALL1.DAT|744|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0744_0000.png",
+  "sha256": "d1a863f66602fddb6888fc0e28678e9cea111440dfa8e18486821955b5fb620e"
+ },
+ "ADVDATA/CG_ALL1.DAT|745|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0745_0000.png",
+  "sha256": "e3ceafe77ce9ac19197bc63513d88c9f64984f407d5fed55a183773208be0015"
+ },
+ "ADVDATA/CG_ALL1.DAT|746|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0746_0000.png",
+  "sha256": "8a61f14b34c4e7f0f8cad0f5f6cc9811198d9bd901fdf02bd94e0c6bb6386ced"
+ },
+ "ADVDATA/CG_ALL1.DAT|747|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0747_0000.png",
+  "sha256": "79cc78ff10f561ce9384af591cfc0798c8ddb374d2ba67a333a1daabefe0584c"
+ },
+ "ADVDATA/CG_ALL1.DAT|748|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0748_0000.png",
+  "sha256": "dc6e5b2d1616baefae9fde7837cd0e3151eec2186deed4fabc038c49af0f1464"
+ },
+ "ADVDATA/CG_ALL1.DAT|749|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0749_0000.png",
+  "sha256": "3e8cfd636f84d87223188a9428cbdafbdb550ef1fd6409a71570875c930fb9cd"
+ },
+ "ADVDATA/EYECATCH/TAIN_DTS.CBD|0|1": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_0001.png",
+  "sha256": "20ab074fc89f7d9da72244b0a936cbe8cebeae2a0d6250dd386d1030448759d4"
+ },
+ "MINIGAME/GAME0.CSD|0|1": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/GAME0.CSD/0000_0001.png",
+  "sha256": "3d14a2baea30318277978c7931b745384f525f31ff01525662e078319877b5e8"
+ },
+ "MINIGAME/GAME0.CSD|0|2": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/GAME0.CSD/0000_0002.png",
+  "sha256": "473850cb49a5b9417fedca10574dd9cd373ca695e90b21b672755df53a09b432"
+ },
+ "MINIGAME/GAME0.CSD|0|4": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/GAME0.CSD/0000_0004.png",
+  "sha256": "86d858489d563790972f0f1446bbe374705afa3e1d9432eb46360af0c2eef425"
+ },
+ "MINIGAME/GAME0.CSD|0|0": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/GAME0.CSD/0000_0000.png",
+  "sha256": "59d3b52196704a9bd8df147a38eb92ce1629c011a0783e414f18c9ee9ebdf3ae"
+ },
+ "MINIGAME/MENU0.CSD|0|0": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/MENU0.CSD/0000_0000.png",
+  "sha256": "7cf6b386bcc4bf32f35fc958918d1f4369e5c266cc954d502b7fb565fba8d6e5"
+ },
+ "MINIGAME/MENU0.CSD|0|4": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/MENU0.CSD/0000_0004.png",
+  "sha256": "e5d4547bda1c5d7e82c6f3b1d6f3df1734d28380888b4d923b312ca50a6d71ee"
+ },
+ "MINIGAME/MENU0.CSD|0|10": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/MENU0.CSD/0000_0010.png",
+  "sha256": "a5defa62d286222c26657b6bc6d96c8d73534ae1dd77c39b8fb5c55bf0fd87d7"
+ },
+ "MINIGAME/MENU0.CSD|0|9": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/MENU0.CSD/0000_0009.png",
+  "sha256": "0444223ddee568c85756228f31a1c605a14983cdaf7bc4a5edec40c5b772c0a0"
+ },
+ "MINIGAME/WIN0.CSD|0|0": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/WIN0.CSD/0000_0000.png",
+  "sha256": "93762c6e5dd9af1eeff2089de0868913eec85d111dd8fd6040b29c1bece1a8cd"
+ },
+ "MINIGAME/WIN0.CSD|0|1": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/WIN0.CSD/0000_0001.png",
+  "sha256": "91f35b5f93c9f4874dadfcd7a4264e88217273db3b6724945f5f054b19ba1e3a"
+ },
+ "SYSDATA/WARNING.CBD|2|0": {
+  "path": "assets/images/review/remake_baseline/SYSDATA/WARNING.CBD/0002_0000.png",
+  "sha256": "b14a6d5d092782c631792da583a4e88cf2c53d364ef338472ec9074e9dcd3a98"
+ },
+ "SYSDATA/SAVEMENU.CBD|0|4": {
+  "path": "assets/images/review/remake_baseline/SYSDATA/SAVEMENU.CBD/0000_0004.png",
+  "sha256": "bea5c8aea70d2a650da473f3e965041cf5e9299d7c3782b60a88a92852134add"
+ },
+ "SYSDATA/SYSSELECT.CBD|1|0": {
+  "path": "assets/images/review/remake_baseline/SYSDATA/SYSSELECT.CBD/0001_0000.png",
+  "sha256": "c2c3babe52e1b1a5ca14e37c757924185aa6b16f05029fcaf33f7b7439b2d3bc"
+ },
+ "ADVDATA/CG_ALL1.DAT|580|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0580_0000.png",
+  "sha256": "20461d55e3d1a1ebbf9c46cc5d1bac5eec0718bf65a2934280f06a814ddfe558"
+ },
+ "ADVDATA/CG_ALL1.DAT|675|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0675_0000.png",
+  "sha256": "22397c646e7b9e6e428dc63b6d87d9e37ff1f6b451ae797ca8af602eab0244c0"
+ },
+ "ADVDATA/OPTION_BG.CSD|0|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/OPTION_BG.CSD/0000_0000.png",
+  "sha256": "7b390e13dceb6036d6300f29ad68a77e22e8169857e43b3997189c6f136fe372"
+ },
+ "SLG/G01/SMAP01.ESM|115|2": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/SMAP01.ESM/0115_0002.png",
+  "sha256": "4e6e3ca651f8ed7d50dd8397963b29010758b1b57faaa9f2a224ba7c4827ce75"
+ },
+ "SLG/G01/E/EV01001EFF00.BT1|2|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/E/EV01001EFF00.BT1/0002_0000.png",
+  "sha256": "b0f77a846c144fe2fc932f2629d99209c0b0ebf9137e55f2829e17cbb42e8980"
+ },
+ "SLG/G01/E/EV01001EFF00.BT1|4|0": {
+  "path": "assets/images/review/remake_baseline/SLG/G01/E/EV01001EFF00.BT1/0004_0000.png",
+  "sha256": "b3a245e69011e0f1aa04ed85d6995dc97bb80de59644f6faba031f947501edc4"
+ },
+ "ADVDATA/CG_ALL1.DAT|733|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0733_0000.png",
+  "sha256": "d6403df7a7ec6952d92240dcc3c419074b8dd29bc450dbe8be9c4a32f727b1fd"
+ },
+ "ADVDATA/CG_ALL1.DAT|735|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/CG_ALL1.DAT/0735_0000.png",
+  "sha256": "75cc9163ebb7d7b4928d068cb73cf1b1df02f482c7a4b95f093d0b938cfefb1d"
+ },
+ "SYSDATA/TITLESEQ.CBD|3|0": {
+  "path": "assets/images/review/remake_baseline/SYSDATA/TITLESEQ.CBD/0003_0000.png",
+  "sha256": "2bd8091ebca41de0e516c1f116d986f718a326e17220c8caa68bffafca630bb2"
+ },
+ "ADVDATA/EYECATCH/EYEC_DTS00.CBD|2|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_0000.png",
+  "sha256": "36e497ad916c09d23fe0beab2eafb3844917e11e1910c54c84f50f8d04aac4ed"
+ },
+ "ADVDATA/EYECATCH/EYEC_DTS01.CBD|2|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_0000.png",
+  "sha256": "8926e2734730d5cdce1ee2f5df590472b97b550c1f08d70951ae576e24b4b5b6"
+ },
+ "ADVDATA/EYECATCH/EYEC_DTS02.CBD|2|0": {
+  "path": "assets/images/review/remake_baseline/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_0000.png",
+  "sha256": "242678ae7f7b958175e060aa2c94d2cf32121d284d75b7e0b15be11c55942a67"
+ },
+ "MINIGAME/E2MGTITL.ADC|0|0": {
+  "path": "assets/images/review/remake_baseline/MINIGAME/E2MGTITL.ADC/0000_0000.png",
+  "sha256": "74a3e5d8a935631fa5de32a22a36d0452b10f696a2a773231199e484404f5408"
+ }
+}

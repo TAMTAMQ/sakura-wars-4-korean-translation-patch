@@ -1,0 +1,28 @@
+{"id": "dialogue:8363342abee6c33c", "source": "マップ指定が不正", "text": "맵 지정이 잘못됨", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0001"}]}
+{"id": "dialogue:ab6f45077cfa6cd7", "source": "パペットが生成できない", "text": "퍼펫을 생성할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0002"}]}
+{"id": "dialogue:4d09bb2f29116b11", "source": "パペット位置が正しくない", "text": "퍼펫 위치가 올바르지 않음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0003"}]}
+{"id": "dialogue:a8e9d56a86f3eef6", "source": "パペットがロードできない", "text": "퍼펫을 로드할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0004"}]}
+{"id": "dialogue:dcff91be61c02fe8", "source": "初期化されていない", "text": "초기화되지 않음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0005"}]}
+{"id": "dialogue:641567d55b4eeaf8", "source": "検索できない", "text": "검색할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0006"}]}
+{"id": "dialogue:4d7d54fe75e831bd", "source": "ルートが無い", "text": "루트가 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0007"}]}
+{"id": "dialogue:76d9e42742d6bfcf", "source": "チェックモジュールを実行できない", "text": "체크 모듈을 실행할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0008"}]}
+{"id": "dialogue:e7ea02fa937636f1", "source": "の記述が不正", "text": "의 기술 오류", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0009"}]}
+{"id": "dialogue:9ad41ffe34a80c4c", "source": "移動ルートが無い", "text": "이동 루트가 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0010"}]}
+{"id": "dialogue:a764a4fec088f5f3", "source": "ECパペットが生成できない", "text": "ＥＣ퍼펫을 생성할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0011"}]}
+{"id": "dialogue:4019b1e8bcc25afd", "source": "ECパペットがロードできない", "text": "ＥＣ퍼펫을 로드할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0012"}]}
+{"id": "dialogue:cb919d0de88611d7", "source": "イベント発生！", "text": "이벤트 발생∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0013"}]}
+{"id": "dialogue:1b06fe76c9baf7c2", "source": "パペット不正", "text": "퍼펫 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0014"}]}
+{"id": "dialogue:a6f99f1fd7b7a2e8", "source": "マップ番号不正", "text": "맵 번호 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0015"}, {"id": "ADVDATA/MOVE.BIN#0023"}]}
+{"id": "dialogue:9bcf5c61a4de8493", "source": "パペット準備失敗", "text": "퍼펫 준비 실패", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0017"}]}
+{"id": "dialogue:88a3feaf0833c3d0", "source": "マップ未初期化", "text": "맵 미초기화", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0018"}]}
+{"id": "dialogue:c3960098edf0f546", "source": "経路無し", "text": "경로 없음", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0019"}]}
+{"id": "dialogue:e9aae00a4fa7452f", "source": "@fs22,22@fm24,0かえでの部屋", "text": "@fs22,22@fm24,0카에데의 방", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0020"}]}
+{"id": "dialogue:b2a9ae4ee2815bb8", "source": "@fs22,22@fm24,0さくらの部屋", "text": "@fs22,22@fm24,0사쿠라의 방", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0021"}]}
+{"id": "dialogue:170f79cd92ecd7ad", "source": "@fs22,22@fm24,0すみれの部屋", "text": "@fs22,22@fm24,0스미레의 방", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0022"}]}
+{"id": "dialogue:b562394c5c222d18", "source": "マップはロードされなかった", "text": "맵이 로드되지 않음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0024"}]}
+{"id": "dialogue:2e773d8b1287f8f0", "source": "パペット指定不正", "text": "퍼펫 지정 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0025"}]}
+{"id": "dialogue:1e8efd31c0a2e559", "source": "マップが読み込まれていない", "text": "맵이 로드되지 않음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0026"}]}
+{"id": "dialogue:2606bbb58be96dec", "source": "マップ番号が不正", "text": "맵 번호가 잘못됨", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0027"}]}
+{"id": "dialogue:30f62b5e4539ef6f", "source": "移動できない", "text": "이동할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0028"}]}
+{"id": "dialogue:47eb051c5ad84757", "source": "バルーン指定不正", "text": "벌룬 지정 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0029"}]}
+{"id": "dialogue:5167c05a1ebe0fce", "source": "メモリエラー", "text": "메모리 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/MOVE.BIN#0030"}]}

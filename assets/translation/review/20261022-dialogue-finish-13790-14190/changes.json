@@ -1,0 +1,137 @@
+[
+  {
+    "unit": "dialogue:5a0d3bd26825711c",
+    "source": "巨大な大福",
+    "before": {
+      "id": "dialogue:5a0d3bd26825711c",
+      "source": "巨大な大福",
+      "text": "큰 다이후쿠",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2050"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5a0d3bd26825711c",
+      "source": "巨大な大福",
+      "text": "커다란 떡",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2050"
+        }
+      ]
+    },
+    "reason": "다이후쿠의 의미가 전달되도록 현지화. 기존 폰트에 없는 찹 글자는 쓰지 않고 큰 떡이라는 의미 유지."
+  },
+  {
+    "unit": "dialogue:2ca9517de16c01b9",
+    "source": "巴里のエッフェル塔で//光武・改すみれ機が放った//必殺攻撃は何だった？",
+    "before": {
+      "id": "dialogue:2ca9517de16c01b9",
+      "source": "巴里のエッフェル塔で//光武・改すみれ機が放った//必殺攻撃は何だった？",
+      "text": "파리 에펠탑에서//광무・改 스미레 기가 날린//필살 공격은 뭐였지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2067"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2ca9517de16c01b9",
+      "source": "巴里のエッフェル塔で//光武・改すみれ機が放った//必殺攻撃は何だった？",
+      "text": "파리 에펠탑에서//광무・개 스미레 기가 날린//필살 공격은 뭐였지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2067"
+        }
+      ]
+    },
+    "reason": "일본어가 남은 기체명 교정."
+  },
+  {
+    "unit": "dialogue:b423a0cdaa60952a",
+    "source": "みんなの前だと//へたな冗談もいえないな……//トホホ……",
+    "before": {
+      "id": "dialogue:b423a0cdaa60952a",
+      "source": "みんなの前だと//へたな冗談もいえないな……//トホホ……",
+      "text": "모두의 앞이라//서툰 농담조차 못 하겠네…//토호호…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02012.SBN#0026"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b423a0cdaa60952a",
+      "source": "みんなの前だと//へたな冗談もいえないな……//トホホ……",
+      "text": "모두의 앞이라//서툰 농담조차 못 하겠네…//에휴…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02012.SBN#0026"
+        }
+      ]
+    },
+    "reason": "낙담하는 일본어 감탄사의 음역 교정."
+  },
+  {
+    "unit": "dialogue:ea0273eaf1c661d9",
+    "source": "ねえ、アイリス……//お兄ちゃんといっしょに//この観覧車にのりたい∈",
+    "before": {
+      "id": "dialogue:ea0273eaf1c661d9",
+      "source": "ねえ、アイリス……//お兄ちゃんといっしょに//この観覧車にのりたい∈",
+      "text": "있잖아，아이리스…//오빠랑 같이//이 관람차에 타고 싶어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02013.SBN#0003"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ea0273eaf1c661d9",
+      "source": "ねえ、アイリス……//お兄ちゃんといっしょに//この観覧車にのりたい∈",
+      "text": "있잖아，아이리스는//오빠랑 같이//이 관람차에 타고 싶어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02013.SBN#0003"
+        }
+      ]
+    },
+    "reason": "자기 이름으로 자신을 부르는 말투의 주어를 명확하게 교정."
+  },
+  {
+    "unit": "dialogue:6181272a26e10b2f",
+    "source": "トホホ……//わかってくれよ……",
+    "before": {
+      "id": "dialogue:6181272a26e10b2f",
+      "source": "トホホ……//わかってくれよ……",
+      "text": "토호호…//이해해 줘…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02013.SBN#0025"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6181272a26e10b2f",
+      "source": "トホホ……//わかってくれよ……",
+      "text": "에휴…//이해해 줘…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02013.SBN#0025"
+        }
+      ]
+    },
+    "reason": "낙담하는 일본어 감탄사의 음역 교정."
+  }
+]

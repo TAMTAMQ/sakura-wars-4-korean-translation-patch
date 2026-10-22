@@ -1,0 +1,11 @@
+{
+ "blocks": [
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 736,
+   "original_decoded_size": 98520,
+   "additional_tiles": [[128, 128]],
+   "reason": "검수표 #53 아사쿠사 표지판을 세로로 56px 연장하여 기존 저장 범위 밖의 오른쪽 테두리를 보존한다. 캔버스 640×480과 기존 타일 좌표는 유지한다."
+  }
+ ]
+}

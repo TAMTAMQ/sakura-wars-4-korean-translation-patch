@@ -1,0 +1,245 @@
+[
+  {
+    "unit": "dialogue:3df3222fcc4d03bc",
+    "source": "アタシにとっての盗みは、//ゲームなんだよ。//盗むヤツと盗まれるヤツのね。",
+    "before": {
+      "id": "dialogue:3df3222fcc4d03bc",
+      "source": "アタシにとっての盗みは、//ゲームなんだよ。//盗むヤツと盗まれるヤツのね。",
+      "text": "나에게 도둑질이란 게임이야．//훔치는 녀석과 훔쳐지는//녀석 사이의 말이지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2628"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3df3222fcc4d03bc",
+      "source": "アタシにとっての盗みは、//ゲームなんだよ。//盗むヤツと盗まれるヤツのね。",
+      "text": "나에게 도둑질이란 게임이야．//훔치는 녀석과 도둑맞는//녀석 사이의 말이지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2628"
+        }
+      ]
+    },
+    "reason": "부자연스러운 피동 표현 교정."
+  },
+  {
+    "unit": "dialogue:58f924e60325d83b",
+    "source": "ちょっ、ちょっと待ってくれ！//別にそういう意味じゃあ∈",
+    "before": {
+      "id": "dialogue:58f924e60325d83b",
+      "source": "ちょっ、ちょっと待ってくれ！//別にそういう意味じゃあ∈",
+      "text": "자，잠깐만∈//딱히 그런 의미가 아니야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2679"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:58f924e60325d83b",
+      "source": "ちょっ、ちょっと待ってくれ！//別にそういう意味じゃあ∈",
+      "text": "잠，잠깐만∈//딱히 그런 의미가 아니야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2679"
+        }
+      ]
+    },
+    "reason": "말더듬 음역 오류 교정."
+  },
+  {
+    "unit": "dialogue:6cfd67386a3d6db3",
+    "source": "　　▼新作ブロマイド入荷！　好評発売中∈　椿▼",
+    "before": {
+      "id": "dialogue:6cfd67386a3d6db3",
+      "source": "　　▼新作ブロマイド入荷！　好評発売中∈　椿▼",
+      "text": "▼신작 브로마이드 입고！　호평 판매 중！　츠바키▼",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2846"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6cfd67386a3d6db3",
+      "source": "　　▼新作ブロマイド入荷！　好評発売中∈　椿▼",
+      "text": "▼신작 브로마이드 입고！　절찬 판매 중！　츠바키▼",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2846"
+        }
+      ]
+    },
+    "reason": "광고 표현 교정."
+  },
+  {
+    "unit": "dialogue:4ab22ac49061a83b",
+    "source": "「新作ブロマイド入荷！//　好評発売中∈//　　　　　　　　　椿」",
+    "before": {
+      "id": "dialogue:4ab22ac49061a83b",
+      "source": "「新作ブロマイド入荷！//　好評発売中∈//　　　　　　　　　椿」",
+      "text": "「신작 브로마이드 입고！//　호평 판매 중！//　　　　　　　츠바키」",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2847"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4ab22ac49061a83b",
+      "source": "「新作ブロマイド入荷！//　好評発売中∈//　　　　　　　　　椿」",
+      "text": "「신작 브로마이드 입고！//　절찬 판매 중！//　　　　　　　츠바키」",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2847"
+        }
+      ]
+    },
+    "reason": "공지와 확장 대사 표현 통일."
+  },
+  {
+    "unit": "dialogue:3034832f59d8a4da",
+    "source": "そうそう、花火さんから//大和なでしこについて//教えてって言われたのよ。",
+    "before": {
+      "id": "dialogue:3034832f59d8a4da",
+      "source": "そうそう、花火さんから//大和なでしこについて//教えてって言われたのよ。",
+      "text": "맞아，하나비 씨가//야마토 나데시코에 대해서//가르쳐 달라고 했거든．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3445"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3034832f59d8a4da",
+      "source": "そうそう、花火さんから//大和なでしこについて//教えてって言われたのよ。",
+      "text": "맞아，하나비 씨가//참한 일본 여성에 대해서//가르쳐 달라고 했거든．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3445"
+        }
+      ]
+    },
+    "reason": "전통적 여성상 표현 번역 통일."
+  },
+  {
+    "unit": "dialogue:5aae607eb16e0959",
+    "source": "由里に、大和なでしこを//聞くなんて……//無謀ですねぇ。",
+    "before": {
+      "id": "dialogue:5aae607eb16e0959",
+      "source": "由里に、大和なでしこを//聞くなんて……//無謀ですねぇ。",
+      "text": "유리한테，야마토 나데시코를//묻다니…//무모하네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3446"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5aae607eb16e0959",
+      "source": "由里に、大和なでしこを//聞くなんて……//無謀ですねぇ。",
+      "text": "유리한테，참한 일본 여성을//묻다니…//무모하네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3446"
+        }
+      ]
+    },
+    "reason": "앞 대사와 이어지는 농담의 표현 통일."
+  },
+  {
+    "unit": "dialogue:8e33d3646a85d6ad",
+    "source": "さくらさんたちに話すの、//楽しみだなぁ。//どんな反応するだろう？",
+    "before": {
+      "id": "dialogue:8e33d3646a85d6ad",
+      "source": "さくらさんたちに話すの、//楽しみだなぁ。//どんな反応するだろう？",
+      "text": "사쿠라 씨 일행에게 얘기할 생각을 하니정말 기대된다．//어떤 반응일까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3458"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8e33d3646a85d6ad",
+      "source": "さくらさんたちに話すの、//楽しみだなぁ。//どんな反応するだろう？",
+      "text": "사쿠라 씨 일행에게 얘기할 생각에//정말 기대된다．//어떤 반응일까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3458"
+        }
+      ]
+    },
+    "reason": "붙어 버린 단어 경계와 문장 흐름 교정."
+  },
+  {
+    "unit": "dialogue:7b40dd3d48e5a6f8",
+    "source": "正座などするものではない。//「道」……和の心とは、//かくも困難なものであるとは……",
+    "before": {
+      "id": "dialogue:7b40dd3d48e5a6f8",
+      "source": "正座などするものではない。//「道」……和の心とは、//かくも困難なものであるとは……",
+      "text": "정좌 따위를 하는 게 아니다．//「도」…일본의 마음이란，//이토록 어려운 것이었나…",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0130"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7b40dd3d48e5a6f8",
+      "source": "正座などするものではない。//「道」……和の心とは、//かくも困難なものであるとは……",
+      "text": "정좌는 할 게 못 되는군．//「도」…일본의 마음이란，//이토록 어려운 것이었나…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0130"
+        }
+      ]
+    },
+    "reason": "규칙이 아니라 고생한 소감이라는 의미 교정."
+  },
+  {
+    "unit": "dialogue:b44f6a150cbd2441",
+    "source": "さっさと結婚しとけば、//よかったでーす！//見られて損したでーす∈",
+    "before": {
+      "id": "dialogue:b44f6a150cbd2441",
+      "source": "さっさと結婚しとけば、//よかったでーす！//見られて損したでーす∈",
+      "text": "얼른 결혼이나 해 버렸으면//좋았을 텐데 말이에요∈//봐서 손해 봤어요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0221"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b44f6a150cbd2441",
+      "source": "さっさと結婚しとけば、//よかったでーす！//見られて損したでーす∈",
+      "text": "얼른 결혼해 뒀으면//좋았을 텐데 말이에요∈//몸만 보이고 손해 봤어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0221"
+        }
+      ]
+    },
+    "reason": "見られて의 수동 의미가 뒤집힌 오역 교정."
+  }
+]

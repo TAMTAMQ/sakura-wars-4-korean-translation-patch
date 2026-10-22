@@ -1,0 +1,64 @@
+[
+  {
+    "unit": "dialogue:7fc9b81590295781",
+    "source": "そこまでです∈",
+    "before": {
+      "id": "dialogue:7fc9b81590295781",
+      "source": "韻壱引宇穐衣∈",
+      "text": "거기까지예요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0208"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7fc9b81590295781",
+      "source": "そこまでです∈",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0208"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:41319a8b357b9f94"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:ac8541992d99cb22",
+    "source": "帝国華撃団、参上∈",
+    "before": {
+      "id": "dialogue:ac8541992d99cb22",
+      "source": "渦憶渥臆曳、還逢∈",
+      "text": "제국화격단，등장∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0211"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ac8541992d99cb22",
+      "source": "帝国華撃団、参上∈",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0211"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:70ad08c075d4a0d2"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  }
+]

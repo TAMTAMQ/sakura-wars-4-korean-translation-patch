@@ -1,0 +1,278 @@
+[
+  {
+    "unit": "dialogue:28fd4ee2e12729c5",
+    "source": "確かにムカツク奴だけど、//すみれに言われると、//こっちが腹たってくんな！",
+    "before": {
+      "id": "dialogue:28fd4ee2e12729c5",
+      "source": "確かにムカツク奴だけど、//すみれに言われると、//こっちが腹たってくんな！",
+      "text": "확실히 짜증 나는 녀석들이지만，//스미레가 그렇게 말하니，//오히려 내가 더 화가 나는데∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1153"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:28fd4ee2e12729c5",
+      "source": "確かにムカツク奴だけど、//すみれに言われると、//こっちが腹たってくんな！",
+      "text": "확실히 짜증 나는 녀석이지만，//스미레가 그렇게 말하니，//오히려 내가 더 화가 나는데∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1153"
+        }
+      ]
+    },
+    "reason": "奴는 작품 속 특정 인물을 가리키므로 근거 없는 복수 녀석들 교정"
+  },
+  {
+    "unit": "dialogue:4d5e456a7c1f4a1f",
+    "source": "オッケーでーす∈//このわたしに、//おんぶにだっこで～す。",
+    "before": {
+      "id": "dialogue:4d5e456a7c1f4a1f",
+      "source": "オッケーでーす∈//このわたしに、//おんぶにだっこで～す。",
+      "text": "오케이예～요∈//이 몸한테//전부 맡기면 돼～요．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1205"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4d5e456a7c1f4a1f",
+      "source": "オッケーでーす∈//このわたしに、//おんぶにだっこで～す。",
+      "text": "오케이예～요∈//저한테//전부 맡기면 돼～요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1205"
+        }
+      ]
+    },
+    "reason": "このわたしを 이 몸한테로 옮긴 한국어 존대의 부자연스러운 인칭 자연화"
+  },
+  {
+    "unit": "dialogue:c64d6e729f104dbb",
+    "source": "わざわざ、不愉快なものを//テーマにする必要は//ないでしょう。",
+    "before": {
+      "id": "dialogue:c64d6e729f104dbb",
+      "source": "わざわざ、不愉快なものを//テーマにする必要は//ないでしょう。",
+      "text": "굳이 불쾌한 것을//테마로 삼을 필요는//없겠지요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0130"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c64d6e729f104dbb",
+      "source": "わざわざ、不愉快なものを//テーマにする必要は//ないでしょう。",
+      "text": "굳이 불쾌한 것을//테마로 삼을 필요는//없겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0130"
+        }
+      ]
+    },
+    "reason": "카에데가 오오가미에게 하던 반말에서 갑자기 바뀐 존댓말 어미 교정"
+  },
+  {
+    "unit": "dialogue:fc3937b76bc5e4fa",
+    "source": "ネバーギブアップだ、紅蘭∈",
+    "before": {
+      "id": "dialogue:fc3937b76bc5e4fa",
+      "source": "ネバーギブアップだ、紅蘭∈",
+      "text": "네버 기브 업이야，홍란∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0293"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fc3937b76bc5e4fa",
+      "source": "ネバーギブアップだ、紅蘭∈",
+      "text": "끈기를 가져라，홍란∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0293"
+        }
+      ]
+    },
+    "reason": "낫토의 ネバネバ와 ネバーギブアップ 말장난을 끈적함과 끈기로 한국어화. 뒤 설명 대사와 함께 교정"
+  },
+  {
+    "unit": "dialogue:bcf81ca94202b79d",
+    "source": "ネバーギブアップだ、紅蘭∈//がんばれ！",
+    "before": {
+      "id": "dialogue:bcf81ca94202b79d",
+      "source": "ネバーギブアップだ、紅蘭∈//がんばれ！",
+      "text": "네버 기브 업이야，홍란∈//힘내！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0325"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bcf81ca94202b79d",
+      "source": "ネバーギブアップだ、紅蘭∈//がんばれ！",
+      "text": "끈기를 가져라，홍란∈//힘내∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0325"
+        }
+      ]
+    },
+    "reason": "같은 낫토 말장난의 음성 없는 확장 대사도 공통 뜻과 함께 현지화"
+  },
+  {
+    "unit": "dialogue:2e24d71b808440b2",
+    "source": "納豆のネバネバと……//ネバーギブアップ！//さすがは大神はんや∈",
+    "before": {
+      "id": "dialogue:2e24d71b808440b2",
+      "source": "納豆のネバネバと……//ネバーギブアップ！//さすがは大神はんや∈",
+      "text": "낫토의 끈적끈적함과…//네버 기브 업∈//역시 오오가미 씨다∈",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0327"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2e24d71b808440b2",
+      "source": "納豆のネバネバと……//ネバーギブアップ！//さすがは大神はんや∈",
+      "text": "낫토는 끈적하고…//홍란은 끈기 있게∈//역시 오오가미 씨다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0327"
+        }
+      ]
+    },
+    "reason": "한국어로 성립하지 않던 일본어 발음 유사 농담을 끈적함·끈기로 현지화. 앞의 포기하지 말라는 격려 유지"
+  },
+  {
+    "unit": "dialogue:c8f223a287790e06",
+    "source": "まったく……//中尉さんは調子いいですねぇ。",
+    "before": {
+      "id": "dialogue:c8f223a287790e06",
+      "source": "まったく……//中尉さんは調子いいですねぇ。",
+      "text": "정말이지…//중위님은 참 속 편하시네요．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0481"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c8f223a287790e06",
+      "source": "まったく……//中尉さんは調子いいですねぇ。",
+      "text": "정말이지…//중위님은 참 말도 잘하시네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0481"
+        }
+      ]
+    },
+    "reason": "調子がいい는 상황에 맞게 말을 바꾸며 부탁을 떠넘기는 태도에 대한 핀잔. 속 편하다는 오역 교정"
+  },
+  {
+    "unit": "dialogue:ef0494dedaebe45c",
+    "source": "でも……オッケーです！//このわたしが、//音楽監督をしてあげまーす！",
+    "before": {
+      "id": "dialogue:ef0494dedaebe45c",
+      "source": "でも……オッケーです！//このわたしが、//音楽監督をしてあげまーす！",
+      "text": "하지만…오케이예요∈//이 제가，//음악 감독을 해 드릴게요～∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0482"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ef0494dedaebe45c",
+      "source": "でも……オッケーです！//このわたしが、//音楽監督をしてあげまーす！",
+      "text": "하지만…오케이예요∈//제가，//음악 감독을 해 드릴게요～∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0482"
+        }
+      ]
+    },
+    "reason": "このわたし를 이 제가라는 부자연스러운 대명사 결합에서 자연화"
+  },
+  {
+    "unit": "dialogue:55dedb8ba1f9c9eb",
+    "source": "ああ、そうかい。//もう遅いから、早めに//部屋に戻るんだよ。",
+    "before": {
+      "id": "dialogue:55dedb8ba1f9c9eb",
+      "source": "ああ、そうかい。//もう遅いから、早めに//部屋に戻るんだよ。",
+      "text": "아아，그렇구나．//벌써 늦었으니까，일찍//방으로 돌아가．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0533"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2136"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:55dedb8ba1f9c9eb",
+      "source": "ああ、そうかい。//もう遅いから、早めに//部屋に戻るんだよ。",
+      "text": "아아，그렇구나．//벌써 늦었으니까，어서//방으로 돌아가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0533"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2136"
+        }
+      ]
+    },
+    "reason": "늦은 시각에 早めに戻る라는 말을 일찍 돌아가라는 시간 모순에서 어서로 교정"
+  },
+  {
+    "unit": "dialogue:daa8d1969e96a3ad",
+    "source": "すみれさん、考えすぎです。//ポジティブシンキングで//いくでーす！",
+    "before": {
+      "id": "dialogue:daa8d1969e96a3ad",
+      "source": "すみれさん、考えすぎです。//ポジティブシンキングで//いくでーす！",
+      "text": "스미레 씨，생각이 너무 많아요．//긍정적으로//가세～요∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0572"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:daa8d1969e96a3ad",
+      "source": "すみれさん、考えすぎです。//ポジティブシンキングで//いくでーす！",
+      "text": "스미레 씨，생각이 많네요．//긍정적으로//생각해～요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0572"
+        }
+      ]
+    },
+    "reason": "ポジティブシンキングでいく를 긍정적으로 가다라는 직역에서 자연화"
+  }
+]

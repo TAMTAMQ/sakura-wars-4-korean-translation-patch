@@ -1,0 +1,3782 @@
+[
+  {
+    "unit": "dialogue:32b105713117bed6",
+    "source": "",
+    "before": {
+      "id": "dialogue:32b105713117bed6",
+      "source": "",
+      "text": "가자，내 광무∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000766e0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:32b105713117bed6",
+      "source": "",
+      "text": "간다，내 광무∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000766e0:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 「いくで」를 음성 대사와 같은 문안으로 맞춤."
+  },
+  {
+    "unit": "dialogue:0df05b271c427a28",
+    "source": "",
+    "before": {
+      "id": "dialogue:0df05b271c427a28",
+      "source": "",
+      "text": "진검승부…//들어갑니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076ae4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0df05b271c427a28",
+      "source": "",
+      "text": "진검승부…//갑니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076ae4:0001"
+        }
+      ]
+    },
+    "reason": "「参ります」를 자연스러운 출격 구호로."
+  },
+  {
+    "unit": "dialogue:2fc82fe3d1c63af9",
+    "source": "",
+    "before": {
+      "id": "dialogue:2fc82fe3d1c63af9",
+      "source": "",
+      "text": "백식이여…//제도를…무로 돌려보내라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076c0c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2fc82fe3d1c63af9",
+      "source": "",
+      "text": "하쿠시키여…//제도를…무로 돌려라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076c0c:0001"
+        }
+      ]
+    },
+    "reason": "마조기병 고유명 「ハクシキ」를 의역 「백식」 대신 작중 표기로."
+  },
+  {
+    "unit": "dialogue:78b6ddd8284776ec",
+    "source": "",
+    "before": {
+      "id": "dialogue:78b6ddd8284776ec",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직이죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076f08:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:78b6ddd8284776ec",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직여요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00076f08:0001"
+        }
+      ]
+    },
+    "reason": "마리아 대사의 어미를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:880b314fdffcbdac",
+    "source": "",
+    "before": {
+      "id": "dialogue:880b314fdffcbdac",
+      "source": "",
+      "text": "그대를 위해…//승리를 거머쥐겠다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077334:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:880b314fdffcbdac",
+      "source": "",
+      "text": "귀공을 위해…//승리를 거머쥐겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077334:0001"
+        }
+      ]
+    },
+    "reason": "글리신의 「貴公」 호칭 규칙(그대 금지)."
+  },
+  {
+    "unit": "dialogue:d941f03fa859581f",
+    "source": "",
+    "before": {
+      "id": "dialogue:d941f03fa859581f",
+      "source": "",
+      "text": "당신의 강운에…//한입 얹어줄게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077464:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d941f03fa859581f",
+      "source": "",
+      "text": "네 강운에…//나도 좀 편승할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077464:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙, 「一口のらせて」를 편승으로 의역."
+  },
+  {
+    "unit": "dialogue:5b8a74eda679b8fa",
+    "source": "",
+    "before": {
+      "id": "dialogue:5b8a74eda679b8fa",
+      "source": "",
+      "text": "저，저라는 사람이 이런 실수를…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007763c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5b8a74eda679b8fa",
+      "source": "",
+      "text": "저，제가 이런 실수를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007763c:0001"
+        }
+      ]
+    },
+    "reason": "「わたくしとしたことが」 직역투 교정."
+  },
+  {
+    "unit": "dialogue:5508f568b8599062",
+    "source": "",
+    "before": {
+      "id": "dialogue:5508f568b8599062",
+      "source": "",
+      "text": "아이리스，//졸려졌어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077808:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5508f568b8599062",
+      "source": "",
+      "text": "아이리스，//졸음이 와…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077808:0001"
+        }
+      ]
+    },
+    "reason": "「졸려졌어」 비문 교정."
+  },
+  {
+    "unit": "dialogue:2c74daf1409beec3",
+    "source": "",
+    "before": {
+      "id": "dialogue:2c74daf1409beec3",
+      "source": "",
+      "text": "아，안 돼∈//기체가 한계야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000778a4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2c74daf1409beec3",
+      "source": "",
+      "text": "아，안 된다∈//기체 한계다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000778a4:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(アカン) 반영."
+  },
+  {
+    "unit": "dialogue:ba7bbfd37f755a68",
+    "source": "",
+    "before": {
+      "id": "dialogue:ba7bbfd37f755a68",
+      "source": "",
+      "text": "아직이야…//아직 싸울 수 있어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077b08:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ba7bbfd37f755a68",
+      "source": "",
+      "text": "아직이다…//아직 싸울 수 있다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00077b08:0001"
+        }
+      ]
+    },
+    "reason": "「まだだ…戦えるぞ」 화자 말투를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:e734fe482cb96040",
+    "source": "",
+    "before": {
+      "id": "dialogue:e734fe482cb96040",
+      "source": "",
+      "text": "실력을 한 번 지켜보도록 하겠어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078078:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e734fe482cb96040",
+      "source": "",
+      "text": "실력 좀 보도록 하죠…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078078:0001"
+        }
+      ]
+    },
+    "reason": "「お手並み拝見」 직역투 정리."
+  },
+  {
+    "unit": "dialogue:1b804bbd2fd9a18f",
+    "source": "",
+    "before": {
+      "id": "dialogue:1b804bbd2fd9a18f",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여줘∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000782c8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b804bbd2fd9a18f",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#000782c8:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(見せてな) 반영."
+  },
+  {
+    "unit": "dialogue:841f2e2b311844ad",
+    "source": "",
+    "before": {
+      "id": "dialogue:841f2e2b311844ad",
+      "source": "",
+      "text": "믿고 있을게요？//오오가미 씨∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078794:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:841f2e2b311844ad",
+      "source": "",
+      "text": "믿고 있어요，//오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078794:0001"
+        }
+      ]
+    },
+    "reason": "「頼りにしてますよ？」 어색한 의문형 정리."
+  },
+  {
+    "unit": "dialogue:08e453aa3c3f729d",
+    "source": "",
+    "before": {
+      "id": "dialogue:08e453aa3c3f729d",
+      "source": "",
+      "text": "믿고 있을게요，//대장님∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078aac:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:08e453aa3c3f729d",
+      "source": "",
+      "text": "믿고 있데이，//대장∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078aac:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사(頼りにしてまっせ、隊長はん)에 사투리 반영."
+  },
+  {
+    "unit": "dialogue:c3f78229513e69ed",
+    "source": "",
+    "before": {
+      "id": "dialogue:c3f78229513e69ed",
+      "source": "",
+      "text": "대장님，힘내세요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078bdc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c3f78229513e69ed",
+      "source": "",
+      "text": "대장，힘내…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078bdc:0001"
+        }
+      ]
+    },
+    "reason": "레니 호칭 「대장」·반말 규칙."
+  },
+  {
+    "unit": "dialogue:24a8c2afcc2a5870",
+    "source": "",
+    "before": {
+      "id": "dialogue:24a8c2afcc2a5870",
+      "source": "",
+      "text": "좋은 전과를…//기대하고 있겠네∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078cf8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:24a8c2afcc2a5870",
+      "source": "",
+      "text": "좋은 전과를…//기대하겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00078cf8:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 평어 규칙."
+  },
+  {
+    "unit": "dialogue:52ac0d49cd11d33f",
+    "source": "",
+    "before": {
+      "id": "dialogue:52ac0d49cd11d33f",
+      "source": "",
+      "text": "어이，대장님？//비틀거리는 거 아냐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079148:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:52ac0d49cd11d33f",
+      "source": "",
+      "text": "어，어이 대장？//비틀거리는 거 아냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079148:0001"
+        }
+      ]
+    },
+    "reason": "칸나 호칭 「대장」, 원문 말더듬 반영."
+  },
+  {
+    "unit": "dialogue:d3068470e1c3e72a",
+    "source": "",
+    "before": {
+      "id": "dialogue:d3068470e1c3e72a",
+      "source": "",
+      "text": "대장이라고 해서，//무리하면 안 돼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079280:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d3068470e1c3e72a",
+      "source": "",
+      "text": "대장이라꼬，//무리하면 안 된데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079280:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:4bc26ec1c16d8a60",
+    "source": "",
+    "before": {
+      "id": "dialogue:4bc26ec1c16d8a60",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079a6c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4bc26ec1c16d8a60",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079a6c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:d6abb17256c4b3da",
+    "source": "",
+    "before": {
+      "id": "dialogue:d6abb17256c4b3da",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079ea0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d6abb17256c4b3da",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#00079ea0:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:04104881688efc77",
+    "source": "",
+    "before": {
+      "id": "dialogue:04104881688efc77",
+      "source": "",
+      "text": "오오가미 씨…//정말，고마워요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007a26c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:04104881688efc77",
+      "source": "",
+      "text": "오오가미 씨…//참말，고맙데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007a26c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(ホンマ、ありがとうやで) 반영."
+  },
+  {
+    "unit": "dialogue:3572b25d7941a358",
+    "source": "",
+    "before": {
+      "id": "dialogue:3572b25d7941a358",
+      "source": "",
+      "text": "당신의 등도…//익숙해지니까，꽤 괜찮네．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007a654:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3572b25d7941a358",
+      "source": "",
+      "text": "네 등도…//익숙해지니까，꽤 괜찮네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007a654:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙."
+  },
+  {
+    "unit": "dialogue:54eae0451a5f90bc",
+    "source": "",
+    "before": {
+      "id": "dialogue:54eae0451a5f90bc",
+      "source": "",
+      "text": "내 눈앞에서는，//마음대로 못 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007aa80:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:54eae0451a5f90bc",
+      "source": "",
+      "text": "내 눈앞에서는，//맘대로 못 한다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007aa80:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:c7f15ce264fa71f3",
+    "source": "",
+    "before": {
+      "id": "dialogue:c7f15ce264fa71f3",
+      "source": "",
+      "text": "아이고야…//허리가 빠져 버렸어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007b570:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c7f15ce264fa71f3",
+      "source": "",
+      "text": "아야야…//다리가 풀려 버렸어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007b570:0001"
+        }
+      ]
+    },
+    "reason": "「腰がぬける」를 직역한 「허리가 빠지다」 교정."
+  },
+  {
+    "unit": "dialogue:09f94d1be4e42194",
+    "source": "",
+    "before": {
+      "id": "dialogue:09f94d1be4e42194",
+      "source": "",
+      "text": "대장…//내 적은，남겨 둬？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007b96c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:09f94d1be4e42194",
+      "source": "",
+      "text": "대장…//내 원수，갚아 줘．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007b96c:0001"
+        }
+      ]
+    },
+    "reason": "「あたいの敵(かたき)」를 적군으로 오독한 부분 교정."
+  },
+  {
+    "unit": "dialogue:a80f779077287a8c",
+    "source": "",
+    "before": {
+      "id": "dialogue:a80f779077287a8c",
+      "source": "",
+      "text": "이제 안 되겠어…//오오가미 씨，용서해 줘…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007babc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a80f779077287a8c",
+      "source": "",
+      "text": "이제 안 되겠다…//오오가미 씨，미안타…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007babc:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(堪忍やで) 반영."
+  },
+  {
+    "unit": "dialogue:46556d53d4b769b8",
+    "source": "",
+    "before": {
+      "id": "dialogue:46556d53d4b769b8",
+      "source": "",
+      "text": "젠장∈//대장…책임져야 해∈？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007bed4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:46556d53d4b769b8",
+      "source": "",
+      "text": "젠장∈//대장…책임지라고∈？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007bed4:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 말투(責任とれよな)로."
+  },
+  {
+    "unit": "dialogue:7786f46d6080fec6",
+    "source": "",
+    "before": {
+      "id": "dialogue:7786f46d6080fec6",
+      "source": "",
+      "text": "호～제법인데，//광무를 잘 다루고 있잖아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007c31c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7786f46d6080fec6",
+      "source": "",
+      "text": "호～제법이네，//광무를 잘 쓴다 아이가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007c31c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:6b7a758774b87c67",
+    "source": "",
+    "before": {
+      "id": "dialogue:6b7a758774b87c67",
+      "source": "",
+      "text": "음…∈//점점 더 사위로 삼고 싶어지는군∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007cd38:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6b7a758774b87c67",
+      "source": "",
+      "text": "음…∈//점점 더 신랑 삼고 싶어지는군∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007cd38:0001"
+        }
+      ]
+    },
+    "reason": "여성 화자(글리신)의 「ムコ」를 사위로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:48008a703665e281",
+    "source": "",
+    "before": {
+      "id": "dialogue:48008a703665e281",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007da38:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:48008a703665e281",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007da38:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사의 존댓말 교정."
+  },
+  {
+    "unit": "dialogue:e4479d2d009a37d3",
+    "source": "",
+    "before": {
+      "id": "dialogue:e4479d2d009a37d3",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007dcac:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e4479d2d009a37d3",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007dcac:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:4b664e7374c9d09b",
+    "source": "",
+    "before": {
+      "id": "dialogue:4b664e7374c9d09b",
+      "source": "",
+      "text": "이，광무가//생각대로 움직이지 않아∈//어떻게든 해야 해…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007dfdc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4b664e7374c9d09b",
+      "source": "",
+      "text": "과，광무가//생각대로 움직이지 않아∈//어떻게든 해야 해…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007dfdc:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:7117da449b9c3544",
+    "source": "",
+    "before": {
+      "id": "dialogue:7117da449b9c3544",
+      "source": "",
+      "text": "이，광무의//움직임이 둔해…//큰일이네요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007e088:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7117da449b9c3544",
+      "source": "",
+      "text": "과，광무의//움직임이 둔해…//큰일이네요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007e088:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:d5e659022529b55a",
+    "source": "",
+    "before": {
+      "id": "dialogue:d5e659022529b55a",
+      "source": "",
+      "text": "광무의 행동치가//오르지 않다니…//빨리 어떻게든 해야 해…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007e328:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d5e659022529b55a",
+      "source": "",
+      "text": "광무 행동치가//안 오른다니…//퍼뜩 어떻게든 해야겠다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/SMAP02.ESM#0007e328:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(上がらんやなんて) 반영."
+  },
+  {
+    "unit": "dialogue:1ec3f25eabdc088f",
+    "source": "",
+    "before": {
+      "id": "dialogue:1ec3f25eabdc088f",
+      "source": "",
+      "text": "가자，내 광무∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059494:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1ec3f25eabdc088f",
+      "source": "",
+      "text": "간다，내 광무∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059494:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 「いくで」를 음성 대사와 같은 문안으로 맞춤."
+  },
+  {
+    "unit": "dialogue:67d2c25f3553356e",
+    "source": "",
+    "before": {
+      "id": "dialogue:67d2c25f3553356e",
+      "source": "",
+      "text": "진검승부…//들어갑니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059898:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:67d2c25f3553356e",
+      "source": "",
+      "text": "진검승부…//갑니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059898:0001"
+        }
+      ]
+    },
+    "reason": "「参ります」를 자연스러운 출격 구호로."
+  },
+  {
+    "unit": "dialogue:237b7895f1889fc8",
+    "source": "",
+    "before": {
+      "id": "dialogue:237b7895f1889fc8",
+      "source": "",
+      "text": "백식이여…//제도를…무로 돌려보내라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000599c0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:237b7895f1889fc8",
+      "source": "",
+      "text": "하쿠시키여…//제도를…무로 돌려라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000599c0:0001"
+        }
+      ]
+    },
+    "reason": "마조기병 고유명 「ハクシキ」를 의역 「백식」 대신 작중 표기로."
+  },
+  {
+    "unit": "dialogue:a4507aca45afbbab",
+    "source": "",
+    "before": {
+      "id": "dialogue:a4507aca45afbbab",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직이죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059cbc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a4507aca45afbbab",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직여요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00059cbc:0001"
+        }
+      ]
+    },
+    "reason": "마리아 대사의 어미를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:7c2f30935424995d",
+    "source": "",
+    "before": {
+      "id": "dialogue:7c2f30935424995d",
+      "source": "",
+      "text": "그대를 위해…//승리를 거머쥐겠다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a0e8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7c2f30935424995d",
+      "source": "",
+      "text": "귀공을 위해…//승리를 거머쥐겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a0e8:0001"
+        }
+      ]
+    },
+    "reason": "글리신의 「貴公」 호칭 규칙(그대 금지)."
+  },
+  {
+    "unit": "dialogue:444aee037a6ff3d7",
+    "source": "",
+    "before": {
+      "id": "dialogue:444aee037a6ff3d7",
+      "source": "",
+      "text": "당신의 강운에…//한입 얹어줄게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a218:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:444aee037a6ff3d7",
+      "source": "",
+      "text": "네 강운에…//나도 좀 편승할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a218:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙, 「一口のらせて」를 편승으로 의역."
+  },
+  {
+    "unit": "dialogue:2be2b97d05eec72a",
+    "source": "",
+    "before": {
+      "id": "dialogue:2be2b97d05eec72a",
+      "source": "",
+      "text": "저，저라는 사람이 이런 실수를…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a3f0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2be2b97d05eec72a",
+      "source": "",
+      "text": "저，제가 이런 실수를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a3f0:0001"
+        }
+      ]
+    },
+    "reason": "「わたくしとしたことが」 직역투 교정."
+  },
+  {
+    "unit": "dialogue:6bd482e8e980322b",
+    "source": "",
+    "before": {
+      "id": "dialogue:6bd482e8e980322b",
+      "source": "",
+      "text": "아이리스，//졸려졌어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a5bc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6bd482e8e980322b",
+      "source": "",
+      "text": "아이리스，//졸음이 와…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a5bc:0001"
+        }
+      ]
+    },
+    "reason": "「졸려졌어」 비문 교정."
+  },
+  {
+    "unit": "dialogue:e7b035e8c84c9545",
+    "source": "",
+    "before": {
+      "id": "dialogue:e7b035e8c84c9545",
+      "source": "",
+      "text": "아，안 돼∈//기체가 한계야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a658:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e7b035e8c84c9545",
+      "source": "",
+      "text": "아，안 된다∈//기체 한계다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a658:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(アカン) 반영."
+  },
+  {
+    "unit": "dialogue:46d54ed1f0a5d33b",
+    "source": "",
+    "before": {
+      "id": "dialogue:46d54ed1f0a5d33b",
+      "source": "",
+      "text": "아직이야…//아직 싸울 수 있어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a8bc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:46d54ed1f0a5d33b",
+      "source": "",
+      "text": "아직이다…//아직 싸울 수 있다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005a8bc:0001"
+        }
+      ]
+    },
+    "reason": "「まだだ…戦えるぞ」 화자 말투를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:52288d5f42eb78aa",
+    "source": "",
+    "before": {
+      "id": "dialogue:52288d5f42eb78aa",
+      "source": "",
+      "text": "실력을 한 번 지켜보도록 하겠어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005ae2c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:52288d5f42eb78aa",
+      "source": "",
+      "text": "실력 좀 보도록 하죠…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005ae2c:0001"
+        }
+      ]
+    },
+    "reason": "「お手並み拝見」 직역투 정리."
+  },
+  {
+    "unit": "dialogue:444296827588d0d5",
+    "source": "",
+    "before": {
+      "id": "dialogue:444296827588d0d5",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여줘∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b07c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:444296827588d0d5",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b07c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(見せてな) 반영."
+  },
+  {
+    "unit": "dialogue:0975cf7b2790db83",
+    "source": "",
+    "before": {
+      "id": "dialogue:0975cf7b2790db83",
+      "source": "",
+      "text": "믿고 있을게요？//오오가미 씨∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b548:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0975cf7b2790db83",
+      "source": "",
+      "text": "믿고 있어요，//오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b548:0001"
+        }
+      ]
+    },
+    "reason": "「頼りにしてますよ？」 어색한 의문형 정리."
+  },
+  {
+    "unit": "dialogue:72bb00b6a450c3d0",
+    "source": "",
+    "before": {
+      "id": "dialogue:72bb00b6a450c3d0",
+      "source": "",
+      "text": "믿고 있을게요，//대장님∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b860:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:72bb00b6a450c3d0",
+      "source": "",
+      "text": "믿고 있데이，//대장∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b860:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사(頼りにしてまっせ、隊長はん)에 사투리 반영."
+  },
+  {
+    "unit": "dialogue:c930399d08d26da0",
+    "source": "",
+    "before": {
+      "id": "dialogue:c930399d08d26da0",
+      "source": "",
+      "text": "대장님，힘내세요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b990:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c930399d08d26da0",
+      "source": "",
+      "text": "대장，힘내…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005b990:0001"
+        }
+      ]
+    },
+    "reason": "레니 호칭 「대장」·반말 규칙."
+  },
+  {
+    "unit": "dialogue:b1931dfb071ca4fc",
+    "source": "",
+    "before": {
+      "id": "dialogue:b1931dfb071ca4fc",
+      "source": "",
+      "text": "좋은 전과를…//기대하고 있겠네∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005baac:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b1931dfb071ca4fc",
+      "source": "",
+      "text": "좋은 전과를…//기대하겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005baac:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 평어 규칙."
+  },
+  {
+    "unit": "dialogue:87e154e265a9de93",
+    "source": "",
+    "before": {
+      "id": "dialogue:87e154e265a9de93",
+      "source": "",
+      "text": "어이，대장님？//비틀거리는 거 아냐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005befc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:87e154e265a9de93",
+      "source": "",
+      "text": "어，어이 대장？//비틀거리는 거 아냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005befc:0001"
+        }
+      ]
+    },
+    "reason": "칸나 호칭 「대장」, 원문 말더듬 반영."
+  },
+  {
+    "unit": "dialogue:f1fb9948754dac73",
+    "source": "",
+    "before": {
+      "id": "dialogue:f1fb9948754dac73",
+      "source": "",
+      "text": "대장이라고 해서，//무리하면 안 돼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005c034:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f1fb9948754dac73",
+      "source": "",
+      "text": "대장이라꼬，//무리하면 안 된데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005c034:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:a060db35f888fd34",
+    "source": "",
+    "before": {
+      "id": "dialogue:a060db35f888fd34",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005c820:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a060db35f888fd34",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005c820:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:e3be10f7099812c4",
+    "source": "",
+    "before": {
+      "id": "dialogue:e3be10f7099812c4",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005cc54:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e3be10f7099812c4",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005cc54:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:7f03ab2b1bc0c371",
+    "source": "",
+    "before": {
+      "id": "dialogue:7f03ab2b1bc0c371",
+      "source": "",
+      "text": "오오가미 씨…//정말，고마워요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d020:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7f03ab2b1bc0c371",
+      "source": "",
+      "text": "오오가미 씨…//참말，고맙데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d020:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(ホンマ、ありがとうやで) 반영."
+  },
+  {
+    "unit": "dialogue:b654d647ff9dbd23",
+    "source": "",
+    "before": {
+      "id": "dialogue:b654d647ff9dbd23",
+      "source": "",
+      "text": "당신의 등도…//익숙해지니까，꽤 괜찮네．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d408:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b654d647ff9dbd23",
+      "source": "",
+      "text": "네 등도…//익숙해지니까，꽤 괜찮네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d408:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙."
+  },
+  {
+    "unit": "dialogue:bd738d63242a3482",
+    "source": "",
+    "before": {
+      "id": "dialogue:bd738d63242a3482",
+      "source": "",
+      "text": "내 눈앞에서는，//마음대로 못 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d834:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bd738d63242a3482",
+      "source": "",
+      "text": "내 눈앞에서는，//맘대로 못 한다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005d834:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:f0a47a14df2f397e",
+    "source": "",
+    "before": {
+      "id": "dialogue:f0a47a14df2f397e",
+      "source": "",
+      "text": "아이고야…//허리가 빠져 버렸어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e324:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f0a47a14df2f397e",
+      "source": "",
+      "text": "아야야…//다리가 풀려 버렸어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e324:0001"
+        }
+      ]
+    },
+    "reason": "「腰がぬける」를 직역한 「허리가 빠지다」 교정."
+  },
+  {
+    "unit": "dialogue:b553ba0eda97159d",
+    "source": "",
+    "before": {
+      "id": "dialogue:b553ba0eda97159d",
+      "source": "",
+      "text": "대장…//내 적은，남겨 둬？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e720:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b553ba0eda97159d",
+      "source": "",
+      "text": "대장…//내 원수，갚아 줘．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e720:0001"
+        }
+      ]
+    },
+    "reason": "「あたいの敵(かたき)」를 적군으로 오독한 부분 교정."
+  },
+  {
+    "unit": "dialogue:41aa7142522e50bf",
+    "source": "",
+    "before": {
+      "id": "dialogue:41aa7142522e50bf",
+      "source": "",
+      "text": "이제 안 되겠어…//오오가미 씨，용서해 줘…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e870:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:41aa7142522e50bf",
+      "source": "",
+      "text": "이제 안 되겠다…//오오가미 씨，미안타…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005e870:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(堪忍やで) 반영."
+  },
+  {
+    "unit": "dialogue:7947f2cae44b86a2",
+    "source": "",
+    "before": {
+      "id": "dialogue:7947f2cae44b86a2",
+      "source": "",
+      "text": "젠장∈//대장…책임져야 해∈？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005ec88:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7947f2cae44b86a2",
+      "source": "",
+      "text": "젠장∈//대장…책임지라고∈？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005ec88:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 말투(責任とれよな)로."
+  },
+  {
+    "unit": "dialogue:2836803098842d84",
+    "source": "",
+    "before": {
+      "id": "dialogue:2836803098842d84",
+      "source": "",
+      "text": "호～제법인데，//광무를 잘 다루고 있잖아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005f0d0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2836803098842d84",
+      "source": "",
+      "text": "호～제법이네，//광무를 잘 쓴다 아이가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005f0d0:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:723f170226cc429a",
+    "source": "",
+    "before": {
+      "id": "dialogue:723f170226cc429a",
+      "source": "",
+      "text": "음…∈//점점 더 사위로 삼고 싶어지는군∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005faec:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:723f170226cc429a",
+      "source": "",
+      "text": "음…∈//점점 더 신랑 삼고 싶어지는군∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#0005faec:0001"
+        }
+      ]
+    },
+    "reason": "여성 화자(글리신)의 「ムコ」를 사위로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:4e49751317a57424",
+    "source": "",
+    "before": {
+      "id": "dialogue:4e49751317a57424",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000607ec:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4e49751317a57424",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000607ec:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사의 존댓말 교정."
+  },
+  {
+    "unit": "dialogue:275d8cdd0af8caee",
+    "source": "",
+    "before": {
+      "id": "dialogue:275d8cdd0af8caee",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060a60:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:275d8cdd0af8caee",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060a60:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:21819b97e2cb12d2",
+    "source": "",
+    "before": {
+      "id": "dialogue:21819b97e2cb12d2",
+      "source": "",
+      "text": "이，광무가//생각대로 움직이지 않아∈//어떻게든 해야 해…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060d90:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:21819b97e2cb12d2",
+      "source": "",
+      "text": "과，광무가//생각대로 움직이지 않아∈//어떻게든 해야 해…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060d90:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:8c4073055fff56d0",
+    "source": "",
+    "before": {
+      "id": "dialogue:8c4073055fff56d0",
+      "source": "",
+      "text": "이，광무의//움직임이 둔해…//큰일이네요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060e3c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8c4073055fff56d0",
+      "source": "",
+      "text": "과，광무의//움직임이 둔해…//큰일이네요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00060e3c:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:93bc7dbb0e3ff78a",
+    "source": "",
+    "before": {
+      "id": "dialogue:93bc7dbb0e3ff78a",
+      "source": "",
+      "text": "광무의 행동치가//오르지 않다니…//빨리 어떻게든 해야 해…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000610dc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:93bc7dbb0e3ff78a",
+      "source": "",
+      "text": "광무 행동치가//안 오른다니…//퍼뜩 어떻게든 해야겠다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#000610dc:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(上がらんやなんて) 반영."
+  },
+  {
+    "unit": "dialogue:3c6fd232b51bd6dc",
+    "source": "",
+    "before": {
+      "id": "dialogue:3c6fd232b51bd6dc",
+      "source": "",
+      "text": "가자，내 광무∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051890:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3c6fd232b51bd6dc",
+      "source": "",
+      "text": "간다，내 광무∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051890:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 「いくで」를 음성 대사와 같은 문안으로 맞춤."
+  },
+  {
+    "unit": "dialogue:c8faa9121ffc8880",
+    "source": "",
+    "before": {
+      "id": "dialogue:c8faa9121ffc8880",
+      "source": "",
+      "text": "진검승부…//들어갑니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051c94:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c8faa9121ffc8880",
+      "source": "",
+      "text": "진검승부…//갑니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051c94:0001"
+        }
+      ]
+    },
+    "reason": "「参ります」를 자연스러운 출격 구호로."
+  },
+  {
+    "unit": "dialogue:80101ecb282923cb",
+    "source": "",
+    "before": {
+      "id": "dialogue:80101ecb282923cb",
+      "source": "",
+      "text": "백식이여…//제도를…무로 돌려보내라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051dbc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:80101ecb282923cb",
+      "source": "",
+      "text": "하쿠시키여…//제도를…무로 돌려라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00051dbc:0001"
+        }
+      ]
+    },
+    "reason": "마조기병 고유명 「ハクシキ」를 의역 「백식」 대신 작중 표기로."
+  },
+  {
+    "unit": "dialogue:496c883138abffea",
+    "source": "",
+    "before": {
+      "id": "dialogue:496c883138abffea",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직이죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000520b8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:496c883138abffea",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직여요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000520b8:0001"
+        }
+      ]
+    },
+    "reason": "마리아 대사의 어미를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:142f3f86a8bdf8a3",
+    "source": "",
+    "before": {
+      "id": "dialogue:142f3f86a8bdf8a3",
+      "source": "",
+      "text": "그대를 위해…//승리를 거머쥐겠다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000524e4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:142f3f86a8bdf8a3",
+      "source": "",
+      "text": "귀공을 위해…//승리를 거머쥐겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000524e4:0001"
+        }
+      ]
+    },
+    "reason": "글리신의 「貴公」 호칭 규칙(그대 금지)."
+  },
+  {
+    "unit": "dialogue:06664d65083cd6cf",
+    "source": "",
+    "before": {
+      "id": "dialogue:06664d65083cd6cf",
+      "source": "",
+      "text": "당신의 강운에…//한입 얹어줄게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052614:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:06664d65083cd6cf",
+      "source": "",
+      "text": "네 강운에…//나도 좀 편승할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052614:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙, 「一口のらせて」를 편승으로 의역."
+  },
+  {
+    "unit": "dialogue:469d53e019eb4f26",
+    "source": "",
+    "before": {
+      "id": "dialogue:469d53e019eb4f26",
+      "source": "",
+      "text": "저，저라는 사람이 이런 실수를…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000527ec:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:469d53e019eb4f26",
+      "source": "",
+      "text": "저，제가 이런 실수를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000527ec:0001"
+        }
+      ]
+    },
+    "reason": "「わたくしとしたことが」 직역투 교정."
+  },
+  {
+    "unit": "dialogue:bdd57d29a7e490ec",
+    "source": "",
+    "before": {
+      "id": "dialogue:bdd57d29a7e490ec",
+      "source": "",
+      "text": "아이리스，//졸려졌어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000529b8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bdd57d29a7e490ec",
+      "source": "",
+      "text": "아이리스，//졸음이 와…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000529b8:0001"
+        }
+      ]
+    },
+    "reason": "「졸려졌어」 비문 교정."
+  },
+  {
+    "unit": "dialogue:3a06ac1e0efed52c",
+    "source": "",
+    "before": {
+      "id": "dialogue:3a06ac1e0efed52c",
+      "source": "",
+      "text": "아，안 돼∈//기체가 한계야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052a54:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3a06ac1e0efed52c",
+      "source": "",
+      "text": "아，안 된다∈//기체 한계다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052a54:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(アカン) 반영."
+  },
+  {
+    "unit": "dialogue:33aa12d943f87e24",
+    "source": "",
+    "before": {
+      "id": "dialogue:33aa12d943f87e24",
+      "source": "",
+      "text": "아직이야…//아직 싸울 수 있어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052cb8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:33aa12d943f87e24",
+      "source": "",
+      "text": "아직이다…//아직 싸울 수 있다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00052cb8:0001"
+        }
+      ]
+    },
+    "reason": "「まだだ…戦えるぞ」 화자 말투를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:b1ce617c41d4d428",
+    "source": "",
+    "before": {
+      "id": "dialogue:b1ce617c41d4d428",
+      "source": "",
+      "text": "실력을 한 번 지켜보도록 하겠어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053228:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b1ce617c41d4d428",
+      "source": "",
+      "text": "실력 좀 보도록 하죠…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053228:0001"
+        }
+      ]
+    },
+    "reason": "「お手並み拝見」 직역투 정리."
+  },
+  {
+    "unit": "dialogue:06d4c2591eca3ab7",
+    "source": "",
+    "before": {
+      "id": "dialogue:06d4c2591eca3ab7",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여줘∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053478:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:06d4c2591eca3ab7",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053478:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(見せてな) 반영."
+  },
+  {
+    "unit": "dialogue:2c4e957dec67f1bb",
+    "source": "",
+    "before": {
+      "id": "dialogue:2c4e957dec67f1bb",
+      "source": "",
+      "text": "믿고 있을게요？//오오가미 씨∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053944:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2c4e957dec67f1bb",
+      "source": "",
+      "text": "믿고 있어요，//오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053944:0001"
+        }
+      ]
+    },
+    "reason": "「頼りにしてますよ？」 어색한 의문형 정리."
+  },
+  {
+    "unit": "dialogue:5720dcbd71696d66",
+    "source": "",
+    "before": {
+      "id": "dialogue:5720dcbd71696d66",
+      "source": "",
+      "text": "믿고 있을게요，//대장님∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053c5c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5720dcbd71696d66",
+      "source": "",
+      "text": "믿고 있데이，//대장∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053c5c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사(頼りにしてまっせ、隊長はん)에 사투리 반영."
+  },
+  {
+    "unit": "dialogue:2279cec629c82ac0",
+    "source": "",
+    "before": {
+      "id": "dialogue:2279cec629c82ac0",
+      "source": "",
+      "text": "대장님，힘내세요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053d8c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2279cec629c82ac0",
+      "source": "",
+      "text": "대장，힘내…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053d8c:0001"
+        }
+      ]
+    },
+    "reason": "레니 호칭 「대장」·반말 규칙."
+  },
+  {
+    "unit": "dialogue:4012824621663df2",
+    "source": "",
+    "before": {
+      "id": "dialogue:4012824621663df2",
+      "source": "",
+      "text": "좋은 전과를…//기대하고 있겠네∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053ea8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4012824621663df2",
+      "source": "",
+      "text": "좋은 전과를…//기대하겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00053ea8:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 평어 규칙."
+  },
+  {
+    "unit": "dialogue:08f8274d384e3db4",
+    "source": "",
+    "before": {
+      "id": "dialogue:08f8274d384e3db4",
+      "source": "",
+      "text": "어이，대장님？//비틀거리는 거 아냐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000542f8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:08f8274d384e3db4",
+      "source": "",
+      "text": "어，어이 대장？//비틀거리는 거 아냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000542f8:0001"
+        }
+      ]
+    },
+    "reason": "칸나 호칭 「대장」, 원문 말더듬 반영."
+  },
+  {
+    "unit": "dialogue:ce452330a359c7b3",
+    "source": "",
+    "before": {
+      "id": "dialogue:ce452330a359c7b3",
+      "source": "",
+      "text": "대장이라고 해서，//무리하면 안 돼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00054430:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ce452330a359c7b3",
+      "source": "",
+      "text": "대장이라꼬，//무리하면 안 된데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00054430:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:888ddf97a8436518",
+    "source": "",
+    "before": {
+      "id": "dialogue:888ddf97a8436518",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00054c1c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:888ddf97a8436518",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00054c1c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:a79221946473e6fa",
+    "source": "",
+    "before": {
+      "id": "dialogue:a79221946473e6fa",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055050:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a79221946473e6fa",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055050:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:9dfab357d5a97dfc",
+    "source": "",
+    "before": {
+      "id": "dialogue:9dfab357d5a97dfc",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000553ec:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9dfab357d5a97dfc",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000553ec:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:0c7a47b9b3573c51",
+    "source": "",
+    "before": {
+      "id": "dialogue:0c7a47b9b3573c51",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055820:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0c7a47b9b3573c51",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055820:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:3292b4630207463b",
+    "source": "",
+    "before": {
+      "id": "dialogue:3292b4630207463b",
+      "source": "",
+      "text": "내 눈앞에서는，//마음대로 못 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055b7c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3292b4630207463b",
+      "source": "",
+      "text": "내 눈앞에서는，//맘대로 못 한다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00055b7c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:6b0200e503ee46b7",
+    "source": "",
+    "before": {
+      "id": "dialogue:6b0200e503ee46b7",
+      "source": "",
+      "text": "아이고야…//허리가 빠져 버렸어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#0005666c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6b0200e503ee46b7",
+      "source": "",
+      "text": "아야야…//다리가 풀려 버렸어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#0005666c:0001"
+        }
+      ]
+    },
+    "reason": "「腰がぬける」를 직역한 「허리가 빠지다」 교정."
+  },
+  {
+    "unit": "dialogue:65d9d061bb107b71",
+    "source": "",
+    "before": {
+      "id": "dialogue:65d9d061bb107b71",
+      "source": "",
+      "text": "대장…//내 적은，남겨 둬？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056a68:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:65d9d061bb107b71",
+      "source": "",
+      "text": "대장…//내 원수，갚아 줘．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056a68:0001"
+        }
+      ]
+    },
+    "reason": "「あたいの敵(かたき)」를 적군으로 오독한 부분 교정."
+  },
+  {
+    "unit": "dialogue:bf3bc31f115cd2dc",
+    "source": "",
+    "before": {
+      "id": "dialogue:bf3bc31f115cd2dc",
+      "source": "",
+      "text": "이제 안 되겠어…//오오가미 씨，용서해 줘…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056bb8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bf3bc31f115cd2dc",
+      "source": "",
+      "text": "이제 안 되겠다…//오오가미 씨，미안타…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056bb8:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(堪忍やで) 반영."
+  },
+  {
+    "unit": "dialogue:533d8b3ec6a8fffa",
+    "source": "",
+    "before": {
+      "id": "dialogue:533d8b3ec6a8fffa",
+      "source": "",
+      "text": "젠장∈//대장…책임져야 해∈？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056fd0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:533d8b3ec6a8fffa",
+      "source": "",
+      "text": "젠장∈//대장…책임지라고∈？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00056fd0:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 말투(責任とれよな)로."
+  },
+  {
+    "unit": "dialogue:a324d11613405ebe",
+    "source": "",
+    "before": {
+      "id": "dialogue:a324d11613405ebe",
+      "source": "",
+      "text": "호～제법인데，//광무를 잘 다루고 있잖아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00057418:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a324d11613405ebe",
+      "source": "",
+      "text": "호～제법이네，//광무를 잘 쓴다 아이가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00057418:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:69008bc0cd694d1c",
+    "source": "",
+    "before": {
+      "id": "dialogue:69008bc0cd694d1c",
+      "source": "",
+      "text": "음…∈//점점 더 사위로 삼고 싶어지는군∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00057e34:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:69008bc0cd694d1c",
+      "source": "",
+      "text": "음…∈//점점 더 신랑 삼고 싶어지는군∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00057e34:0001"
+        }
+      ]
+    },
+    "reason": "여성 화자(글리신)의 「ムコ」를 사위로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:39b882e1396982fb",
+    "source": "",
+    "before": {
+      "id": "dialogue:39b882e1396982fb",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00058b34:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:39b882e1396982fb",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00058b34:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사의 존댓말 교정."
+  },
+  {
+    "unit": "dialogue:10515939c94959c9",
+    "source": "",
+    "before": {
+      "id": "dialogue:10515939c94959c9",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00058da8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:10515939c94959c9",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00058da8:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:de94e3b997c5b200",
+    "source": "",
+    "before": {
+      "id": "dialogue:de94e3b997c5b200",
+      "source": "",
+      "text": "대장과 나，//합쳐서 백인분은 된다고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059228:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:de94e3b997c5b200",
+      "source": "",
+      "text": "대장과 나，//합치면 백 명 몫이라고∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059228:0001"
+        }
+      ]
+    },
+    "reason": "「百人力」 직역 「백인분」 교정."
+  },
+  {
+    "unit": "dialogue:93a347ddab1b003c",
+    "source": "",
+    "before": {
+      "id": "dialogue:93a347ddab1b003c",
+      "source": "",
+      "text": "오오가미 씨와 함께라면，//무서울 게 없어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059368:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:93a347ddab1b003c",
+      "source": "",
+      "text": "오오가미 씨랑 같이면，//무서울 기 없다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059368:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:4c2b26a4fb46bb32",
+    "source": "",
+    "before": {
+      "id": "dialogue:4c2b26a4fb46bb32",
+      "source": "",
+      "text": "이，이봐，//너무 달라붙지 마∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000595ec:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4c2b26a4fb46bb32",
+      "source": "",
+      "text": "이，이봐，//달라붙지 마라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#000595ec:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:a76c70c144825c20",
+    "source": "",
+    "before": {
+      "id": "dialogue:a76c70c144825c20",
+      "source": "",
+      "text": "이，광무가，//말을 듣지 않아…//어떻게 된 거야〓",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059874:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a76c70c144825c20",
+      "source": "",
+      "text": "과，광무가，//말을 듣지 않아…//어떻게 된 거야〓",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059874:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:698ffb86975dc147",
+    "source": "",
+    "before": {
+      "id": "dialogue:698ffb86975dc147",
+      "source": "",
+      "text": "이，광무가//멋대로 움직이다니…//어떻게 된 일이죠？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059920:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:698ffb86975dc147",
+      "source": "",
+      "text": "과，광무가//멋대로 움직이다니…//어떻게 된 일이죠？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#00059920:0001"
+        }
+      ]
+    },
+    "reason": "「こ、光武」 말더듬을 한국어 첫소리로."
+  },
+  {
+    "unit": "dialogue:1e4c707552c6db48",
+    "source": "",
+    "before": {
+      "id": "dialogue:1e4c707552c6db48",
+      "source": "",
+      "text": "오오가미 군…//이번 작전은，미카사의 탈환이//목적입니다만…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#0005a124:0002"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1e4c707552c6db48",
+      "source": "",
+      "text": "오오가미 군…//이번 작전은，미카사의 탈환이//목적이지만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/SMAP04.ESM#0005a124:0002"
+        }
+      ]
+    },
+    "reason": "카에데는 오오가미에게 반말 규칙."
+  },
+  {
+    "unit": "dialogue:e6f15661c51626c8",
+    "source": "",
+    "before": {
+      "id": "dialogue:e6f15661c51626c8",
+      "source": "",
+      "text": "가자，내 광무∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00037f1c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e6f15661c51626c8",
+      "source": "",
+      "text": "간다，내 광무∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00037f1c:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 「いくで」를 음성 대사와 같은 문안으로 맞춤."
+  },
+  {
+    "unit": "dialogue:1a126ecb34eb13ba",
+    "source": "",
+    "before": {
+      "id": "dialogue:1a126ecb34eb13ba",
+      "source": "",
+      "text": "진검승부…//들어갑니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038320:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1a126ecb34eb13ba",
+      "source": "",
+      "text": "진검승부…//갑니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038320:0001"
+        }
+      ]
+    },
+    "reason": "「参ります」를 자연스러운 출격 구호로."
+  },
+  {
+    "unit": "dialogue:667b657ddfff2c77",
+    "source": "",
+    "before": {
+      "id": "dialogue:667b657ddfff2c77",
+      "source": "",
+      "text": "백식이여…//제도를…무로 돌려보내라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038448:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:667b657ddfff2c77",
+      "source": "",
+      "text": "하쿠시키여…//제도를…무로 돌려라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038448:0001"
+        }
+      ]
+    },
+    "reason": "마조기병 고유명 「ハクシキ」를 의역 「백식」 대신 작중 표기로."
+  },
+  {
+    "unit": "dialogue:282058f358e3c513",
+    "source": "",
+    "before": {
+      "id": "dialogue:282058f358e3c513",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직이죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038744:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:282058f358e3c513",
+      "source": "",
+      "text": "대장님 지시라면，//안심하고 움직여요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038744:0001"
+        }
+      ]
+    },
+    "reason": "마리아 대사의 어미를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:fe082bc47f58c51a",
+    "source": "",
+    "before": {
+      "id": "dialogue:fe082bc47f58c51a",
+      "source": "",
+      "text": "그대를 위해…//승리를 거머쥐겠다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038b70:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fe082bc47f58c51a",
+      "source": "",
+      "text": "귀공을 위해…//승리를 거머쥐겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038b70:0001"
+        }
+      ]
+    },
+    "reason": "글리신의 「貴公」 호칭 규칙(그대 금지)."
+  },
+  {
+    "unit": "dialogue:c5d7ad23280727ac",
+    "source": "",
+    "before": {
+      "id": "dialogue:c5d7ad23280727ac",
+      "source": "",
+      "text": "당신의 강운에…//한입 얹어줄게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038ca0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5d7ad23280727ac",
+      "source": "",
+      "text": "네 강운에…//나도 좀 편승할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038ca0:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 호칭 「너」 규칙, 「一口のらせて」를 편승으로 의역."
+  },
+  {
+    "unit": "dialogue:a9cf01710b3de2ea",
+    "source": "",
+    "before": {
+      "id": "dialogue:a9cf01710b3de2ea",
+      "source": "",
+      "text": "저，저라는 사람이 이런 실수를…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038e78:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a9cf01710b3de2ea",
+      "source": "",
+      "text": "저，제가 이런 실수를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00038e78:0001"
+        }
+      ]
+    },
+    "reason": "「わたくしとしたことが」 직역투 교정."
+  },
+  {
+    "unit": "dialogue:a8c2fd991f95bae2",
+    "source": "",
+    "before": {
+      "id": "dialogue:a8c2fd991f95bae2",
+      "source": "",
+      "text": "아이리스，//졸려졌어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039044:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a8c2fd991f95bae2",
+      "source": "",
+      "text": "아이리스，//졸음이 와…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039044:0001"
+        }
+      ]
+    },
+    "reason": "「졸려졌어」 비문 교정."
+  },
+  {
+    "unit": "dialogue:eff2b0cc6d83c982",
+    "source": "",
+    "before": {
+      "id": "dialogue:eff2b0cc6d83c982",
+      "source": "",
+      "text": "아，안 돼∈//기체가 한계야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#000390e0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:eff2b0cc6d83c982",
+      "source": "",
+      "text": "아，안 된다∈//기체 한계다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#000390e0:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(アカン) 반영."
+  },
+  {
+    "unit": "dialogue:5dc3723b2965bcea",
+    "source": "",
+    "before": {
+      "id": "dialogue:5dc3723b2965bcea",
+      "source": "",
+      "text": "아직이야…//아직 싸울 수 있어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039344:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5dc3723b2965bcea",
+      "source": "",
+      "text": "아직이다…//아직 싸울 수 있다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039344:0001"
+        }
+      ]
+    },
+    "reason": "「まだだ…戦えるぞ」 화자 말투를 음성 대사와 맞춤."
+  },
+  {
+    "unit": "dialogue:a890668765b4fe0e",
+    "source": "",
+    "before": {
+      "id": "dialogue:a890668765b4fe0e",
+      "source": "",
+      "text": "실력을 한 번 지켜보도록 하겠어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#000398b4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a890668765b4fe0e",
+      "source": "",
+      "text": "실력 좀 보도록 하죠…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#000398b4:0001"
+        }
+      ]
+    },
+    "reason": "「お手並み拝見」 직역투 정리."
+  },
+  {
+    "unit": "dialogue:e8eb0d7b30e74be5",
+    "source": "",
+    "before": {
+      "id": "dialogue:e8eb0d7b30e74be5",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여줘∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039b04:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e8eb0d7b30e74be5",
+      "source": "",
+      "text": "오오가미 씨，//멋진 모습 보여 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039b04:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(見せてな) 반영."
+  },
+  {
+    "unit": "dialogue:30273e83e1ea8195",
+    "source": "",
+    "before": {
+      "id": "dialogue:30273e83e1ea8195",
+      "source": "",
+      "text": "믿고 있을게요？//오오가미 씨∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039fd0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:30273e83e1ea8195",
+      "source": "",
+      "text": "믿고 있어요，//오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00039fd0:0001"
+        }
+      ]
+    },
+    "reason": "「頼りにしてますよ？」 어색한 의문형 정리."
+  },
+  {
+    "unit": "dialogue:834697e975e21c09",
+    "source": "",
+    "before": {
+      "id": "dialogue:834697e975e21c09",
+      "source": "",
+      "text": "믿고 있을게요，//대장님∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a2e8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:834697e975e21c09",
+      "source": "",
+      "text": "믿고 있데이，//대장∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a2e8:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사(頼りにしてまっせ、隊長はん)에 사투리 반영."
+  },
+  {
+    "unit": "dialogue:f685ac058379bd28",
+    "source": "",
+    "before": {
+      "id": "dialogue:f685ac058379bd28",
+      "source": "",
+      "text": "대장님，힘내세요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a418:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f685ac058379bd28",
+      "source": "",
+      "text": "대장，힘내…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a418:0001"
+        }
+      ]
+    },
+    "reason": "레니 호칭 「대장」·반말 규칙."
+  },
+  {
+    "unit": "dialogue:686aa2d88f615b1f",
+    "source": "",
+    "before": {
+      "id": "dialogue:686aa2d88f615b1f",
+      "source": "",
+      "text": "좋은 전과를…//기대하고 있겠네∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a534:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:686aa2d88f615b1f",
+      "source": "",
+      "text": "좋은 전과를…//기대하겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a534:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 평어 규칙."
+  },
+  {
+    "unit": "dialogue:ca606986f8ce4f81",
+    "source": "",
+    "before": {
+      "id": "dialogue:ca606986f8ce4f81",
+      "source": "",
+      "text": "어이，대장님？//비틀거리는 거 아냐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a984:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ca606986f8ce4f81",
+      "source": "",
+      "text": "어，어이 대장？//비틀거리는 거 아냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003a984:0001"
+        }
+      ]
+    },
+    "reason": "칸나 호칭 「대장」, 원문 말더듬 반영."
+  },
+  {
+    "unit": "dialogue:90e22ffcc3d1a215",
+    "source": "",
+    "before": {
+      "id": "dialogue:90e22ffcc3d1a215",
+      "source": "",
+      "text": "대장이라고 해서，//무리하면 안 돼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003aabc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:90e22ffcc3d1a215",
+      "source": "",
+      "text": "대장이라꼬，//무리하면 안 된데이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003aabc:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:3ab71e2cae9d8519",
+    "source": "",
+    "before": {
+      "id": "dialogue:3ab71e2cae9d8519",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003b2a8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3ab71e2cae9d8519",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003b2a8:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:495fc9b7d84a7266",
+    "source": "",
+    "before": {
+      "id": "dialogue:495fc9b7d84a7266",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003b6dc:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:495fc9b7d84a7266",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003b6dc:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:6ee1451f573e8ae0",
+    "source": "",
+    "before": {
+      "id": "dialogue:6ee1451f573e8ae0",
+      "source": "",
+      "text": "오오가미 씨，고마워∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003ba78:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6ee1451f573e8ae0",
+      "source": "",
+      "text": "오오가미 씨 고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003ba78:0001"
+        }
+      ]
+    },
+    "reason": "홍란 「おおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:ae0b2c940ffed8da",
+    "source": "",
+    "before": {
+      "id": "dialogue:ae0b2c940ffed8da",
+      "source": "",
+      "text": "…풋．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003beac:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ae0b2c940ffed8da",
+      "source": "",
+      "text": "…화끈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003beac:0001"
+        }
+      ]
+    },
+    "reason": "「ぽっ」(얼굴 붉힘)을 웃음소리 「풋」으로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:2accad36c29c8abd",
+    "source": "",
+    "before": {
+      "id": "dialogue:2accad36c29c8abd",
+      "source": "",
+      "text": "내 눈앞에서는，//마음대로 못 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003c208:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2accad36c29c8abd",
+      "source": "",
+      "text": "내 눈앞에서는，//맘대로 못 한다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003c208:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:18638ac348b4ac93",
+    "source": "",
+    "before": {
+      "id": "dialogue:18638ac348b4ac93",
+      "source": "",
+      "text": "아이고야…//허리가 빠져 버렸어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003ccf8:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:18638ac348b4ac93",
+      "source": "",
+      "text": "아야야…//다리가 풀려 버렸어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003ccf8:0001"
+        }
+      ]
+    },
+    "reason": "「腰がぬける」를 직역한 「허리가 빠지다」 교정."
+  },
+  {
+    "unit": "dialogue:26b869a4d63bfb84",
+    "source": "",
+    "before": {
+      "id": "dialogue:26b869a4d63bfb84",
+      "source": "",
+      "text": "대장…//내 적은，남겨 둬？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d0f4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:26b869a4d63bfb84",
+      "source": "",
+      "text": "대장…//내 원수，갚아 줘．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d0f4:0001"
+        }
+      ]
+    },
+    "reason": "「あたいの敵(かたき)」를 적군으로 오독한 부분 교정."
+  },
+  {
+    "unit": "dialogue:a4938c598243fc9b",
+    "source": "",
+    "before": {
+      "id": "dialogue:a4938c598243fc9b",
+      "source": "",
+      "text": "이제 안 되겠어…//오오가미 씨，용서해 줘…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d244:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a4938c598243fc9b",
+      "source": "",
+      "text": "이제 안 되겠다…//오오가미 씨，미안타…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d244:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(堪忍やで) 반영."
+  },
+  {
+    "unit": "dialogue:33966223f827c581",
+    "source": "",
+    "before": {
+      "id": "dialogue:33966223f827c581",
+      "source": "",
+      "text": "젠장∈//대장…책임져야 해∈？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d65c:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:33966223f827c581",
+      "source": "",
+      "text": "젠장∈//대장…책임지라고∈？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003d65c:0001"
+        }
+      ]
+    },
+    "reason": "로벨리아 말투(責任とれよな)로."
+  },
+  {
+    "unit": "dialogue:aa8c99f34d20c6c6",
+    "source": "",
+    "before": {
+      "id": "dialogue:aa8c99f34d20c6c6",
+      "source": "",
+      "text": "호～제법인데，//광무를 잘 다루고 있잖아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003daa4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:aa8c99f34d20c6c6",
+      "source": "",
+      "text": "호～제법이네，//광무를 잘 쓴다 아이가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003daa4:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:a19d7db0d30b01a3",
+    "source": "",
+    "before": {
+      "id": "dialogue:a19d7db0d30b01a3",
+      "source": "",
+      "text": "음…∈//점점 더 사위로 삼고 싶어지는군∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003e4c0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a19d7db0d30b01a3",
+      "source": "",
+      "text": "음…∈//점점 더 신랑 삼고 싶어지는군∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003e4c0:0001"
+        }
+      ]
+    },
+    "reason": "여성 화자(글리신)의 「ムコ」를 사위로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:e18f6e94d7f84c8a",
+    "source": "",
+    "before": {
+      "id": "dialogue:e18f6e94d7f84c8a",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f1c0:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e18f6e94d7f84c8a",
+      "source": "",
+      "text": "오오가미 씨의 지휘는，//빈틈이 없네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f1c0:0001"
+        }
+      ]
+    },
+    "reason": "홍란 대사의 존댓말 교정."
+  },
+  {
+    "unit": "dialogue:0c43fe32e571fe41",
+    "source": "",
+    "before": {
+      "id": "dialogue:0c43fe32e571fe41",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f434:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0c43fe32e571fe41",
+      "source": "",
+      "text": "자，대장∈//다음 상대는 어디냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f434:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:cab3ede00f28eff2",
+    "source": "",
+    "before": {
+      "id": "dialogue:cab3ede00f28eff2",
+      "source": "",
+      "text": "대장과 나，//합쳐서 백인분은 된다고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f8b4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cab3ede00f28eff2",
+      "source": "",
+      "text": "대장과 나，//합치면 백 명 몫이라고∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f8b4:0001"
+        }
+      ]
+    },
+    "reason": "「百人力」 직역 「백인분」 교정."
+  },
+  {
+    "unit": "dialogue:25402f4d30520d4d",
+    "source": "",
+    "before": {
+      "id": "dialogue:25402f4d30520d4d",
+      "source": "",
+      "text": "오오가미 씨와 함께라면，//무서울 게 없어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f9f4:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:25402f4d30520d4d",
+      "source": "",
+      "text": "오오가미 씨랑 같이면，//무서울 기 없다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003f9f4:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리 반영."
+  },
+  {
+    "unit": "dialogue:b3fb1cd062087f8f",
+    "source": "",
+    "before": {
+      "id": "dialogue:b3fb1cd062087f8f",
+      "source": "",
+      "text": "이，이봐，//너무 달라붙지 마∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003fc78:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b3fb1cd062087f8f",
+      "source": "",
+      "text": "이，이봐，//달라붙지 마라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#0003fc78:0001"
+        }
+      ]
+    },
+    "reason": "글리신 고어체 말투."
+  },
+  {
+    "unit": "dialogue:f24c37f4cf3d338c",
+    "source": "",
+    "before": {
+      "id": "dialogue:f24c37f4cf3d338c",
+      "source": "",
+      "text": "광무가 움직이지 않아…//하지만，이 정도라면//조금 기다리면 움직이게 될 거야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00040368:0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f24c37f4cf3d338c",
+      "source": "",
+      "text": "광무가 안 움직인다…//근데，이 정도라면//조금 기다리면 움직일 끼다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G05/SMAP05.ESM#00040368:0001"
+        }
+      ]
+    },
+    "reason": "홍란 사투리(動かへん) 반영."
+  }
+]

@@ -1,0 +1,695 @@
+[
+  {
+    "unit": "dialogue:a9810b4eded74fde",
+    "source": "それはダダをこねてるんじゃ……",
+    "before": {
+      "id": "dialogue:a9810b4eded74fde",
+      "source": "それはダダをこねてるんじゃ……",
+      "text": "그건 떼를 쓴 거나 마찬가지 아닌가…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0524"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a9810b4eded74fde",
+      "source": "それはダダをこねてるんじゃ……",
+      "text": "그건 떼쓰는 거 아닌가…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0524"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:11b0e30ac0163b31",
+    "source": "すみれくんに相談してみたら？",
+    "before": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군한테 상의해 보는 건 어때？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군과 상의해 보면 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1ff122bb8a438030",
+    "source": "教えることはもうなにもないよ。",
+    "before": {
+      "id": "dialogue:1ff122bb8a438030",
+      "source": "教えることはもうなにもないよ。",
+      "text": "가르쳐 줄 건 이제 아무것도 없어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0978"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1ff122bb8a438030",
+      "source": "教えることはもうなにもないよ。",
+      "text": "이제 가르칠 건 아무것도 없어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0978"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:b0cc9c1af212aeb8",
+    "source": "コゼットの結婚の話ですか？",
+    "before": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "コゼットの結婚の話ですか？",
+      "text": "코제트의 결혼 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "コゼットの結婚の話ですか？",
+      "text": "코제트의 결혼 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:2abbcd019e1ce1b5",
+    "source": "テナルディエの強欲の話ですか？",
+    "before": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "テナルディエの強欲の話ですか？",
+      "text": "테나르디에의 탐욕 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "テナルディエの強欲の話ですか？",
+      "text": "테나르디에의 탐욕 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f268682d34ce954f",
+    "source": "ミリエル司教の救済の話ですか？",
+    "before": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "ミリエル司教の救済の話ですか？",
+      "text": "미리엘 주교님의 구원 이야기인가요？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "ミリエル司教の救済の話ですか？",
+      "text": "미리엘 주교의 구원 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:ea8646fd6bec8529",
+    "source": "地味な衣装も似合うと思うよ。",
+    "before": {
+      "id": "dialogue:ea8646fd6bec8529",
+      "source": "地味な衣装も似合うと思うよ。",
+      "text": "수수한 의상도 잘 어울릴 것 같아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0563"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ea8646fd6bec8529",
+      "source": "地味な衣装も似合うと思うよ。",
+      "text": "수수한 의상도 어울릴 것 같아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0563"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:0e9c7ecbdd9a5b86",
+    "source": "この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸는지 몰라",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:c5d49c9b02ccd452",
+    "source": "……この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이 순간을 얼마나 기다렸는지 몰라",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이 순간을 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:9f093efe919a6a47",
+    "source": "何も着ないのがいいと思うよ。",
+    "before": {
+      "id": "dialogue:9f093efe919a6a47",
+      "source": "何も着ないのがいいと思うよ。",
+      "text": "아무것도 입지 않는 게 좋다고 생각해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1511"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9f093efe919a6a47",
+      "source": "何も着ないのがいいと思うよ。",
+      "text": "아무것도 안 입는 게 좋겠어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1511"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1045370411d78e2c",
+    "source": "敵の落とした能面について話す。",
+    "before": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 흘린 노 가면에 대해 말한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 흘린 노 가면 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8c18ae2ac2dcdd60",
+    "source": "帝劇の舞台演出について話す。",
+    "before": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장의 무대 연출에 대해 이야기한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장 무대 연출 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1b194fd2c85b9c71",
+    "source": "さっき見た人影について話す。",
+    "before": {
+      "id": "dialogue:1b194fd2c85b9c71",
+      "source": "さっき見た人影について話す。",
+      "text": "방금 본 그림자에 대해 말한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0401"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b194fd2c85b9c71",
+      "source": "さっき見た人影について話す。",
+      "text": "방금 본 그림자 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0401"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:85acc3c951a88f61",
+    "source": "花火くんが日本人だからだよ。",
+    "before": {
+      "id": "dialogue:85acc3c951a88f61",
+      "source": "花火くんが日本人だからだよ。",
+      "text": "하나비 군이 일본인이기 때문이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0700"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:85acc3c951a88f61",
+      "source": "花火くんが日本人だからだよ。",
+      "text": "하나비 군이 일본인이라서야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0700"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f92fc6098ecbf048",
+    "source": "かえでさんと話がしたくて……",
+    "before": {
+      "id": "dialogue:f92fc6098ecbf048",
+      "source": "かえでさんと話がしたくて……",
+      "text": "카에데 씨와 이야기를 나누고 싶어서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0854"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0933"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f92fc6098ecbf048",
+      "source": "かえでさんと話がしたくて……",
+      "text": "카에데 씨와 이야기하고 싶어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0854"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0933"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:7c3d6c94a3825479",
+    "source": "ロベリアも手伝ったらどうだい？",
+    "before": {
+      "id": "dialogue:7c3d6c94a3825479",
+      "source": "ロベリアも手伝ったらどうだい？",
+      "text": "로벨리아도 좀 도와 주는 게 어때？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7c3d6c94a3825479",
+      "source": "ロベリアも手伝ったらどうだい？",
+      "text": "로벨리아도 도와주는 게 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0125"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:dbd4357211b59a47",
+    "source": "花火くんのドレス姿を見たいな。",
+    "before": {
+      "id": "dialogue:dbd4357211b59a47",
+      "source": "花火くんのドレス姿を見たいな。",
+      "text": "드레스 입은 하나비 군이 보고 싶어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1944"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dbd4357211b59a47",
+      "source": "花火くんのドレス姿を見たいな。",
+      "text": "하나비 군의 드레스가 보고 싶어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1944"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:578e752862b7e142",
+    "source": "なら、こいつはだれが守るんだ？",
+    "before": {
+      "id": "dialogue:578e752862b7e142",
+      "source": "なら、こいつはだれが守るんだ？",
+      "text": "그럼，이 아이는 누가 지키는 거야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0974"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:578e752862b7e142",
+      "source": "なら、こいつはだれが守るんだ？",
+      "text": "그럼，이 아이는 누가 지켜？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0974"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:6a3795ea5c9659cf",
+    "source": "俺がみんなを守ると約束する。",
+    "before": {
+      "id": "dialogue:6a3795ea5c9659cf",
+      "source": "俺がみんなを守ると約束する。",
+      "text": "내가 모두를 지키겠다고 약속할게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1278"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6a3795ea5c9659cf",
+      "source": "俺がみんなを守ると約束する。",
+      "text": "내가 모두를 지킬게，약속해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1278"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8e2cf29b6298165c",
+    "source": "アイリスなら、きっとなれるよ。",
+    "before": {
+      "id": "dialogue:8e2cf29b6298165c",
+      "source": "アイリスなら、きっとなれるよ。",
+      "text": "아이리스라면，분명 될 수 있을 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0566"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8e2cf29b6298165c",
+      "source": "アイリスなら、きっとなれるよ。",
+      "text": "아이리스라면 분명 될 수 있어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0566"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:0e78ef619687a1bc",
+    "source": "織姫くんは十分、日本人だよ。",
+    "before": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "오리히메 군은 충분히 일본인이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "오리히메 군은 이미 일본인이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5f239cba7b5d8453",
+    "source": "ただいま……帰ってきたよ。",
+    "before": {
+      "id": "dialogue:5f239cba7b5d8453",
+      "source": "ただいま……帰ってきたよ。",
+      "text": "나 왔어…//돌아왔어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0914"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5f239cba7b5d8453",
+      "source": "ただいま……帰ってきたよ。",
+      "text": "다녀왔어…돌아왔어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0914"
+        }
+      ]
+    },
+    "reason": "선택지에 줄바꿈이 들어가 칸이 밀림. 한 줄로 수정."
+  },
+  {
+    "unit": "dialogue:79ef6c190a087d65",
+    "source": "米田支配人はなんて言ってます？",
+    "before": {
+      "id": "dialogue:79ef6c190a087d65",
+      "source": "米田支配人はなんて言ってます？",
+      "text": "요네다 지배인님은 뭐라고 하십니까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1304"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:79ef6c190a087d65",
+      "source": "米田支配人はなんて言ってます？",
+      "text": "지배인님은 뭐라고 하십니까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1304"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:2358b43d4371c39f",
+    "source": "こんなことしかできないからね。",
+    "before": {
+      "id": "dialogue:2358b43d4371c39f",
+      "source": "こんなことしかできないからね。",
+      "text": "이런 것밖에 할 수 없으니까 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1638"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2358b43d4371c39f",
+      "source": "こんなことしかできないからね。",
+      "text": "이런 것밖에 못 하니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1638"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:e2f142758466400b",
+    "source": "米田司令の手助けをすれば！",
+    "before": {
+      "id": "dialogue:e2f142758466400b",
+      "source": "米田司令の手助けをすれば！",
+      "text": "요네다 사령관님을 도와드려야 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0053"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e2f142758466400b",
+      "source": "米田司令の手助けをすれば！",
+      "text": "요네다 사령관님을 도우면∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0053"
+        }
+      ]
+    },
+    "reason": "선택지 칸 넘침 수정: 일본어 선택지 최대 폭(전각 15자) 기준, 한국어 반각 32 이하로 줄임."
+  }
+]

@@ -1,0 +1,42 @@
+{"id": "dialogue:c178046fa6cd98f0", "source": "_sin_fade", "text": "_sin_fade", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0001"}, {"id": "SLG/G04/E/EV04002.SBN#0010"}, {"id": "SLG/G04/E/EV04002.SBN#0072"}]}
+{"id": "dialogue:182bd031781db09f", "source": "_play_bgm", "text": "_play_bgm", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0008"}, {"id": "SLG/G04/E/EV04002.SBN#0071"}]}
+{"id": "dialogue:7c68b8041258fe54", "source": "ここが正念場だぞ∈//俺たちの街は……//自分の手で守るんだ！", "text": "여기가 승부처다∈//우리 거리는…//우리 손으로 지키는 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0011"}]}
+{"id": "dialogue:82a068d4b766b538", "source": "無理しないの、雄一ちゃん∈//あなた、背中のキズが、//完治してないんでしょ∈", "text": "무리하지 마，유이치∈//당신，등 상처가//아직 다 낫지 않았잖아∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0013"}]}
+{"id": "dialogue:a8267d76f54cf095", "source": "かまうものか……//この帝都は……//俺たちが守るんだ∈", "text": "상관없어…//이 제도는…//우리가 지키는 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0014"}]}
+{"id": "dialogue:3d091ad9130f849c", "source": "それに……//俺たちよりも……苦しい戦いを//しているヤツもいるしな……", "text": "게다가…//우리들보다도…고통스러운 싸움을//하고 있는 녀석도 있으니까 말이야…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0015"}]}
+{"id": "dialogue:e4d03fffe83833a7", "source": "なんて敵の数だ……//この調子だと、地上にも//かなりの被害が……", "text": "적이 대체 얼마나 많은 거야…//이대로라면，지상에도//상당한 피해가…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0017"}]}
+{"id": "dialogue:4f01ab3d188dbc7a", "source": "地上のみんなは、//無事だろうか……", "text": "지상의 모두는，//무사할까…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0018"}]}
+{"id": "dialogue:b2a5becd38365bfa", "source": "se_ev_402c.snd", "text": "se_ev_402c.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0019"}]}
+{"id": "dialogue:d9ebefc47e5a6f0f", "source": "Kayama_Rose", "text": "Kayama_Rose", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0020"}, {"id": "SLG/G04/E/EV04002.SBN#0070"}]}
+{"id": "dialogue:f23342c0c464be07", "source": "ev04002init", "text": "ev04002init", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0024"}, {"id": "SLG/G04/E/EV04002.SBN#0074"}]}
+{"id": "dialogue:abeaabddf244d810", "source": "ev04002_cam.go2", "text": "ev04002_cam.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0036"}]}
+{"id": "dialogue:aa9058b227c044bf", "source": "ev04002_nag.go2", "text": "ev04002_nag.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0037"}]}
+{"id": "dialogue:090f069807c669af", "source": "ev04002_nag.grt", "text": "ev04002_nag.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0038"}]}
+{"id": "dialogue:c4f602e16972ce91", "source": "ev04002_sb.mbo", "text": "ev04002_sb.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0039"}]}
+{"id": "dialogue:e2c6e7d2c3dcfc4f", "source": "fxn4c01.be1", "text": "fxn4c01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0040"}, {"id": "SLG/G04/E/EV04037.SBN#0012"}]}
+{"id": "dialogue:4b367f1b049de8cf", "source": "fxn4c01.bt1", "text": "fxn4c01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0041"}, {"id": "SLG/G04/E/EV04037.SBN#0013"}]}
+{"id": "dialogue:9773ea2619f5930b", "source": "fxn4c02_01.be1", "text": "fxn4c02_01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0042"}]}
+{"id": "dialogue:2b67075fd1f491b6", "source": "fxn4c02_01.bt1", "text": "fxn4c02_01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0043"}]}
+{"id": "dialogue:9c18a476745d0c89", "source": "fxn4c03_01.be1", "text": "fxn4c03_01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0044"}]}
+{"id": "dialogue:4f737a2b4ff34c13", "source": "fxn4c03_01.bt1", "text": "fxn4c03_01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0045"}]}
+{"id": "dialogue:55da111e8e44d1f6", "source": "ev04002_sb_2.mbo", "text": "ev04002_sb_2.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0046"}]}
+{"id": "dialogue:43b1365d5c0cc6d9", "source": "……ついに来たぞ。//大久保長安∈//ミカサを返してもらう∈", "text": "드디어 왔군．//오오쿠보 나가야스∈//미카사를 돌려받겠다∈", "review": "재검수2", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0047"}]}
+{"id": "dialogue:b3112ea8b492a4de", "source": "いくぞ長安……//勝負だ！", "text": "간다，나가야스…승부다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0048"}]}
+{"id": "dialogue:0acd55659e75b27b", "source": "手応えはあった……//やったか〓", "text": "확실히 맞았어…//해낸 건가〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0049"}]}
+{"id": "dialogue:210aba02b10a7532", "source": "fxn4c03_03.be1", "text": "fxn4c03_03.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0052"}]}
+{"id": "dialogue:61e0b53b9cf9c3e6", "source": "fxn4c03_03.bt1", "text": "fxn4c03_03.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0053"}]}
+{"id": "dialogue:8c292553baa9b34d", "source": "ev04002_sintai.mbo", "text": "ev04002_sintai.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0054"}]}
+{"id": "dialogue:147d2d2a66f70d84", "source": "いくぞ、みんな∈", "text": "가자，모두들∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0055"}]}
+{"id": "dialogue:678deadc83600db3", "source": "ev04002_sm.mbo", "text": "ev04002_sm.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0057"}, {"id": "SLG/G04/E/EV04003.SBN#0010"}]}
+{"id": "dialogue:ffd00f53a074df4b", "source": "ev04002_mr.mbo", "text": "ev04002_mr.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0058"}, {"id": "SLG/G04/E/EV04003.SBN#0011"}]}
+{"id": "dialogue:7f349a0e77ae165a", "source": "ev04002_kn.mbo", "text": "ev04002_kn.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0059"}, {"id": "SLG/G04/E/EV04003.SBN#0012"}]}
+{"id": "dialogue:22176ef153d65533", "source": "ev04002_ir.mbo", "text": "ev04002_ir.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0060"}, {"id": "SLG/G04/E/EV04003.SBN#0013"}]}
+{"id": "dialogue:c034bef59e609a13", "source": "ev04002_kr.mbo", "text": "ev04002_kr.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0061"}, {"id": "SLG/G04/E/EV04003.SBN#0014"}]}
+{"id": "dialogue:d71509d41139498d", "source": "ev04002_or.mbo", "text": "ev04002_or.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0062"}, {"id": "SLG/G04/E/EV04003.SBN#0015"}]}
+{"id": "dialogue:8e729ae58db0e56b", "source": "ev04002_rn.mbo", "text": "ev04002_rn.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0063"}, {"id": "SLG/G04/E/EV04003.SBN#0016"}]}
+{"id": "dialogue:f2ad5a6d3c0402c3", "source": "ev04002_er.mbo", "text": "ev04002_er.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0064"}, {"id": "SLG/G04/E/EV04003.SBN#0017"}]}
+{"id": "dialogue:c4fdf7321e78cc51", "source": "ev04002_gr.mbo", "text": "ev04002_gr.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0065"}, {"id": "SLG/G04/E/EV04003.SBN#0018"}]}
+{"id": "dialogue:af3af627a8f461ed", "source": "ev04002_cq.mbo", "text": "ev04002_cq.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0066"}, {"id": "SLG/G04/E/EV04003.SBN#0019"}]}
+{"id": "dialogue:443699699a42812a", "source": "ev04002_lb.mbo", "text": "ev04002_lb.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0067"}, {"id": "SLG/G04/E/EV04003.SBN#0020"}]}
+{"id": "dialogue:6a4d26f79a5e7ec3", "source": "ev04002_hn.mbo", "text": "ev04002_hn.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0068"}, {"id": "SLG/G04/E/EV04003.SBN#0021"}]}
+{"id": "dialogue:5373aa596cd9467e", "source": "ev04002_sk.mbo", "text": "ev04002_sk.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04002.SBN#0069"}, {"id": "SLG/G04/E/EV04003.SBN#0022"}]}

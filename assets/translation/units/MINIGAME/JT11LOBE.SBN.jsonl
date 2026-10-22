@@ -1,0 +1,10 @@
+{"id": "dialogue:d2c82f2569369378", "source": "この試合では、//アタシのパイが//ボーナスパイだよ。", "text": "이 시합에서는，//내 패가//보너스 패야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0003"}]}
+{"id": "dialogue:af9f0dc384550541", "source": "今回のお題だ。//この中の、どれか１組を//そろえるんだ。", "text": "이번 주제다．//이 중에서，어느 한 세트를//맞추는 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0004"}]}
+{"id": "dialogue:c8e0231fd2e3cea1", "source": "さあて……//アタシが親か。", "text": "자，그럼…//내가 딜러인가？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0005"}]}
+{"id": "dialogue:856be9de53961500", "source": "はやくしな。//アンタが親だよ。", "text": "빨리 해．//네가 딜러야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0006"}]}
+{"id": "dialogue:6b4163b78fe30529", "source": "今日は楽しかったぜ。//金さえもってくれば//いつでも相手してやるよ。", "text": "오늘은 즐거웠어．//돈만 가져오면//언제든 상대해 주지．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0007"}, {"id": "MINIGAME/JT11LOBE.SBN#0017"}]}
+{"id": "dialogue:b3e35a28f809484c", "source": "……チッ、//帰って一杯やるか。", "text": "…쳇，//돌아가서 술이나 한잔할까．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0008"}, {"id": "MINIGAME/JT11LOBE.SBN#0018"}]}
+{"id": "dialogue:2b29d488863aad09", "source": "アタシとタメ張るなんざ……//なかなかやるじゃないか。", "text": "나랑 맞먹으려 하다니…//제법인데？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0009"}, {"id": "MINIGAME/JT11LOBE.SBN#0019"}]}
+{"id": "dialogue:7fcbd403e829d27b", "source": "まだアタシと//勝負する気があるのなら……//かかってきな。", "text": "아직 나랑//승부할 생각이 있다면…//덤벼 봐．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0014"}]}
+{"id": "dialogue:b12dc86106c76dce", "source": "ふふ……//アンタもこりない男だな。//そういうの、好きだよ。", "text": "후훗…//너도 참 못 말리는 남자구나．//그런 점，좋아해．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0015"}]}
+{"id": "dialogue:b782b43ea9c0fc17", "source": "……怖気づいたのか？//ったく……勝負しないなら、//さっさと帰りな。", "text": "…겁이라도 난 거냐？//정말이지…승부할 생각이 없다면，//얼른 돌아가라고．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT11LOBE.SBN#0016"}]}

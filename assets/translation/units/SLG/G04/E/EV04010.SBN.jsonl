@@ -1,0 +1,25 @@
+{"id": "dialogue:5a03249ab3709efb", "source": "双武を動かすには、//すさまじい霊力が必要だな……//アイリス、大丈夫か？", "text": "쌍무를 움직이려면，//엄청난 영력이 필요하겠군…//아이리스，괜찮아？", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0001"}]}
+{"id": "dialogue:e901afdaaad7992c", "source": "う……うん、だいじょうぶ。//ちょっとくらいツラくても、//みんなのためだもん……", "text": "으…응，괜찮아．//조금 괴롭더라도，//모두를 위해서니까…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0002"}]}
+{"id": "dialogue:432b1cfd51da62a5", "source": "アイリス……//お兄ちゃんに教えてもらったの。", "text": "아이리스…//오빠한테 배웠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0003"}]}
+{"id": "dialogue:3fadd1df8ecc8acb", "source": "みんなのためなら……//どんなことだって//がんばれるって。", "text": "모두를 위해서라면…//어떤 일이든//힘낼 수 있다고．", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0004"}]}
+{"id": "dialogue:c60457ffc977f398", "source": "だから……アイリスがんばる！//みんなのため……//お兄ちゃんのために∈", "text": "그러니까…아이리스 힘낼 거야∈//모두를 위해서…//오빠를 위해서∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0005"}]}
+{"id": "dialogue:12d5b9e6686eb2f6", "source": "俺もみんなのためにがんばるよ。", "text": "나도 모두를 위해서 열심히 할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0007"}]}
+{"id": "dialogue:fab328c2f2394b32", "source": "俺だけのためがいいな。", "text": "나만을 위한 거면 좋겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0008"}]}
+{"id": "dialogue:985aa59d033631c1", "source": "俺もみんなのためにがんばるよ。//アイリス……//一緒に来てくれるかい？", "text": "나도 모두를 위해서 열심히 할게．//아이리스…//함께 와 줄래？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0009"}]}
+{"id": "dialogue:cd82e5da403097c1", "source": "うん、もちろんだよ！//アイリスはね、いつでも//お兄ちゃんといっしょだよ∈", "text": "응，물론이지∈//아이리스는 말이야，언제라도//오빠랑 함께 있어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0010"}]}
+{"id": "dialogue:7e2d8506379e65a2", "source": "でもね……//みんなもがんばってくれるよ！", "text": "하지만 말이야…//모두들 힘내 줄 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0011"}]}
+{"id": "dialogue:d7a1003cefcddfaf", "source": "だって……//みんなもお兄ちゃんのこと、//大好きだもん∈", "text": "그치만…//모두 오빠를//정말 좋아하니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0012"}]}
+{"id": "dialogue:bfd3e48ab1eb55ef", "source": "ありがとう、アイリス。//みんなでがんばって、//帝都を守ろうな。", "text": "고마워，아이리스．//다 함께 힘내서，//제도를 지키자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0013"}]}
+{"id": "dialogue:2337dc9cfe4b4a7f", "source": "俺だけのために、//がんばってほしいな。", "text": "나만을 위해서，//노력해 줬으면 좋겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0015"}]}
+{"id": "dialogue:b5779e7c5b4b4ecb", "source": "う～ん……//アイリス、お兄ちゃんのために//がんばってるよ。", "text": "으음…//아이리스，오빠를 위해서//열심히 하고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0016"}]}
+{"id": "dialogue:5d53b41e19de1b96", "source": "お兄ちゃんのためなら、//なんだってできるもん∈", "text": "오빠를 위해서라면，//뭐든지 할 수 있는걸∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0017"}]}
+{"id": "dialogue:49a39942d72473e6", "source": "でもね……//みんなのことも、//わすれちゃダメだよ。", "text": "하지만 말이야…//모두의 일도，//잊으면 안 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0018"}]}
+{"id": "dialogue:024fc8dbc17715f5", "source": "みんながいるから、//アイリスとお兄ちゃんが//ふたりでいられるんだからね。", "text": "모두가 있으니까，//아이리스와 오빠가//둘이서 함께 있을 수 있는 거라구．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0019"}]}
+{"id": "dialogue:91e10b59180c1f5d", "source": "アイリスの言うとおりだな……//よし、みんなのためにも……//この戦い、必ず勝とうな！", "text": "아이리스가 말한 대로네…//좋아，모두를 위해서라도…//이 싸움，반드시 이기자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0020"}]}
+{"id": "dialogue:e79d50308c6512e2", "source": "うん……//りょーかいだよ！", "text": "응…//알았어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0021"}]}
+{"id": "dialogue:ab5d6c84101f46a9", "source": "お兄ちゃん、どうしたの？//むずかしいお顔してるよ？", "text": "오빠，왜 그래？//심각한 표정을 짓고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0022"}]}
+{"id": "dialogue:7a1dabde443ff5c5", "source": "いや、恩返しとなると……//何をしてもらうのが//一番いいか、考えていたんだ。", "text": "아니，보답을 받는다고 하니…//뭘 해 달라고 하는 게//가장 좋을지 생각하고 있었어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0023"}]}
+{"id": "dialogue:27a9b6f76b21badb", "source": "あれもいいし……//いや、これか？　まてまて、//それも捨てがたいぞ……", "text": "저것도 좋고…//아니，이건가？잠깐，//그것도 포기하기 아까운데…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0024"}]}
+{"id": "dialogue:09831e3d0153e6be", "source": "はぁ……？", "text": "하아…？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0025"}]}
+{"id": "dialogue:3598b71ac3bd8f62", "source": "う～ん……//ちょっと決めきれないんで、//帝劇に帰ってから決めるよ。", "text": "으음…//도저히 못 정하겠으니，//제국극장에 돌아가서 결정할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0026"}]}
+{"id": "dialogue:53e48a25b8168d00", "source": "もう、いいよ。//お兄ちゃんの//すきにすればぁ……", "text": "이제 됐어．//오빠가//마음대로 해…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04010.SBN#0027"}]}

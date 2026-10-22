@@ -1,0 +1,27 @@
+{"id": "dialogue:01b08bc6fb011f24", "source": "この試合では、//わたしのパイが//ボーナスパイなんですよ∈", "text": "이 시합에서는，//제 패가//보너스 패예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0003"}]}
+{"id": "dialogue:a5e2d10a50107a03", "source": "今回のお題は……これ！//この中の、どれか１組を//そろえちゃってくださいね∈", "text": "이번 주제는…이거∈//이 중에서，어느 한 세트를//맞춰 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0004"}]}
+{"id": "dialogue:ea77ee4713ef1189", "source": "今度はわたしが//親をやっちゃいますね∈", "text": "이번에는 제가//딜러를 맡을게요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0005"}]}
+{"id": "dialogue:6bda3ae2687494bc", "source": "次は、//大神さんが親ですよ！", "text": "다음은，오오가미 씨가 딜러예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0006"}]}
+{"id": "dialogue:a974a6ddab3c7143", "source": "必殺攻撃", "text": "필살 공격", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0007"}]}
+{"id": "dialogue:e98fc57316832b3e", "source": "えへへ。//エリカ、大勝利ですっ∈//ブイッ！", "text": "에헤헤．//에리카，대승리예요∈//브이∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0008"}, {"id": "MINIGAME/JT08ERIC.SBN#0044"}]}
+{"id": "dialogue:7dd0dfa45dcd7564", "source": "はうぅぅ……//負けてしまいました……//大神さんのイジワル～。", "text": "하우으으…//져 버렸어요…//오오가미 씨，너무해요～．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0009"}, {"id": "MINIGAME/JT08ERIC.SBN#0045"}]}
+{"id": "dialogue:415145718b732c9b", "source": "えぇ……//終わっちゃうんですかぁ？//もう一回、勝負しましょうよ！", "text": "어…//끝나는 건가요？//한 번 더，승부해요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0010"}, {"id": "MINIGAME/JT08ERIC.SBN#0046"}]}
+{"id": "dialogue:47d85c2376cb1b28", "source": "次の対戦相手は//カンナさんです！//負けないでくださいね！", "text": "다음 대전 상대는//칸나 씨입니다∈//지지 마세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0011"}]}
+{"id": "dialogue:2e9a4d15ad88b6c5", "source": "お次はさくらさんです！//がんばっちゃってくださいね！", "text": "다음은 사쿠라 씨입니다∈//힘내 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0012"}]}
+{"id": "dialogue:da8efc31af73d591", "source": "それでは、わたしからですね！", "text": "그럼，저부터 시작할게요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0014"}]}
+{"id": "dialogue:bb8ecf0bcc56dfb3", "source": "楽しんでいただけたようで、//私どもも喜んでいます。", "text": "즐거워하신 듯하여，//저희도 기쁩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0018"}]}
+{"id": "dialogue:9308ea26ea4f772a", "source": "でも、//本当のお楽しみは、//これからや！", "text": "근데，//진짜 재미는，//이제부터다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0020"}]}
+{"id": "dialogue:02277706faf16b72", "source": "すべての役を、//揃えると……", "text": "모든 역을//갖추면…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0025"}]}
+{"id": "dialogue:d97b128891bdb165", "source": "勝ち抜き戦を//クリアーしましたので……", "text": "토너먼트를//클리어했으므로…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0028"}]}
+{"id": "dialogue:ae22077f4280574d", "source": "@c10自由対戦@c0と……", "text": "@c10자유 대전@c0와…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0030"}]}
+{"id": "dialogue:4d4d80f851654eb4", "source": "@c10パイ編集@c0が//選択できるようになりました。", "text": "@c10패 편집@c0을//선택할 수 있게 되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0032"}]}
+{"id": "dialogue:92265f3336bb2f18", "source": "こちらが、//自由対戦の選択画面です。", "text": "이곳이//자유 대전 선택 화면입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0033"}]}
+{"id": "dialogue:592596cfd90552ca", "source": "自由対戦で//全員に勝ち抜くと、//ごほうびが待っていますので……", "text": "자유 대전에서//모두를 이기고 나면，//보상이 기다리고 있으니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0034"}]}
+{"id": "dialogue:7ea513e0b1291658", "source": "全員クリアーを目指して//がんばってくださいね。", "text": "전원 클리어를 목표로//힘내세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0035"}]}
+{"id": "dialogue:9bdfdb54356bc717", "source": "これから……//勝ち抜き戦を//はじめちゃいますね！", "text": "이제부터…//토너먼트를//시작할게요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0038"}]}
+{"id": "dialogue:86a99fe36c209047", "source": "対戦者は、//全部で５人……", "text": "대전 상대는，//총 ５명…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0039"}]}
+{"id": "dialogue:42e4afe34f2a7ca5", "source": "最後まで、//楽しんでくださいね！", "text": "마지막까지，//즐겨 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0040"}]}
+{"id": "dialogue:41bdd98998d4d4f7", "source": "大神さん、//もう１回だけ……//遊んでくれませんか？", "text": "오오가미 씨，//한 번만 더…//놀아 주지 않으실래요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0041"}]}
+{"id": "dialogue:22248ee1232cda92", "source": "エリカ、はりきっちゃいます！//容赦しませんからね∈", "text": "에리카，힘낼 거예요∈//봐 주지 않을 거니까요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0042"}]}
+{"id": "dialogue:d9a2a8878fd6798f", "source": "ガーン！//や、やめちゃうんですか？//なら……また今度ですね。", "text": "뜨악∈//그，그만두시는 건가요？//그렇다면…다음에 또 뵐게요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0043"}]}
+{"id": "dialogue:2b26b5bdd9b956cd", "source": "firstclear", "text": "firstclear", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0080"}]}

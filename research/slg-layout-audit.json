@@ -1,0 +1,2296 @@
+[
+  {
+    "text": "제국화격단·화조 대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29,
+      147.03,
+      152.905,
+      172.645
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96,
+      145.7,
+      151.575,
+      171.315
+    ],
+    "artificial_gap": 1.4210854715202004e-14,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 0,
+    "field": "T"
+  },
+  {
+    "text": "오오가미 이치로",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      16.25,
+      41.25,
+      66.25,
+      91.25,
+      116.25,
+      126.5,
+      151.5,
+      176.5
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      100.0,
+      110.25,
+      135.25,
+      160.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 0,
+    "field": "N"
+  },
+  {
+    "text": "오오가미",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.81,
+    "shadow_guard": 0,
+    "positions": [
+      6.9925,
+      23.1925,
+      39.3925,
+      55.5925
+    ],
+    "natural_starts": [
+      0.0,
+      16.2,
+      32.4,
+      48.6
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 0,
+    "field": "B"
+  },
+  {
+    "text": "낭호멸각 천지신명",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      11.25,
+      33.25,
+      55.25,
+      77.25,
+      99.25,
+      106.5,
+      128.5,
+      150.5,
+      172.5
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25,
+      161.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 0,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 1,
+    "field": "T"
+  },
+  {
+    "text": "신구지 사쿠라",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      19.75,
+      44.75,
+      69.75,
+      94.75,
+      105.0,
+      130.0,
+      155.0
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 1,
+    "field": "N"
+  },
+  {
+    "text": "사쿠라",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.96,
+    "shadow_guard": 0,
+    "positions": [
+      1.84,
+      21.04,
+      40.24
+    ],
+    "natural_starts": [
+      0.0,
+      19.2,
+      38.4
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 1,
+    "field": "B"
+  },
+  {
+    "text": "파사검정 앵화천승",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      11.75,
+      33.75,
+      55.75,
+      77.75,
+      99.75,
+      107.0,
+      129.0,
+      151.0,
+      173.0
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25,
+      161.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 1,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 2,
+    "field": "T"
+  },
+  {
+    "text": "칸자키 스미레",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      20.0,
+      45.0,
+      70.0,
+      95.0,
+      105.25,
+      130.25,
+      155.25
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 2,
+    "field": "N"
+  },
+  {
+    "text": "스미레",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      2.5,
+      22.5,
+      42.5
+    ],
+    "natural_starts": [
+      0.0,
+      20.0,
+      40.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 2,
+    "field": "B"
+  },
+  {
+    "text": "칸자키풍진류 공작의 춤",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.93,
+    "shadow_guard": 3,
+    "positions": [
+      2.2712,
+      22.7312,
+      43.1912,
+      63.6512,
+      84.1112,
+      104.5712,
+      125.0312,
+      131.7737,
+      152.2337,
+      172.6937,
+      193.1538,
+      199.8963
+    ],
+    "natural_starts": [
+      0.0,
+      20.46,
+      40.92,
+      61.38,
+      81.84,
+      102.3,
+      122.76,
+      129.5025,
+      149.9625,
+      170.4225,
+      190.8825,
+      197.625
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 2,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 3,
+    "field": "T"
+  },
+  {
+    "text": "마리아 타치바나",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      16.5,
+      41.5,
+      66.5,
+      91.5,
+      101.75,
+      126.75,
+      151.75,
+      176.75
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25,
+      160.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 3,
+    "field": "N"
+  },
+  {
+    "text": "마리아",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      2.75,
+      22.75,
+      42.75
+    ],
+    "natural_starts": [
+      0.0,
+      20.0,
+      40.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 3,
+    "field": "B"
+  },
+  {
+    "text": "리디니크",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      63.75,
+      85.75,
+      107.75,
+      129.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 3,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 4,
+    "field": "T"
+  },
+  {
+    "text": "키리시마 칸나",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      28.125,
+      53.125,
+      78.125,
+      103.125,
+      128.125,
+      138.375,
+      163.375
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      100.0,
+      110.25,
+      135.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 4,
+    "field": "N"
+  },
+  {
+    "text": "칸나",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      19.0,
+      39.0
+    ],
+    "natural_starts": [
+      0.0,
+      20.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 4,
+    "field": "B"
+  },
+  {
+    "text": "공상군",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      61.25,
+      83.25,
+      105.25
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 4,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 5,
+    "field": "T"
+  },
+  {
+    "text": "아이리스",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      57.75,
+      82.75,
+      107.75,
+      132.75
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 5,
+    "field": "N"
+  },
+  {
+    "text": "아이리스",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.79,
+    "shadow_guard": 0,
+    "positions": [
+      6.82,
+      22.62,
+      38.42,
+      54.22
+    ],
+    "natural_starts": [
+      0.0,
+      15.8,
+      31.6,
+      47.4
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 5,
+    "field": "B"
+  },
+  {
+    "text": "이리스 프로디지와 장 폴",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.91,
+    "shadow_guard": 3,
+    "positions": [
+      0.7313,
+      20.7513,
+      40.7713,
+      60.7913,
+      67.3888,
+      87.4087,
+      107.4287,
+      127.4487,
+      147.4688,
+      167.4887,
+      174.0863,
+      194.1062,
+      200.7038
+    ],
+    "natural_starts": [
+      0.0,
+      20.02,
+      40.04,
+      60.06,
+      66.6575,
+      86.6775,
+      106.6975,
+      126.7175,
+      146.7375,
+      166.7575,
+      173.355,
+      193.375,
+      199.9725
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 5,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 6,
+    "field": "T"
+  },
+  {
+    "text": "이홍란",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      77.0,
+      102.0,
+      127.0
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 6,
+    "field": "N"
+  },
+  {
+    "text": "홍란",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      19.0,
+      39.0
+    ],
+    "natural_starts": [
+      0.0,
+      20.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 6,
+    "field": "B"
+  },
+  {
+    "text": "꼬마로봇 2식",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      39.25,
+      61.25,
+      83.25,
+      105.25,
+      127.25,
+      134.5,
+      148.5
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      109.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 6,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 7,
+    "field": "T"
+  },
+  {
+    "text": "솔레타 오리히메",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      17.125,
+      42.125,
+      67.125,
+      92.125,
+      102.375,
+      127.375,
+      152.375,
+      177.375
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25,
+      160.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 7,
+    "field": "N"
+  },
+  {
+    "text": "오리히메",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.81,
+    "shadow_guard": 0,
+    "positions": [
+      6.79,
+      22.99,
+      39.19,
+      55.39
+    ],
+    "natural_starts": [
+      0.0,
+      16.2,
+      32.4,
+      48.6
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 7,
+    "field": "B"
+  },
+  {
+    "text": "오소레미오",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      60.75,
+      82.75,
+      104.75,
+      126.75,
+      148.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 7,
+    "field": "A"
+  },
+  {
+    "text": "제국화격단·화조",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      1.33,
+      21.07,
+      40.81,
+      60.55,
+      80.29,
+      100.03,
+      107.55,
+      127.29
+    ],
+    "natural_starts": [
+      0.0,
+      19.74,
+      39.48,
+      59.22,
+      78.96,
+      98.7,
+      106.22,
+      125.96
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 8,
+    "field": "T"
+  },
+  {
+    "text": "레니 밀히슈트라세",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.95,
+    "shadow_guard": 3,
+    "positions": [
+      1.5,
+      25.25,
+      49.0,
+      58.7375,
+      82.4875,
+      106.2375,
+      129.9875,
+      153.7375,
+      177.4875
+    ],
+    "natural_starts": [
+      0.0,
+      23.75,
+      47.5,
+      57.2375,
+      80.9875,
+      104.7375,
+      128.4875,
+      152.2375,
+      175.9875
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 8,
+    "field": "N"
+  },
+  {
+    "text": "레니",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      18.5,
+      38.5
+    ],
+    "natural_starts": [
+      0.0,
+      20.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 8,
+    "field": "B"
+  },
+  {
+    "text": "브라우어 포겔",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      41.75,
+      63.75,
+      85.75,
+      107.75,
+      129.75,
+      137.0,
+      159.0
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G01/CMAP01.GRCT",
+    "block": 8,
+    "field": "A"
+  },
+  {
+    "text": "파리화격단·화조 부대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.88,
+    "shadow_guard": 3,
+    "positions": [
+      5.2,
+      23.68,
+      42.16,
+      60.64,
+      79.12,
+      97.6,
+      104.64,
+      123.12,
+      141.6,
+      147.1,
+      165.58,
+      184.06
+    ],
+    "natural_starts": [
+      0.0,
+      18.48,
+      36.96,
+      55.44,
+      73.92,
+      92.4,
+      99.44,
+      117.92,
+      136.4,
+      141.9,
+      160.38,
+      178.86
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 1,
+    "field": "T"
+  },
+  {
+    "text": "에리카 폰티느",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      20.0,
+      45.0,
+      70.0,
+      95.0,
+      105.25,
+      130.25,
+      155.25
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 1,
+    "field": "N"
+  },
+  {
+    "text": "에리카",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      2.75,
+      22.75,
+      42.75
+    ],
+    "natural_starts": [
+      0.0,
+      20.0,
+      40.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 1,
+    "field": "B"
+  },
+  {
+    "text": "에반질",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      82.75,
+      104.75,
+      126.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 1,
+    "field": "A"
+  },
+  {
+    "text": "파리화격단·화조 부대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.88,
+    "shadow_guard": 3,
+    "positions": [
+      5.2,
+      23.68,
+      42.16,
+      60.64,
+      79.12,
+      97.6,
+      104.64,
+      123.12,
+      141.6,
+      147.1,
+      165.58,
+      184.06
+    ],
+    "natural_starts": [
+      0.0,
+      18.48,
+      36.96,
+      55.44,
+      73.92,
+      92.4,
+      99.44,
+      117.92,
+      136.4,
+      141.9,
+      160.38,
+      178.86
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 14,
+    "field": "T"
+  },
+  {
+    "text": "글리신 블뢰메르",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      17.0,
+      42.0,
+      67.0,
+      92.0,
+      102.25,
+      127.25,
+      152.25,
+      177.25
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      85.25,
+      110.25,
+      135.25,
+      160.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 14,
+    "field": "N"
+  },
+  {
+    "text": "글리신",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      2.75,
+      22.75,
+      42.75
+    ],
+    "natural_starts": [
+      0.0,
+      20.0,
+      40.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 14,
+    "field": "B"
+  },
+  {
+    "text": "게르 상트",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      76.25,
+      98.25,
+      120.25,
+      127.5,
+      149.5
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      51.25,
+      73.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 14,
+    "field": "A"
+  },
+  {
+    "text": "파리화격단·화조 부대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.88,
+    "shadow_guard": 3,
+    "positions": [
+      5.2,
+      23.68,
+      42.16,
+      60.64,
+      79.12,
+      97.6,
+      104.64,
+      123.12,
+      141.6,
+      147.1,
+      165.58,
+      184.06
+    ],
+    "natural_starts": [
+      0.0,
+      18.48,
+      36.96,
+      55.44,
+      73.92,
+      92.4,
+      99.44,
+      117.92,
+      136.4,
+      141.9,
+      160.38,
+      178.86
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 15,
+    "field": "T"
+  },
+  {
+    "text": "코쿠리코",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      57.75,
+      82.75,
+      107.75,
+      132.75
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 15,
+    "field": "N"
+  },
+  {
+    "text": "코쿠리코",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.79,
+    "shadow_guard": 0,
+    "positions": [
+      6.82,
+      22.62,
+      38.42,
+      54.22
+    ],
+    "natural_starts": [
+      0.0,
+      15.8,
+      31.6,
+      47.4
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 15,
+    "field": "B"
+  },
+  {
+    "text": "마르슈 샤톤",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      54.5,
+      76.5,
+      98.5,
+      120.5,
+      127.75,
+      149.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      73.25,
+      95.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 15,
+    "field": "A"
+  },
+  {
+    "text": "파리화격단·화조 부대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.88,
+    "shadow_guard": 3,
+    "positions": [
+      5.2,
+      23.68,
+      42.16,
+      60.64,
+      79.12,
+      97.6,
+      104.64,
+      123.12,
+      141.6,
+      147.1,
+      165.58,
+      184.06
+    ],
+    "natural_starts": [
+      0.0,
+      18.48,
+      36.96,
+      55.44,
+      73.92,
+      92.4,
+      99.44,
+      117.92,
+      136.4,
+      141.9,
+      160.38,
+      178.86
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 16,
+    "field": "T"
+  },
+  {
+    "text": "로벨리아 카를리니",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.94,
+    "shadow_guard": 3,
+    "positions": [
+      2.565,
+      26.065,
+      49.565,
+      73.065,
+      96.565,
+      106.2,
+      129.7,
+      153.2,
+      176.7
+    ],
+    "natural_starts": [
+      0.0,
+      23.5,
+      47.0,
+      70.5,
+      94.0,
+      103.635,
+      127.135,
+      150.635,
+      174.135
+    ],
+    "artificial_gap": 1.4210854715202004e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 16,
+    "field": "N"
+  },
+  {
+    "text": "로벨리아",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.78,
+    "shadow_guard": 0,
+    "positions": [
+      7.24,
+      22.84,
+      38.44,
+      54.04
+    ],
+    "natural_starts": [
+      0.0,
+      15.6,
+      31.2,
+      46.8
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 16,
+    "field": "B"
+  },
+  {
+    "text": "카르도 프리지오네",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      12.5,
+      34.5,
+      56.5,
+      78.5,
+      85.75,
+      107.75,
+      129.75,
+      151.75,
+      173.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      73.25,
+      95.25,
+      117.25,
+      139.25,
+      161.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 16,
+    "field": "A"
+  },
+  {
+    "text": "파리화격단·화조 부대장",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      80.0
+    ],
+    "horizontal_scale": 0.88,
+    "shadow_guard": 3,
+    "positions": [
+      5.2,
+      23.68,
+      42.16,
+      60.64,
+      79.12,
+      97.6,
+      104.64,
+      123.12,
+      141.6,
+      147.1,
+      165.58,
+      184.06
+    ],
+    "natural_starts": [
+      0.0,
+      18.48,
+      36.96,
+      55.44,
+      73.92,
+      92.4,
+      99.44,
+      117.92,
+      136.4,
+      141.9,
+      160.38,
+      178.86
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 17,
+    "field": "T"
+  },
+  {
+    "text": "키타오지 하나비",
+    "width": 216,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      17.5,
+      42.5,
+      67.5,
+      92.5,
+      117.5,
+      127.75,
+      152.75,
+      177.75
+    ],
+    "natural_starts": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      100.0,
+      110.25,
+      135.25,
+      160.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 17,
+    "field": "N"
+  },
+  {
+    "text": "하나비",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      40.0
+    ],
+    "horizontal_scale": 0.95,
+    "shadow_guard": 0,
+    "positions": [
+      1.7625,
+      20.7625,
+      39.7625
+    ],
+    "natural_starts": [
+      0.0,
+      19.0,
+      38.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 17,
+    "field": "B"
+  },
+  {
+    "text": "키타오지 하나비 세 번째 춤 설월풍화",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.54,
+    "shadow_guard": 3,
+    "positions": [
+      20.675,
+      32.555,
+      44.435,
+      56.315,
+      68.195,
+      72.11,
+      83.99,
+      95.87,
+      107.75,
+      111.665,
+      123.545,
+      127.46,
+      139.34,
+      151.22,
+      155.135,
+      167.015,
+      170.93,
+      182.81,
+      194.69,
+      206.57
+    ],
+    "natural_starts": [
+      0.0,
+      11.88,
+      23.76,
+      35.64,
+      47.52,
+      51.435,
+      63.315,
+      75.195,
+      87.075,
+      90.99,
+      102.87,
+      106.785,
+      118.665,
+      130.545,
+      134.46,
+      146.34,
+      150.255,
+      162.135,
+      174.015,
+      185.895
+    ],
+    "artificial_gap": 1.4210854715202004e-14,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 17,
+    "field": "A"
+  },
+  {
+    "text": "마조기병 시카미",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      31.5,
+      53.5,
+      75.5,
+      97.5,
+      119.5,
+      126.75,
+      148.75,
+      170.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G02/CMAP02.GRCT",
+    "block": 6,
+    "field": "T"
+  },
+  {
+    "text": "시카미",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      48.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 0,
+    "positions": [
+      6.75,
+      26.75,
+      46.75
+    ],
+    "natural_starts": [
+      0.0,
+      20.0,
+      40.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G02/CMAP02.GRCT",
+    "block": 6,
+    "field": "B"
+  },
+  {
+    "text": "천고불역 지신의 분노",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.98,
+    "shadow_guard": 3,
+    "positions": [
+      12.115,
+      33.675,
+      55.235,
+      76.795,
+      98.355,
+      105.46,
+      127.02,
+      148.58,
+      170.14,
+      177.245,
+      198.805
+    ],
+    "natural_starts": [
+      0.0,
+      21.56,
+      43.12,
+      64.68,
+      86.24,
+      93.345,
+      114.905,
+      136.465,
+      158.025,
+      165.13,
+      186.69
+    ],
+    "artificial_gap": 2.842170943040401e-14,
+    "source": "SLG/G02/CMAP02.GRCT",
+    "block": 6,
+    "field": "A"
+  },
+  {
+    "text": "마조기병 하쿠시키",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 0.9,
+    "shadow_guard": 3,
+    "positions": [
+      1.7,
+      21.5,
+      41.3,
+      61.1,
+      80.9,
+      87.425,
+      107.225,
+      127.025,
+      146.825
+    ],
+    "natural_starts": [
+      0.0,
+      19.8,
+      39.6,
+      59.4,
+      79.2,
+      85.725,
+      105.525,
+      125.325,
+      145.125
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 13,
+    "field": "T"
+  },
+  {
+    "text": "하쿠시키",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      48.0
+    ],
+    "horizontal_scale": 0.8,
+    "shadow_guard": 0,
+    "positions": [
+      2.2,
+      18.2,
+      34.2,
+      50.2
+    ],
+    "natural_starts": [
+      0.0,
+      16.0,
+      32.0,
+      48.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 13,
+    "field": "B"
+  },
+  {
+    "text": "천고불역 천신의 위엄",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      9.75,
+      31.75,
+      53.75,
+      75.75,
+      97.75,
+      105.0,
+      127.0,
+      149.0,
+      171.0,
+      178.25,
+      200.25
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25,
+      161.25,
+      168.5,
+      190.5
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G03/CMAP03.GRCT",
+    "block": 13,
+    "field": "A"
+  },
+  {
+    "text": "공중전함 미카사",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      31.5,
+      53.5,
+      75.5,
+      97.5,
+      119.5,
+      126.75,
+      148.75,
+      170.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 0,
+    "field": "N"
+  },
+  {
+    "text": "동력 파이프",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      53.0,
+      75.0,
+      97.0,
+      104.25,
+      126.25,
+      148.25
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      51.25,
+      73.25,
+      95.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 0,
+    "field": "P"
+  },
+  {
+    "text": "공중전함 미카사",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      31.5,
+      53.5,
+      75.5,
+      97.5,
+      119.5,
+      126.75,
+      148.75,
+      170.75
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 1,
+    "field": "N"
+  },
+  {
+    "text": "부포 제어반",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      53.25,
+      75.25,
+      97.25,
+      104.5,
+      126.5,
+      148.5
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      51.25,
+      73.25,
+      95.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 1,
+    "field": "P"
+  },
+  {
+    "text": "오오쿠보 나가야스",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      4.5,
+      27.5,
+      50.5,
+      73.5,
+      96.5,
+      104.75,
+      127.75,
+      150.75,
+      173.75
+    ],
+    "natural_starts": [
+      0.0,
+      23.0,
+      46.0,
+      69.0,
+      92.0,
+      100.25,
+      123.25,
+      146.25,
+      169.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 2,
+    "field": "N"
+  },
+  {
+    "text": "나가야스",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      48.0
+    ],
+    "horizontal_scale": 0.77,
+    "shadow_guard": 0,
+    "positions": [
+      1.8,
+      17.2,
+      32.6,
+      48.0
+    ],
+    "natural_starts": [
+      0.0,
+      15.4,
+      30.8,
+      46.2
+    ],
+    "artificial_gap": 3.552713678800501e-15,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 2,
+    "field": "B"
+  },
+  {
+    "text": "천고불역 오행영기",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      10.0,
+      32.0,
+      54.0,
+      76.0,
+      98.0,
+      105.25,
+      127.25,
+      149.25,
+      171.25
+    ],
+    "natural_starts": [
+      0.0,
+      22.0,
+      44.0,
+      66.0,
+      88.0,
+      95.25,
+      117.25,
+      139.25,
+      161.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G04/CMAP04.GRCT",
+    "block": 2,
+    "field": "A"
+  },
+  {
+    "text": "오오쿠보 나가야스",
+    "width": 208,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      4.5,
+      27.5,
+      50.5,
+      73.5,
+      96.5,
+      104.75,
+      127.75,
+      150.75,
+      173.75
+    ],
+    "natural_starts": [
+      0.0,
+      23.0,
+      46.0,
+      69.0,
+      92.0,
+      100.25,
+      123.25,
+      146.25,
+      169.25
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G05/CMAP05.GRCT",
+    "block": 0,
+    "field": "N"
+  },
+  {
+    "text": "나가야스",
+    "width": 72,
+    "height": 24,
+    "cuts": [
+      48.0
+    ],
+    "horizontal_scale": 0.77,
+    "shadow_guard": 0,
+    "positions": [
+      1.8,
+      17.2,
+      32.6,
+      48.0
+    ],
+    "natural_starts": [
+      0.0,
+      15.4,
+      30.8,
+      46.2
+    ],
+    "artificial_gap": 3.552713678800501e-15,
+    "source": "SLG/G05/CMAP05.GRCT",
+    "block": 0,
+    "field": "B"
+  },
+  {
+    "text": "없음",
+    "width": 224,
+    "height": 24,
+    "cuts": [
+      128.0
+    ],
+    "horizontal_scale": 1.0,
+    "shadow_guard": 3,
+    "positions": [
+      6.25,
+      28.25
+    ],
+    "natural_starts": [
+      0.0,
+      22.0
+    ],
+    "artificial_gap": 0.0,
+    "source": "SLG/G05/CMAP05.GRCT",
+    "block": 0,
+    "field": "A"
+  }
+]

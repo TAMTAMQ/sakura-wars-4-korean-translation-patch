@@ -1,0 +1,7 @@
+{"id": "dialogue:21adee9793d693df", "source": "やる気まぁまぁ", "text": "의욕 그럭저럭", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0000"}]}
+{"id": "dialogue:1bd5921efa42979c", "source": "やる気なし…", "text": "의욕 없음…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0001"}]}
+{"id": "dialogue:b5d394941bbca0cc", "source": "やる気十分！", "text": "의욕 충만∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0002"}]}
+{"id": "dialogue:d50098f53dbe1112", "source": "エラーぴょん", "text": "에러뿅", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0003"}]}
+{"id": "dialogue:5f68ddb728adb58a", "source": "華撃団組み合わせが不正です。担当者へ連絡して下さい", "text": "화격단 조합이 잘못되었습니다．담당자에게 연락해 주세요", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0004"}]}
+{"id": "dialogue:0e862ee7790d7120", "source": "最終戦闘参加人数が多すぎます。担当者へ連絡して下さい", "text": "최종 전투 참가 인원이 너무 많습니다．담당자에게 연락하세요", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0005"}]}
+{"id": "dialogue:dd1e021fd4e10856", "source": "最終戦闘参加人数が足りません。担当者へ連絡して下さい", "text": "최종 전투 참가 인원이 부족합니다．담당자에게 연락해 주세요", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/EYECATCH/EYECATCH.BIN#0006"}]}

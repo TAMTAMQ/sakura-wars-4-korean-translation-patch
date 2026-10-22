@@ -1,0 +1,240 @@
+{
+  "dcp_sha256": "313ec6929f4ebc5fa0d809cc79fa0e20720176d0ea385b31d9812b2c5598862a",
+  "changed_rows_verified": 36,
+  "changed_files": [
+    "ADVDATA/LIPSYNC1.LIP",
+    "ADVDATA/LIPSYNC2.LIP",
+    "ADVDATA/LIPSYNC3.LIP",
+    "ADVDATA/LIPSYNC4.LIP",
+    "ADVDATA/SCRIPT/S0130.SBX",
+    "ADVDATA/SCRIPT/S0210.SBX",
+    "ADVDATA/SCRIPT/S0220.SBX",
+    "ADVDATA/SCRIPT/S0240.SBX",
+    "ADVDATA/SCRIPT/S0310.SBX",
+    "ADVDATA/SCRIPT/S0320.SBX",
+    "ADVDATA/SCRIPT/S0410.SBX",
+    "ADVDATA/SCRIPT/S0510.SBX",
+    "MINIGAME/JT15KAYA.SBN",
+    "SLG/G04/E/EV04015.SBN"
+  ],
+  "outside_text_changes": 0,
+  "entries": [
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#0665",
+      "encoded_bytes": 36,
+      "capacity": 40,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#1169",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0338",
+      "encoded_bytes": 58,
+      "capacity": 62,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0358",
+      "encoded_bytes": 46,
+      "capacity": 54,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0967",
+      "encoded_bytes": 66,
+      "capacity": 68,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#1673",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#1993",
+      "encoded_bytes": 30,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#2112",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#0621",
+      "encoded_bytes": 32,
+      "capacity": 38,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#0819",
+      "encoded_bytes": 34,
+      "capacity": 36,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1222",
+      "encoded_bytes": 54,
+      "capacity": 64,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1292",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1827",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0140",
+      "encoded_bytes": 28,
+      "capacity": 38,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0227",
+      "encoded_bytes": 64,
+      "capacity": 78,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0245",
+      "encoded_bytes": 60,
+      "capacity": 60,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#1404",
+      "encoded_bytes": 28,
+      "capacity": 28,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0130.SBX#2662",
+      "encoded_bytes": 38,
+      "capacity": 42,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0181",
+      "encoded_bytes": 30,
+      "capacity": 48,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0641",
+      "encoded_bytes": 58,
+      "capacity": 66,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0675",
+      "encoded_bytes": 46,
+      "capacity": 54,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0220.SBX#2484",
+      "encoded_bytes": 66,
+      "capacity": 66,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0240.SBX#0151",
+      "encoded_bytes": 32,
+      "capacity": 40,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#1513",
+      "encoded_bytes": 56,
+      "capacity": 62,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#1745",
+      "encoded_bytes": 42,
+      "capacity": 50,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#2288",
+      "encoded_bytes": 50,
+      "capacity": 60,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0320.SBX#1882",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1287",
+      "encoded_bytes": 70,
+      "capacity": 76,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1446",
+      "encoded_bytes": 50,
+      "capacity": 58,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1476",
+      "encoded_bytes": 44,
+      "capacity": 54,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1478",
+      "encoded_bytes": 64,
+      "capacity": 76,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1643",
+      "encoded_bytes": 60,
+      "capacity": 60,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2080",
+      "encoded_bytes": 28,
+      "capacity": 38,
+      "verified": true
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0510.SBX#1381",
+      "encoded_bytes": 20,
+      "capacity": 30,
+      "verified": true
+    },
+    {
+      "id": "MINIGAME/JT15KAYA.SBN#0007",
+      "encoded_bytes": 68,
+      "capacity": 82,
+      "verified": true
+    },
+    {
+      "id": "SLG/G04/E/EV04015.SBN#0024",
+      "encoded_bytes": 34,
+      "capacity": 40,
+      "verified": true
+    }
+  ],
+  "runtime_verified": false
+}

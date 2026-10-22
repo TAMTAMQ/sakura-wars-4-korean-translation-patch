@@ -1,0 +1,13 @@
+{"id": "dialogue:75ef3b504b7855fe", "source": "この試合では//私のパイがボーナスパイだ。", "text": "이 시합에서는//내 패가 보너스 패다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0003"}]}
+{"id": "dialogue:ea195e3ad46abcda", "source": "今回のお題はこれだ。//この中の、どれか１組を//そろえてもらおう。", "text": "이번 주제는 이것이다．//이 중에서，어느 한 세트를//맞춰 보도록．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0004"}]}
+{"id": "dialogue:bb886d13a865f974", "source": "ふふふ……//今度は、私が親だな。", "text": "후후후…//이번에는，내가 딜러다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0005"}]}
+{"id": "dialogue:bc89967a5f0445fb", "source": "今度は、//貴公が親だ。", "text": "이번에는，//귀공이 딜러다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0006"}]}
+{"id": "dialogue:9fc10c052c3e49ed", "source": "まだまだ……甘いな。//その程度の腕では、//私を倒すことなどできぬぞ。", "text": "아직 멀었군…//그 정도 실력으로는//나를 쓰러뜨릴 수 없다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0007"}, {"id": "MINIGAME/JT09GLYC.SBN#0018"}]}
+{"id": "dialogue:2b1937c034a3f9be", "source": "見事だ！//貴公の勝利を称えよう。", "text": "훌륭하다∈//귀공의 승리를 치하하지．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0008"}, {"id": "MINIGAME/JT09GLYC.SBN#0019"}]}
+{"id": "dialogue:73ff85e844655580", "source": "うむ、なかなか楽しめたぞ。//もう１度手合わせ願いたいな。", "text": "음，꽤 즐거웠다．//한 번 더 대련하고 싶군．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0009"}, {"id": "MINIGAME/JT09GLYC.SBN#0020"}]}
+{"id": "dialogue:ce37da5174a190e7", "source": "最後にふさわしい//相手が待っておるぞ……//さあ、行ってこい！", "text": "마지막에 걸맞은//상대가 기다리고 있다…//자，가 보거라∈", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0010"}]}
+{"id": "dialogue:821e5912739bb22b", "source": " 最後は、//あたし、真宮寺さくらが//お相手します……", "text": "마지막은，//저，신구지 사쿠라가//상대해 드리겠습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0011"}]}
+{"id": "dialogue:8f47330d2a78982e", "source": " 手加減しませんから……//覚悟してください！", "text": "봐 주지 않을 테니까…//각오하세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0012"}]}
+{"id": "dialogue:e3fb05af91bb6cf9", "source": "この程度であきらめるな。//チャンスをやるゆえ……//もう一度かかってくるがよい。", "text": "이 정도 일로 포기하지 마라．//기회를 주는 것이니…//다시 한번 덤벼 보거라．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0015"}]}
+{"id": "dialogue:79111603f1d2c3a1", "source": "うむ、//その心意気……//しかと受け止めたぞ！", "text": "음，//그 각오…//확실히 받아들였다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0016"}]}
+{"id": "dialogue:dab0a7031bb9f8ab", "source": "そうか……//しかたあるまい。//決着は、また今度だな。", "text": "그렇군…//어쩔 수 없겠군．//결판은，다음에 다시 내자．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT09GLYC.SBN#0017"}]}

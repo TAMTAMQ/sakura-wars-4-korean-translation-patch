@@ -1,0 +1,182 @@
+[
+  {
+    "unit": "dialogue:657c5f807cd3f076",
+    "source": "筑前煮",
+    "before": {
+      "id": "dialogue:657c5f807cd3f076",
+      "source": "筑前煮",
+      "text": "츠쿠젠니",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1232"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1235"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1244"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1248"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:657c5f807cd3f076",
+      "source": "筑前煮",
+      "text": "치쿠젠니",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1232"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1235"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1244"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1248"
+        }
+      ]
+    },
+    "reason": "동일 음식의 본편 음성·일반 대사에 있는 ちくぜんに 독음과 퀴즈 표기 통일."
+  },
+  {
+    "unit": "dialogue:cbff43f7110a011e",
+    "source": "雷門から出撃する",
+    "before": {
+      "id": "dialogue:cbff43f7110a011e",
+      "source": "雷門から出撃する",
+      "text": "라이몬에서 출격한다",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1607"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cbff43f7110a011e",
+      "source": "雷門から出撃する",
+      "text": "카미나리몬에서 출격",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1607"
+        }
+      ]
+    },
+    "reason": "雷門 독음 오역 교정. 센소지 공식 안내 https://www.senso-ji.jp/guide/guide01.html 의 かみなりもん 표기 대조."
+  },
+  {
+    "unit": "dialogue:ca5af8acb2ba8f69",
+    "source": "天武から光武・改へ//乗りかえることになった//原因は何だったでしょう？",
+    "before": {
+      "id": "dialogue:ca5af8acb2ba8f69",
+      "source": "天武から光武・改へ//乗りかえることになった//原因は何だったでしょう？",
+      "text": "천무에서 광무・改로//갈아타게 된//원인은 무엇이었을까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1712"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ca5af8acb2ba8f69",
+      "source": "天武から光武・改へ//乗りかえることになった//原因は何だったでしょう？",
+      "text": "천무에서 광무・개로//갈아타게 된//원인은 무엇이었을까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1712"
+        }
+      ]
+    },
+    "reason": "기체명에 남은 일본어 改를 한국어 표기로 교정."
+  },
+  {
+    "unit": "dialogue:82e9d8aab84b7b52",
+    "source": "すみれの//光武・改の必殺攻撃は//次のうち、どれでしょう？",
+    "before": {
+      "id": "dialogue:82e9d8aab84b7b52",
+      "source": "すみれの//光武・改の必殺攻撃は//次のうち、どれでしょう？",
+      "text": "스미레의//광무・改 필살 공격은//다음 중 어느 것일까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1772"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:82e9d8aab84b7b52",
+      "source": "すみれの//光武・改の必殺攻撃は//次のうち、どれでしょう？",
+      "text": "스미레의//광무・개 필살 공격은//다음 중 어느 것일까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1772"
+        }
+      ]
+    },
+    "reason": "기체명에 남은 일본어 改를 한국어 표기로 교정."
+  },
+  {
+    "unit": "dialogue:e023661ad5632cde",
+    "source": "踊り子が忙しくなったため",
+    "before": {
+      "id": "dialogue:e023661ad5632cde",
+      "source": "踊り子が忙しくなったため",
+      "text": "무희가 바빠졌기 때문에",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1844"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e023661ad5632cde",
+      "source": "踊り子が忙しくなったため",
+      "text": "무희 일이 바빠져서",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1844"
+        }
+      ]
+    },
+    "reason": "무희 본인이 아니라 무희 일이 바빠졌다는 이유를 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:0f0a162bbf84994b",
+    "source": "中庭",
+    "before": {
+      "id": "dialogue:0f0a162bbf84994b",
+      "source": "中庭",
+      "text": "중정",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1854"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0f0a162bbf84994b",
+      "source": "中庭",
+      "text": "안뜰",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1854"
+        }
+      ]
+    },
+    "reason": "본편과 같은 장소명으로 통일."
+  }
+]

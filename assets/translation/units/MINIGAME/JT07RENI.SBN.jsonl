@@ -1,0 +1,11 @@
+{"id": "dialogue:40cc3b6695f66aa6", "source": "この試合は……//ボクのパイがボーナスパイだよ。", "text": "이 시합은…//내 패가 보너스 패야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0003"}]}
+{"id": "dialogue:0a75081017f886d4", "source": "今回のお題……//この中の、どれか１組を//そろえることが条件……", "text": "이번 주제는…//이 중에서 어느 한 세트를//맞추는 것이 조건…", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0004"}]}
+{"id": "dialogue:c9ef0109e32e58cd", "source": "今度は、//ボクが親だ……", "text": "이번에는，//내가 딜러야…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0005"}]}
+{"id": "dialogue:a8409284972c1e87", "source": "次は、//隊長が親だよ……", "text": "다음은，//대장이 딜러야…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0006"}]}
+{"id": "dialogue:a25815e267b551fa", "source": "ボクの勝ちだ……", "text": "내가 이겼어…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0007"}, {"id": "MINIGAME/JT07RENI.SBN#0016"}]}
+{"id": "dialogue:15467b402f7841f0", "source": "いい戦いだった……//さすがは隊長だね。", "text": "좋은 싸움이었어…//역시 대장이야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0008"}, {"id": "MINIGAME/JT07RENI.SBN#0017"}]}
+{"id": "dialogue:623463263a583597", "source": "楽しかった、隊長。//再戦を許可してほしい。", "text": "즐거웠어，대장．//재전을 허가해 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0009"}, {"id": "MINIGAME/JT07RENI.SBN#0018"}]}
+{"id": "dialogue:1dfcf0f805cf222a", "source": "次の相手は、グリシーヌ。//手強いだろうけど……//しっかりね。", "text": "다음 상대는 글리신．//강하겠지만…//힘내，대장．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0010"}]}
+{"id": "dialogue:33c3f16ca520eaff", "source": "再戦する？//ボクの用意は……//もうできているよ。", "text": "재전할래？//내 준비는…//이미 끝났어．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0013"}]}
+{"id": "dialogue:7b8fd047e6eccdd3", "source": "……了解。//次も……負けないからね。", "text": "…알았어．//다음에도…지지 않을 거니까．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0014"}]}
+{"id": "dialogue:c0a61240bbad5de1", "source": "休養も大事だ。//またね、隊長……", "text": "휴식도 중요해．//또 봐，대장…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT07RENI.SBN#0015"}]}

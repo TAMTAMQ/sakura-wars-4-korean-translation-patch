@@ -1,0 +1,12 @@
+{"id": "dialogue:b1714f1cf4304ef5", "source": "この試合では、//ウチのパイが//ボーナスパイやで！", "text": "이번 시합에서는，//내 패가//보너스 패다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0003"}]}
+{"id": "dialogue:d39b66ac20c4c029", "source": "今回のお題はこれや∈//この中の、どれか１組を//そろえてや！", "text": "이번 주제는 이기다∈//이 중에서，어느 한 세트를//맞춰 봐라", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0004"}]}
+{"id": "dialogue:dba3b32b31093879", "source": "今度は、ウチが親やな。", "text": "이번엔，내가 딜러다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0005"}]}
+{"id": "dialogue:63f8e33df1251cb4", "source": "次は、//大神はんが親やで。", "text": "다음은，//오오가미 씨가 딜러다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0006"}]}
+{"id": "dialogue:15c826272b18c67a", "source": "へっへへーん∈//勝たせてもろたで。//まいどおおきに！", "text": "헤헤～∈//내가 이겼다//고맙데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0007"}, {"id": "MINIGAME/JT05KORA.SBN#0017"}]}
+{"id": "dialogue:48c25984a286b762", "source": "げげっ……//ウ、ウチの負けかいな〓", "text": "게겟…//우，내가 졌나〓", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0008"}, {"id": "MINIGAME/JT05KORA.SBN#0018"}]}
+{"id": "dialogue:beef3557275cac3a", "source": "こりゃ計算ミスやわ。", "text": "이건 계산 착오네．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0009"}, {"id": "MINIGAME/JT05KORA.SBN#0019"}]}
+{"id": "dialogue:c48cc8c35240c348", "source": "あちゃ～　引き分けかいな……//大神はん。//どや、もっかいやらへんか？", "text": "아차～무승부가…//오오가미 씨．//어떻노，한 판 더 안 할래？", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0010"}, {"id": "MINIGAME/JT05KORA.SBN#0020"}]}
+{"id": "dialogue:981232210177e63a", "source": "次の相手は……//すみれはんやで……//ここからが本番やね！", "text": "다음 상대는…//스미레 씨다…//이제부터가 진짜다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0011"}]}
+{"id": "dialogue:68cab693f7a5dbdf", "source": "大神はん、この程度で//終わりやないやろな？", "text": "오오가미 씨，이 정도로//끝나는 건 아니제？", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0014"}]}
+{"id": "dialogue:db04d5d571c1065f", "source": "そうこな！//よっしゃ、手加減せぇへんで！", "text": "그래야제∈//좋다，안 봐줄 끼다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0015"}]}
+{"id": "dialogue:c2f06635870a9e4e", "source": "なんや、残念やな……//また対戦してや。", "text": "뭐꼬，아쉽네…//다음에 또 하자．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT05KORA.SBN#0016"}]}

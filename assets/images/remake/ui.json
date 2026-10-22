@@ -1047,15 +1047,34 @@
    "texture": 0,
    "ops": [
     {
-     "op": "inpaint",
+     "op": "extend_vertical",
+     "rect": [
+      70,
+      0,
+      136,
+      132
+     ],
+     "at": 64,
+     "extra": 56
+    },
+    {
+     "op": "clear_panel",
      "rect": [
       76,
       26,
       116,
-      100
+      164
      ],
-     "select": "all",
-     "radius": 3
+     "edge_scan": [
+      108,
+      136
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      85
+     ]
     },
     {
      "op": "inpaint",
@@ -1074,12 +1093,12 @@
       76,
       24,
       116,
-      102
+      166
      ],
      "text": "아사쿠사",
      "font": "serif",
      "weight": 700,
-     "size": 17,
+     "size": 28,
      "fill": [
       238,
       238,

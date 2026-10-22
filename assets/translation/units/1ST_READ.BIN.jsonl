@@ -1,0 +1,208 @@
+{"id": "dialogue:74f8b50ffb0deb99", "source": "@x @c15 @fs24,24 @fm24,0 @lm0,24 リップシンクパックを選んで下さい：", "text": "@x@c15@fs24,24@fm24,0@lm0,24립싱크팩을 선택해 주세요：", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0000"}]}
+{"id": "dialogue:00bdd0472ec6758c", "source": "（携帯キネマトロンの//　通信を切る時は……//　手元の青いボタンだったな）", "text": "（휴대용 키네마트론의//통신을 끊을 때는…//손에 쥔 파란 버튼이었지）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0001"}]}
+{"id": "dialogue:1d1a84ee5af03578", "source": "バッファが取れない", "text": "버퍼를 확보할 수 없음", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0002"}]}
+{"id": "dialogue:597a80237c94958e", "source": "アイテム", "text": "아이템", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0003"}]}
+{"id": "dialogue:5b717728bbead381", "source": "オプション", "text": "　　옵션", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0004"}]}
+{"id": "dialogue:8fc7f899161b2076", "source": "　戻　る　", "text": "　뒤로가기", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0005"}]}
+{"id": "dialogue:2d69dd8f9588f2dd", "source": "パッド使用不可", "text": "패드 사용 불가", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0006"}]}
+{"id": "dialogue:e88bd21f6f12f3d0", "source": "オプション画面呼び出し失敗", "text": "옵션 화면 호출 실패", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0007"}]}
+{"id": "dialogue:84a41aa631466fee", "source": "アイテム表示は１個まで", "text": "아이템 표시는 １개까지", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0008"}]}
+{"id": "dialogue:a1161b452ad94100", "source": "現在位置から再開", "text": "현재 위치에서 재개", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0009"}]}
+{"id": "dialogue:1821baffd12b85b0", "source": "第１幕導入(1)", "text": "제１막 도입（１）", "review": "번역 검수", "occurrences": [{"id": "1ST_READ.BIN#0010"}]}
+{"id": "dialogue:cfbe3e5efd7dc1fd", "source": "第１幕前半", "text": "제１막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0011"}]}
+{"id": "dialogue:d2d8e354c4374b89", "source": "第１幕後半", "text": "제１막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0012"}]}
+{"id": "dialogue:f9e26397e9359df1", "source": "第１幕戦闘(2)", "text": "제１막 전투（２）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0013"}]}
+{"id": "dialogue:64980a1386d2861e", "source": "第１幕戦闘後", "text": "제１막 전투 후", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0014"}]}
+{"id": "dialogue:ae4f4d415fc98d9c", "source": "第２幕前半", "text": "제２막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0015"}]}
+{"id": "dialogue:606aafd1d669d518", "source": "第２幕中盤", "text": "제２막 중반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0016"}]}
+{"id": "dialogue:419b03ea93983aac", "source": "第２幕戦闘(3)", "text": "제２막 전투（３）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0017"}]}
+{"id": "dialogue:049b1145ab321158", "source": "第２幕戦闘後", "text": "제２막 전투 후", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0018"}]}
+{"id": "dialogue:18f929335f0524d4", "source": "第２幕後半", "text": "제２막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0019"}]}
+{"id": "dialogue:98eb4febf144bc1e", "source": "第３幕前半", "text": "제３막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0020"}]}
+{"id": "dialogue:40d00b0302706f16", "source": "第３幕中盤", "text": "제３막 중반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0021"}]}
+{"id": "dialogue:224459fc0c3a0be5", "source": "第３幕戦闘1(4)", "text": "제３막 전투 １（４）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0022"}]}
+{"id": "dialogue:ba847fd36a398484", "source": "第３幕戦闘中", "text": "제３막 전투 중", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0023"}]}
+{"id": "dialogue:f51106e8d7c9c71d", "source": "第３幕戦闘2(5)", "text": "제３막 전투 ２（５）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0024"}]}
+{"id": "dialogue:1b30ae9c11d2d082", "source": "第３幕後半", "text": "제３막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0025"}]}
+{"id": "dialogue:02de24601572c223", "source": "最終幕〜Ending", "text": "최종막～Ｅｎｄｉｎｇ", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0026"}]}
+{"id": "dialogue:b9205fad7ad8225d", "source": "おまけモード", "text": "보너스 모드", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0027"}]}
+{"id": "dialogue:086317e22e9add20", "source": "ADVチェッカ", "text": "ＡＤＶ체커", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0028"}]}
+{"id": "dialogue:2066d6bf9b2a08cb", "source": "シーケンス", "text": "시퀀스", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0029"}]}
+{"id": "dialogue:c4e84b8890127484", "source": "デバッグON", "text": "디버그 ＯＮ", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0030"}]}
+{"id": "dialogue:d52ba557a3d26daf", "source": "ポートＡのコントローラの//拡張ソケット１に、液晶画面のある//メモリーカードがありません。//このままゲームを続ける場合、//液晶画面を利用した一部の//ゲーム的な演出が省略されます。", "text": "포트 Ａ컨트롤러의//확장 소켓１에 액정 화면이//있는 메모리 카드가 없습니다．//이대로 게임을 계속하면//액정 화면을 이용한 일부//연출이 생략됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0031"}]}
+{"id": "dialogue:caf31a610677dc39", "source": "コントローラに//メモリーカードが挿されていません。////最低９ブロックの空き容量がある//メモリーカードがないと、//ゲームデータを保存できません。", "text": "컨트롤러에//메모리 카드가 없습니다．////최소 ９블록 여유 공간이 있는//카드가 아니면//데이터를 저장할 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0032"}]}
+{"id": "dialogue:3673a90da5e9f660", "source": "ご利用のメモリーカードには、//ゲームデータを保存するための//充分な空き容量がありません。////保存には最低９ブロックの//空き容量が必要です。", "text": "이 메모리 카드에는//게임 데이터를 저장할//충분한 공간이 없습니다．////저장하려면 최소 ９블록의//공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0033"}]}
+{"id": "dialogue:c36c1cbbfaa0d869", "source": "システムファイルを使わずに//ゲームを開始しますか？////（システムファイルを利用した//　ゲーム中の一部の機能が//　使用できなくなります）", "text": "시스템 파일 없이//게임을 시작하시겠습니까？////（시스템 파일을 이용한//게임 중 일부 기능을//사용할 수 없게 됩니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0034"}]}
+{"id": "dialogue:a81a6cc9b5aaab04", "source": "メモリーカードの//抜きさしが行われました。//チェック中です。//しばらくお待ちください。", "text": "메모리 카드가//분리되거나 다시 꽂혔습니다．//확인 중입니다．//잠시만 기다려 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0035"}]}
+{"id": "dialogue:9ac849ee863cb412", "source": "チェック中です。//しばらくお待ちください。", "text": "확인 중입니다．//잠시만 기다려 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0036"}]}
+{"id": "dialogue:40cdfac9f3ce62fd", "source": "メモリーカードがありません。//コントローラにメモリーカードを//挿してください。//システムファイルの保存には、//３ブロック必要です。", "text": "메모리 카드가 없습니다．//컨트롤러에 메모리 카드를//꽂아 주세요．//시스템 파일 저장에는//３블록이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0037"}]}
+{"id": "dialogue:c544699b2d26811d", "source": "メモリーカードがありません。//システムファイルの選択を//終了して、システムファイルを//使わずにはじめますか？", "text": "메모리 카드가 없습니다．//시스템 파일 선택을//끝내고 파일 없이//시작하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0038"}]}
+{"id": "dialogue:2c4084a5c1281d1d", "source": "システムファイルがありません。//このメモリーカードに、//システムファイルを//作成してもよろしいですか？//", "text": "시스템 파일이 없습니다．//이 메모리 카드에//파일을 만들어도//되겠습니까？//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0039"}]}
+{"id": "dialogue:8ac8d7de4428f7b9", "source": "システムファイルを//保存しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "시스템 파일을//저장하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0040"}]}
+{"id": "dialogue:afbe2aab4cfb58f5", "source": "システムファイルを//正常に保存できませんでした。", "text": "시스템 파일을//정상적으로 저장하지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0041"}]}
+{"id": "dialogue:a342493b5ed6a2fe", "source": "システムファイルの作成が//正常に終了しました。", "text": "시스템 파일 작성이//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0042"}]}
+{"id": "dialogue:84c14a74dc90d089", "source": "メニューから「データの合体」//を選択すると、//サクラ大戦、サクラ大戦２//およびサクラ大戦３のデータを//合体させることができます。", "text": "메뉴에서 「데이터 합체」를//선택하면//사쿠라대전，사쿠라대전２，//사쿠라대전３의 데이터를//합칠 수 있습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0043"}]}
+{"id": "dialogue:b5a090a7c29ed266", "source": "このシステムファイルで//ゲームをプレイしますか？", "text": "이 시스템 파일로//게임을 플레이하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0044"}]}
+{"id": "dialogue:deef40e8cfaf134c", "source": "システムファイルを//読み込んでいます。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "시스템 파일을//불러오는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0045"}]}
+{"id": "dialogue:24b5b14edb87da0d", "source": "このメモリーカードへ//システムファイルを//コピーしますか？//", "text": "이 카드로//시스템 파일을//복사할까요？//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0046"}]}
+{"id": "dialogue:f6f81ab19443b2b2", "source": "システムファイルを//作成できません。//３ブロックの//空き容量が必要です。", "text": "시스템 파일을//작성할 수 없습니다．//３블록의//여유 공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0047"}]}
+{"id": "dialogue:450a4f1a1aacb2bc", "source": "コピー先のメモリーカードには//別のシステムファイルが//存在します。//上書きしてよろしいですか？", "text": "복사할 카드에//다른 시스템 파일이//있습니다．//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0048"}]}
+{"id": "dialogue:3e8359b2f2093207", "source": "システムファイルを//コピーしています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。//", "text": "시스템 파일을//복사하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0049"}]}
+{"id": "dialogue:e21d3c470cc6d899", "source": "システムファイルを//正常にコピーできませんでした。", "text": "시스템 파일을//정상적으로 복사하지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0050"}]}
+{"id": "dialogue:7c240fb20818ef7d", "source": "システムファイルのコピーは//正常に行われました。", "text": "시스템 파일 복사가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0051"}]}
+{"id": "dialogue:e5b00db7040fdf26", "source": "このシステムファイルを、//削除してよろしいですか？", "text": "이 시스템 파일을//삭제하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0052"}]}
+{"id": "dialogue:d1f342cf324dc56c", "source": "システムファイルを//削除しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "시스템 파일을//삭제하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0053"}]}
+{"id": "dialogue:28e664d027ec63e4", "source": "システムファイルの//削除に失敗しました。", "text": "시스템 파일//삭제에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0054"}]}
+{"id": "dialogue:8872d37c4b4d0971", "source": "システムファイルの削除は//正常に行われました。", "text": "시스템 파일 삭제가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0055"}]}
+{"id": "dialogue:974725a6d9cb410c", "source": "このデータを、選択元の//サクラ大戦４の//システムファイルに//合体させますか？", "text": "이 데이터를 선택한//사쿠라대전４의//시스템 파일에//합칠까요？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0056"}]}
+{"id": "dialogue:196f8dc48605d542", "source": "システムファイルを//合体しています。//電源を切ったり、//メモリーカードの抜きさしを//しないでください。", "text": "시스템 파일을//합치는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0057"}]}
+{"id": "dialogue:a3d6121d300e1eea", "source": "サクラ大戦４との//データの合体に失敗しました。", "text": "사쿠라대전４와//데이터 합체에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0058"}]}
+{"id": "dialogue:0a7492e698edeb44", "source": "データの合体は//正常に終了しました。", "text": "데이터 합체가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0059"}]}
+{"id": "dialogue:4654ea73d8bdd6e3", "source": "このゲームファイルを//削除してよろしいですか？//", "text": "이 게임 파일을//삭제하시겠습니까？//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0060"}]}
+{"id": "dialogue:806182624d9ebdb2", "source": "ゲームファイルを//削除しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "게임 파일을//삭제하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0061"}]}
+{"id": "dialogue:147b7dba40b8ec19", "source": "ゲームファイルの//削除に失敗しました。", "text": "게임 파일//삭제에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0062"}]}
+{"id": "dialogue:9a75f6184731ac9a", "source": "ゲームファイルの削除は//正常に行われました。", "text": "게임 파일 삭제가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0063"}]}
+{"id": "dialogue:0ff45d2adc3d383b", "source": "このゲームファイルの続きから、//ゲームを開始しますか？", "text": "이 게임 파일을 이어서//게임을 시작하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0064"}]}
+{"id": "dialogue:cef9bb33ece909bd", "source": "ゲームファイルを//読み込んでいます。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "게임 파일을//불러오는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0065"}]}
+{"id": "dialogue:4dbae811140bc8e5", "source": "ゲームファイルを//正常に読み込めませんでした。", "text": "게임 파일을//정상적으로 불러오지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0066"}]}
+{"id": "dialogue:793d712fb2f1b552", "source": "この戦闘中断ファイルで//ゲームを再開しますか？//（再開すると、この戦闘中断//　ファイルは消去されます）", "text": "이 전투 중단 파일로//게임을 재개하시겠습니까？//（재개하면 이 전투 중단//파일은 삭제됩니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0067"}]}
+{"id": "dialogue:3339198110c14e90", "source": "戦闘中断ファイルを//正常に読み込めませんでした。", "text": "전투 중단 파일을//정상적으로 불러오지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0068"}]}
+{"id": "dialogue:0161a8a988f7b4a3", "source": "システムファイルがないため、//ゲームのクリアー情報を//保存することができません。//システムファイルを選択して、//クリアー情報を保存しますか？", "text": "시스템 파일이 없어서//게임 클리어 정보를//저장할 수 없습니다．//시스템 파일을 선택해서//클리어 정보를 저장하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0069"}]}
+{"id": "dialogue:21a51a9961649a12", "source": "ゲームのクリアー情報を//保存しませんでした。", "text": "게임 클리어 정보를//저장하지 않았습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0070"}]}
+{"id": "dialogue:937f6f8a4b77ca7b", "source": "ゲームのクリア−情報を//メモリーカードに保存します。////よろしいですか？", "text": "게임 클리어 정보를//메모리 카드에 저장합니다．////괜찮습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0071"}]}
+{"id": "dialogue:db4114561f0c4258", "source": "システムファイルが//選択されていません。//システムファイルを//作成してください。", "text": "시스템 파일이//선택되지 않았습니다．//시스템 파일을//작성해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0072"}]}
+{"id": "dialogue:e2bee15c7ec6ef63", "source": "選択されたシステムファイルが//入っているメモリーカードを//元に戻してください。", "text": "선택한 시스템 파일이//들어 있는 메모리 카드를//원래대로 돌려 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0073"}]}
+{"id": "dialogue:728439da854dd1f0", "source": "メモリーカードを読み込んでいます。//電源を切ったり、//メモリーカードを//抜きさししないでください。", "text": "메모리 카드를 읽는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0074"}]}
+{"id": "dialogue:f056d1864c2662b9", "source": "システムファイルが//選択されていないため、//戦闘中断ファイルを//保存できません。", "text": "시스템 파일이//선택되지 않아서//전투 중단 파일을//저장할 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0075"}]}
+{"id": "dialogue:9a1146353dd840de", "source": "ゲームファイルは、//正常に保存されました。", "text": "게임 파일이//정상적으로 저장되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0076"}]}
+{"id": "dialogue:fde32a3c4f7a9cf1", "source": "ゲームファイルを//保存しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "게임 파일을//저장하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0077"}]}
+{"id": "dialogue:2997838bb8a360ee", "source": "ゲームファイルを//正常に保存できませんでした。", "text": "게임 파일을//정상적으로 저장하지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0078"}]}
+{"id": "dialogue:05e34531eaca5136", "source": "戦闘中断ファイルを//保存できません。//７０ブロックの//空き容量が必要です。", "text": "전투 중단을//저장할 수 없습니다．//７０블록의//여유 공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0079"}]}
+{"id": "dialogue:842d932c5274c3cf", "source": "タイトル画面へ戻ります。//よろしいですか？", "text": "타이틀 화면으로 돌아갑니다．//괜찮습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0080"}]}
+{"id": "dialogue:47c52e0cac72208a", "source": "システムファイルを//保存しますか？", "text": "시스템 파일을//저장하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0081"}]}
+{"id": "dialogue:07fa77553a5ae897", "source": "「帝劇の長い一日」で遊んだ記録を//システムファイルに保存します。////よろしいですか？", "text": "「제국극장의 긴 하루」를 플레이한 기록을 시스템 파일에 저장합니다．//괜찮습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0082"}]}
+{"id": "dialogue:f99590ce2aebbb22", "source": "システムファイルを//上書きまたは作成します。//メモリーカードを//選択してください。", "text": "시스템 파일을//덮어쓰거나 생성합니다．//메모리 카드를//선택해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0083"}]}
+{"id": "dialogue:741aee3f7a360420", "source": "このメモリーカードには、//別のシステムファイルが//すでに存在しています。//上書きしてもよろしいですか？", "text": "이 메모리 카드에는//다른 시스템 파일이//이미 있습니다．//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0084"}]}
+{"id": "dialogue:e8bd70f77288a958", "source": "このゲームファイルに//保存してよろしいですか？", "text": "이 게임 파일에//저장하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0085"}]}
+{"id": "dialogue:329b1766d4f9fa12", "source": "このゲームファイルに//上書き保存して//よろしいですか？", "text": "이 게임 파일에//덮어써서 저장//하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0086"}]}
+{"id": "dialogue:029034e1a9a955c7", "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）", "text": "전투를 중단하고//게임 진행 상황을 저장하시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0087"}]}
+{"id": "dialogue:469011472f96dc36", "source": "この戦闘中断ファイルに//上書きしてよろしいですか？//（中断すると//　タイトル画面に戻ります）", "text": "이 전투 중단 파일에//덮어쓰시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0088"}]}
+{"id": "dialogue:1ea7d54f29527dba", "source": "新たにシステムファイルを//読み込みます。//メモリーカードを//選択してください。", "text": "새 시스템 파일을//불러옵니다．//메모리 카드를//선택해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0089"}]}
+{"id": "dialogue:018077954640b783", "source": "この戦闘中断ファイルを、//削除してよろしいですか？", "text": "이 전투 중단 파일을//삭제하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0090"}]}
+{"id": "dialogue:7db1e06758e7c876", "source": "戦闘中断ファイルを//削除しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "전투 중단 파일을//삭제하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0091"}]}
+{"id": "dialogue:0485cc26a3f5c382", "source": "戦闘中断ファイルの//削除に失敗しました。", "text": "전투 중단 파일//삭제에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0092"}]}
+{"id": "dialogue:3b5eccf62f9c5506", "source": "戦闘中断ファイルの削除は//正常に行われました。", "text": "전투 중단 파일 삭제가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0093"}]}
+{"id": "dialogue:8150f56a62dfd568", "source": "戦闘中断ファイルを//読み込んでいます。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "전투 중단 파일을//불러오는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0094"}]}
+{"id": "dialogue:3fe8337d11ed67ea", "source": "システムファイルを//正常に読み込めませんでした。//", "text": "시스템 파일을//정상적으로 불러오지 못했습니다．//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0095"}]}
+{"id": "dialogue:36884344257cd609", "source": "ゲームファイルのコピーは//正常に行われました。", "text": "게임 파일 복사가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0096"}]}
+{"id": "dialogue:6325a9dcaae573df", "source": "ゲームファイルを//コピーしています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。//", "text": "게임 파일을//복사하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0097"}]}
+{"id": "dialogue:b42a3886530a5e5e", "source": "ゲームファイルを//正常にコピーできませんでした。", "text": "게임 파일을//정상적으로 복사하지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0098"}]}
+{"id": "dialogue:3f3dff9014ca5ab4", "source": "コピー先のメモリーカードには//別のゲームファイルが//存在します。//上書きしてよろしいですか？", "text": "복사할 카드에//다른 게임 파일이//있습니다．//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0099"}]}
+{"id": "dialogue:ea590c495e96e6fd", "source": "このメモリーカードへ//ゲームファイルを//コピーしますか？//", "text": "이 카드로//게임 파일을//복사할까요？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0100"}]}
+{"id": "dialogue:446a302792fcf0b1", "source": "ゲームファイルを//保存できません。//６ブロックの//空き容量が必要です。", "text": "게임 파일을//저장할 수 없습니다．//６블록의//여유 공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0101"}]}
+{"id": "dialogue:807968738f2b8a1f", "source": "ゲームデータが//保存されていませんが、//このままゲームを//進めてもよろしいですか？", "text": "게임 데이터가//저장되지 않았는데//이대로 게임을//진행하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0102"}]}
+{"id": "dialogue:23cc13aa3a556ebd", "source": "戦闘中断ファイルは、//正常に保存されました。", "text": "전투 중단 파일이//정상적으로 저장되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0103"}]}
+{"id": "dialogue:6924360e9320c9a9", "source": "戦闘中断ファイルを//保存しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "전투 중단을//저장하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0104"}]}
+{"id": "dialogue:38dadfefa55721e5", "source": "戦闘中断ファイルを//正常に保存できませんでした。", "text": "전투 중단 파일을//정상적으로 저장하지 못했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0105"}]}
+{"id": "dialogue:dc37649c7f9f0211", "source": "ご利用のメモリーカードには、//ゲームファイルの保存に//充分な空き容量がありません。////保存には最低６ブロックの//空き容量が必要です。", "text": "이 메모리 카드에는//게임 파일을 저장할//충분한 공간이 없습니다．////저장하려면 최소 ６블록의//공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0106"}]}
+{"id": "dialogue:92dd2512fa6ea120", "source": "ご利用のメモリーカードには、//システムファイルの保存に//充分な空き容量がありません。////保存には最低３ブロックの//空き容量が必要です。", "text": "이 메모리 카드에는//시스템 파일을 저장할//충분한 공간이 없습니다．////저장하려면 최소 ３블록의//공간이 필요합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0107"}]}
+{"id": "dialogue:4e733c6abdf57d50", "source": "このメモリーカードは//初期化されていません。//ファイルメニューで//初期化を行ってください。", "text": "이 메모리 카드는//초기화되지 않았습니다．//파일 메뉴에서//초기화해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0108"}]}
+{"id": "dialogue:8ae56d0148a86175", "source": "使用中のコントローラから//液晶画面のあるメモリーカードが//抜かれました。//このままゲームを続ける場合、//液晶画面を利用した演出が//省略されます。", "text": "사용 중인 컨트롤러에서//액정 화면이 있는 카드가//빠졌습니다．//이대로 게임을 계속하면//액정 화면을 이용한//연출이 생략됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0109"}]}
+{"id": "dialogue:807efc3f8ae1ebcc", "source": "「帝劇の長い一日」で遊んだ記録を//システムファイルに//保存しませんでした。////「帝劇の長い一日」で遊んだ記録は//ゲーム中に反映されません。", "text": "「제국극장의 긴 하루」를 플레이한 기록을 시스템 파일에 저장하지 않았습니다．//「제국극장의 긴 하루」기록은//게임에 반영되지 않습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0110"}]}
+{"id": "dialogue:96e7ebe8981e9f41", "source": "このシステムファイルは//現在使用中のため、//削除できません。", "text": "이 시스템 파일은//현재 사용 중이라//삭제할 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0111"}]}
+{"id": "dialogue:ca6ac23b80ffea40", "source": "このシステムファイルは//現在使用中のため、//上書きできません。", "text": "이 시스템 파일은//현재 사용 중이라//덮어쓸 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0112"}]}
+{"id": "dialogue:2211f8bfc5c998c0", "source": "メモリーカードがありません。//システムファイルの選択を//終了して、システムファイルを//保存せずに続けますか？", "text": "메모리 카드가 없습니다．//시스템 파일 선택을//끝내고 저장하지 않고//계속하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0113"}]}
+{"id": "dialogue:f85ae17f664c2316", "source": "システムファイルが//選択されていません。//新たにシステムファイルを//作成しますか？", "text": "시스템 파일이//선택되지 않았습니다．//새 시스템 파일을//생성하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0114"}]}
+{"id": "dialogue:d4a700bac88a986b", "source": "メモリーカードがありません。//システムファイルに保存せずに、//ゲームを終了してよろしいですか？", "text": "메모리 카드가 없습니다．//저장하지 않고//게임을 끝내시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0115"}]}
+{"id": "dialogue:b4a6fa225d005684", "source": "システムファイルに保存せずに、//ゲームを終了してよろしいですか？", "text": "시스템 파일에 저장하지 않고//게임을 종료하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0116"}]}
+{"id": "dialogue:e3e77d6c83f61076", "source": "このシステムファイルは//破損しています。//正常に読み込むことができません。", "text": "이 시스템 파일은//손상되었습니다．//정상적으로 불러올 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0117"}]}
+{"id": "dialogue:13df6025bbf3c041", "source": "このゲームファイルは//破損しています。//正常に読み込むことができません。", "text": "이 게임 파일은//손상되었습니다．//정상적으로 불러올 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0118"}]}
+{"id": "dialogue:ee47d59ba138d848", "source": "この戦闘中断ファイルは//破損しています。//正常に読み込むことができません。", "text": "이 전투 중단 파일은//손상되었습니다．//정상적으로 불러올 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0119"}]}
+{"id": "dialogue:610aa941fc0bd3a6", "source": "システムファイルがないため、//戦闘中断ファイルを//保存することができません。//（戦闘中断ファイルの保存には、//　システムファイルが必要です）", "text": "시스템 파일이 없어서//전투 중단 파일을//저장할 수 없습니다．//（전투 중단 파일 저장에는//시스템 파일이 필요합니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0120"}]}
+{"id": "dialogue:ec27a1d4b84d8eac", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ａ−１に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ａ－１에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0121"}]}
+{"id": "dialogue:58d96645c92a261f", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ａ−２に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ａ－２에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0122"}]}
+{"id": "dialogue:700ad7ea3e397aa7", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｂ−１に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｂ－１에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0123"}]}
+{"id": "dialogue:6832e4fbb9d7786a", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｂ−２に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｂ－２에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0124"}]}
+{"id": "dialogue:892a4af470a69828", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｃ−１に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｃ－１에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0125"}]}
+{"id": "dialogue:021ab85ba573473c", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｃ−２に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｃ－２에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0126"}]}
+{"id": "dialogue:f7bdf61da93808e6", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｄ−１に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｄ－１에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0127"}]}
+{"id": "dialogue:43d74cc829bad488", "source": "選択されたシステムファイルが//入っているメモリーカードを//Ｄ−２に戻してください。", "text": "선택한 파일이 들어 있는//메모리 카드를//Ｄ－２에 넣어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0128"}]}
+{"id": "dialogue:0ae0074701f478db", "source": "このメモリーカードには//破損したシステムファイルが//存在します。//新規にシステムファイルを作成し、//上書きしてよろしいですか？", "text": "이 메모리 카드에는//손상된 시스템 파일이//있습니다．//새로 시스템 파일을 만들어//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0129"}]}
+{"id": "dialogue:6f7d813c68c7bb0e", "source": "このメモリーカードには//破損したシステムファイルが//存在します。//上書きしてよろしいですか？", "text": "이 메모리 카드에는//손상된 시스템 파일이//있습니다．//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0130"}]}
+{"id": "dialogue:80888412efd191e8", "source": "この破損したゲームファイルに//上書き保存して//よろしいですか？", "text": "이 손상된 게임 파일에//덮어써서 저장//하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0131"}]}
+{"id": "dialogue:d75c101bae309096", "source": "この破損した戦闘中断ファイルに//上書きしてよろしいですか？//（中断すると//　タイトル画面に戻ります）", "text": "이 손상된 전투 중단 파일에//덮어쓰시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0132"}]}
+{"id": "dialogue:8f90d85ec13a0b1b", "source": "は　い　　　　", "text": "　예　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0133"}]}
+{"id": "dialogue:38630d5c12e17000", "source": "　　　／　　　", "text": "　　　／　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0134"}]}
+{"id": "dialogue:48ef2b674823d03d", "source": "　　　　いいえ", "text": "　　　　아니오", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0135"}]}
+{"id": "dialogue:288fa91473cba572", "source": "環境設定　　　　　　　　　　　　　　", "text": "환경설정", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0136"}, {"id": "1ST_READ.BIN#0139"}, {"id": "1ST_READ.BIN#0142"}]}
+{"id": "dialogue:bbe993452c710c98", "source": "　　　　　こだわり設定　　　　　　　", "text": "　　　　　세부 설정　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0137"}, {"id": "1ST_READ.BIN#0140"}]}
+{"id": "dialogue:8938dbc82ed0f322", "source": "　　　　　　　　　　　　システム選択", "text": "　　　　　시스템 선택　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0138"}, {"id": "1ST_READ.BIN#0141"}]}
+{"id": "dialogue:7b69808520a195ca", "source": "カーソル速度", "text": "커서 속도", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0143"}]}
+{"id": "dialogue:be46f415d9de9d38", "source": "「　　／　　／　　」", "text": "「　　／　　／　　」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0144"}]}
+{"id": "dialogue:ea81ed0bd98557fd", "source": "　遅い　　　　　　　", "text": "　느림　　　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0145"}]}
+{"id": "dialogue:de907d10df98b498", "source": "　　　　普通　　　　", "text": "　　　　보통　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0146"}]}
+{"id": "dialogue:d84aa5fe4b1a2dec", "source": "　　　　　　　速い　", "text": "　　　　　　　빠름　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0147"}]}
+{"id": "dialogue:1fec10d7b07a66bf", "source": "サウンド", "text": "사운드", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0148"}]}
+{"id": "dialogue:9bbfab566934e49c", "source": "「　　　　／　　　　」", "text": "「　　／　　」", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0149"}, {"id": "1ST_READ.BIN#0153"}, {"id": "1ST_READ.BIN#0157"}]}
+{"id": "dialogue:57e73cd094b85242", "source": "　ステレオ　　　　　　", "text": "　스테레오　　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0150"}]}
+{"id": "dialogue:2e443db623ad8253", "source": "　　　　　　モノラル　", "text": "　　　　　　모노　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0151"}]}
+{"id": "dialogue:9665bddc1a00132f", "source": "ＶＭ呼び出し音", "text": "ＶＭ호출음", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0152"}]}
+{"id": "dialogue:69b80525c5a9382f", "source": "　　　　ＯＦＦ　", "text": "　　　　ＯＦＦ　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0154"}]}
+{"id": "dialogue:3e01fc596e817316", "source": "　ＯＮ　　　　　", "text": "　ＯＮ　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0155"}]}
+{"id": "dialogue:79d54a871b9f796e", "source": "ぷるぷるぱっく", "text": "진동팩", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0156"}]}
+{"id": "dialogue:383bbb5e8490445a", "source": "　　　　無効　", "text": "　　　　비활성", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0158"}]}
+{"id": "dialogue:3ac909bffc994b06", "source": "　有効　　　　", "text": "　활성　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0159"}]}
+{"id": "dialogue:587387139b3dadae", "source": "信頼度ＳＥ", "text": "신뢰도", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0160"}]}
+{"id": "dialogue:69c3bdcd828df526", "source": "改ページＳＥ", "text": "페이지 넘김", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0161"}]}
+{"id": "dialogue:0dd0ab931d24ceb9", "source": "メッセージ表示", "text": "메시지 표시", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0162"}]}
+{"id": "dialogue:92b585676f2a22c2", "source": "　順次　　　　", "text": "　순차　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0163"}]}
+{"id": "dialogue:0d3a71c81afee05d", "source": "　　　　一瞬　", "text": "　　　　즉시　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0164"}]}
+{"id": "dialogue:2565c1e3c1e4573e", "source": "ポスターをかえる", "text": "포스터 바꾸기", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0165"}]}
+{"id": "dialogue:c340b548f1ab75ad", "source": "　　「　　　　　」", "text": "　　「　　　　　」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0166"}]}
+{"id": "dialogue:05cdea51edba0754", "source": "「？？？」", "text": "「？？？」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0167"}]}
+{"id": "dialogue:13da9f0e03dfc423", "source": "「大神」", "text": "오오가미", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0168"}]}
+{"id": "dialogue:23a6ee25bccd3f2f", "source": "「さくら」", "text": "사쿠라", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0169"}]}
+{"id": "dialogue:63f4b5df24a73aaa", "source": "「すみれ」", "text": "스미레", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0170"}]}
+{"id": "dialogue:a16e32626aa35fb3", "source": "「マリア」", "text": "마리아", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0171"}]}
+{"id": "dialogue:761517a96565cff7", "source": "「カンナ」", "text": "칸나", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0172"}]}
+{"id": "dialogue:c0d493f8119de82c", "source": "「アイリス」", "text": "아이리스", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0173"}]}
+{"id": "dialogue:b48e91c0c22d2bef", "source": "「紅蘭」", "text": "홍란", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0174"}]}
+{"id": "dialogue:e4c0e632b83935b7", "source": "「織姫」", "text": "오리히메", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0175"}]}
+{"id": "dialogue:28faea0d13abcf2a", "source": "「レニ」", "text": "레니", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0176"}]}
+{"id": "dialogue:d43f2ae38fc18da2", "source": "「エリカ」", "text": "에리카", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0177"}]}
+{"id": "dialogue:1b58b0df396c6794", "source": "「グリシーヌ」", "text": "글리신", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0178"}]}
+{"id": "dialogue:c0cdad8851a75677", "source": "「コクリコ」", "text": "코쿠리코", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0179"}]}
+{"id": "dialogue:7d7223b012a8cf65", "source": "「ロベリア」", "text": "로벨리아", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0180"}]}
+{"id": "dialogue:910f17e0d0118e3d", "source": "「花火」", "text": "하나비", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0181"}]}
+{"id": "dialogue:23f3f9773c87316f", "source": "システムファイルの選択", "text": "시스템 파일 선택", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0182"}]}
+{"id": "dialogue:dc74d73367267d8d", "source": "使用するシステムファイルが//入っているメモリーカードを//選択してください。", "text": "사용할 시스템 파일이//들어 있는 메모리 카드를//선택해 주십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0183"}]}
+{"id": "dialogue:d2b30ac7100b355c", "source": "このシステムファイルを//使用して、ゲームを続けます。", "text": "이 시스템 파일을//사용해서 게임을 계속합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0184"}]}
+{"id": "dialogue:e53d9202bc25a4ed", "source": "このシステムファイルを//別のメモリーカードに//コピーします。", "text": "이 파일을//다른 카드에//복사합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0185"}]}
+{"id": "dialogue:9381f75502777a05", "source": "このシステムファイルを//メモリーカードから//削除します。", "text": "이 파일을//메모리 카드에서//삭제합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0186"}]}
+{"id": "dialogue:c445d751d0871a7b", "source": "ドリームキャスト版//「サクラ大戦」の//システムファイルを合体します。", "text": "드림캐스트판//「사쿠라대전」의//시스템 파일을 합칩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0187"}]}
+{"id": "dialogue:b28a5f10999a07ab", "source": "ドリームキャスト版//「サクラ大戦２」の//システムファイルを合体します。", "text": "드림캐스트판//「사쿠라대전２」의//시스템 파일을 합칩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0188"}]}
+{"id": "dialogue:82e2c899f6f29fb5", "source": "ドリームキャスト版//「サクラ大戦３」の//システムファイルを合体します。", "text": "드림캐스트판//「사쿠라대전３」의//시스템 파일을 합칩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0189"}]}
+{"id": "dialogue:254d7d7b5ccfb47f", "source": "メモリーカード選択画面に//戻ります。", "text": "카드 선택 화면으로//돌아갑니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0190"}]}
+{"id": "dialogue:6f9c757fa5a9d9f4", "source": "システムファイルを保存する//メモリーカードを//選択してください。", "text": "파일을 저장할//메모리 카드를//선택해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0191"}]}
+{"id": "dialogue:b9a3b5a0ffdd326c", "source": "このメモリーカードには//合体元のシステムファイルが//ありません。", "text": "이 메모리 카드에는//합칠 원본 파일이//없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0192"}]}
+{"id": "dialogue:eb39b679173c1311", "source": "@fs18,18 @fm18,0 ：データがありません", "text": "@fs18,18@fm18,0：데이터가 없습니다", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0193"}]}
+{"id": "dialogue:319b3454e4127d54", "source": "@fs18,18 @fm18,0 ：第", "text": "@fs18,18@fm18,0：제", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0194"}]}
+{"id": "dialogue:3b142e2a8f63d9a1", "source": "幕　@fs12,18 @fm12,0　@fs18,18 @fm18,0", "text": "막@fs12,18@fm12,0@fs18,18@fm18,0", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0195"}]}
+{"id": "dialogue:8e5ff774accdecba", "source": "@fs18,18 @fm18,0 ：最終幕　@fs12,18 @fm12,0　@fs18,18 @fm18,0", "text": "@fs18,18@fm18,0：최종막@fs12,18@fm12,0@fs18,18@fm18,0", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0196"}]}
+{"id": "dialogue:510eee741d464955", "source": "@x @c0 @fs22,22 @fm22,0 @lm0,24 Ｎｏ．", "text": "@x @c0 @fs22,22 @fm22,0 @lm0,24 Ｎｏ．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0197"}]}
+{"id": "dialogue:c541bbd6ea9754bd", "source": "@x @c0 @fs20,20 @fm20,0 @lm0,20戦闘中断　第", "text": "@x@c0@fs20,20@fm20,0@lm0,20전투 중단 제", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0198"}]}
+{"id": "dialogue:e73f4ac9c7e01de3", "source": "@fs24,24 @fm24,0 「 @fs24,24 @fm24,0浅草 @fs24,24 @fm24,0 」", "text": "@fs24,24@fm24,0「@fs24,24@fm24,0아사쿠사@fs24,24@fm24,0」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0199"}]}
+{"id": "dialogue:155d907f9132c430", "source": "@fs24,24 @fm24,0 「 @fs24,24 @fm24,0銀座 @fs24,24 @fm24,0 」", "text": "@fs24,24@fm24,0「@fs24,24@fm24,0긴자@fs24,24@fm24,0」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0200"}]}
+{"id": "dialogue:8bc04cf6d693fa50", "source": "@fs24,24 @fm24,0 「 @fs24,24 @fm24,0ミカサ @fs24,24 @fm24,0 」", "text": "@fs24,24@fm24,0「@fs24,24@fm24,0미카사@fs24,24@fm24,0」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0201"}]}
+{"id": "dialogue:6cfa2da369ee717b", "source": "@fs24,24 @fm24,0 「 @fs24,24 @fm24,0神体 @fs24,24 @fm24,0 」", "text": "@fs24,24@fm24,0「@fs24,24@fm24,0신체@fs24,24@fm24,0」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0202"}]}
+{"id": "dialogue:f67044d2805e49b4", "source": "プレイ時間", "text": "플레이 시간", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0203"}]}
+{"id": "dialogue:bfe9c8ab1bd88a12", "source": "続きを始める", "text": " 이어서 시작", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0204"}]}
+{"id": "dialogue:146915ec6ba480de", "source": "削除する", "text": "삭제하기", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0205"}]}
+{"id": "dialogue:bca84ea5c65fee0e", "source": "キャンセル", "text": "　 취소", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0206"}]}
+{"id": "dialogue:a6af0107633f130b", "source": "コピーする", "text": " 복사하기", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0207"}]}
+{"id": "dialogue:dcb7b045b8e28362", "source": "　保存する　", "text": "　저장하기　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0208"}]}
+{"id": "dialogue:690cc672c020a431", "source": "@x @c0 @fs20,20 @fm20,0 @lm0,20データがありません", "text": "@x@c0@fs20,20@fm20,0@lm0,20데이터가 없습니다", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0209"}]}
+{"id": "dialogue:086f01442b1bc6b7", "source": "@fs11,22 @fm11,0　@fs22,22 @fm22,0 第", "text": "제", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0210"}]}
+{"id": "dialogue:b0c836f58273f7c0", "source": "@fs11,22 @fm11,0　@fs22,22 @fm24,0 最終幕", "text": "@fs11,22@fm11,0@fs22,22@fm24,0최종막", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0211"}]}
+{"id": "dialogue:df5f4bb2cbfbc6cb", "source": "@fs18,18 @fm18,0 ：破損しています", "text": "@fs18,18@fm18,0：손상되었습니다", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0212"}]}
+{"id": "dialogue:74037ba3de8080da", "source": "@x @c0 @fs20,20 @fm20,0 @lm0,20破損しています", "text": "@x@c0@fs20,20@fm20,0@lm0,20손상되었습니다", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0213"}]}

@@ -1,0 +1,218 @@
+[
+  {
+    "unit": "dialogue:9826aa9566740822",
+    "source": "常に新しいことを考えな……//いつまでたっても、//成長でけへんのや！",
+    "before": {
+      "id": "dialogue:9826aa9566740822",
+      "source": "常に新しいことを考えな……//いつまでたっても、//成長でけへんのや！",
+      "text": "늘 새로운 걸 생각해야…//언제까지고，//성장 못 한다 카이∈",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1613"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9826aa9566740822",
+      "source": "常に新しいことを考えな……//いつまでたっても、//成長でけへんのや！",
+      "text": "늘 새로운 걸 생각 안 하면…//언제까지고，//성장 못 한다 카이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1613"
+        }
+      ]
+    },
+    "reason": "새로 생각하지 않으면 성장 못 한다는 부정 조건이 반대로 번역된 논리 오류 교정"
+  },
+  {
+    "unit": "dialogue:7d1fa5fa665fdc4b",
+    "source": "ボケにキレがないんや！//これやから、//にわか芸人はこまる。",
+    "before": {
+      "id": "dialogue:7d1fa5fa665fdc4b",
+      "source": "ボケにキレがないんや！//これやから、//にわか芸人はこまる。",
+      "text": "보케에 날이 없다∈//이래서，//어설픈 개그맨은 곤란타．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1651"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7d1fa5fa665fdc4b",
+      "source": "ボケにキレがないんや！//これやから、//にわか芸人はこまる。",
+      "text": "농담이 밋밋하다∈//이래서，//어설픈 개그맨은 곤란타．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1651"
+        }
+      ]
+    },
+    "reason": "ボケにキレがない의 표현을 날이 없다는 직역 대신 재치 없는 농담에 맞게 현지화"
+  },
+  {
+    "unit": "dialogue:53bfe4c3f52af8dc",
+    "source": "すんまへんけど……//また明日にしてんか？",
+    "before": {
+      "id": "dialogue:53bfe4c3f52af8dc",
+      "source": "すんまへんけど……//また明日にしてんか？",
+      "text": "미안타…//내일로 해 도？",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1670"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:53bfe4c3f52af8dc",
+      "source": "すんまへんけど……//また明日にしてんか？",
+      "text": "미안타…//내일로 하자？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1670"
+        }
+      ]
+    },
+    "reason": "홍란의 미뤄 달라는 부탁에서 해 도라는 부자연스러운 표현 교정"
+  },
+  {
+    "unit": "dialogue:5e31134743031d70",
+    "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:5e31134743031d70",
+      "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "글리신 씨…//모처럼 제도까지//와 줬으이까…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1587"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5e31134743031d70",
+      "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "글리신 씨…//모처럼 제도까지//와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1587"
+        }
+      ]
+    },
+    "reason": "와 줬으이까의 어미 오기 교정. 인접한 다섯 분기 문안을 각각 대조"
+  },
+  {
+    "unit": "dialogue:b154bf0e3eeb6da7",
+    "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:b154bf0e3eeb6da7",
+      "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "코쿠리코 씨…//모처럼 제도까지//와 줬으이까…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1588"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b154bf0e3eeb6da7",
+      "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "코쿠리코 씨…//모처럼 제도까지//와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1588"
+        }
+      ]
+    },
+    "reason": "와 줬으이까의 어미 오기 교정. 인접한 다섯 분기 문안을 각각 대조"
+  },
+  {
+    "unit": "dialogue:629132385b766b79",
+    "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:629132385b766b79",
+      "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "로벨리아 씨…//모처럼 제도까지//와 줬으이까…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1589"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:629132385b766b79",
+      "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "로벨리아 씨…//모처럼 제도까지//와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1589"
+        }
+      ]
+    },
+    "reason": "와 줬으이까의 어미 오기 교정. 인접한 다섯 분기 문안을 각각 대조"
+  },
+  {
+    "unit": "dialogue:740340f52171f571",
+    "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:740340f52171f571",
+      "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "하나비 씨…//모처럼 제도까지//와 줬으이까…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1590"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:740340f52171f571",
+      "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "하나비 씨…//모처럼 제도까지//와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1590"
+        }
+      ]
+    },
+    "reason": "와 줬으이까의 어미 오기 교정. 인접한 다섯 분기 문안을 각각 대조"
+  },
+  {
+    "unit": "dialogue:2aeb22cb1f8fbd19",
+    "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:2aeb22cb1f8fbd19",
+      "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "에리카 씨…//모처럼 제도까지//와 줬으이까…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1591"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2aeb22cb1f8fbd19",
+      "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "에리카 씨…//모처럼 제도까지//와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1591"
+        }
+      ]
+    },
+    "reason": "와 줬으이까의 어미 오기 교정. 인접한 다섯 분기 문안을 각각 대조"
+  }
+]

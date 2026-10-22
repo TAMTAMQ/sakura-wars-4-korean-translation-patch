@@ -1,0 +1,170 @@
+[
+  {
+    "unit": "dialogue:c3960098edf0f546",
+    "source": "経路無し",
+    "before": {
+      "id": "dialogue:c3960098edf0f546",
+      "source": "経路無し",
+      "text": "経路無し",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/MOVE.BIN#0019"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c3960098edf0f546",
+      "source": "経路無し",
+      "text": "경로 없음",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/MOVE.BIN#0019"
+        }
+      ]
+    },
+    "reason": "미번역 디버그 문구(일본어 잔재) 번역."
+  },
+  {
+    "unit": "dialogue:3a391293c2711d96",
+    "source": "読み込みFull",
+    "before": {
+      "id": "dialogue:3a391293c2711d96",
+      "source": "読み込みFull",
+      "text": "読み込みFull",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/ENDING.BIN#0009"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3a391293c2711d96",
+      "source": "読み込みFull",
+      "text": "로드Full",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/ENDING.BIN#0009"
+        }
+      ]
+    },
+    "reason": "미번역 디버그 문구(일본어 잔재) 번역."
+  },
+  {
+    "unit": "dialogue:619c696e89bce41c",
+    "source": "読み込み失敗",
+    "before": {
+      "id": "dialogue:619c696e89bce41c",
+      "source": "読み込み失敗",
+      "text": "読み込み失敗",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/ENDING.BIN#0005"
+        },
+        {
+          "id": "ADVDATA/ENDING.BIN#0007"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:619c696e89bce41c",
+      "source": "読み込み失敗",
+      "text": "로드 실패",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/ENDING.BIN#0005"
+        },
+        {
+          "id": "ADVDATA/ENDING.BIN#0007"
+        }
+      ]
+    },
+    "reason": "미번역 디버그 문구(일본어 잔재) 번역."
+  },
+  {
+    "unit": "dialogue:337da18ddf5a3692",
+    "source": "だから……つきあってやるよ。",
+    "before": {
+      "id": "dialogue:337da18ddf5a3692",
+      "source": "だから……つきあってやるよ。",
+      "text": "그러니까…사귀어 줄게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0165"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:337da18ddf5a3692",
+      "source": "だから……つきあってやるよ。",
+      "text": "그러니까…어울려 줄게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0165"
+        }
+      ]
+    },
+    "reason": "「つきあってやるよ」(함께해 주겠다)를 연애 「사귀다」로 옮긴 오역 교정."
+  },
+  {
+    "unit": "dialogue:95b1ea1a88e4ed36",
+    "source": "ねぇ……よろしくて？",
+    "before": {
+      "id": "dialogue:95b1ea1a88e4ed36",
+      "source": "ねぇ……よろしくて？",
+      "text": "저기…괜찮으세요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0054"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:95b1ea1a88e4ed36",
+      "source": "ねぇ……よろしくて？",
+      "text": "저기…괜찮을까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0054"
+        }
+      ]
+    },
+    "reason": "「よろしくて？」(상대에게 허락을 구함)를 안부 질문으로 옮긴 부분 교정."
+  },
+  {
+    "unit": "dialogue:89b8f6c6bbbe75ff",
+    "source": "さぁ、あとは中尉だけですわ。",
+    "before": {
+      "id": "dialogue:89b8f6c6bbbe75ff",
+      "source": "さぁ、あとは中尉だけですわ。",
+      "text": "자，이제 중위님만 남았습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0016"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:89b8f6c6bbbe75ff",
+      "source": "さぁ、あとは中尉だけですわ。",
+      "text": "자，이제 중위님만 남았어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/APPEND/APPEND.BIN#0016"
+        }
+      ]
+    },
+    "reason": "스미레 「ですわ」 말투에 맞춰 어미 정리."
+  }
+]

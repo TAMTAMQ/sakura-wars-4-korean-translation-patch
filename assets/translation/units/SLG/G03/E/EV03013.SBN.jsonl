@@ -1,0 +1,29 @@
+{"id": "dialogue:0cb46c1f73cafc24", "source": "花火くん……//帝都での戦闘は、//初めてだよね。", "text": "하나비 군…//제도에서의 전투는，//처음이지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0001"}]}
+{"id": "dialogue:334a6a768fbedcd5", "source": "はい……//帝都のために戦えて、//感無量です。", "text": "네…//제도를 위해 싸울 수 있어서，//감개무량합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0002"}]}
+{"id": "dialogue:653732ce9ce2bd3e", "source": "大神さん……//私でお役に立つことは//なにかございませんか？", "text": "오오가미 씨…//제가 도움이 될 만한 일은//무엇인가 없을까요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0003"}]}
+{"id": "dialogue:b6f96c04a0fb6816", "source": "君と戦えて、俺も幸せだよ。", "text": "함께 싸울 수 있어 나도 행복해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0007"}]}
+{"id": "dialogue:98597f8237aac628", "source": "よし、先陣はまかせたぞ！//接近戦で頼む∈", "text": "좋아，선봉은 맡겼다∈//근접전으로 부탁한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0008"}]}
+{"id": "dialogue:67b26cdf6246da2d", "source": "本来は、後方で支援する//私ですが……//大神さんのお望みとあれば……", "text": "본래는 후방에서 지원하는//저입니다만…//오오가미 씨께서 원하신다면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0009"}]}
+{"id": "dialogue:3fdf4cd24531bec4", "source": "敵と刺しちがえ……//この身が砕けようとも、//大神さんのご命令に従います。", "text": "적과 함께 쓰러져…//이 몸이 부서지더라도，//오오가미 씨의 명령에 따르겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0010"}]}
+{"id": "dialogue:96882b5363e7e1c4", "source": "い、いや、ちょっと待った！//やっぱり、後方支援にまわって//もらえないかな……", "text": "아，아니，잠깐 기다려 줘∈//역시 후방 지원을//맡아 주지 않을래…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0011"}]}
+{"id": "dialogue:63a1beb86fb43562", "source": "え、は……はい。//そう、おっしゃるのでしたら、//後方に回ります……", "text": "어，하…네．//그렇게 말씀하신다면，//후방으로 물러나겠습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0012"}]}
+{"id": "dialogue:c661fbe8754547a7", "source": "また、何かありましたら、//なんなりと……//ご命令くださいね。", "text": "또，무슨 일이 생기면，//무엇이든…//명령해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0013"}]}
+{"id": "dialogue:fe4b7ffebf89bb2b", "source": "は、花火くんに命令する時は//慎重にしないと、//大変なことになりそうだ……", "text": "하，하나비 군에게 명령할 때는//신중하게 하지 않으면，//큰일이 날 것 같아…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0014"}]}
+{"id": "dialogue:d03aff3d899b03fa", "source": "後方支援を頼むよ。//花火くんは、//遠距離戦が得意だったしね。", "text": "후방 지원을 부탁해．//하나비 군은，//원거리 전투가 특기였으니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0015"}]}
+{"id": "dialogue:43ab8aab7ec28e8a", "source": "はい……了解いたしました。//私のこと、お気づかいいただき、//ありがとうございます。", "text": "네…알겠습니다．//저를 신경 써 주셔서，//감사합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0016"}]}
+{"id": "dialogue:56bfea65ec73b6e1", "source": "気にすることはないよ。//俺にとって、花火くんは//大切な隊員だからね。", "text": "신경 쓸 것 없어．//나한테 하나비 군은//소중한 대원이니까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0017"}]}
+{"id": "dialogue:db978293b638b8ae", "source": "私……大神さんのご期待に//そえられるよう、//がんばります……ぽっ。", "text": "저…오오가미 씨의 기대에//부응할 수 있도록//힘내겠습니다…（발그레）", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0018"}]}
+{"id": "dialogue:9d449d799074d21a", "source": "よし、戦闘を再開するぞ！//行こう、花火くん∈", "text": "좋아，전투를 재개한다∈//가자，하나비 군∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0019"}]}
+{"id": "dialogue:f9a8816d7b320ccd", "source": "かしこまりました！", "text": "알겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0020"}]}
+{"id": "dialogue:a41376da0bbfd7ca", "source": "花火くん……//君と戦えて、俺も幸せだよ。", "text": "하나비 군…//함께 싸울 수 있어 나도 행복해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0021"}]}
+{"id": "dialogue:307e2dbfdf8d67a5", "source": "戦いの最中にそのようなこと……//でも、うれしいです。//……ぽっ。", "text": "전투 중에 그런 말씀을…//하지만，기뻐요．//…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0022"}]}
+{"id": "dialogue:97606bbfeccc1c2f", "source": "なんだか……//花火くんといると、//ホッとするんだ。", "text": "왠지…//하나비 군과 있으면，//안심이 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0023"}]}
+{"id": "dialogue:a5c921a960aa7c1f", "source": "あの……私も、//大神さんのお側にいると、//ぽっとするんです。", "text": "저기…저도，//오오가미 씨 곁에 있으면，//얼굴이 화끈해져요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0024"}]}
+{"id": "dialogue:28b8fe245c9471bc", "source": "ですから……//これからも、見守っていて//くださいね……ぽっ。", "text": "그러니까…//앞으로도 지켜봐//주세요…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0025"}]}
+{"id": "dialogue:4179ac6865c20c5f", "source": "ああ、わかったよ。//それじゃ……行こうか！", "text": "아아，알았어．//그럼…가 볼까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0026"}]}
+{"id": "dialogue:5bedb4df346ac590", "source": "はい……//かしこまりました。", "text": "네…//잘 알겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0027"}]}
+{"id": "dialogue:bcb5c53df86524cc", "source": "大神さん……//お身体の調子でも？", "text": "오오가미 씨…//몸 상태라도 안 좋으신 건가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0029"}]}
+{"id": "dialogue:2d7ef67ff518af71", "source": "い、いや大丈夫。//少し考えていただけだよ。", "text": "아，아니，괜찮아．잠시 생각 좀 해 본 것뿐이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0030"}]}
+{"id": "dialogue:0211587ba8dd47e6", "source": "そうですか……でも、//つらいときは、遠慮なく//おっしゃってくださいね。", "text": "그렇군요…하지만，//힘드실 때는 사양 말고//말씀해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0031"}]}
+{"id": "dialogue:b68b135b624cf1ea", "source": "私……精一杯、//介抱いたしますので……//……ぽっ。", "text": "저…최선을 다해，//간호해 드릴 테니까요…//…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0032"}]}
+{"id": "dialogue:fe205399ee78c405", "source": "（な、なんだか、//　ちょっと倒れてみたい気も//　してきたな……）", "text": "（어，어쩐지，//조금 쓰러져 보고 싶은 기분도//들기 시작했네…）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0033"}]}

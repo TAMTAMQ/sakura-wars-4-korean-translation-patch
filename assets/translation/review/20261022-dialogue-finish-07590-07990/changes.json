@@ -1,0 +1,164 @@
+[
+  {
+    "unit": "dialogue:3214d99dc535623f",
+    "source": "いいっ〓//そ、それはまずいよ！",
+    "before": {
+      "id": "dialogue:3214d99dc535623f",
+      "source": "いいっ〓//そ、それはまずいよ！",
+      "text": "으앗〓//그，그건 위험해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2327"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3214d99dc535623f",
+      "source": "いいっ〓//そ、それはまずいよ！",
+      "text": "으앗〓//그，그건 곤란해∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2327"
+        }
+      ]
+    },
+    "reason": "결혼 이야기에 당황한 반응을 위험 상황으로 옮긴 오역 수정."
+  },
+  {
+    "unit": "dialogue:e6eeef10f7d00ace",
+    "source": "もう、人が大切な話を//している時に……//気の利かない人ですね～。",
+    "before": {
+      "id": "dialogue:e6eeef10f7d00ace",
+      "source": "もう、人が大切な話を//している時に……//気の利かない人ですね～。",
+      "text": "정말이지，사람이 중요한 이야기를//하고 있을 때에…//눈치 없는 사람이네요～．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2397"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e6eeef10f7d00ace",
+      "source": "もう、人が大切な話を//している時に……//気の利かない人ですね～。",
+      "text": "정말，남이 중요한 얘기를//하고 있는데…//눈치 없는 사람이네요～．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2397"
+        }
+      ]
+    },
+    "reason": "대화 중 끼어든 상황에 맞게 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:980f79abc11e17b7",
+    "source": "では……これで失礼する。//隊長、よい夢を。",
+    "before": {
+      "id": "dialogue:980f79abc11e17b7",
+      "source": "では……これで失礼する。//隊長、よい夢を。",
+      "text": "그럼…이만 실례하지．//대장，좋은 꿈 꿔라．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2588"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:980f79abc11e17b7",
+      "source": "では……これで失礼する。//隊長、よい夢を。",
+      "text": "그럼…이만 실례하지．//대장，좋은 꿈을．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2588"
+        }
+      ]
+    },
+    "reason": "취침 인사를 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:884303a4266930fc",
+    "source": "じゃあさ、大きくなったら、//ボクをオヨメさんに//もらってくれるってことだね。",
+    "before": {
+      "id": "dialogue:884303a4266930fc",
+      "source": "じゃあさ、大きくなったら、//ボクをオヨメさんに//もらってくれるってことだね。",
+      "text": "그럼 말이야，커서//나를 신부로//맞아 준다는 뜻이지？",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2675"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:884303a4266930fc",
+      "source": "じゃあさ、大きくなったら、//ボクをオヨメさんに//もらってくれるってことだね。",
+      "text": "그럼 내가 크면，//신부로//맞아 주겠다는 거지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2675"
+        }
+      ]
+    },
+    "reason": "성장하는 주체를 명확히 하여 청혼 대사 교정."
+  },
+  {
+    "unit": "dialogue:bbcc0903f10f04a2",
+    "source": "はい……だって、//二人きりなんですもの……",
+    "before": {
+      "id": "dialogue:bbcc0903f10f04a2",
+      "source": "はい……だって、//二人きりなんですもの……",
+      "text": "네…하지만，//둘뿐인걸요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2770"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bbcc0903f10f04a2",
+      "source": "はい……だって、//二人きりなんですもの……",
+      "text": "네…그야，//둘뿐인걸요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2770"
+        }
+      ]
+    },
+    "reason": "이유를 말하는 접속 표현 복원."
+  },
+  {
+    "unit": "dialogue:f4700888c3c97103",
+    "source": "わ～い∈//やっぱりお兄ちゃんは//アイリスの恋人なんだよね。",
+    "before": {
+      "id": "dialogue:f4700888c3c97103",
+      "source": "わ～い∈//やっぱりお兄ちゃんは//アイリスの恋人なんだよね。",
+      "text": "와～이∈//역시 오빠는//아이리스의 연인인 거지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3009"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f4700888c3c97103",
+      "source": "わ～い∈//やっぱりお兄ちゃんは//アイリスの恋人なんだよね。",
+      "text": "와아∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3009"
+        }
+      ]
+    },
+    "reason": "일본어 감탄사의 음역을 자연스러운 한국어 감탄사로 교정."
+  }
+]

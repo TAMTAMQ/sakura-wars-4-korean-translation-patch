@@ -1,0 +1,15 @@
+{"id": "dialogue:21f459bdf4be0a22", "source": "この試合では、//私のパイが//ボーナスパイになっています。", "text": "이 시합에서는，//제 패가//보너스 패가 되어 있습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0003"}]}
+{"id": "dialogue:55b94262f5ebafda", "source": "今回のお題です。//この中の、どれか１組を//そろえてください。", "text": "이번 주제입니다．//이 중에서 어느 한 세트를//맞춰 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0004"}]}
+{"id": "dialogue:f8746a909e3e20fa", "source": "次の親は、私ですね。", "text": "다음 딜러는，저네요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0005"}]}
+{"id": "dialogue:abb7ff0cbbeb1dcd", "source": "今度は、//隊長が親ですよ。", "text": "이번에는，//대장님이 딜러예요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0006"}]}
+{"id": "dialogue:e5681b763322c0bd", "source": "どうやら、//私の勝ちのようですね。", "text": "아무래도，//제가 이긴 것 같군요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0007"}, {"id": "MINIGAME/JT02MARI.SBN#0020"}]}
+{"id": "dialogue:cd18e7f6055ac1ce", "source": "まだまだ訓練が//足りなかったようですね。", "text": "아직 훈련이//부족했던 모양이군요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0008"}, {"id": "MINIGAME/JT02MARI.SBN#0021"}]}
+{"id": "dialogue:ded4b59a6d6044d0", "source": "次は……勝たせてもらいますよ。", "text": "다음에는…이기겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0009"}, {"id": "MINIGAME/JT02MARI.SBN#0022"}]}
+{"id": "dialogue:d66f171c1417d8a1", "source": "隊長……//次はきちんと//決着をつけましょうね。", "text": "대장님…//다음에는 제대로//결판을 내도록 하죠．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0010"}, {"id": "MINIGAME/JT02MARI.SBN#0023"}]}
+{"id": "dialogue:89781b4fa07ffcf7", "source": "最後の対戦相手は、//かなり、強敵ですよ。//ふふふ……", "text": "마지막 대전 상대는，//꽤나，강적이에요．//후후후…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0011"}]}
+{"id": "dialogue:434f85f42db9ef42", "source": "じゃ～ん！//なんとですね～、//最後はわたしなんです∈", "text": "짠～∈//있잖아요～，//마지막은 저랍니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0012"}]}
+{"id": "dialogue:2d1e743feadf817f", "source": "ニッポンで言うところの//影の番長ってヤツですか〓//よくわかりませんけど。", "text": "일본에서 말하는//숨은 보스라는 건가요〓//잘은 모르겠지만요．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0013"}]}
+{"id": "dialogue:4b3fccaf542693f0", "source": "じゃ、大神さんの実力……//確かめてあげます！//かかってきていいですよ∈", "text": "그럼，오오가미 씨의 실력…//확인해 드릴게요∈//덤벼도 좋아요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0014"}]}
+{"id": "dialogue:a291c3c7e8937cd2", "source": "隊長……よろしければ、//もう一度、いかがですか？", "text": "대장님…괜찮으시다면，//다시 한 번，어떠신가요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0017"}]}
+{"id": "dialogue:80d3d1f700827996", "source": "わかりました。//ですが……//手加減はいたしませんよ。", "text": "알겠습니다．//하지만…//봐 드리지는 않겠습니다．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0018"}]}
+{"id": "dialogue:fb6b0a11d5a88922", "source": "そうですか……//仕方ありませんね。//では、次の機会に。", "text": "그렇군요…//어쩔 수 없네요．//그럼，다음 기회에．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT02MARI.SBN#0019"}]}

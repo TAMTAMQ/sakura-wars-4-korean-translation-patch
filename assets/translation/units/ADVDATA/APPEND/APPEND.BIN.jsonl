@@ -1,0 +1,250 @@
+{"id": "dialogue:3031cafb112f25b5", "source": "ATMA: ハンドル拾得に失敗.再生できないよ.", "text": "ＡＴＭＡ：핸들 획득 실패．재생할 수 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0000"}]}
+{"id": "dialogue:ea2053c1428184bc", "source": "まだ思い出がありません。", "text": "아직 추억이 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0001"}]}
+{"id": "dialogue:2cee924b7ee15ebe", "source": "なるほど……光武二式か……", "text": "그렇군…광무 ２식인가…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0002"}, {"id": "ADVDATA/SCRIPT/S0120.SBX#0179"}]}
+{"id": "dialogue:60e3d1c2d3750d13", "source": "ふぅ、総合演出も楽じゃないよ……", "text": "후우，종합 연출도 쉽지가 않네…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0003"}]}
+{"id": "dialogue:0e3b4605565969c4", "source": "勝利のポーズ・決め！", "text": "승리의 포즈，결정∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0004"}, {"id": "ADVDATA/APPEND/APPEND.BIN#0012"}]}
+{"id": "dialogue:166a3cde4293b9b9", "source": "……ありがとうございます。", "text": "…감사합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0005"}]}
+{"id": "dialogue:43ce7468e937a279", "source": "能……これが「幽玄」か。", "text": "노…이것이「유현」인가．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0006"}]}
+{"id": "dialogue:f68dc1163f2fb81d", "source": "これが本物の能面か……", "text": "이게 진짜 노 가면인가…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0007"}]}
+{"id": "dialogue:dffeed5b289714b6", "source": "カット∈　うん……いい芝居だ。", "text": "컷∈응…좋은 연기야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0008"}]}
+{"id": "dialogue:a7311da7ade82b9d", "source": "ミカサの暴走を誰が止めるんだ。", "text": "미카사 폭주를 누가 막는 거야．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0009"}]}
+{"id": "dialogue:b920400ee6a4a2cd", "source": "お願いします！", "text": "부탁합니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0010"}, {"id": "ADVDATA/LIPSYNC2.LIP#1616"}]}
+{"id": "dialogue:fefe3f1e70a385c8", "source": "帝都は……守った！", "text": "제도는 지켜냈다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0011"}]}
+{"id": "dialogue:13d0e0c22776c9e1", "source": "なに奴∈", "text": "누구냐∈", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0013"}, {"id": "ADVDATA/LIPSYNC2.LIP#1687"}, {"id": "ADVDATA/LIPSYNC3.LIP#1306"}, {"id": "ADVDATA/SCRIPT/S0240.SBX#0181"}]}
+{"id": "dialogue:9875943ebd715150", "source": "そういう人になって欲しいのよ。", "text": "그런 사람이 되어 주길 바라는 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0014"}]}
+{"id": "dialogue:c2590712d4efd4aa", "source": "ほら、隊長……どうだい、似合う？", "text": "봐，대장…어때，어울려？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0015"}, {"id": "ADVDATA/LIPSYNC3.LIP#0312"}]}
+{"id": "dialogue:89b8f6c6bbbe75ff", "source": "さぁ、あとは中尉だけですわ。", "text": "자，이제 중위님만 남았어요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0016"}]}
+{"id": "dialogue:e18b219a1749710e", "source": "た……隊長、なんとかならぬのか！", "text": "대…대장，//어떻게 안 되나∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0017"}, {"id": "ADVDATA/LIPSYNC3.LIP#0264"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#3662"}]}
+{"id": "dialogue:fc29688ed703034e", "source": "ねぇ、見て見て∈", "text": "있잖아，봐 봐∈", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0018"}]}
+{"id": "dialogue:b46bbdf266e4e09b", "source": "ドンドン焼くから、いっぱい食えよ。", "text": "계속 구울 테니까，많이 먹으라고．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0019"}]}
+{"id": "dialogue:eb8817b577e76447", "source": "や、やぁ……", "text": "여，여어…", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0020"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0134"}]}
+{"id": "dialogue:95a0e220a9533ce0", "source": "いつから、のぞいてたんですか〓", "text": "언제부터 훔쳐보고 있었던 건가요〓", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0021"}]}
+{"id": "dialogue:3a84e50356d322d7", "source": "最終決戦兵器……「双武」だ。", "text": "최종 결전 병기…「쌍무」다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0022"}]}
+{"id": "dialogue:a82b4602977ba1f7", "source": "みんなの力を……合わせるわよ∈", "text": "모두의 힘을…하나로 모으자∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0023"}]}
+{"id": "dialogue:aad4609330c28fc7", "source": "頼む∈　絶対に勝てよーっ∈", "text": "부탁해∈꼭 이겨야 해∈", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0024"}]}
+{"id": "dialogue:e6df891a34b93647", "source": "終わった……", "text": "끝났다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0025"}]}
+{"id": "dialogue:80647bc82dc676a4", "source": "男と女よ……未来を託す……", "text": "남자와 여자여，미래를 맡긴다", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0026"}]}
+{"id": "dialogue:0df4b8b6a44e8156", "source": "勝利のポーズ・決めーっ∈", "text": "승리의 포즈，결정∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0027"}]}
+{"id": "dialogue:70cf5e617e95c593", "source": "未来を閉ざすことこそが罪だ∈", "text": "미래를 닫는 것이야말로 죄다∈", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0028"}]}
+{"id": "dialogue:4f3ea0f8cefe07bd", "source": "そして……愛しつづけていくわ。", "text": "그리고…계속해서 사랑할게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0029"}]}
+{"id": "dialogue:191bd80825afaba6", "source": "二つの華撃団が一つの舞台に……", "text": "두 개의 화격단이 하나의 무대에…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0030"}]}
+{"id": "dialogue:b0cb7058a6ac2609", "source": "……ああ、ありがとよ。", "text": "…아아，고마워．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0031"}, {"id": "ADVDATA/LIPSYNC4.LIP#0496"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0264"}]}
+{"id": "dialogue:742150f8afbf6cd2", "source": "結婚は考えてないんだってばーっ∈", "text": "결혼은 생각하지 않는다니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0032"}]}
+{"id": "dialogue:faafbf0e77e700b5", "source": "今までとこれからと……", "text": "지금까지와 앞으로의…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0033"}]}
+{"id": "dialogue:481aae4a7107f9eb", "source": "さぁて……どうしようかな？", "text": "자，그럼…어떻게 할까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0034"}]}
+{"id": "dialogue:75e310da3dc7b2bf", "source": "おめでとうございます∈", "text": "축하합니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0035"}]}
+{"id": "dialogue:5008d561bdf59bed", "source": "舞台はグランドフィナーレへ……", "text": "무대는 그랜드 피날레로…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0036"}]}
+{"id": "dialogue:c2d9e8e5889f03fa", "source": "ねぇ、大神さん……", "text": "저기，오오가미 씨…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0037"}]}
+{"id": "dialogue:753a46d8dfec1adf", "source": "くもりはありませんか……", "text": "마음에 흐림 없으신가요…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0038"}]}
+{"id": "dialogue:abd1244b87e9a3b1", "source": "双武、起動！", "text": "쌍무，기동∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0039"}, {"id": "ADVDATA/APPEND/APPEND.BIN#0063"}]}
+{"id": "dialogue:66b5f974c284f4ca", "source": "いきます！", "text": "갑니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0040"}]}
+{"id": "dialogue:fe103264c661e818", "source": "二人なら……できますよ。", "text": "두 사람이라면 할 수 있어요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0041"}]}
+{"id": "dialogue:7fc8640fc15d8ebd", "source": "運命かなって……思ってるんですよ。", "text": "운명인 것 같다고…생각하고 있어요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0042"}]}
+{"id": "dialogue:5a01bcb52fdc6833", "source": "はい……わかりました。", "text": "네…알겠습니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0043"}, {"id": "ADVDATA/LIPSYNC4.LIP#0050"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2818"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0544"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0801"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0429"}]}
+{"id": "dialogue:85e0db1b7e10fe82", "source": "おぼえていますか……", "text": "기억하고 계신가요…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0044"}]}
+{"id": "dialogue:9eeeb06d89443ba5", "source": "あの日のクリスマス……", "text": "그날의 크리스마스…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0045"}]}
+{"id": "dialogue:d2b205e3da5a9b1a", "source": "ダンスコンテストにて……", "text": "댄스 콘테스트에서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0046"}]}
+{"id": "dialogue:c1886769f5332472", "source": "二人で……", "text": "둘이서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0047"}]}
+{"id": "dialogue:be2f60e8042b3b71", "source": "帝劇からの脱出……", "text": "제국극장에서의 탈출", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0048"}]}
+{"id": "dialogue:514e3044877f99c6", "source": "中尉……おわかりになりまして？", "text": "중위님…알고 계신가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0049"}, {"id": "ADVDATA/LIPSYNC1.LIP#0200"}, {"id": "ADVDATA/SCRIPT/S0120.SBX#0520"}]}
+{"id": "dialogue:6b9fbfc23f602ca9", "source": "最高の舞台をお見せすべきですわ。", "text": "최고의 무대를 보여 드려야 해요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0050"}]}
+{"id": "dialogue:63f5b206f5374389", "source": "双武、起動するのよ！", "text": "쌍무，기동해∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0051"}]}
+{"id": "dialogue:234736243a49b30b", "source": "いきますわ！", "text": "갑니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0052"}]}
+{"id": "dialogue:68df46793813aaf2", "source": "地球だってまわせますわ！", "text": "지구조차 돌릴 수 있답니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0053"}]}
+{"id": "dialogue:95b1ea1a88e4ed36", "source": "ねぇ……よろしくて？", "text": "저기…괜찮을까요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0054"}]}
+{"id": "dialogue:9c9bb2fae9c9e998", "source": "じっとしていてくださいますか？", "text": "가만히 있어 주시겠어요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0055"}]}
+{"id": "dialogue:c7fb7a58aef131d1", "source": "ほら……ネクタイ。", "text": "자…넥타이．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0056"}]}
+{"id": "dialogue:f10fe7137d25c111", "source": "クリスマスもありましたね。", "text": "크리스마스도 있었지요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0057"}]}
+{"id": "dialogue:cd8fe4ae5b74cce8", "source": "こんなこともありましたわね！", "text": "이런 일도 있었지요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0058"}]}
+{"id": "dialogue:ddc59d87edfc8941", "source": "初もうでは楽しかったですわね。", "text": "새해 첫 참배는 즐거웠답니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0059"}]}
+{"id": "dialogue:5ba16d6581b6209a", "source": "これがわたくしの生きる道ですわ！", "text": "이것이 제가 살아갈 길이에요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0060"}]}
+{"id": "dialogue:35629ca54852e5b6", "source": "でも、すこしは……", "text": "하지만，조금은…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0061"}]}
+{"id": "dialogue:59a8d438f5c8cc67", "source": "大切なものを失ってしまいそうで……", "text": "소중한 것을 잃어버릴 것만 같아서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0062"}]}
+{"id": "dialogue:b619850a704212c1", "source": "そこっ！", "text": "거기다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0064"}, {"id": "ADVDATA/LIPSYNC1.LIP#1152"}, {"id": "ADVDATA/LIPSYNC2.LIP#2095"}, {"id": "ADVDATA/LIPSYNC3.LIP#1810"}, {"id": "ADVDATA/LIPSYNC4.LIP#1387"}]}
+{"id": "dialogue:c194c630c4924d53", "source": "二人が一緒なら、きっと大丈夫です。", "text": "둘이 함께라면 분명 괜찮아요．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0065"}]}
+{"id": "dialogue:d0392e3fe957bfe0", "source": "……乾杯。", "text": "…건배．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0066"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0468"}]}
+{"id": "dialogue:62f89a7ac3998ed5", "source": "隊長……", "text": "대장…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0067"}, {"id": "ADVDATA/LIPSYNC1.LIP#0237"}, {"id": "ADVDATA/LIPSYNC4.LIP#0650"}, {"id": "ADVDATA/LIPSYNC4.LIP#0767"}, {"id": "ADVDATA/SCRIPT/S0120.SBX#0598"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0753"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#1284"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#1303"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0508"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0734"}, {"id": "SLG/G03/E/EV03020.SBN#0001"}, {"id": "SLG/G04/E/EV04008.SBN#0012"}, {"id": "SLG/G04/E/EV04013.SBN#0011"}]}
+{"id": "dialogue:c6b81fb710ea0ace", "source": "……これもお願いします。", "text": "…이것도 부탁드립니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0068"}]}
+{"id": "dialogue:e40c0f4514429149", "source": "特別コーチ。", "text": "특별 코치．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0069"}]}
+{"id": "dialogue:51a2461c8cc3d996", "source": "初もうで。", "text": "첫 참배．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0070"}]}
+{"id": "dialogue:7076e5a042005949", "source": "初めての海。", "text": "첫 바다．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0071"}]}
+{"id": "dialogue:a86c62c4ecca445e", "source": "その……よくわからなくて……", "text": "그게…잘 모르겠어서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0072"}]}
+{"id": "dialogue:9908eb5579acc8cc", "source": "ちがうかい、隊長？", "text": "그렇지 않아，대장？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0073"}]}
+{"id": "dialogue:31b11a9ecb727c3a", "source": "双武、起動だっ！", "text": "쌍무，기동이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0074"}]}
+{"id": "dialogue:323f6cba48e8acbb", "source": "くらえっ！", "text": "받아라∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0075"}]}
+{"id": "dialogue:c814e31d3965fdb8", "source": "……なに考えてんだ∈", "text": "무슨 생각을 하는 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0076"}]}
+{"id": "dialogue:c836ea6bfafc6138", "source": "そろそろ一緒に暮らさないか？", "text": "슬슬 같이 살지 않을래？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0077"}]}
+{"id": "dialogue:8a661e6476d07153", "source": "これも食っとけ！　はい、あーん∈", "text": "이것도 먹어∈자，아～해 봐∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0078"}]}
+{"id": "dialogue:f469c989f0347b74", "source": "……くすぐったいってば！", "text": "…간지럽다니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0079"}]}
+{"id": "dialogue:4f485aa0a0217bd5", "source": "クリスマスもいいもんだな。", "text": "크리스마스도 꽤 괜찮네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0080"}]}
+{"id": "dialogue:39f76c119d7a968d", "source": "巴里も楽しかったな。", "text": "파리도 즐거웠지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0081"}]}
+{"id": "dialogue:b87fd5ee44e2aeb9", "source": "なんだか……照れるよな。", "text": "왠지…쑥스럽네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0082"}]}
+{"id": "dialogue:05aa10e468277a66", "source": "よし、やるか！", "text": "좋아，가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0083"}]}
+{"id": "dialogue:548beb7c57927d01", "source": "ね……おねがいしてもいい？", "text": "저기…부탁해도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0084"}]}
+{"id": "dialogue:b8cbf9912aba93b8", "source": "この子、かわいがってあげてね。", "text": "이 아이，예뻐해 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0085"}]}
+{"id": "dialogue:0440b9e8fb30f417", "source": "そうぶ、きどー！", "text": "쌍무，기동∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0086"}]}
+{"id": "dialogue:5f9c91753397753a", "source": "やっちゃえーっ！", "text": "해 버려라∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0087"}]}
+{"id": "dialogue:de3fd134d811690e", "source": "こわしたりしちゃダメ∈", "text": "부수면 안 돼∈", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0088"}]}
+{"id": "dialogue:12437dd7bea5f5de", "source": "お兄ちゃん、ありがとー！", "text": "오빠，고마워∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0089"}]}
+{"id": "dialogue:b505e604756fbf8c", "source": "お兄ちゃん……だいすき。", "text": "오빠…정말 좋아해．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0090"}]}
+{"id": "dialogue:94a661419645677a", "source": "はい、あげる！", "text": "자，줄게∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0091"}]}
+{"id": "dialogue:032865d5af387b7b", "source": "教会でお兄ちゃんと……", "text": "교회에서 오빠랑…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0092"}]}
+{"id": "dialogue:74557670af03269f", "source": "みんなとしょーりのポーズ！", "text": "모두 다 같이 승리의 포즈∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0093"}]}
+{"id": "dialogue:cf6f8a644c5a7670", "source": "たのしかったよね！", "text": "즐거웠지∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0094"}]}
+{"id": "dialogue:2fb7300f30cad983", "source": "おやすみなさい……", "text": "잘 자…", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0095"}]}
+{"id": "dialogue:b642c55e7d5ec9d9", "source": "なんとか言うたってや、大神はん！", "text": "뭐라꼬 좀 해 봐라，오오가미 씨∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0096"}]}
+{"id": "dialogue:c77323b738cca684", "source": "ウチの言うこときくんや、光武∈", "text": "내 말 들어라，광무∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0097"}]}
+{"id": "dialogue:7b716d0cb7735016", "source": "大神はん……来てたんかいな。", "text": "오오가미 씨…와 있었나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0098"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#1332"}]}
+{"id": "dialogue:281c3917834ee6b4", "source": "行くで、双武！", "text": "간다，쌍무∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0099"}]}
+{"id": "dialogue:69100be7dec569aa", "source": "いくでーっ！", "text": "간다아∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0100"}]}
+{"id": "dialogue:dd3aa246843dc37a", "source": "なんでもうまくいくはずや！", "text": "다 잘 될 끼다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0101"}]}
+{"id": "dialogue:50ca2bf37da7a090", "source": "ほな……ウチに質問してんか？", "text": "그라모…내한테 물어봐라", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0102"}]}
+{"id": "dialogue:156a27f310f2cc19", "source": "ウ、ウチは……", "text": "내，내는…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0103"}]}
+{"id": "dialogue:5432da0e8691ee09", "source": "この景色……一緒に見たかってん。", "text": "이 풍경…같이 보고 싶었데이．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0104"}]}
+{"id": "dialogue:66f997dc725483a4", "source": "二人の聖夜もええもんやね。", "text": "둘만의 성야도 참 좋네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0105"}]}
+{"id": "dialogue:03d5cd23083541ab", "source": "ジャン班長とゆかいな仲間たち。", "text": "장 반장과 유쾌한 동료들．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0106"}]}
+{"id": "dialogue:a596640b29fc1602", "source": "なんや、照れるわ……", "text": "뭐꼬，쑥스럽게…", "review": "사투리 보강", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0107"}]}
+{"id": "dialogue:a952884fddbf3821", "source": "実は、痛かったんやけど……", "text": "사실，아팠지만도…", "review": "사투리 보강", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0108"}]}
+{"id": "dialogue:29088b1ebf6d74d8", "source": "ちょっとしたデートみたいですねー。", "text": "잠깐 데이트하는 것 같네요―．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0109"}]}
+{"id": "dialogue:59e4adf8a0ecf681", "source": "ミカサと戦うなんて……", "text": "미카사와 싸우게 되다니", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0110"}]}
+{"id": "dialogue:2f278f2268151d61", "source": "双武、起動でーす！", "text": "쌍무，기동입니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0111"}]}
+{"id": "dialogue:6b9af8936cb1d356", "source": "いっきまーす！", "text": "갑니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0112"}]}
+{"id": "dialogue:1d0c5d6f21ba617c", "source": "きっと、うまくいくでーす∈", "text": "분명 잘 될 거예요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0113"}]}
+{"id": "dialogue:fc4d9e47c53c7a29", "source": "これで……日本人になれましたか？", "text": "이걸로…일본인이 되었나요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0114"}]}
+{"id": "dialogue:f19816c5ec4fdaa3", "source": "わたしを奪いに来てくれますか？", "text": "저를 빼앗으러 와 주시겠어요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0115"}]}
+{"id": "dialogue:f7f7b96abd9b7198", "source": "もぅ、じっとしてるです。", "text": "정말，가만히 있어요．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0116"}]}
+{"id": "dialogue:45429da05a3f822f", "source": "中尉さんとデートで〜す。", "text": "중위님이랑 데이트예요～．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0117"}]}
+{"id": "dialogue:485dfa6f93659054", "source": "真打ち登場でーす！", "text": "주연 등장입니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0118"}]}
+{"id": "dialogue:bdb7261fd153e8b2", "source": "ニッポンのオトコもやるってカンジ！", "text": "일본 남자도 제법인데요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0119"}]}
+{"id": "dialogue:ba8f1d141c308363", "source": "隊長……すこし話をしてもいい？", "text": "대장…잠깐 이야기 좀 해도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0120"}]}
+{"id": "dialogue:34bbe5e27f26c570", "source": "ボクが必ず守る……", "text": "내가 반드시 지킬게", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0121"}]}
+{"id": "dialogue:d2af7615c2de33ee", "source": "双武……起動。", "text": "쌍무…기동．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0122"}]}
+{"id": "dialogue:71e1c8682f9355eb", "source": "そこだ！", "text": "거기다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0123"}, {"id": "ADVDATA/LIPSYNC1.LIP#1386"}, {"id": "ADVDATA/LIPSYNC2.LIP#2329"}, {"id": "ADVDATA/LIPSYNC3.LIP#2044"}, {"id": "ADVDATA/LIPSYNC4.LIP#1621"}]}
+{"id": "dialogue:31bad8df501882f6", "source": "なら、ボクは任務を放棄する。", "text": "그럼，난 임무를 포기하겠어．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0124"}]}
+{"id": "dialogue:87d664bf12094bdd", "source": "だれかのために口紅をひくなんて……", "text": "누군가를 위해서 립스틱을 바르다니…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0125"}]}
+{"id": "dialogue:dc8d0b846d8f3254", "source": "ボク……こんなこと初めてで……", "text": "나…이런 건 처음이라서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0126"}]}
+{"id": "dialogue:3a775a5246758849", "source": "おやすみ……", "text": "잘 자…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0127"}]}
+{"id": "dialogue:b45c70b668c8f394", "source": "祈り……", "text": "기도…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0128"}]}
+{"id": "dialogue:5088ef5cab7aec4a", "source": "潜入……", "text": "잠입…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0129"}]}
+{"id": "dialogue:866c1661d9205f06", "source": "二人……", "text": "두 사람", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0130"}]}
+{"id": "dialogue:71f4283a65e7120b", "source": "エリカ、会いにきちゃいましたーっ！", "text": "에리카，만나러 와 버렸어요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0131"}]}
+{"id": "dialogue:e1cd1c466d3bf23d", "source": "逆に……心配かけちゃいましたね。", "text": "오히려…걱정 끼쳐 버렸네요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0132"}]}
+{"id": "dialogue:d9b1e71c63efcff2", "source": "双武、起動です∈", "text": "쌍무 기동입니다∈", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0133"}]}
+{"id": "dialogue:50ce4e51f1699a71", "source": "チャンスです！", "text": "찬스예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0134"}]}
+{"id": "dialogue:a209230cc32d3095", "source": "大神さん、バシーッといきますよ！", "text": "오오가미 씨，팍 하고 갑니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0135"}]}
+{"id": "dialogue:b48333e7499ddcaa", "source": "誓いの儀式です……", "text": "맹세의 의식입니다", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0136"}]}
+{"id": "dialogue:eedc154032c9c21f", "source": "永遠に愛することを誓います……", "text": "영원히 사랑할 것을 맹세합니다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0137"}]}
+{"id": "dialogue:0abd3cf6bebd28fd", "source": "あーん！", "text": "아앙∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0138"}, {"id": "ADVDATA/SCRIPT/S0240.SBX#0195"}]}
+{"id": "dialogue:fa473c4ae888339c", "source": "とってもうれしかったこと。", "text": "정말 기뻤던 일．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0139"}]}
+{"id": "dialogue:b32e8e451f5bb03f", "source": "がんばろうと思ったこと。", "text": "힘내야겠다고 생각한 것．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0140"}]}
+{"id": "dialogue:5337dd6cbeeba931", "source": "安心できたこと。", "text": "안심했던 일．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0141"}]}
+{"id": "dialogue:185bcf4d439ad7bf", "source": "腕はにぶっていないようだな。", "text": "실력은 녹슬지 않은 모양이군．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0142"}]}
+{"id": "dialogue:ed85264950507002", "source": "我々は戦うクイーンだ……", "text": "우리는 싸우는 퀸이다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0143"}]}
+{"id": "dialogue:79dfb481ce78da9d", "source": "この私に責任を果たさせろ∈", "text": "내게 책임을 다하게 하거라∈", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0144"}]}
+{"id": "dialogue:da765647e30fab38", "source": "……聞いてもよいか。", "text": "…물어봐도 되겠나？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0145"}]}
+{"id": "dialogue:441d1a07286eb4cf", "source": "それは……貴公なんだぞ。", "text": "그건…귀공이다．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0146"}]}
+{"id": "dialogue:7340c3561cf793ee", "source": "ここがすべてのはじまりだったな。", "text": "여기가 모든 것의 시작이었지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0147"}]}
+{"id": "dialogue:8a336fb7190c547e", "source": "貴公と二人で……", "text": "귀공과 둘이서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0148"}]}
+{"id": "dialogue:455b29c54616224b", "source": "グリシーヌの名にかけて……", "text": "글리신의 이름을 걸고…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0149"}]}
+{"id": "dialogue:0678e21ccba6e466", "source": "二人の誓い……", "text": "두 사람의 맹세", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0150"}]}
+{"id": "dialogue:3cec77e92b83ee01", "source": "ね、イチロー、元気だった？", "text": "있잖아，이치로，잘 지냈어？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0151"}]}
+{"id": "dialogue:69ef6fe2e6ce945b", "source": "きっと、うまくいくよ。", "text": "분명 잘 될 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0152"}]}
+{"id": "dialogue:264deeebfe486641", "source": "双武、起動だよ！", "text": "쌍무，기동이야∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0153"}]}
+{"id": "dialogue:d6867e2bcdcfc73e", "source": "いまだよっ！", "text": "지금이야∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0154"}]}
+{"id": "dialogue:6f76b89f0ace552f", "source": "ボクも一緒に残る！", "text": "나도 같이 남을래∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0155"}]}
+{"id": "dialogue:a2b9c942c0307998", "source": "もーっ！　寝ぼけたらダメでしょ。", "text": "정말∈정신 차려야지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0156"}]}
+{"id": "dialogue:d5920b051c212cb0", "source": "じゃ……味見ね！", "text": "그럼 맛 좀 봐줄게∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0157"}]}
+{"id": "dialogue:d35667c2571cbd20", "source": "へへへ……楽しいね！", "text": "헤헤헤…즐겁네∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0158"}]}
+{"id": "dialogue:13365536a2d7024c", "source": "イチローと一緒。", "text": "이치로와 함께．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0159"}]}
+{"id": "dialogue:1d267ac7697ccd88", "source": "ボク、がんばるよ！", "text": "나，열심히 할게∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0160"}]}
+{"id": "dialogue:c282c5b07b4f2cc7", "source": "ありがとう、イチロー……", "text": "고마워，이치로…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0161"}]}
+{"id": "dialogue:9beaaa95f5f4dcfe", "source": "あいかわらず、さえない顔してるな。", "text": "여전히，시원찮은 얼굴이네．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0162"}]}
+{"id": "dialogue:ca9d4a24046b995e", "source": "なら……どこにいたって同じさ。", "text": "그렇다면 어디에 있든 마찬가지야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0163"}]}
+{"id": "dialogue:2b0bf05b3722afd4", "source": "燃え尽きろっ！", "text": "다 타버려라∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0164"}]}
+{"id": "dialogue:337da18ddf5a3692", "source": "だから……つきあってやるよ。", "text": "그러니까…어울려 줄게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0165"}]}
+{"id": "dialogue:93e57614cb6ef944", "source": "ああ……ただいま。", "text": "아아…다녀왔어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0166"}, {"id": "ADVDATA/LIPSYNC4.LIP#0972"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1136"}]}
+{"id": "dialogue:34f92b785b8742c2", "source": "もう二度と逃げられないようにね……", "text": "다시는 도망칠 수 없도록 말이야…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0167"}]}
+{"id": "dialogue:2ed170d24c672548", "source": "ふふふ……いい気分だ。", "text": "후후후…기분 좋다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0168"}]}
+{"id": "dialogue:01954278e774beec", "source": "……しかたないね。", "text": "…어쩔 수 없네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0169"}]}
+{"id": "dialogue:ef5d8e64819e071c", "source": "やれやれ……", "text": "이런이런…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0170"}, {"id": "SLG/G02/E/EV02014.SBN#0005"}]}
+{"id": "dialogue:20f062c331314b44", "source": "最後の夜……", "text": "마지막 밤…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0171"}]}
+{"id": "dialogue:e80f814c5df946c1", "source": "大神さん、おひさしぶりです。", "text": "오오가미 씨，오랜만이에요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0172"}]}
+{"id": "dialogue:5504064b668eae92", "source": "願いは……かなうのでしょうか？", "text": "소원은…이루어질까요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0173"}]}
+{"id": "dialogue:8debc0b36eb2b842", "source": "参ります！", "text": "갑니다！", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0174"}]}
+{"id": "dialogue:904c7ab68685c4c6", "source": "私も……お手伝いします！", "text": "저도…돕겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0175"}]}
+{"id": "dialogue:f295a96b9c232b35", "source": "どうしても今日、着てみたくて……", "text": "오늘 꼭 입어 보고 싶어서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0176"}]}
+{"id": "dialogue:76c438bedd5b6db6", "source": "大神さんのお望みのままに……", "text": "오오가미 씨가 원하시는 대로…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0177"}]}
+{"id": "dialogue:699177a22f0fbe7c", "source": "きれいですね……", "text": "아름답네요…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0178"}]}
+{"id": "dialogue:9a2eaf180a41ed66", "source": "シャノワール・ポーチにて……", "text": "샤노와르 현관에서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0179"}]}
+{"id": "dialogue:c8595fbf8bba358c", "source": "作戦指令室にて……", "text": "작전 지령실에서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0180"}]}
+{"id": "dialogue:3a1a115ff319103d", "source": "指きりげんまん……", "text": "손가락 걸고 약속…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0181"}]}
+{"id": "dialogue:e81c12f493f513f3", "source": "太正桜に浪漫の嵐。", "text": "벚꽃에 낭만의 폭풍．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0182"}]}
+{"id": "dialogue:b4f6016208c197c1", "source": "悪は漆黒、義はサクラ。", "text": "악은 칠흑，의는 사쿠라．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0183"}]}
+{"id": "dialogue:5611650fda90fb24", "source": "〜君、死にたもうことなかれ〜", "text": "～그대여，죽지 말지어다～", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0184"}]}
+{"id": "dialogue:eb136643444fb33f", "source": "サクラ、再び舞いります。", "text": "사쿠라，다시 날아듭니다．", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0185"}]}
+{"id": "dialogue:728bc0f565b49c9b", "source": "〜巴里は燃えているか〜", "text": "～파리는 불타고 있는가～", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0186"}]}
+{"id": "dialogue:9b105386b0d66acc", "source": "愛の御旗のもとに……", "text": "사랑의 깃발 아래에서", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0187"}]}
+{"id": "dialogue:91844a06f987b273", "source": "〜恋せよ乙女〜", "text": "사랑하라 소녀여", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0188"}]}
+{"id": "dialogue:afb2869882205ce1", "source": "会いたいときに……", "text": "보고 싶을 때에…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0189"}]}
+{"id": "dialogue:3ee33ab072560fd7", "source": "帝劇は今日も元気に", "text": "제극은 오늘도 힘차게", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0190"}]}
+{"id": "dialogue:5833305f186638f5", "source": "帝劇の夜は更けて", "text": "제극의 밤은 깊어", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0191"}]}
+{"id": "dialogue:2172477f983c1cb3", "source": "散歩に行こう！", "text": "산책하러 가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0192"}]}
+{"id": "dialogue:dc5a31c650fac309", "source": "陽だまりの中で", "text": "햇살 아래에서", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0193"}]}
+{"id": "dialogue:853db7f749dabdee", "source": "怒りの鉄槌", "text": "분노의 철퇴", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0194"}]}
+{"id": "dialogue:2136ab8ab3f3b033", "source": "君のいた場所", "text": "네가 있던 곳", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0195"}]}
+{"id": "dialogue:41f5f4ec24d86eef", "source": "みんなでおでかけ", "text": "다 함께 외출", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0196"}]}
+{"id": "dialogue:97819087e94dd53d", "source": "お笑いのテーマ", "text": "코미디 테마", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0197"}]}
+{"id": "dialogue:7fb8497a37c87d8c", "source": "忍び寄る足音", "text": "숨죽인 발소리", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0198"}]}
+{"id": "dialogue:13353556bd96c530", "source": "花咲く乙女・旅立ち", "text": "꽃피는 소녀・출발", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0199"}]}
+{"id": "dialogue:11e12592f8c81c29", "source": "決戦！　熱戦！　大激戦∈", "text": "결전∈열전∈대격전∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0200"}]}
+{"id": "dialogue:846162211c7037c9", "source": "絶体絶命∈", "text": "절체절명∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0201"}]}
+{"id": "dialogue:2b30a1d567379251", "source": "決戦・帝国華撃団！", "text": "결전・제국화격단∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0202"}]}
+{"id": "dialogue:0b3e755ac66b6c7f", "source": "帝国華撃団、出撃せよ！", "text": "제국화격단，출격하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0203"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2808"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#3415"}]}
+{"id": "dialogue:975b063d6783336d", "source": "みんなで作ろう明るい帝都", "text": "모두 함께 만들자，밝은 제도", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0204"}]}
+{"id": "dialogue:d940cf3159846c09", "source": "がんばれ、帝国華撃団", "text": "힘내라，제국화격단", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0205"}]}
+{"id": "dialogue:b27d3c82f751bb9b", "source": "帝都のために……", "text": "제도를 위해서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0206"}]}
+{"id": "dialogue:29bbffa30f5d1a6d", "source": "春が来る", "text": "봄이 온다", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0207"}]}
+{"id": "dialogue:5b19af75a60b41d2", "source": "生きている喜び", "text": "살아 있다는 기쁨", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0208"}]}
+{"id": "dialogue:5784a0b8c0f6bcb4", "source": "南風　ＧＯ！ＧＯ！", "text": "남풍 ＧＯ！ＧＯ！", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0209"}]}
+{"id": "dialogue:4f5b364e635f15e1", "source": "愛しのジャンポール", "text": "사랑하는 장 폴", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0210"}]}
+{"id": "dialogue:3ffb3c95918e0d6f", "source": "メトロで行こう", "text": "메트로로 가자", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0211"}]}
+{"id": "dialogue:4aa53167072b72cc", "source": "もしも…", "text": "만약에…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0212"}]}
+{"id": "dialogue:5682bc33dfc37c57", "source": "イカルスの星", "text": "이카루스의 별", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0213"}]}
+{"id": "dialogue:e976b32709158355", "source": "都の花ぞ", "text": "도시의 꽃", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0214"}]}
+{"id": "dialogue:d8b4a46394f256eb", "source": "恋の発車オーライ！", "text": "사랑의 출발신호∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0215"}]}
+{"id": "dialogue:ea719b99de4a0aee", "source": "決意を胸に", "text": "결의를 품고", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0216"}]}
+{"id": "dialogue:11be289b96eda8b7", "source": "勝利のポーズ！", "text": "승리의 포즈∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0217"}]}
+{"id": "dialogue:db72e7fb0843aff4", "source": "花咲く乙女", "text": "꽃피는 소녀", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0218"}]}
+{"id": "dialogue:50d562361a0b64b3", "source": "ゲキテイ", "text": "게키테이", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0219"}]}
+{"id": "dialogue:fe9b5b49b8c4d6b7", "source": "夢のつづき", "text": "꿈의 연속", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0220"}]}
+{"id": "dialogue:a1883c0a8f1fc931", "source": "御旗の下に", "text": "깃발 아래에", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0221"}]}
+{"id": "dialogue:71e062cd829d9642", "source": "忘れ得ぬ人", "text": "잊지 못할 이", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0222"}]}
+{"id": "dialogue:5fc877e703c0c922", "source": "昼下がりのセーヌ", "text": "오후의 센 강", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0223"}]}
+{"id": "dialogue:e504521be4b52f78", "source": "モンマルトルの夜", "text": "몽마르트르의 밤", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0224"}]}
+{"id": "dialogue:8b364b90c10df002", "source": "巴里の恋人たち", "text": "파리의 연인들", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0225"}]}
+{"id": "dialogue:0c3e3399ddd1ceb6", "source": "シャノワール", "text": "샤노와르", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0226"}, {"id": "MINIGAME/MGJT.BIN#0113"}, {"id": "MINIGAME/MGJT.BIN#0254"}]}
+{"id": "dialogue:3ec48ea36bb3791c", "source": "朝焼けの空", "text": "아침놀 하늘", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0227"}]}
+{"id": "dialogue:dbb5150a8486fe53", "source": "思い出は、いつも", "text": "추억은，언제나", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0228"}]}
+{"id": "dialogue:319f041fa6362f92", "source": "笑顔がいっぱい", "text": "웃음이 가득해", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0229"}]}
+{"id": "dialogue:1cc0d1fbb8e5045f", "source": "迫りくる危機", "text": "다가오는 위기", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0230"}]}
+{"id": "dialogue:02ef103bc1107656", "source": "戦いの舞曲", "text": "전투의 무곡", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0231"}]}
+{"id": "dialogue:468145c119117280", "source": "力いっぱい、空回り！", "text": "힘껏，헛수고∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0232"}]}
+{"id": "dialogue:5e978809f349be80", "source": "希望の門", "text": "희망의 문", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0233"}]}
+{"id": "dialogue:d8bf701c904c9a74", "source": "巴里華撃団、デビュー！", "text": "파리화격단，데뷔∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0234"}]}
+{"id": "dialogue:99c52a42ac468aaa", "source": "押し寄せる力", "text": "밀려드는 힘", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0235"}]}
+{"id": "dialogue:2192a624207457a6", "source": "勝利のポーズ・ド・巴里", "text": "승리의 포즈・드 파리", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0236"}]}
+{"id": "dialogue:9e4c019b8de0b4ee", "source": "そして御旗の下に", "text": "그리고 깃발 아래에", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0237"}]}
+{"id": "dialogue:1b0cfe86e7a49d19", "source": "巴里華撃団・花組、出撃せよ！", "text": "파리화격단・화조，출격하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0238"}]}
+{"id": "dialogue:359fec311760730d", "source": "それ行け、帝国華撃団！", "text": "가라，제국화격단∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0239"}]}
+{"id": "dialogue:894d1d1803f67a8f", "source": "ある晴れた日に", "text": "어느 맑은 날에", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0240"}]}
+{"id": "dialogue:3a463321c79a23de", "source": "花の巴里", "text": "꽃의 파리", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0241"}]}
+{"id": "dialogue:d65ba076f1f291db", "source": "エロイカ／英雄伝説", "text": "에로이카／영웅전설", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0242"}]}
+{"id": "dialogue:ba7eec05c7a75ed7", "source": "いっしょに歩こう", "text": "함께 걷자", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0243"}]}
+{"id": "dialogue:ccaf959511c5be71", "source": "心の傘は", "text": "마음 우산", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0244"}]}
+{"id": "dialogue:8f5d943b6823e2fc", "source": "君偲ぶ歌", "text": "그대 생각", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0245"}]}
+{"id": "dialogue:06288354926f6929", "source": "センチメンタルな・・・", "text": "센티멘털한…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0246"}]}
+{"id": "dialogue:07f66b79fac5693a", "source": "心の置き場所", "text": "마음 둘 곳", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0247"}]}
+{"id": "dialogue:67f946fccf621437", "source": "ここに幸あれ……", "text": "여기에 행복을……", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0248"}]}
+{"id": "dialogue:23b972f134ddd213", "source": "神楽舞う者", "text": "카구라 춤꾼", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0249"}]}
+{"id": "dialogue:6d1d41167f631310", "source": "君よ花よ", "text": "님아 꽃아", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0250"}]}
+{"id": "dialogue:3abdc5e00a84f4f8", "source": "ロンせよ乙女！", "text": "론하라 소녀여！", "review": "미번역 번역", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0251"}]}

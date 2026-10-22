@@ -1,0 +1,11 @@
+{"id": "dialogue:54ed0f09c2fb6526", "source": "この試合では、//わたしのパイが//ボーナスパイになってるで～す。", "text": "이 시합에서는，//제 패가//보너스 패가 되어 있어～요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0003"}]}
+{"id": "dialogue:27a2e01963995de4", "source": "今回のお題はこちらで～す。//この中の、どれか１組を//そろえてくださ～い！", "text": "이번 주제는 이것입니다～．//이 중에서，어느 한 세트를//맞춰 주세～요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0004"}]}
+{"id": "dialogue:3aaf09998348cb05", "source": "わたしが、//親をやりま～す！", "text": "제가，//딜러를 맡을게요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0005"}]}
+{"id": "dialogue:178e3c3677f04b2a", "source": "今度は、中尉さんが//親をやっていいですよ。", "text": "이번에는，중위님이//딜러를 하셔도 좋아요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0006"}]}
+{"id": "dialogue:a29368608000790d", "source": "ふっふ～ん。//ちょろいもんで～す。", "text": "훗후～응．//식은 죽 먹기예～요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0007"}, {"id": "MINIGAME/JT06ORIH.SBN#0016"}]}
+{"id": "dialogue:b63baa9c24612d83", "source": "こ、これは……//何かのまちがいでーす∈//信じられませーん！", "text": "이，이건…//뭔가 잘못된 거예요∈//믿을 수 없어요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0008"}, {"id": "MINIGAME/JT06ORIH.SBN#0017"}]}
+{"id": "dialogue:7c628ac2ebce7536", "source": "は～い、楽しかったでーす。//もう１回デュオしませんか～？", "text": "네～，즐거웠어～요．//한 번 더 듀오하지 않으실래요～？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0009"}, {"id": "MINIGAME/JT06ORIH.SBN#0018"}]}
+{"id": "dialogue:b8f843a45773bac9", "source": "お次は、//マリアさんで～す。//これからが本番ですよ～！", "text": "다음은，//마리아 씨예～요．//이제부터가 진짜예～요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0010"}]}
+{"id": "dialogue:943e327e5d68c6dc", "source": "もう一度対戦してあげても//いいですけど……//どうしますか～？", "text": "한 번 더 대결해 드려도//좋습니다만…//어떻게 하시겠어요～？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0013"}]}
+{"id": "dialogue:ddf09acf4f6af912", "source": "ふふ……//それでこそ、//日本男児で～す∈", "text": "후훗…//그래야//일본 남자답네요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0014"}]}
+{"id": "dialogue:ac0680528b0d2413", "source": "え～、やめちゃうんですか？//つまんないですね～。//また今度、対戦してくださいね。", "text": "에～，그만두시는 건가요？//심심하네요～．//다음에 또 대결해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT06ORIH.SBN#0015"}]}

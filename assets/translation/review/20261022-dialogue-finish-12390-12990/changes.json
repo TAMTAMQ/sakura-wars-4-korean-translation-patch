@@ -1,0 +1,29 @@
+[
+  {
+    "unit": "dialogue:7e5823f73bca2626",
+    "source": "ふっふーん！//いっちょもんでさしあげまーす∈",
+    "before": {
+      "id": "dialogue:7e5823f73bca2626",
+      "source": "ふっふーん！//いっちょもんでさしあげまーす∈",
+      "text": "훗후～∈//한 수 가르쳐 드리죠∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0300"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7e5823f73bca2626",
+      "source": "ふっふーん！//いっちょもんでさしあげまーす∈",
+      "text": "후후훗∈//한 수 가르쳐 드리죠∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0300"
+        }
+      ]
+    },
+    "reason": "일본어 웃음소리를 자연스러운 한국어로 교정."
+  }
+]

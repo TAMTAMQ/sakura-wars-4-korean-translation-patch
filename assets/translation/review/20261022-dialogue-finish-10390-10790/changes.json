@@ -1,0 +1,110 @@
+[
+  {
+    "unit": "dialogue:ad81c91936b84ee9",
+    "source": "で……大神よ。//花組のやつらに、//結婚を申し込んだって本当か？",
+    "before": {
+      "id": "dialogue:ad81c91936b84ee9",
+      "source": "で……大神よ。//花組のやつらに、//結婚を申し込んだって本当か？",
+      "text": "그래서…오오가미．//화조 녀석들에게，//결혼 신청을 했다는 게 정말인가？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0308"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ad81c91936b84ee9",
+      "source": "で……大神よ。//花組のやつらに、//結婚を申し込んだって本当か？",
+      "text": "그래서…오오가미．//화조 녀석들에게，//청혼했다는 게 정말인가？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0308"
+        }
+      ]
+    },
+    "reason": "결혼 신청이라는 직역을 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:fba6a1f17c5b2ee6",
+    "source": "だから、俺が……//仲間がいるんだろ。//ちがうかい？",
+    "before": {
+      "id": "dialogue:fba6a1f17c5b2ee6",
+      "source": "だから、俺が……//仲間がいるんだろ。//ちがうかい？",
+      "text": "그러니까，나에게는…//동료가 있잖아．//아니야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0575"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fba6a1f17c5b2ee6",
+      "source": "だから、俺が……//仲間がいるんだろ。//ちがうかい？",
+      "text": "그러니까 내가…//동료들이 있는 거잖아．//안 그래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0575"
+        }
+      ]
+    },
+    "reason": "네 곁에 나와 동료들이 있다는 위로의 의미 복원."
+  },
+  {
+    "unit": "dialogue:cdd07ec0f7b508c3",
+    "source": "あぁ、そうさ。//こんなバカげた戦い……//楽しまなきゃウソだ。",
+    "before": {
+      "id": "dialogue:cdd07ec0f7b508c3",
+      "source": "あぁ、そうさ。//こんなバカげた戦い……//楽しまなきゃウソだ。",
+      "text": "아아，맞아．//이런 말도 안 되는 싸움…//즐기지 않으면 거짓말이지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0730"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cdd07ec0f7b508c3",
+      "source": "あぁ、そうさ。//こんなバカげた戦い……//楽しまなきゃウソだ。",
+      "text": "아아，맞아．//이런 말도 안 되는 싸움…//제대로 즐겨 줘야지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0730"
+        }
+      ]
+    },
+    "reason": "楽しまなきゃウソ의 관용적 강조를 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:5c93f40017fe8c20",
+    "source": "一緒に持ってくださいね。//大神さん……//お願いできますか？",
+    "before": {
+      "id": "dialogue:5c93f40017fe8c20",
+      "source": "一緒に持ってくださいね。//大神さん……//お願いできますか？",
+      "text": "같이 들어 주세요．//오오가미 씨…//부탁드려도 될까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0807"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5c93f40017fe8c20",
+      "source": "一緒に持ってくださいね。//大神さん……//お願いできますか？",
+      "text": "함께 나눠 주세요．//오오가미 씨…//부탁드려도 될까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0807"
+        }
+      ]
+    },
+    "reason": "기쁨을 함께 짊어진다는 비유가 전달되도록 교정."
+  }
+]

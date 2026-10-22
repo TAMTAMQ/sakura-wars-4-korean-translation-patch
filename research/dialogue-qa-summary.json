@@ -1,0 +1,17 @@
+{
+  "occurrences_checked": 40338,
+  "shared_units": 23029,
+  "language_units": 19365,
+  "language_reviewed": 6698,
+  "language_approved": 5207,
+  "scope": "대사 검수만 수행; 게임 내 표시 확인은 사용자 요청으로 제외",
+  "flags": {
+    "baseline_encoding_difference": 4,
+    "possible_dialogue_overflow": 620,
+    "control_layout_review": 12
+  },
+  "issue_occurrences": 635,
+  "review_batches": 194,
+  "input_hashes_sha256": "1f25027c40ebc5b52008ec6cd7b9690d096ebaa68837604f72d77604f51ce389",
+  "static_layout_is_runtime_verification": false
+}

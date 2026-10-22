@@ -1,0 +1,3 @@
+{"id": "dialogue:e08cbff5f6a077d8", "source": "メモリ不足", "text": "메모리 부족", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/CINEMA/CINEMA.BIN#0004"}, {"id": "ADVDATA/CINEMA/CINEMA.BIN#0005"}, {"id": "ADVDATA/ENDING.BIN#0003"}, {"id": "ADVDATA/ENDING.BIN#0006"}, {"id": "ADVDATA/ENDING.BIN#0008"}, {"id": "ADVDATA/ENDING.BIN#0013"}, {"id": "ADVDATA/MOVE.BIN#0016"}]}
+{"id": "dialogue:2ed1dacc7c12ad5f", "source": "パラメータエラー", "text": "파라미터 에러", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/CINEMA/CINEMA.BIN#0006"}]}
+{"id": "dialogue:d0bac30c55aca10f", "source": "スクリプト不正", "text": "스크립트 오류", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/CINEMA/CINEMA.BIN#0007"}]}

@@ -1,0 +1,181 @@
+{"id": "dialogue:3c424a11b4906880", "source": "f戟H？？", "text": "f숨H？？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0006"}]}
+{"id": "dialogue:5426c13c750adca8", "source": "勝ち抜き戦", "text": "토너먼트", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0007"}]}
+{"id": "dialogue:c733bd1a9e6d1b2c", "source": "遊び方の説明", "text": "게임 방법 설명", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0008"}]}
+{"id": "dialogue:02c04275f6ccf069", "source": "パイ編集", "text": "패 편집", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0009"}]}
+{"id": "dialogue:10e06531f4aae7de", "source": "現在使用している対戦パイから、交換するパイを選択してください。", "text": "현재 사용 중인 대전 패에서//교환할 패를 선택해 주세요．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0015"}]}
+{"id": "dialogue:b143d1e89b0f7761", "source": "交換するパイを選択してください。", "text": "교환할 패를 선택해 주세요．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0016"}]}
+{"id": "dialogue:8d48aac33fe022b7", "source": "さくら８枚　【必殺攻撃】対戦相手のロン上がりを防ぐ。", "text": "사쿠라８장【필살공격】상대의 론 화료를 막는다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0017"}]}
+{"id": "dialogue:b60a5fc931e13b24", "source": "すみれ８枚　【必殺攻撃】対戦相手のツモ上がりを防ぐ。", "text": "스미레８장【필살공격】상대의 쯔모 화료를 막는다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0018"}]}
+{"id": "dialogue:e1b01b445a8d049f", "source": "マリア８枚【必殺攻撃】リーチ後に上がりパイを必ずツモする。", "text": "마리아８장【필살공격】리치 후 화료패를 반드시 쯔모한다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0019"}]}
+{"id": "dialogue:f0e7bd2c49bc2617", "source": "カンナ８枚　【必殺攻撃】相手パイを入れ替えて、手を壊す。", "text": "칸나８장【필살공격】상대 패를 바꿔 손패를 무너뜨린다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0020"}]}
+{"id": "dialogue:749d05804654c558", "source": "アイリス８枚　【必殺攻撃】連続ツモすることができる。", "text": "아이리스８장【필살공격】연속 쯔모할 수 있다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0021"}]}
+{"id": "dialogue:da169095b730ec09", "source": "紅蘭８枚　【必殺攻撃】必ずお題パイを３枚引き入れる。", "text": "홍란８장【필살공격】반드시 주제 패를 ３장 가져온다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0022"}]}
+{"id": "dialogue:e1c5a89eb86197cb", "source": "織姫８枚　【必殺攻撃】強制流局させる。", "text": "오리히메８장【필살공격】강제유국．", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0023"}]}
+{"id": "dialogue:336756d65aa96a3f", "source": "レニ８枚　【必殺攻撃】お題パイを増やす。", "text": "레니８장【필살공격】주제 패를 늘린다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0024"}]}
+{"id": "dialogue:ef796a5ce4d92502", "source": "グリシーヌ８枚　【必殺攻撃】対戦相手のロン上がりを防ぐ。", "text": "글리신８장【필살공격】상대의 론 화료를 막는다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0025"}]}
+{"id": "dialogue:f9a116bdde2d02ba", "source": "花火８枚　【必殺攻撃】対戦相手のツモ上がりを防ぐ。", "text": "하나비８장【필살공격】상대의 쯔모 화료를 막는다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0026"}]}
+{"id": "dialogue:87f506452c5b764e", "source": "コクリコ８枚【必殺攻撃】リーチ後に上がりパイを必ずツモする。", "text": "코쿠리코８장【필살공격】리치 후 화료패를 반드시 쯔모한다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0027"}]}
+{"id": "dialogue:21a2e8a00ff45891", "source": "ロベリア８枚　【必殺攻撃】相手パイを入れ替えて、手を壊す。", "text": "로벨리아８장【필살공격】상대 패를 바꿔 손패를 무너뜨린다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0028"}]}
+{"id": "dialogue:660b73c7cd0b0ece", "source": "エリカ８枚　【必殺攻撃】連続ツモすることができる。", "text": "에리카８장【필살공격】연속 쯔모할 수 있다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0029"}]}
+{"id": "dialogue:724beade62c184ba", "source": "メル８枚　【必殺攻撃】必ずお題パイを３枚引き入れる。", "text": "멜８장【필살공격】반드시 주제 패를 ３장 가져온다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0030"}]}
+{"id": "dialogue:1a8bf24cfc34ce4d", "source": "加山８枚　【必殺攻撃】強制流局させる。", "text": "카야마８장【필살공격】강제유국．", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0031"}]}
+{"id": "dialogue:ccc9bf8d5fe2b17d", "source": "シー８枚　【必殺攻撃】お題パイを増やす。", "text": "시８장【필살공격】주제 패를 늘린다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0032"}]}
+{"id": "dialogue:43688977798336f3", "source": "【白パイ】帝都の人々＜８種類×各１枚＞", "text": "【흰 패】제도 사람들＜８종류×각１장＞", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0033"}]}
+{"id": "dialogue:2338533232eceff7", "source": "【白パイ】巴里の人々＜８種類×各１枚＞", "text": "【흰 패】파리 사람들＜８종류×각１장＞", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0034"}]}
+{"id": "dialogue:81a64dc94d11540b", "source": "帝都セットに戻す。", "text": "제도로되돌린다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0035"}, {"id": "MINIGAME/MGJT.BIN#0055"}]}
+{"id": "dialogue:03456f70beac7bbe", "source": "巴里セットに戻す。", "text": "파리 세트로 되돌린다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0036"}, {"id": "MINIGAME/MGJT.BIN#0056"}]}
+{"id": "dialogue:344de7561a1f34f5", "source": "初期化をやめる。", "text": "초기화를 취소．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0037"}, {"id": "MINIGAME/MGJT.BIN#0057"}]}
+{"id": "dialogue:61a4294328b9ae1f", "source": "１、ゲームの基本的な流れ", "text": "１．게임의 기본 흐름", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0038"}]}
+{"id": "dialogue:99c97ad77b3f35e3", "source": "２、役について", "text": "２．역에 대해", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0039"}]}
+{"id": "dialogue:5d20e8a6833abd97", "source": "３、上がりの種類", "text": "３．화료의 종류", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0040"}]}
+{"id": "dialogue:890cf962c19d8c8c", "source": "４、必殺攻撃", "text": "４．필살 공격", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0041"}]}
+{"id": "dialogue:5e553346f90410c3", "source": "５、パイの構成", "text": "５．패의 구성", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0042"}]}
+{"id": "dialogue:f87425e2e9bd9eac", "source": "６、ボーナスパイ", "text": "６．보너스 패", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0043"}]}
+{"id": "dialogue:3823f0c122952510", "source": "７、パイ編集", "text": "７．패 편집", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0044"}]}
+{"id": "dialogue:210cd95b060df886", "source": "勝ち抜き戦を続ける！", "text": "토너먼트를 계속한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0045"}]}
+{"id": "dialogue:a442a946c633166e", "source": "ロ　ン　！", "text": "론∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0047"}, {"id": "MINIGAME/TUT.SBN#0110"}]}
+{"id": "dialogue:f758f100e928b412", "source": "ツ　モ　！", "text": "쯔모∈", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0048"}, {"id": "MINIGAME/TUT.SBN#0041"}, {"id": "MINIGAME/TUT.SBN#0104"}]}
+{"id": "dialogue:3df4d325a770288a", "source": "上がりパイツモ！", "text": "쯔모 화료∈", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0049"}]}
+{"id": "dialogue:59cb5fcb5ce1f163", "source": "のロンを妨害する！", "text": "의 론을 막는다∈", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0050"}]}
+{"id": "dialogue:b8f7b3f9e0bae764", "source": "のツモを妨害する！", "text": "의 쯔모를 막는다∈", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0051"}]}
+{"id": "dialogue:274e025234d7acd6", "source": "この局をやり直す。", "text": "이 국을 다시 한다．", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0052"}]}
+{"id": "dialogue:303215ad4f00cb76", "source": "勝ち逃げしますか？", "text": "이긴 채로 그만둘까요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0053"}]}
+{"id": "dialogue:828f23dc9206bebd", "source": "ゲーム終了", "text": "게임 종료", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0054"}]}
+{"id": "dialogue:c22bbba0bb1d45e6", "source": "遊戯目録に戻りますか？", "text": "목록으로 돌아갈까요？", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0058"}]}
+{"id": "dialogue:8acba180679950b1", "source": "対戦者を変更しますか？", "text": "대전 상대를 바꿀까요？", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0059"}]}
+{"id": "dialogue:985a2abde02fe99e", "source": "この対戦パイを使用しますか？", "text": "이 대전 패를 사용할까요？", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0060"}]}
+{"id": "dialogue:4633cd25c4fb189c", "source": "お題×１", "text": "주제×１", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0061"}, {"id": "MINIGAME/MGJT.BIN#0204"}]}
+{"id": "dialogue:6ccfbbf1c22c619f", "source": "お題×２", "text": "주제×２", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0062"}, {"id": "MINIGAME/MGJT.BIN#0205"}]}
+{"id": "dialogue:e5440fdd3e1ebd07", "source": "お題×３", "text": "주제×３", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0063"}, {"id": "MINIGAME/MGJT.BIN#0206"}]}
+{"id": "dialogue:08e98f32f645c403", "source": "ボーナスパイ×１", "text": "보너스 패×１", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0064"}, {"id": "MINIGAME/MGJT.BIN#0207"}]}
+{"id": "dialogue:bfef7a6571782a41", "source": "ボーナスパイ×２", "text": "보너스 패×２", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0065"}, {"id": "MINIGAME/MGJT.BIN#0208"}]}
+{"id": "dialogue:4c74842c2f2deba9", "source": "ボーナスパイ×３", "text": "보너스 패×３", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0066"}, {"id": "MINIGAME/MGJT.BIN#0209"}]}
+{"id": "dialogue:7455e1d6278fb0e6", "source": "明日に向かって斬れ！", "text": "내일을 향해 베어라∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0067"}]}
+{"id": "dialogue:948fcb18a7878985", "source": "舞ガール", "text": "무용가", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0068"}]}
+{"id": "dialogue:1bd4df18dd936b93", "source": "雨に走れば", "text": "빗속 달리기", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0069"}]}
+{"id": "dialogue:f2a4831e8f340f97", "source": "クライマー・クライマー", "text": "클라이머・클라이머", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0070"}]}
+{"id": "dialogue:a4f6cfc2f2eff1f6", "source": "帝都の休日", "text": "제도의 휴일", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0071"}]}
+{"id": "dialogue:c0335c4dd935d9e1", "source": "ピアノ・レッスン？", "text": "피아노 레슨？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0072"}]}
+{"id": "dialogue:c0fb508b56755ad8", "source": "おジョーズ！", "text": "오죠즈∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0073"}]}
+{"id": "dialogue:1fa86490eaf53d2b", "source": "軌跡の人", "text": "궤적의 이", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0074"}]}
+{"id": "dialogue:0533347dd26dd339", "source": "クレイジー・ラリー", "text": "크레이지 랠리", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0075"}]}
+{"id": "dialogue:2fbe36e019760ac2", "source": "明日の錠", "text": "내일의 문", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0076"}]}
+{"id": "dialogue:8a6d3494a9efcd32", "source": "矢の当たる場所", "text": "화살이 닿는 곳", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0077"}]}
+{"id": "dialogue:2fbca248663ddfa7", "source": "演目【愛ゆえに】", "text": "【사랑 때문에】", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0078"}, {"id": "MINIGAME/MGJT.BIN#0214"}]}
+{"id": "dialogue:bcfd4a17ce4df93c", "source": "演目【つばさ】", "text": "작품【날개】", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0079"}, {"id": "MINIGAME/MGJT.BIN#0215"}]}
+{"id": "dialogue:48cc6028d1f95433", "source": "ルーブル潜入", "text": "루브르 잠입", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0080"}, {"id": "MINIGAME/MGJT.BIN#0216"}]}
+{"id": "dialogue:552db000da0387b7", "source": "オランジュリー潜入", "text": "오랑주리 잠입", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0081"}, {"id": "MINIGAME/MGJT.BIN#0217"}]}
+{"id": "dialogue:ad9bed1307343d23", "source": "巴里で一番暑い夏", "text": "파리 가장 더운 여름", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0082"}, {"id": "MINIGAME/MGJT.BIN#0218"}]}
+{"id": "dialogue:22f97d6447d7d2a9", "source": "巴里の日本人", "text": "파리의 일본인", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0083"}, {"id": "MINIGAME/MGJT.BIN#0260"}]}
+{"id": "dialogue:6d5afb8606eb84eb", "source": "シャノワール司会コンビ", "text": "샤노와르 사회자 콤비", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0084"}, {"id": "MINIGAME/MGJT.BIN#0219"}]}
+{"id": "dialogue:09117ab18843e543", "source": "花形スタァＶＳトップスタァ", "text": "간판 스타 ＶＳ톱스타", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0085"}, {"id": "MINIGAME/MGJT.BIN#0263"}]}
+{"id": "dialogue:c253b64419013b75", "source": "芸者ガールズ", "text": "게이샤 걸즈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0086"}, {"id": "MINIGAME/MGJT.BIN#0220"}]}
+{"id": "dialogue:92bceda5a9e8101d", "source": "高飛車お嬢様", "text": "도도한 아가씨", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0087"}, {"id": "MINIGAME/MGJT.BIN#0259"}]}
+{"id": "dialogue:e3ba89f6485d294d", "source": "麗しの男役", "text": "고운 남자역", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0088"}, {"id": "MINIGAME/MGJT.BIN#0221"}]}
+{"id": "dialogue:1c93741c6bb22d48", "source": "演目【あぁ、無情】", "text": "작품【레 미제라블】", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0089"}, {"id": "MINIGAME/MGJT.BIN#0222"}]}
+{"id": "dialogue:449ee0ace556ae7c", "source": "華麗なるマジックショー", "text": "화려한 매직 쇼", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0090"}, {"id": "MINIGAME/MGJT.BIN#0256"}]}
+{"id": "dialogue:26872dc51baae07f", "source": "お菓子大好き！", "text": "과자 너무 좋아∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0091"}, {"id": "MINIGAME/MGJT.BIN#0257"}]}
+{"id": "dialogue:8f95b016ba3bacba", "source": "ネクタイピン", "text": "넥타이핀", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0092"}, {"id": "MINIGAME/MGJT.BIN#0234"}]}
+{"id": "dialogue:d08800ae3f2ec07a", "source": "司会の名コンビ？", "text": "사회자의 명콤비？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0093"}, {"id": "MINIGAME/MGJT.BIN#0235"}]}
+{"id": "dialogue:571ed706da6c8218", "source": "メルの憧れの人", "text": "멜이 동경하는 이", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0094"}, {"id": "MINIGAME/MGJT.BIN#0261"}]}
+{"id": "dialogue:e20f1f931571d848", "source": "パープル", "text": "퍼플", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0095"}]}
+{"id": "dialogue:2bd0ec0d9940a9f4", "source": "ブラック", "text": "블랙", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0096"}]}
+{"id": "dialogue:7bdfbcf722cb6df1", "source": "イエロー", "text": "옐로", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0097"}]}
+{"id": "dialogue:a8ae16b59d575d0f", "source": "ローズピンク", "text": "로즈 핑크", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0099"}]}
+{"id": "dialogue:a7bd39a6828d82d5", "source": "ダブルヒロイン", "text": "더블 히로인", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0100"}, {"id": "MINIGAME/MGJT.BIN#0223"}]}
+{"id": "dialogue:5b6d8b9d5e7d5487", "source": "優雅なティータイム", "text": "우아한 티타임", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0101"}, {"id": "MINIGAME/MGJT.BIN#0224"}]}
+{"id": "dialogue:49f7163f8100a99c", "source": "プリティキッズ", "text": "프리티 키즈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0102"}, {"id": "MINIGAME/MGJT.BIN#0225"}]}
+{"id": "dialogue:7e39022f778a12ce", "source": "ピアニスト", "text": "피아니스트", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0103"}, {"id": "MINIGAME/MGJT.BIN#0226"}]}
+{"id": "dialogue:733b9a7beabead61", "source": "銀色の髪", "text": "은빛 머리", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0104"}, {"id": "MINIGAME/MGJT.BIN#0227"}]}
+{"id": "dialogue:dce47e44aa3849ad", "source": "料理上手？", "text": "요리 잘해？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0105"}, {"id": "MINIGAME/MGJT.BIN#0228"}]}
+{"id": "dialogue:6ba26db693cb91a7", "source": "日本のお嬢さま", "text": "일본의 아가씨", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0106"}, {"id": "MINIGAME/MGJT.BIN#0229"}]}
+{"id": "dialogue:586f52104addd552", "source": "回復ならおまかせください！", "text": "회복이라면 제게 맡겨 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0107"}, {"id": "MINIGAME/MGJT.BIN#0230"}]}
+{"id": "dialogue:ebc2adb1b8aff39d", "source": "メガネ隊員", "text": "안경 대원", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0108"}, {"id": "MINIGAME/MGJT.BIN#0231"}]}
+{"id": "dialogue:af5df926f7772f4b", "source": "猛獣使い", "text": "맹수 조련", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0109"}, {"id": "MINIGAME/MGJT.BIN#0232"}]}
+{"id": "dialogue:4ec8600395b890d4", "source": "夏の風物詩", "text": "여름 풍물시", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0110"}, {"id": "MINIGAME/MGJT.BIN#0233"}]}
+{"id": "dialogue:36f3db8c61cf50aa", "source": "マラカス＆ギター", "text": "마라카스 ＆기타", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0111"}, {"id": "MINIGAME/MGJT.BIN#0236"}]}
+{"id": "dialogue:8c51b86033a1a07c", "source": "帝劇スタッフ", "text": "제극 스태프", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0112"}, {"id": "MINIGAME/MGJT.BIN#0262"}]}
+{"id": "dialogue:1edb1d8869f06a1e", "source": "パリジャン", "text": "파리지앵", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0114"}, {"id": "MINIGAME/MGJT.BIN#0255"}]}
+{"id": "dialogue:93eba8129e054d79", "source": "オール　ピンク", "text": "올 핑크", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0115"}]}
+{"id": "dialogue:4115c083b8f6e76f", "source": "オール　パープル", "text": "올 퍼플", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0116"}]}
+{"id": "dialogue:5826588e70f8e76f", "source": "オール　ブラック", "text": "올 블랙", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0117"}]}
+{"id": "dialogue:51eb6e4d16b2b5eb", "source": "オール　レッド", "text": "올 레드", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0118"}]}
+{"id": "dialogue:47600fc20e6c12a5", "source": "オール　イエロー", "text": "올 옐로", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0119"}]}
+{"id": "dialogue:e0555ab3a37cca0b", "source": "オール　グリーン", "text": "올 그린", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0120"}]}
+{"id": "dialogue:add29421cc64e87b", "source": "オール　ローズピンク", "text": "올 로즈 핑크", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0121"}]}
+{"id": "dialogue:99417e910faa6988", "source": "オール　ブルー", "text": "올 블루", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0122"}]}
+{"id": "dialogue:9df78616de5a0667", "source": "嬉し恥ずかし夏休み【温泉】", "text": "설레는 여름방학【온천】", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0127"}, {"id": "MINIGAME/MGJT.BIN#0237"}]}
+{"id": "dialogue:93d5c9bbb1300fe8", "source": "嬉し恥ずかし夏休み【山登り】", "text": "설레는 여름방학【등산】", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0128"}, {"id": "MINIGAME/MGJT.BIN#0238"}]}
+{"id": "dialogue:82847d22a72ecb96", "source": "嬉し恥ずかし夏休み【海水浴】", "text": "설레는 여름방학【해수욕】", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0129"}, {"id": "MINIGAME/MGJT.BIN#0239"}]}
+{"id": "dialogue:7b62b171f1ffd4b4", "source": "サンテ刑務所潜入", "text": "산테 형무소 잠입", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0130"}, {"id": "MINIGAME/MGJT.BIN#0240"}]}
+{"id": "dialogue:fcee245224552fee", "source": "メイド三姉妹？", "text": "메이드 세 자매？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0131"}, {"id": "MINIGAME/MGJT.BIN#0241"}]}
+{"id": "dialogue:42cfcd445232a84d", "source": "さあカジノへ！", "text": "자，카지노로∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0132"}, {"id": "MINIGAME/MGJT.BIN#0242"}]}
+{"id": "dialogue:7cb35f5048e7b8fa", "source": "大騒ぎ！　春の大事件", "text": "대소동∈봄의 대사건", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0133"}, {"id": "MINIGAME/MGJT.BIN#0243"}]}
+{"id": "dialogue:0f355b81c262112c", "source": "光は東方より", "text": "빛은 동방에서", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0134"}, {"id": "MINIGAME/MGJT.BIN#0244"}]}
+{"id": "dialogue:9035c8a6c03023ac", "source": "シャノワールスタッフ", "text": "샤노와르 스태프", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0135"}, {"id": "MINIGAME/MGJT.BIN#0245"}]}
+{"id": "dialogue:27ab3120cee655a8", "source": "ヨーロッパ名門貴族", "text": "유럽 명문 귀족", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0136"}, {"id": "MINIGAME/MGJT.BIN#0246"}]}
+{"id": "dialogue:9424d174e008a286", "source": "花組ブロンド三人娘", "text": "화조 금발 세 소녀", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0137"}, {"id": "MINIGAME/MGJT.BIN#0247"}]}
+{"id": "dialogue:44c39ff7446f60cc", "source": "花組ちびっこ三人娘", "text": "화조 꼬마 세 소녀", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0138"}, {"id": "MINIGAME/MGJT.BIN#0248"}]}
+{"id": "dialogue:9073ab9ed27896ab", "source": "花組大和なでしこ三人娘", "text": "화조 나데시코 세 소녀", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0139"}, {"id": "MINIGAME/MGJT.BIN#0249"}]}
+{"id": "dialogue:69ab7cb3b871f931", "source": "読書好き", "text": "독서광", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0140"}, {"id": "MINIGAME/MGJT.BIN#0250"}]}
+{"id": "dialogue:2cb79cf659c6bbe3", "source": "シャノワール観光", "text": "샤노와르 관광", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0142"}, {"id": "MINIGAME/MGJT.BIN#0258"}]}
+{"id": "dialogue:6db9c2a75f51f50b", "source": "ノートルダム潜入！", "text": "노트르담 잠입∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0143"}, {"id": "MINIGAME/MGJT.BIN#0264"}]}
+{"id": "dialogue:8aaed1eab606187f", "source": "帝撃サポーターズ", "text": "제국화격단 응원단", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0144"}, {"id": "MINIGAME/MGJT.BIN#0252"}]}
+{"id": "dialogue:7047e5ab53977d04", "source": "巴里サポーターズ", "text": "파리 서포터즈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0145"}, {"id": "MINIGAME/MGJT.BIN#0253"}]}
+{"id": "dialogue:8fb6cf8dbd3b8957", "source": "スミィエールヌィ・ターニェツ", "text": "스메르텔니 타네츠", "review": "재검수2", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0147"}]}
+{"id": "dialogue:cb485af7e3d0c74e", "source": "イリス・アデュルト", "text": "이리스・아뤼트", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0148"}]}
+{"id": "dialogue:5b58e8dcfed83e72", "source": "カンツオーネ", "text": "칸초네", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0149"}]}
+{"id": "dialogue:ef2233ba78c2a9ae", "source": "ゴッター・デンメルング", "text": "괴터데머룽", "review": "재검수2", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0150"}]}
+{"id": "dialogue:236fbb890aafef37", "source": "パラディクス・ポルト", "text": "파라디스크 포르트", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0151"}]}
+{"id": "dialogue:c3e5f31eb3079b52", "source": "ブルー・ラド・マレ", "text": "블루・라 드 마레", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0152"}]}
+{"id": "dialogue:52c51fc477d1d380", "source": "ルヴェ・ル・リドー", "text": "르베 르 리도", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0153"}]}
+{"id": "dialogue:fe14ea41f221b03f", "source": "コンブスティオーネ", "text": "콤부스티온", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0154"}]}
+{"id": "dialogue:989295d161c3911e", "source": "さくら　フラッシュ", "text": "사쿠라 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0155"}]}
+{"id": "dialogue:b7d271b71d553ac5", "source": "すみれ　フラッシュ", "text": "스미레 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0156"}]}
+{"id": "dialogue:6554ee638ea2e73e", "source": "マリア　フラッシュ", "text": "마리아 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0157"}]}
+{"id": "dialogue:48bb9454839181b0", "source": "カンナ　フラッシュ", "text": "칸나 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0158"}]}
+{"id": "dialogue:21d773ec346e173d", "source": "アイリス　フラッシュ", "text": "아이리스 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0159"}]}
+{"id": "dialogue:29aab74206f39339", "source": "レニ　フラッシュ", "text": "레니 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0160"}]}
+{"id": "dialogue:719b0d91a067aea8", "source": "エリカ　フラッシュ", "text": "에리카 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0161"}]}
+{"id": "dialogue:3092fc3ff31b899e", "source": "グリシーヌ　フラッシュ", "text": "글리신 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0162"}]}
+{"id": "dialogue:32b9b2db2a6fc4ad", "source": "コクリコ　フラッシュ", "text": "코쿠리코 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0163"}]}
+{"id": "dialogue:6c7538ac9e4b9091", "source": "ロベリア　フラッシュ", "text": "로벨리아 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0164"}]}
+{"id": "dialogue:f1ef54e7fe2f8c2a", "source": "メル　フラッシュ", "text": "멜 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0165"}]}
+{"id": "dialogue:43b40e4b46f1543a", "source": "シー　フラッシュ", "text": "시 플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0166"}]}
+{"id": "dialogue:137226bcb7819b9f", "source": "ふたりは　さくら色", "text": "두 사람은 사쿠라색", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0167"}]}
+{"id": "dialogue:50872ad38da4d3d4", "source": "ふたりの愛は永遠に", "text": "둘의 사랑은 영원히", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0168"}]}
+{"id": "dialogue:3411f9d7b82bb74b", "source": "眠れぬ夜のスィリナーダ", "text": "잠 못 드는 밤의 세레나타", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0169"}]}
+{"id": "dialogue:9684de76b0502765", "source": "君と歩もう、純情一路∈", "text": "그대와 걷자，순정 일로∈", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0170"}]}
+{"id": "dialogue:0c823a783f05b841", "source": "ジュティーム・モナムール", "text": "주 템・모나무르", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0171"}]}
+{"id": "dialogue:df867d9f06ff115d", "source": "我・愛・∂", "text": "워아이・∂", "review": "재검수2", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0172"}]}
+{"id": "dialogue:7c302514f449dd42", "source": "シンフォーニア", "text": "신포니아", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0173"}]}
+{"id": "dialogue:95b80a4cfec53277", "source": "エアレーズング", "text": "에어레중", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0174"}]}
+{"id": "dialogue:731941a5853c57b8", "source": "ハレルヤ", "text": "할렐루야", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0175"}]}
+{"id": "dialogue:2b713ecd556820a6", "source": "ペガース・エール", "text": "페가스・엘", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0176"}]}
+{"id": "dialogue:6de5e7d90c34ca70", "source": "アムール・エスカポレート", "text": "아무르・에스카르폴레트", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0177"}]}
+{"id": "dialogue:cc24692098ad5195", "source": "ペリッコロ・ジョーコ", "text": "페리콜로・조코", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0178"}]}
+{"id": "dialogue:9ccd56f412dceac2", "source": "君と彷徨う　恋の道かな", "text": "그대와 헤매는 사랑의 길", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0179"}]}
+{"id": "dialogue:fbf6b042487d487d", "source": "相手の//ロン上がりを防ぎます。//（自動的にＬＩＰＳで発動）", "text": "상대의//론 화료를 막습니다．//（자동으로 ＬＩＰＳ에서 발동）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0180"}]}
+{"id": "dialogue:a06faf1984a55c9c", "source": "相手の//ロン上がりを防ぎます。//（パイを３枚そろえてください）", "text": "상대의//론 화료를 막습니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0181"}]}
+{"id": "dialogue:64423a6d6ec62581", "source": "相手の//ツモ上がりを防ぎます。//（自動的にＬＩＰＳで発動）", "text": "상대의//쯔모 화료를 막습니다．//（자동으로 ＬＩＰＳ에서 발동）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0182"}]}
+{"id": "dialogue:3c8b9089be68b945", "source": "相手の//ツモ上がりを防ぎます。//（パイを３枚そろえてください）", "text": "상대의//쯔모 화료를 막습니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0183"}]}
+{"id": "dialogue:fe3b0e6b3937a5dd", "source": "リーチした次の手番で、//上がりパイを必ずツモります。//（自動的にＬＩＰＳで発動）", "text": "리치한 다음 차례에//화료패를 반드시 쯔모합니다．//（자동으로 ＬＩＰＳ에서 발동）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0184"}]}
+{"id": "dialogue:2c7dbdd430cbd1bd", "source": "リーチした次の手番で、//上がりパイを必ずツモります。//（パイを３枚そろえてください）", "text": "리치한 다음 차례에//화료패를 반드시 쯔모합니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0185"}]}
+{"id": "dialogue:ca6bbc39fc0a9a4f", "source": "もう一度//パイをツモることができます。//（Ａボタンで発動）", "text": "한 번 더//패를 쯔모할 수 있습니다．//（Ａ버튼으로 발동）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0186"}]}
+{"id": "dialogue:ffd78f43fbc9d0f0", "source": "もう一度//パイをツモることができます。//（パイを３枚そろえてください）", "text": "한 번 더//패를 쯔모할 수 있습니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0187"}]}
+{"id": "dialogue:83a0536f2729ca0f", "source": "もう一度//パイをツモることができます。//（現在発動できません）", "text": "한 번 더//패를 쯔모할 수 있습니다．//（지금은 발동할 수 없습니다）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0188"}]}
+{"id": "dialogue:562045e17072fe5d", "source": "１回の手番中には、//同じ効果の必殺攻撃を//２度発動することはできません。", "text": "한 차례에는//같은 효과의 필살공격을//두 번 발동할 수 없습니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0189"}, {"id": "MINIGAME/MGJT.BIN#0193"}, {"id": "MINIGAME/MGJT.BIN#0196"}, {"id": "MINIGAME/MGJT.BIN#0199"}, {"id": "MINIGAME/MGJT.BIN#0202"}]}
+{"id": "dialogue:6094f2cd0ab1e109", "source": "お題を増やします。////（Ａボタンで発動）", "text": "주제를 늘립니다．//（Ａ버튼으로 발동）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0190"}]}
+{"id": "dialogue:b235b9832579adcb", "source": "お題を増やします。////（パイを３枚そろえてください）", "text": "주제를 늘립니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0191"}]}
+{"id": "dialogue:88594ed8be5ab72d", "source": "お題を増やします。////（これ以上増やせません）", "text": "주제를 늘립니다．//（더 이상 늘릴 수 없습니다）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0192"}]}
+{"id": "dialogue:ab329f88cd83ca3d", "source": "相手のパイを入れ替えて、//手を壊します。//（Ａボタンで発動）", "text": "상대의 패를 바꿔//손패를 무너뜨립니다．//（Ａ버튼으로 발동）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0194"}]}
+{"id": "dialogue:5f6d715f502c5de6", "source": "相手のパイを入れ替えて、//手を壊します。//（パイを３枚そろえてください）", "text": "상대의 패를 바꿔//손패를 무너뜨립니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0195"}]}
+{"id": "dialogue:7e5fe452e52d53e3", "source": "自分のパイを入れ替えて、//お題パイを引き入れます。//（Ａボタンで発動）", "text": "자신의 패를 바꿔//주제 패를 가져옵니다．//（Ａ버튼으로 발동）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0197"}]}
+{"id": "dialogue:6c95a98d793338da", "source": "自分のパイを入れ替えて、//お題パイを引き入れます。//（パイを３枚そろえてください）", "text": "자신의 패를 바꿔//주제 패를 가져옵니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0198"}]}
+{"id": "dialogue:53b38e59feb9fdff", "source": "この局をやり直します。////（Ａボタンで発動）", "text": "이 국을 다시 합니다．//（Ａ버튼으로 발동）", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0200"}]}
+{"id": "dialogue:cb2945eebb04fff9", "source": "この局をやり直します。////（パイを３枚そろえてください）", "text": "이 국을 다시 합니다．//（패를 ３장 모아 주세요）", "review": "띄어쓰기·마작 용어", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0201"}]}
+{"id": "dialogue:b34715de2f27c105", "source": "メッセージがありません。", "text": "메시지가 없습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0203"}]}
+{"id": "dialogue:ea28a8cf282bd7ac", "source": "一色染め", "text": "청일색", "review": "미번역 번역", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0210"}]}
+{"id": "dialogue:508b7998258838ce", "source": "フラッシュ", "text": "플래시", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0211"}]}
+{"id": "dialogue:1070acf15788fe05", "source": "ミニゲーム", "text": "미니게임", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0212"}]}
+{"id": "dialogue:9066016129ffc213", "source": "ヒロイン合体攻撃", "text": "히로인 합체 공격", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/MGJT.BIN#0213"}]}

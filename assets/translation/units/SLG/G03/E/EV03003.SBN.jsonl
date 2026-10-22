@@ -1,0 +1,30 @@
+{"id": "dialogue:d08db66e39a95a96", "source": "よし……//敵もだいぶ弱まってきたな。", "text": "좋아…//적도 제법 약해졌군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0001"}]}
+{"id": "dialogue:23a5b849513addab", "source": "なに〓//どういうことだ！", "text": "뭐라고〓//어떻게 된 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0005"}]}
+{"id": "dialogue:b743d2225b3ffdf3", "source": "……蒸気が漏れ出したから、//隔壁が降りたんだ。//機関部内温度、危険域突破。", "text": "…증기가 새어 나왔기 때문에，//격벽이 내려간 거야．//기관부 내부 온도，위험 영역 돌파．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0007"}]}
+{"id": "dialogue:292cbd282a715687", "source": "ウチたちは光武に乗ってるから//なんとか無事やけど……//米田はんは……", "text": "우리는 광무를 타고 있어서//우째 무사하지만도…//요네다 씨는…", "review": "사투리 보강", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0008"}]}
+{"id": "dialogue:4aa43737814cdb79", "source": "米田司令！//応答してください∈//米田司令！", "text": "요네다 사령관님∈//응답해 주십시오∈//요네다 사령관님∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0009"}]}
+{"id": "dialogue:423e44af7e557a30", "source": "……なんだ、うるせぇな。//騒ぐんじゃねぇよ。", "text": "…뭐야，시끄럽게．//떠들지 마．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0011"}]}
+{"id": "dialogue:21898625b0e6b291", "source": "司令∈//はやく脱出してください！", "text": "사령관님∈//어서 탈출하세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0012"}]}
+{"id": "dialogue:d2be1858c8863eb2", "source": "ev03003eff00.be1", "text": "ev03003eff00.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0013"}]}
+{"id": "dialogue:82e30378d813e0e3", "source": "ev03003eff00.bt1", "text": "ev03003eff00.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0014"}]}
+{"id": "dialogue:58413a8f7b0665cf", "source": "米田支配人∈//そんなこと//言ってる場合じゃないです！", "text": "요네다 지배인님∈//그런 말씀 하실 때가 아니에요∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0016"}]}
+{"id": "dialogue:7f1705a0cc85698c", "source": "米田司令∈", "text": "요네다 사령관∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0022"}]}
+{"id": "dialogue:d5556b326e26e0a7", "source": "俺たちも司令が大切なんです∈", "text": "우리도 사령관님이 소중합니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0023"}]}
+{"id": "dialogue:6bc1509932d04292", "source": "どうしてそこまでするんですか？", "text": "어째서 그렇게까지 하시는 건가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0024"}]}
+{"id": "dialogue:de91395ae3ebe9f4", "source": "俺たちも司令が大切なんです∈//みんな一緒にいたいんです！", "text": "우리에게도 사령관님이//소중하다고요∈//모두 함께 있고 싶어요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0025"}]}
+{"id": "dialogue:83efae0c3ac4f9fe", "source": "どうしてそこまでするんですか？//ミカサの暴走も、//俺たちが止めてみせますから！", "text": "어째서 그렇게까지 하시는 겁니까？//미카사의 폭주도，//저희가 막아 보이겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0029"}]}
+{"id": "dialogue:46b01f5a0fa433de", "source": "だけどな……お前たちのことは、//命に代えても、//守ってやらなきゃならねぇ。", "text": "하지만 말이야…너희들을，//목숨을 바쳐서라도，//지켜 내야만 해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0031"}]}
+{"id": "dialogue:28a09b7a56931f46", "source": "俺にとっちゃ……//お前たちは、//息子みたいなもんだからな。", "text": "나한테는…//너희가，//아들 같은 존재니까 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0032"}, {"id": "SLG/G03/E/EV03003.SBN#0034"}]}
+{"id": "dialogue:7e16d08ed19eedad", "source": "米田司令、忘れたんですの？//生きて帰ってこいって、//おっしゃってるではないですか！", "text": "요네다 사령관님，잊으신 건가요？//살아서 돌아오라고，//말씀하시지 않았습니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0035"}]}
+{"id": "dialogue:1e4ef241d0d8c9be", "source": "子どもはそんなこと望みません∈", "text": "아이들은 그런 걸 바라지 않아요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0041"}]}
+{"id": "dialogue:42d189cfd2c89904", "source": "司令……死ぬ気ですか？", "text": "사령관님…죽을 생각인가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0042"}, {"id": "SLG/G03/E/EV03003.SBN#0050"}]}
+{"id": "dialogue:429142ebcbbcd522", "source": "……ミカサを頼みます。", "text": "…미카사를 부탁합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0043"}]}
+{"id": "dialogue:7b3cd4d4d5be6054", "source": "子どもはそんなこと望みません∈//自分のために……//親が犠牲になるなんて！", "text": "아이들은 그런 걸 바라지 않아요∈//자신을 위해서…//부모님이 희생되다니∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0044"}]}
+{"id": "dialogue:4f93d11db9e302ae", "source": "支配人は……あたしたちのことを//娘のようだと言ってくれたじゃ//ないですか！", "text": "지배인님은…저희를//딸 같다고 하셨잖아요∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0052"}]}
+{"id": "dialogue:065b4a464132f602", "source": "……ミカサを頼みます。//俺たちは……必ず、//帝劇を守ってみせますから。", "text": "…미카사를 부탁합니다．//저희는…반드시，//제국극장을 지켜 내겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0056"}]}
+{"id": "dialogue:a2b5e8efb8b5e842", "source": "米田支配人……必ず、//必ず生きて帰って来てください。", "text": "요네다 지배인님…반드시//반드시 살아서 돌아와 주세요．", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0058"}]}
+{"id": "dialogue:6151d86a4e1b166e", "source": "大帝国劇場は、わたくしたちが//傷一つ付けさせません。//お約束いたします。", "text": "대제국극장은，저희가//흠집 하나 내지 못하게 하겠습니다．//약속드리겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0059"}]}
+{"id": "dialogue:45708f7e82151c72", "source": "司令はさ……あたいたちのことを//実の娘のように、//考えてくれているんだろ？", "text": "사령관님은 말이야…우리를//친딸처럼，//생각해 주고 있는 거지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0060"}]}
+{"id": "dialogue:f93e4d589a740581", "source": "……わかりました。//なら俺たちは、すぐに敵を倒して//金色の蒸気を止めます。", "text": "…알겠습니다．//그렇다면 저희는，곧바로 적을 쓰러뜨리고 금빛 증기를 멈추겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0071"}]}
+{"id": "dialogue:f039cd8f26ea854f", "source": "……みんな、聞いたな。//ミカサを暴走させている//金色の蒸気はヤツが出している。", "text": "…모두 들었겠지．//미카사를 폭주시키고 있는//금빛 증기는 그 녀석이 내뿜고 있다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0073"}]}
+{"id": "dialogue:1a445cef17d56bb9", "source": "速攻でヤツを叩くぞ∈//すこしでも早く、//米田司令を救出するんだ！", "text": "단숨에 녀석을 쓰러뜨리자∈//조금이라도 빨리，//요네다 사령관님을 구출하는 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0074"}]}

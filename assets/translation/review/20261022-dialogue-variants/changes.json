@@ -1,0 +1,6090 @@
+[
+  {
+    "unit": "dialogue:6856126ae638da27",
+    "source": "頼りにしていますよ？//大神さん！",
+    "before": {
+      "id": "dialogue:6856126ae638da27",
+      "source": "頼りにしていますよ？//大神さん！",
+      "text": "믿고 있어요？//오오가미 씨∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0019"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2051"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1766",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1343",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4b2c94e8bda12c5b5f5dc8878a9083b0f6cdbc8e182f67c1d16e7e566c038da1",
+          "text": "믿고 있을게요？//오오가미 씨∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4b2c94e8bda12c5b5f5dc8878a9083b0f6cdbc8e182f67c1d16e7e566c038da1",
+          "text": "믿고 있어요，//오오가미 씨∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:6856126ae638da27",
+      "source": "頼りにしていますよ？//大神さん！",
+      "text": "믿고 있어요，//오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0019"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2051"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1766"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1343"
+        }
+      ]
+    },
+    "reason": "전투 중 격려: 질문표로 끝나는 직역을 자연스러운 신뢰 표현으로 통일"
+  },
+  {
+    "unit": "dialogue:a397d9ece38d3997",
+    "source": "今日の大神さん、//なんだか、ステキです！",
+    "before": {
+      "id": "dialogue:a397d9ece38d3997",
+      "source": "今日の大神さん、//なんだか、ステキです！",
+      "text": "오늘의 오오가미 씨，//왠지 멋져요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0030"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2062"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1777",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1354"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "2be8d96286293efa67d9265b96511141db7623ad17bffa5baab1b881c4690d14",
+          "text": "오늘 오오가미 씨，//왠지 멋져요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a397d9ece38d3997",
+      "source": "今日の大神さん、//なんだか、ステキです！",
+      "text": "오늘 오오가미 씨，//왠지 멋져요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0030"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2062"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1777"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1354"
+        }
+      ]
+    },
+    "reason": "오늘의 오오가미라는 부자연스러운 관형 표현 완화"
+  },
+  {
+    "unit": "dialogue:2d3c9b15388b01d9",
+    "source": "ふふふ……大神くん、//しっかりとがんばってね。//あたしも手伝うわ。",
+    "before": {
+      "id": "dialogue:2d3c9b15388b01d9",
+      "source": "ふふふ……大神くん、//しっかりとがんばってね。//あたしも手伝うわ。",
+      "text": "후후후…오오가미 군，//제대로 힘내 줘．//나도 도울게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0287",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "919dc26285b0866087eceb1a5368605bfaf9fa8b941e01d0fbee782a5301ded0",
+          "text": "후후후…오오가미 군，//힘내서 잘해 봐．//나도 도울게．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2d3c9b15388b01d9",
+      "source": "ふふふ……大神くん、//しっかりとがんばってね。//あたしも手伝うわ。",
+      "text": "후후후…오오가미 군，//힘내서 잘해 봐．//나도 도울게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0287"
+        }
+      ]
+    },
+    "reason": "しっかりがんばる를 제대로 힘내다 대신 잘해 보라는 격려로 표현"
+  },
+  {
+    "unit": "dialogue:1625544f9b56a198",
+    "source": "みんな、巴里に行くって//言い出しちゃってね。",
+    "before": {
+      "id": "dialogue:1625544f9b56a198",
+      "source": "みんな、巴里に行くって//言い出しちゃってね。",
+      "text": "모두，파리에 가겠다고//말하기 시작해서 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0130"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0352",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "7b85c3166a13e1aa8341eb0e2ae3bb670a2c17a53a4095cf1e4d61c5075b2757",
+          "text": "모두，파리에 가겠다고//나서는 바람에 말이야．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1625544f9b56a198",
+      "source": "みんな、巴里に行くって//言い出しちゃってね。",
+      "text": "모두，파리에 가겠다고//나서는 바람에 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0130"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0352"
+        }
+      ]
+    },
+    "reason": "行くと言い出す를 가겠다고 나서다로 자연스럽게 표현"
+  },
+  {
+    "unit": "dialogue:5ecdc384d513d362",
+    "source": "あたし……大神さんに//ワガママって言われたら、//どうしようかと……",
+    "before": {
+      "id": "dialogue:5ecdc384d513d362",
+      "source": "あたし……大神さんに//ワガママって言われたら、//どうしようかと……",
+      "text": "저…오오가미 씨한테//제멋대로라는 말을 들으면//어쩌나 하고…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0165"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0453",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "01594f11d92f7703612b4f241719fadba253d97b892c0332c08c3ce52a1da014",
+          "text": "저…오오가미 씨한테//제멋대로라고 하면//어떡하나 하고…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5ecdc384d513d362",
+      "source": "あたし……大神さんに//ワガママって言われたら、//どうしようかと……",
+      "text": "저…오오가미 씨가//제멋대로라고 하시면//어쩌나 하고…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0165"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0453"
+        }
+      ]
+    },
+    "reason": "제멋대로라는 말을 듣는 주체는 화자. 다른 변형의 주체 혼동 교정"
+  },
+  {
+    "unit": "dialogue:902103968d6e2980",
+    "source": "支配人……//神崎すみれです。//よろしくて？",
+    "before": {
+      "id": "dialogue:902103968d6e2980",
+      "source": "支配人……//神崎すみれです。//よろしくて？",
+      "text": "지배인님…//칸자키 스미레입니다．//될까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0180"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0487",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9675f659af625e9566505b2b3f5bfa1673dcf902c670a3ca492281e7e618fef1",
+          "text": "지배인님…//칸자키 스미레입니다．//들어가도 될까요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:902103968d6e2980",
+      "source": "支配人……//神崎すみれです。//よろしくて？",
+      "text": "지배인님…스미레예요．//들어가도 될까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0180"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0487"
+        }
+      ]
+    },
+    "reason": "방문 허락을 묻는 장면: 생략된 질문의 목적 명확화"
+  },
+  {
+    "unit": "dialogue:0b227abf892609a5",
+    "source": "はぁ……中尉、//誤解を解いておきますわ。",
+    "before": {
+      "id": "dialogue:0b227abf892609a5",
+      "source": "はぁ……中尉、//誤解を解いておきますわ。",
+      "text": "하아…중위님，//오해를 풀어 두고 올게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0194"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0513",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a6aedc4e586e4e525ee77dc558314e76d131fce2622aa1672fe091aac8e6ab83",
+          "text": "하아…중위님，//오해를 풀어 두겠어요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:0b227abf892609a5",
+      "source": "はぁ……中尉、//誤解を解いておきますわ。",
+      "text": "하아…중위님，//오해를 풀어 두겠어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0194"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0513"
+        }
+      ]
+    },
+    "reason": "오해를 여기서 해명하는 장면에 없는 이동/귀환 동작 삭제"
+  },
+  {
+    "unit": "dialogue:a9fdfd203f5dd4b8",
+    "source": "あたいだけど……//隊長こっちに来てるかい？",
+    "before": {
+      "id": "dialogue:a9fdfd203f5dd4b8",
+      "source": "あたいだけど……//隊長こっちに来てるかい？",
+      "text": "나야…//대장，이쪽에 있어？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0253"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0630",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "d59b040aa408a9b655eca0148c424a9b8cb0ec5bb652b4377733e84a19905554",
+          "text": "나야…//대장，여기 있어？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a9fdfd203f5dd4b8",
+      "source": "あたいだけど……//隊長こっちに来てるかい？",
+      "text": "나야…//대장 여기 왔어？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0253"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0630"
+        }
+      ]
+    },
+    "reason": "칸나가 방문 밖에서 대장이 안에 있는지 묻는 문맥 확인. 대장을 직접 부르는 쉼표 삭제"
+  },
+  {
+    "unit": "dialogue:1a824330b4df785b",
+    "source": "すみれに相談〓//そいつはねぇだろう！",
+    "before": {
+      "id": "dialogue:1a824330b4df785b",
+      "source": "すみれに相談〓//そいつはねぇだろう！",
+      "text": "스미레한테 상담〓//그건 좀 아니지∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0280"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0673",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a379e88e87730225633ebba4054c454209006c25bba6acd3d797d7838e1430f7",
+          "text": "스미레한테 상의〓//그건 좀 아니지∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1a824330b4df785b",
+      "source": "すみれに相談〓//そいつはねぇだろう！",
+      "text": "스미레한테 상의〓//그건 좀 아니지∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0280"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0673"
+        }
+      ]
+    },
+    "reason": "도움을 구하며 의견을 묻는 相談를 상의로 표현"
+  },
+  {
+    "unit": "dialogue:884e6272a3c02eb7",
+    "source": "ついに隊長も総合演出か。//責任重大だな。",
+    "before": {
+      "id": "dialogue:884e6272a3c02eb7",
+      "source": "ついに隊長も総合演出か。//責任重大だな。",
+      "text": "드디어 대장도 종합 연출．//책임 막중하겠네．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0611"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1229",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "14d7ce18d0335d2163204defadd7f09041ba0fa14a58ed5c09e83285f1215f67",
+          "text": "드디어 대장도 종합 연출인가．//책임이 막중하겠군．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:884e6272a3c02eb7",
+      "source": "ついに隊長も総合演出か。//責任重大だな。",
+      "text": "대장도 종합 연출이군．//책임이 막중하네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0611"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1229"
+        }
+      ]
+    },
+    "reason": "책임 막중하겠네의 조사 누락과 명사 종결 완화"
+  },
+  {
+    "unit": "dialogue:f89006fcafc061bf",
+    "source": "あ、あれを∈//中になにかいます！",
+    "before": {
+      "id": "dialogue:f89006fcafc061bf",
+      "source": "あ、あれを∈//中になにかいます！",
+      "text": "아，저거∈//안에 뭔가 있어요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0803"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0146",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "962b1640800a94ce136cad9605770d03858bc9422678625ef0432e785382f185",
+          "text": "아，저걸∈//안에 뭔가 있어요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f89006fcafc061bf",
+      "source": "あ、あれを∈//中になにかいます！",
+      "text": "아，저걸∈//안에 뭔가 있어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0803"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0146"
+        }
+      ]
+    },
+    "reason": "あれを의 목적어 조사 복원"
+  },
+  {
+    "unit": "dialogue:87f10f8512072754",
+    "source": "安い役で、ホッとしました……",
+    "before": {
+      "id": "dialogue:87f10f8512072754",
+      "source": "安い役で、ホッとしました……",
+      "text": "싼 역이라 안심했어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0832"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1774",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1490",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1067",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e842f929cb09c297f13c56e1bc6b4282bf5c3509dafa46ad35180406b3d9d3c1",
+          "text": "낮은 역이라 안심했어요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:87f10f8512072754",
+      "source": "安い役で、ホッとしました……",
+      "text": "낮은 역에 안심했어요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0832"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1774"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1490"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1067"
+        }
+      ]
+    },
+    "reason": "마작의 낮은 점수 역을 싼 역으로 직역한 부분 교정"
+  },
+  {
+    "unit": "dialogue:c6a29230741fcc88",
+    "source": "堅実が一番です。",
+    "before": {
+      "id": "dialogue:c6a29230741fcc88",
+      "source": "堅実が一番です。",
+      "text": "안전이 최고예요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0850"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1792",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1508"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1085"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "3049070f53c483d535f3fc0877b00cc14b50dacf8b5b7873589c5350a41a935b",
+          "text": "성실이 최고예요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:c6a29230741fcc88",
+      "source": "堅実が一番です。",
+      "text": "안전제일이에요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0850"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1792"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1508"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1085"
+        }
+      ]
+    },
+    "reason": "마작에서 堅実은 성실한 성품보다 안전하고 견실한 플레이를 뜻함"
+  },
+  {
+    "unit": "dialogue:00885c7dad4f9d1b",
+    "source": "ボクを本気にさせたね……",
+    "before": {
+      "id": "dialogue:00885c7dad4f9d1b",
+      "source": "ボクを本気にさせたね……",
+      "text": "진심을 다하게 했네…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0899"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1841",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1557",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1134",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6dc751b0bed7a99712ba26afa3efe7e545adeca2f36f16208f60cab02678d512",
+          "text": "나를 진지하게 만들었네…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6dc751b0bed7a99712ba26afa3efe7e545adeca2f36f16208f60cab02678d512",
+          "text": "나를 진심으로 싸우게 했네…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:00885c7dad4f9d1b",
+      "source": "ボクを本気にさせたね……",
+      "text": "진심으로 상대할게…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0899"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1841"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1557"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1134"
+        }
+      ]
+    },
+    "reason": "本気にさせた의 승부 어감 자연화. 진지한 성격으로 만들었다는 오해 방지"
+  },
+  {
+    "unit": "dialogue:447e7f94db93f8b5",
+    "source": "今度……指導をお願いするよ。",
+    "before": {
+      "id": "dialogue:447e7f94db93f8b5",
+      "source": "今度……指導をお願いするよ。",
+      "text": "다음엔…지도를 부탁할게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0903"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1845",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1561",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1138",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a9e2fff79d006f207b6648c7814215a7d6a3e77bda7928e5af20dd2a2c25d5b4",
+          "text": "이번에는…지도를 부탁할게．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a9e2fff79d006f207b6648c7814215a7d6a3e77bda7928e5af20dd2a2c25d5b4",
+          "text": "다음엔…가르침을 부탁할게．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:447e7f94db93f8b5",
+      "source": "今度……指導をお願いするよ。",
+      "text": "다음엔…지도를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0903"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1845"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1561"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1138"
+        }
+      ]
+    },
+    "reason": "대전 종료 후 다음 기회에 지도를 부탁하는 今度의 의미"
+  },
+  {
+    "unit": "dialogue:f4c01289f92e5c17",
+    "source": "ま、こんなとこで//勘弁してやるか……",
+    "before": {
+      "id": "dialogue:f4c01289f92e5c17",
+      "source": "ま、こんなとこで//勘弁してやるか……",
+      "text": "뭐，이런 데서//봐 주도록 할까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0940"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1882",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1598",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1175",
+          "form": "v003"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "bb31220d8cbee64a1600df2a39c16a5fc53fefbfcbadd6ceff830d139a49c1d4",
+          "text": "뭐，이런 데서//봐 주기로 할까…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "bb31220d8cbee64a1600df2a39c16a5fc53fefbfcbadd6ceff830d139a49c1d4",
+          "text": "뭐，이 정도에서//봐 주기로 할까…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "bb31220d8cbee64a1600df2a39c16a5fc53fefbfcbadd6ceff830d139a49c1d4",
+          "text": "뭐，이 정도에서//봐 주도록 할까…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f4c01289f92e5c17",
+      "source": "ま、こんなとこで//勘弁してやるか……",
+      "text": "뭐，이쯤에서//봐 주기로 할까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0940"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1882"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1598"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1175"
+        }
+      ]
+    },
+    "reason": "こんなところで는 장소가 아닌 이 정도에서 그만한다는 의미"
+  },
+  {
+    "unit": "dialogue:34ced7dc47e3a22b",
+    "source": "おてやわらかに……",
+    "before": {
+      "id": "dialogue:34ced7dc47e3a22b",
+      "source": "おてやわらかに……",
+      "text": "살살 부탁드려요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0948"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1890",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1606",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1183"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e6fbeedcc66d8d437a703b3b9203aff808fdd1426079cc84f22ba2f1eecd69c6",
+          "text": "살살 부탁해요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e6fbeedcc66d8d437a703b3b9203aff808fdd1426079cc84f22ba2f1eecd69c6",
+          "text": "부드럽게…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:34ced7dc47e3a22b",
+      "source": "おてやわらかに……",
+      "text": "살살요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0948"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1890"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1606"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1183"
+        }
+      ]
+    },
+    "reason": "おてやわらかに는 승부에서 살살 해 달라는 인사. 부드럽게라는 단독 직역 교정"
+  },
+  {
+    "unit": "dialogue:fb38c776c1c90dc5",
+    "source": "おつかれさま。//よくがんばったわね。",
+    "before": {
+      "id": "dialogue:fb38c776c1c90dc5",
+      "source": "おつかれさま。//よくがんばったわね。",
+      "text": "수고했어．//정말 고생 많았어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0973"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1915"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1631",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1208",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "825cadf9c877a94f1feac939c2330458af1139da1250132c277d408ffb4c51aa",
+          "text": "수고했어．//정말 고생 많았네．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "825cadf9c877a94f1feac939c2330458af1139da1250132c277d408ffb4c51aa",
+          "text": "수고했어．//정말 잘했어．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fb38c776c1c90dc5",
+      "source": "おつかれさま。//よくがんばったわね。",
+      "text": "수고했어．//정말 잘했어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0973"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1915"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1631"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1208"
+        }
+      ]
+    },
+    "reason": "よくがんばった를 성과를 칭찬하는 말로 자연화"
+  },
+  {
+    "unit": "dialogue:c598f5623c5b3452",
+    "source": "お、おい……早まるなよ！",
+    "before": {
+      "id": "dialogue:c598f5623c5b3452",
+      "source": "お、おい……早まるなよ！",
+      "text": "어，어이…서두르지 마∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1920",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1636"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1213"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "32b314d3b4aa3dba12ecd1dc7b0c45d7ffebd456b9135a938c04e522b5354a90",
+          "text": "어，어이…성급히 굴지 마∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:c598f5623c5b3452",
+      "source": "お、おい……早まるなよ！",
+      "text": "어，성급히 굴지 마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1920"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1636"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1213"
+        }
+      ]
+    },
+    "reason": "早まる의 성급한 행동을 만류하는 뜻 보존"
+  },
+  {
+    "unit": "dialogue:2b2f251e1dfe887c",
+    "source": "ゆ、夢だと言ってくれぇ！",
+    "before": {
+      "id": "dialogue:2b2f251e1dfe887c",
+      "source": "ゆ、夢だと言ってくれぇ！",
+      "text": "꿈，꿈이라고 말해 줘어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0981"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1923",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1639"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1216"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c43f29bf2b849d5167cd755255ef1fa8e9eb06742b1e15936f2730cfd2d803f8",
+          "text": "이，꿈이라고 말해 줘어∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2b2f251e1dfe887c",
+      "source": "ゆ、夢だと言ってくれぇ！",
+      "text": "꿈，꿈이라고 말해 줘어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0981"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1923"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1639"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1216"
+        }
+      ]
+    },
+    "reason": "한국어 더듬는 소리를 꿈에 맞춤. 일본어 ゆ 음역 이 삭제"
+  },
+  {
+    "unit": "dialogue:66162ee511abda81",
+    "source": "アディオース！//また対戦してくれよなぁ！",
+    "before": {
+      "id": "dialogue:66162ee511abda81",
+      "source": "アディオース！//また対戦してくれよなぁ！",
+      "text": "아디오스∈//다시 대전해 줘라구∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0983"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1925",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1641",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1218",
+          "form": "v003"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "362b2d099925be108418a6a7a2fe582bfbaab7a0ce78c96b745e0c047af10f60",
+          "text": "아디오스∈//또 대전해 줘라구∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "362b2d099925be108418a6a7a2fe582bfbaab7a0ce78c96b745e0c047af10f60",
+          "text": "아디오스∈//또 상대해 달라고∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "362b2d099925be108418a6a7a2fe582bfbaab7a0ce78c96b745e0c047af10f60",
+          "text": "아디오스∈//또 한 판 붙자고∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:66162ee511abda81",
+      "source": "アディオース！//また対戦してくれよなぁ！",
+      "text": "아디오스∈//또 한 판 붙자고∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0983"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1925"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1641"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1218"
+        }
+      ]
+    },
+    "reason": "また対戦してくれ를 또 한 판 붙자고로 자연스럽게 표현"
+  },
+  {
+    "unit": "dialogue:97904a1a7c51a003",
+    "source": "安い役で安心しました……",
+    "before": {
+      "id": "dialogue:97904a1a7c51a003",
+      "source": "安い役で安心しました……",
+      "text": "싼 역이라 안심했어요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1944"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1660",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1237",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e842f929cb09c297f13c56e1bc6b4282bf5c3509dafa46ad35180406b3d9d3c1",
+          "text": "낮은 역이라 안심했어요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:97904a1a7c51a003",
+      "source": "安い役で安心しました……",
+      "text": "낮은 역에 안심했어요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1944"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1660"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1237"
+        }
+      ]
+    },
+    "reason": "마작의 낮은 점수 역을 싼 역으로 직역한 부분 교정"
+  },
+  {
+    "unit": "dialogue:d1ee593431d1565d",
+    "source": "今度、ゆっくりと//お相手してあげるわ……",
+    "before": {
+      "id": "dialogue:d1ee593431d1565d",
+      "source": "今度、ゆっくりと//お相手してあげるわ……",
+      "text": "다음엔，느긋하게//상대해 줄게…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1023"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0019",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1681",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1258",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "99e11aa7f908ab7fdffa395469e2d07bf9f98afd9ff9f594d15c46e002303a1b",
+          "text": "다음엔，천천히//상대해 줄게…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "99e11aa7f908ab7fdffa395469e2d07bf9f98afd9ff9f594d15c46e002303a1b",
+          "text": "이번에는，느긋하게//상대해 줄게…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:d1ee593431d1565d",
+      "source": "今度、ゆっくりと//お相手してあげるわ……",
+      "text": "다음엔 느긋하게//상대해 줄게…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1023"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0019"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1681"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1258"
+        }
+      ]
+    },
+    "reason": "다음 기회에 상대하겠다는 今度의 의미"
+  },
+  {
+    "unit": "dialogue:45a66789698b88ba",
+    "source": "ああん、//ス……ステキぃ〜～～っ！",
+    "before": {
+      "id": "dialogue:45a66789698b88ba",
+      "source": "ああん、//ス……ステキぃ〜～～っ！",
+      "text": "아앙，//스…멋져어어어어엇∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1039"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0035",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1697",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1274"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "86659c8bffe439419df00e636fde1a223a46d41077f5f48938cb6d4114dfcef4",
+          "text": "아앙，//스…멋져어어어어어∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "86659c8bffe439419df00e636fde1a223a46d41077f5f48938cb6d4114dfcef4",
+          "text": "아앙，//머…멋져어～～～∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:45a66789698b88ba",
+      "source": "ああん、//ス……ステキぃ〜～～っ！",
+      "text": "아앙，//머…멋져어～～～∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1039"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0035"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1697"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1274"
+        }
+      ]
+    },
+    "reason": "한국어 멋지다에 맞춰 말더듬 소리 교정"
+  },
+  {
+    "unit": "dialogue:5b15c54f76974461",
+    "source": "また、//お会いできるといいですね。",
+    "before": {
+      "id": "dialogue:5b15c54f76974461",
+      "source": "また、//お会いできるといいですね。",
+      "text": "또，//다시 뵐 수 있으면 좋겠네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1053"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0049"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1711",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1288",
+          "form": "v001"
+        },
+        {
+          "id": "MINIGAME/JT13MEL_.SBN#0011",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f185d13409a07f2d5d7c1721c0374022cc2b7384feec5a8f553068697ee15332",
+          "text": "또，//뵐 수 있으면 좋겠네요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f185d13409a07f2d5d7c1721c0374022cc2b7384feec5a8f553068697ee15332",
+          "text": "또다시 만날 수 있으면 좋겠네요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5b15c54f76974461",
+      "source": "また、//お会いできるといいですね。",
+      "text": "또，//뵐 수 있으면 좋겠네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1053"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0049"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1711"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1288"
+        },
+        {
+          "id": "MINIGAME/JT13MEL_.SBN#0011"
+        }
+      ]
+    },
+    "reason": "또 다시의 불필요한 중복 완화"
+  },
+  {
+    "unit": "dialogue:46e7e7ef122e2622",
+    "source": "まだまだ、いけたかも！",
+    "before": {
+      "id": "dialogue:46e7e7ef122e2622",
+      "source": "まだまだ、いけたかも！",
+      "text": "아직 더할 수 있었을지도∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1060"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0056"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1718",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1295"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "dbce5c69e7706fc728e160a59256cf51d9e8b2d1f58fd536ff107b3e7c095c29",
+          "text": "아직 더 할 수 있었을지도∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:46e7e7ef122e2622",
+      "source": "まだまだ、いけたかも！",
+      "text": "아직 더 할 수 있었을지도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1060"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0056"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1718"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1295"
+        }
+      ]
+    },
+    "reason": "더 할 수 있다의 띄어쓰기 교정"
+  },
+  {
+    "unit": "dialogue:5a349cba5b06eb91",
+    "source": "安い役も、考え物ですねぇ……",
+    "before": {
+      "id": "dialogue:5a349cba5b06eb91",
+      "source": "安い役も、考え物ですねぇ……",
+      "text": "싼 역도，고민이 되는군요…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1062"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0058"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1720",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1297",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e5bd6562e2df97387e902748ae56f5f153871b28c899706ffafceda31d32f485",
+          "text": "낮은 역도，고민이네요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e5bd6562e2df97387e902748ae56f5f153871b28c899706ffafceda31d32f485",
+          "text": "낮은 역도，고민되는군요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5a349cba5b06eb91",
+      "source": "安い役も、考え物ですねぇ……",
+      "text": "낮은 역도 신중해야죠…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1062"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0058"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1720"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1297"
+        }
+      ]
+    },
+    "reason": "마작 安い役와 考え物: 단순히 고민한다기보다 선택에 신중해야 한다는 의미"
+  },
+  {
+    "unit": "dialogue:ce202bda37f8bf42",
+    "source": "今度は……いろんな役を//探してみるといいよ！",
+    "before": {
+      "id": "dialogue:ce202bda37f8bf42",
+      "source": "今度は……いろんな役を//探してみるといいよ！",
+      "text": "다음엔…여러 역을//찾아보는 게 좋아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1070"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2013"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1728",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1305",
+          "form": "v001"
+        },
+        {
+          "id": "MINIGAME/JT08ERIC.SBN#0021",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "237c159af8f197e2d4fa3d3af70b05a9503f19daff6bef36e14f8a879b53477b",
+          "text": "이번엔…여러 역을//찾아보는 게 좋아∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "237c159af8f197e2d4fa3d3af70b05a9503f19daff6bef36e14f8a879b53477b",
+          "text": "이번에는…//다양한 역을//찾아보는 게 좋을 거야∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:ce202bda37f8bf42",
+      "source": "今度は……いろんな役を//探してみるといいよ！",
+      "text": "다음엔…여러 역을//찾아보는 게 좋아∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1070"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2013"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1728"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1305"
+        },
+        {
+          "id": "MINIGAME/JT08ERIC.SBN#0021"
+        }
+      ]
+    },
+    "reason": "클리어 후 다음에는 여러 역을 모아 보라는 조언의 今度 의미"
+  },
+  {
+    "unit": "dialogue:4f155c001202c35e",
+    "source": "すべての役を、そろえると……",
+    "before": {
+      "id": "dialogue:4f155c001202c35e",
+      "source": "すべての役を、そろえると……",
+      "text": "모든 역을，모아 보면…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1074"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2017"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1732",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1309",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "06e8bc4fcc83f341be971b80353c9c4c170e3a0e7929af0e2bb32364bd53b082",
+          "text": "모든 역을 다 모으면…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4f155c001202c35e",
+      "source": "すべての役を、そろえると……",
+      "text": "모든 역을 다 모으면…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1074"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2017"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1732"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1309"
+        }
+      ]
+    },
+    "reason": "모든 역을 모았을 때라는 조건 표현 명확화"
+  },
+  {
+    "unit": "dialogue:49a9e775a9ecd90f",
+    "source": "あたしもまだまだいけるだろう？",
+    "before": {
+      "id": "dialogue:49a9e775a9ecd90f",
+      "source": "あたしもまだまだいけるだろう？",
+      "text": "나도 아직 더할 수 있겠지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1082"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2025",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1740"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1317"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "84c1b48f5a9041ab714c2ab6455b3ed9f95f24412d982dcc90f5715ba9985239",
+          "text": "나도 아직 할 만하지？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:49a9e775a9ecd90f",
+      "source": "あたしもまだまだいけるだろう？",
+      "text": "나도 아직 할 만하지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1082"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2025"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1740"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1317"
+        }
+      ]
+    },
+    "reason": "まだまだいける를 아직 할 만하다로 자연스럽게 표현"
+  },
+  {
+    "unit": "dialogue:69a9de54d332d15b",
+    "source": "もらったぁ！",
+    "before": {
+      "id": "dialogue:69a9de54d332d15b",
+      "source": "もらったぁ！",
+      "text": "받았다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1178"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2121",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1836",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1413",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "13a35765b9bc9f85bf45d383d6602e0bad2545663587f18120b14d9d02af9135",
+          "text": "잡았다∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:69a9de54d332d15b",
+      "source": "もらったぁ！",
+      "text": "잡았다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1178"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2121"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1836"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1413"
+        }
+      ]
+    },
+    "reason": "공격 성공 대사 もらった를 받았다로 직역한 부분 교정"
+  },
+  {
+    "unit": "dialogue:38eb439f69c44f69",
+    "source": "いてっ！",
+    "before": {
+      "id": "dialogue:38eb439f69c44f69",
+      "source": "いてっ！",
+      "text": "아얏∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1180"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2123"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1838",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1415",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c31224771b8b8e31828c1b69c2602724e10ca5448f9568096c252b41293036b6",
+          "text": "이얏∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:38eb439f69c44f69",
+      "source": "いてっ！",
+      "text": "아얏∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1180"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2123"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1838"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1415"
+        }
+      ]
+    },
+    "reason": "いてっ는 통증 반응. 공격 기합 이얏으로 바뀐 번역 교정"
+  },
+  {
+    "unit": "dialogue:ba2b155cbe0a5a20",
+    "source": "隊長とあたい、//合わせて百人力だぜ！",
+    "before": {
+      "id": "dialogue:ba2b155cbe0a5a20",
+      "source": "隊長とあたい、//合わせて百人力だぜ！",
+      "text": "대장과 나，둘이 합치면 백 명 몫은 한다고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1197"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2140"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1855",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1432",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "51371f1ab5b282c4021726f5aa814215b9fa16854f9b3b9954336755635d5688",
+          "text": "대장이랑 나，//합쳐서 백인분은 된다고∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "51371f1ab5b282c4021726f5aa814215b9fa16854f9b3b9954336755635d5688",
+          "text": "대장과 나，//합치면 백 명 몫은 한다고∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:ba2b155cbe0a5a20",
+      "source": "隊長とあたい、//合わせて百人力だぜ！",
+      "text": "대장과 나，//합치면 백 명 몫은 한다고∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1197"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2140"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1855"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1432"
+        }
+      ]
+    },
+    "reason": "百人力를 음식 주문 같은 백인분이 아닌 백 명 몫으로 표현"
+  },
+  {
+    "unit": "dialogue:02a38450ff271918",
+    "source": "チャオ！",
+    "before": {
+      "id": "dialogue:02a38450ff271918",
+      "source": "チャオ！",
+      "text": "차오∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1258"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2201"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1916",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1493"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "233a64eb0d69de7635c6a27691ed5f4be3c9f800ef83af56052bde74cb47d1d5",
+          "text": "챠오∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:02a38450ff271918",
+      "source": "チャオ！",
+      "text": "차오∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1258"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2201"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1916"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1493"
+        }
+      ]
+    },
+    "reason": "이탈리아어 인사 ciao의 차오 표기 통일"
+  },
+  {
+    "unit": "dialogue:139d1a969ffa21ed",
+    "source": "神様……//大神さんに救いの手を……",
+    "before": {
+      "id": "dialogue:139d1a969ffa21ed",
+      "source": "神様……//大神さんに救いの手を……",
+      "text": "신이여…//오오가미 씨에게 구원을…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1315"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2258",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1973",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1550"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f77cee5565e3e3ab54117da1fe0bc72aaacf8b7ad0c8dd78665ecff828bdc1af",
+          "text": "하느님…//오오가미 씨를 구해 주세요…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:139d1a969ffa21ed",
+      "source": "神様……//大神さんに救いの手を……",
+      "text": "하느님…//오오가미 씨를 구해 줘요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1315"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2258"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1973"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1550"
+        }
+      ]
+    },
+    "reason": "에리카의 기도 문안: 수녀 화자의 하느님 호칭과 구원 요청 자연화"
+  },
+  {
+    "unit": "dialogue:e9f0f562d331453f",
+    "source": "イテテ……//腰が抜けちゃった……",
+    "before": {
+      "id": "dialogue:e9f0f562d331453f",
+      "source": "イテテ……//腰が抜けちゃった……",
+      "text": "아이고야…//다리에 힘이 풀렸어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1375"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2318"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1610",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c9f56cb4dd7ff3b1ef20a9c1520619bc2bd5355ef3cf7b9089a62024f2edb4d7",
+          "text": "아야야…//허리가 풀려 버렸어…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c9f56cb4dd7ff3b1ef20a9c1520619bc2bd5355ef3cf7b9089a62024f2edb4d7",
+          "text": "아이고야…//허리에 힘이 다 빠졌어…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:e9f0f562d331453f",
+      "source": "イテテ……//腰が抜けちゃった……",
+      "text": "아야…//다리에 힘이 풀렸어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1375"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2318"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2033"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1610"
+        }
+      ]
+    },
+    "reason": "腰が抜ける는 놀라거나 주저앉아 다리에 힘이 풀리는 관용구"
+  },
+  {
+    "unit": "dialogue:fe2a3039439625ef",
+    "source": "我が……舞台……//邪魔は……させん……",
+    "before": {
+      "id": "dialogue:fe2a3039439625ef",
+      "source": "我が……舞台……//邪魔は……させん……",
+      "text": "나의…무대…//방해하게…두지 않겠다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1439"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2382"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2097",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1674",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "064b119a7ba66fb50b39190f30c991d9b2f7c4e43a00ef9409c903c02e9c46cf",
+          "text": "나의…무대…//방해는…하지 않겠다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fe2a3039439625ef",
+      "source": "我が……舞台……//邪魔は……させん……",
+      "text": "내…무대…//방해하게…두지 않겠다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1439"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2382"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2097"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1674"
+        }
+      ]
+    },
+    "reason": "邪魔はさせん는 자신이 방해하지 않는다는 말이 아닌 타인의 방해를 허용하지 않는다는 뜻"
+  },
+  {
+    "unit": "dialogue:5048b672b54617e7",
+    "source": "紅やっこどす～",
+    "before": {
+      "id": "dialogue:5048b672b54617e7",
+      "source": "紅やっこどす～",
+      "text": "베니얏코예요～",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1484"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1485"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2427"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2428"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2142",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2143",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1719"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1720"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "1900492def47e327dafdb924fcdd43638b198796a83456bab0c585255d7a62c7",
+          "text": "홍의여인이오～",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5048b672b54617e7",
+      "source": "紅やっこどす～",
+      "text": "베니얏코예요～",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1484"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1485"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2427"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2428"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2142"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2143"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1719"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1720"
+        }
+      ]
+    },
+    "reason": "기술/별칭 紅やっこ를 홍의여인이라는 보통명사로 바꾼 변형 교정"
+  },
+  {
+    "unit": "dialogue:3210c2f3ebb06ddb",
+    "source": "ですが……//能面を使うのは、//どうかと思います。",
+    "before": {
+      "id": "dialogue:3210c2f3ebb06ddb",
+      "source": "ですが……//能面を使うのは、//どうかと思います。",
+      "text": "하지만…노 가면을 쓰는 건，//좀 그렇다고 생각합니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0197"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0412",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "35a493cbf4e1106209e2cd4eccd9489be9a07fa4f9e8a0b7d64b62e324f767be",
+          "text": "하지만…//노 가면을 사용하는 건，//어떨까 싶습니다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3210c2f3ebb06ddb",
+      "source": "ですが……//能面を使うのは、//どうかと思います。",
+      "text": "하지만…노 가면을 쓰는 건，//좀 그렇다고 생각합니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0197"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0412"
+        }
+      ]
+    },
+    "reason": "どうかと思う는 가면 사용에 대한 비판. 제안처럼 읽히는 어떨까 싶습니다 교정"
+  },
+  {
+    "unit": "dialogue:b54e415434d00e95",
+    "source": "隊長……//これからはずっと一緒だな……",
+    "before": {
+      "id": "dialogue:b54e415434d00e95",
+      "source": "隊長……//これからはずっと一緒だな……",
+      "text": "대장…//앞으로는 계속 함께로군…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0344"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0653",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f71c2d353b121a88c768c957454d551b7d111822a89f29753df52695a9282b6c",
+          "text": "대장…//앞으로는 계속 함께겠군…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:b54e415434d00e95",
+      "source": "隊長……//これからはずっと一緒だな……",
+      "text": "대장…//앞으로는 계속 함께겠군…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0344"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0653"
+        }
+      ]
+    },
+    "reason": "계속 함께로군이라는 비문 교정"
+  },
+  {
+    "unit": "dialogue:b1965df75fd30455",
+    "source": "私のムコになれ。//それですべてが丸くおさまる。",
+    "before": {
+      "id": "dialogue:b1965df75fd30455",
+      "source": "私のムコになれ。//それですべてが丸くおさまる。",
+      "text": "나와 결혼해라．//그러면 모든 게 원만히 해결된다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0676",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec0c9ab1807b7f5264f6311e25b2434142f1385c8ffffa120dfe821d0b166e5d",
+          "text": "우리 가문 사위가 되어라．//그러면 모든 게 원만히 해결된다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:b1965df75fd30455",
+      "source": "私のムコになれ。//それですべてが丸くおさまる。",
+      "text": "나와 결혼해라．//그러면 모든 게 원만히 해결된다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0676"
+        }
+      ]
+    },
+    "reason": "여성 화자 글리신이 私のムコになれ라고 청혼함. 사위가 아닌 결혼 상대라는 의미"
+  },
+  {
+    "unit": "dialogue:2714f5ee938b660c",
+    "source": "ん……それでいいのさ。//やってみれば……//簡単なことだったろう。",
+    "before": {
+      "id": "dialogue:2714f5ee938b660c",
+      "source": "ん……それでいいのさ。//やってみれば……//簡単なことだったろう。",
+      "text": "음…그걸로 됐어．//해 보니까…//간단했잖아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0555"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1008",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "78f91f14fbe63d845815fdbc6436b564d5d4a7912d1b444b05cc5a257644ec97",
+          "text": "음…그걸로 된 거야．//해 보면…//간단한 일이었을 텐데．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2714f5ee938b660c",
+      "source": "ん……それでいいのさ。//やってみれば……//簡単なことだったろう。",
+      "text": "음…그걸로 됐어．//해 보니까…//간단했잖아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0555"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1008"
+        }
+      ]
+    },
+    "reason": "실제로 해 본 뒤 간단했지 않느냐고 묻는 문장. 반사실 가정형으로 바뀐 변형 교정"
+  },
+  {
+    "unit": "dialogue:661f52cde1fbc953",
+    "source": "トーキョーに来るだけ、//損したって感じです。",
+    "before": {
+      "id": "dialogue:661f52cde1fbc953",
+      "source": "トーキョーに来るだけ、//損したって感じです。",
+      "text": "도쿄에 온 것만으로도，//손해 본 기분이에요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0726"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1296",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "d56689c6c2726640aa296412f35b9e74f3ca7fc18945b9a405e61ed0b0121f94",
+          "text": "도쿄까지 온 게，//손해 본 기분이에요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:661f52cde1fbc953",
+      "source": "トーキョーに来るだけ、//損したって感じです。",
+      "text": "도쿄까지 온 게，//손해 본 기분이에요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0726"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1296"
+        }
+      ]
+    },
+    "reason": "도쿄까지 온 보람이 없다는 아쉬움 자연화"
+  },
+  {
+    "unit": "dialogue:38b81d0f7a8c98d6",
+    "source": "やったぁ！//メルぅ、大好きぃ∈",
+    "before": {
+      "id": "dialogue:38b81d0f7a8c98d6",
+      "source": "やったぁ！//メルぅ、大好きぃ∈",
+      "text": "해냈다∈//멜，너무 좋아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0837"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0264",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "cc13d3b0cec330f18bfe96aafbf40cd95f38d5ddc68ed62ffcf4afe276d3e64c",
+          "text": "신난다아∈//멜～，정말 좋아∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:38b81d0f7a8c98d6",
+      "source": "やったぁ！//メルぅ、大好きぃ∈",
+      "text": "신난다∈//멜，정말 좋아∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0837"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0264"
+        }
+      ]
+    },
+    "reason": "소망이 받아들여진 기쁨의 やった를 신난다로 자연화"
+  },
+  {
+    "unit": "dialogue:b3be9f963f653f6f",
+    "source": "もーっ！//大神さん、あいかわらず//はっきりしないんだからぁ∈",
+    "before": {
+      "id": "dialogue:b3be9f963f653f6f",
+      "source": "もーっ！//大神さん、あいかわらず//はっきりしないんだからぁ∈",
+      "text": "정말이지∈//오오가미 씨，여전히//애매하다니까요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0839"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0269",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "3a9ebe2b3c03a5f1b2362b6942d11b69d367898da5b3e18b35a949a8c751d0e5",
+          "text": "정말이지∈//오오가미 씨，여전히//확실하게 말을 안 한다니까요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:b3be9f963f653f6f",
+      "source": "もーっ！//大神さん、あいかわらず//はっきりしないんだからぁ∈",
+      "text": "정말∈//오오가미 씨，여전히//분명히 말 안 하시네요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0839"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0269"
+        }
+      ]
+    },
+    "reason": "태도와 의사를 분명히 하지 않는다는 의미 명확화"
+  },
+  {
+    "unit": "dialogue:1c092dce242e866d",
+    "source": "あ、あの……//おかえりなさいませ。//あなた……",
+    "before": {
+      "id": "dialogue:1c092dce242e866d",
+      "source": "あ、あの……//おかえりなさいませ。//あなた……",
+      "text": "아，저기…//어서 오세요．//당신…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0846"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2416",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "090485e1adc2ca94f891d930a339b1f1044855dcdcc9991eb6483bae64692e83",
+          "text": "아，저기…//어서 오세요．//여보…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1c092dce242e866d",
+      "source": "あ、あの……//おかえりなさいませ。//あなた……",
+      "text": "아，저기…//어서 오세요．//여보…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0846"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2416"
+        }
+      ]
+    },
+    "reason": "앞서 검토한 부부 역할 장면의 あなた와 여보 표기를 함께 정리"
+  },
+  {
+    "unit": "dialogue:50a86347d7c120fe",
+    "source": "うわきはゆるさないんだからね。//アイリスが//おいかえしてあげる。",
+    "before": {
+      "id": "dialogue:50a86347d7c120fe",
+      "source": "うわきはゆるさないんだからね。//アイリスが//おいかえしてあげる。",
+      "text": "바람피우는 건 용서 못 해．//아이리스가//쫓아내 줄 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0888"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2369",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "240aa72c099b09f7d9c5921e8ac9dfd9555121ede37e72674c59157d84cb3fa6",
+          "text": "바람피우는 건 용서 못 해．//아이리스가//쫓아내 줄게．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:50a86347d7c120fe",
+      "source": "うわきはゆるさないんだからね。//アイリスが//おいかえしてあげる。",
+      "text": "바람피우는 건 용서 못 해．//아이리스가//쫓아내 줄게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0888"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2369"
+        }
+      ]
+    },
+    "reason": "자기가 쫓아내 주겠다는 의사 표현 자연화"
+  },
+  {
+    "unit": "dialogue:1fc45bffa03bb169",
+    "source": "でも……人と人は、//そういうわけにはいかんと//思うねん。",
+    "before": {
+      "id": "dialogue:1fc45bffa03bb169",
+      "source": "でも……人と人は、//そういうわけにはいかんと//思うねん。",
+      "text": "근데…사람과 사람은，//그래 쉽지는 않다고//생각한다．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0893"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2379",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "이슈 #7: 홍란 경상도 사투리",
+          "base_text_sha256": "60f18ac7ccd19dc39bc3c7054351c9c5931ed33b6d0bb9ac23ed8d6eaf9b7a26",
+          "text": "근데…사람과 사람은，//그래는 안 된다고//생각한다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1fc45bffa03bb169",
+      "source": "でも……人と人は、//そういうわけにはいかんと//思うねん。",
+      "text": "근데…사람 사이는，//그리 쉽진 않다고//생각한데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0893"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2379"
+        }
+      ]
+    },
+    "reason": "앞 문장의 기계는 고치면 된다는 말과 대조. 인간관계는 그렇지 못하다는 뜻 및 홍란 사투리 보존"
+  },
+  {
+    "unit": "dialogue:74f1c6a14ed136ca",
+    "source": "まぁ、いいか。//寝る場所さえあれば、//困るわけでもないしね。",
+    "before": {
+      "id": "dialogue:74f1c6a14ed136ca",
+      "source": "まぁ、いいか。//寝る場所さえあれば、//困るわけでもないしね。",
+      "text": "뭐，됐어．//잘 곳만 있다면，//딱히 곤란할 것도 없으니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1079"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2692",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "5bf3bbd1e1a43818cf7ebb36166fb824cb9bd7f8e20e8ee3d86d9baf566dfe85",
+          "text": "뭐，됐나．//잘 곳만 있다면，//딱히 곤란할 것도 없으니까．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:74f1c6a14ed136ca",
+      "source": "まぁ、いいか。//寝る場所さえあれば、//困るわけでもないしね。",
+      "text": "뭐，됐어．//잘 곳만 있다면，//딱히 곤란할 것도 없으니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1079"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2692"
+        }
+      ]
+    },
+    "reason": "독백 まあいいか를 됐나라는 부자연스러운 질문형에서 교정"
+  },
+  {
+    "unit": "dialogue:bbd84683a5b944f0",
+    "source": "で……つり天井は//どこにあるんですか？",
+    "before": {
+      "id": "dialogue:bbd84683a5b944f0",
+      "source": "で……つり天井は//どこにあるんですか？",
+      "text": "그럼…「매달린 천장」은//어디에 있나요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1169"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2869",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "3974b0c79675a0faf1563eddc2cc9b98623487eba52b1bad83ebae87a7933fac",
+          "text": "그래서…천장 함정은//어디에 있는 건가요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:bbd84683a5b944f0",
+      "source": "で……つり天井は//どこにあるんですか？",
+      "text": "그래서…천장 함정은//어디에 있는 건가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1169"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2869"
+        }
+      ]
+    },
+    "reason": "같은 장면에서 앞서 고친 つり天井를 천장 함정으로 통일"
+  },
+  {
+    "unit": "dialogue:ed91e5c0d178d75a",
+    "source": "このわたくしに、//言うことがおありでしょうに∈",
+    "before": {
+      "id": "dialogue:ed91e5c0d178d75a",
+      "source": "このわたくしに、//言うことがおありでしょうに∈",
+      "text": "이 저에게，//하실 말씀이 있으실 텐데요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1207"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2906",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6d6933012749f036c818b614c4f13b5fbaf57c20a0ea8a308b7a8fdb80ec056d",
+          "text": "저에게，//하실 말씀이 있으시잖아요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:ed91e5c0d178d75a",
+      "source": "このわたくしに、//言うことがおありでしょうに∈",
+      "text": "저에게，//하실 말씀이 있으시잖아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1207"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2906"
+        }
+      ]
+    },
+    "reason": "이 저에게라는 조사 중복 직역 교정"
+  },
+  {
+    "unit": "dialogue:67e5a3f7e56bc479",
+    "source": "隊長……教えてください。//さっきの会話は、//本心なのですか？",
+    "before": {
+      "id": "dialogue:67e5a3f7e56bc479",
+      "source": "隊長……教えてください。//さっきの会話は、//本心なのですか？",
+      "text": "대장님…알려 주세요．//아까 그 대화는，//진심인가요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1219"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2925",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "cb5ad56396768bd9ac82bcb19922ca574691ffd38a05fe2e4fcc9ca577a9c17b",
+          "text": "대장님…알려 주세요．//아까 하신 말씀은，//진심이신가요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:67e5a3f7e56bc479",
+      "source": "隊長……教えてください。//さっきの会話は、//本心なのですか？",
+      "text": "대장님…말해 주세요．//아까 하신 말씀，//진심인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1219"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2925"
+        }
+      ]
+    },
+    "reason": "아까 그 대화 대신 아까 하신 말씀을 묻는 자연스러운 표현"
+  },
+  {
+    "unit": "dialogue:d3119505f0b82b33",
+    "source": "私の気持ちも、//隊長に伝わっていると……//そう感じられました。",
+    "before": {
+      "id": "dialogue:d3119505f0b82b33",
+      "source": "私の気持ちも、//隊長に伝わっていると……//そう感じられました。",
+      "text": "제 마음도…//대장님께 전해지고 있다고…//그리 느꼈습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1230"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2949",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "014cba46e76bc9b223608a173fe34e342179b7aecf2c5463223e3361dc0829b5",
+          "text": "제 마음도，//대장님께 전해졌다고…//그렇게 느꼈습니다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:d3119505f0b82b33",
+      "source": "私の気持ちも、//隊長に伝わっていると……//そう感じられました。",
+      "text": "제 마음도，//대장님께 전해졌다고…//그렇게 느꼈습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1230"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2949"
+        }
+      ]
+    },
+    "reason": "자기 마음이 상대에게 전해졌다고 느낀다는 구문 자연화"
+  },
+  {
+    "unit": "dialogue:f00849f0f8858183",
+    "source": "アイリスのことだけを//好きでいてくれなきゃ、//ダメなんだからね……",
+    "before": {
+      "id": "dialogue:f00849f0f8858183",
+      "source": "アイリスのことだけを//好きでいてくれなきゃ、//ダメなんだからね……",
+      "text": "아이리스만//좋아해 주지 않으면，//안 된다니까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1261"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3004",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c49be5ccf5c610a6634d945fd4723394acac4cb3c2f8feb1f23f761151271a78",
+          "text": "아이리스만//좋아해 줘야 해．//알겠지…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f00849f0f8858183",
+      "source": "アイリスのことだけを//好きでいてくれなきゃ、//ダメなんだからね……",
+      "text": "아이리스만//좋아해 줘야 해．//알겠지…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1261"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3004"
+        }
+      ]
+    },
+    "reason": "이중 부정으로 꼬인 애정 표현 자연화"
+  },
+  {
+    "unit": "dialogue:a8e64f54a4e446b5",
+    "source": "本当なら、このまま//朝を迎えたいですけど……//今日は……がまんするです。",
+    "before": {
+      "id": "dialogue:a8e64f54a4e446b5",
+      "source": "本当なら、このまま//朝を迎えたいですけど……//今日は……がまんするです。",
+      "text": "원래라면，이대로//아침을 맞이하고 싶지만…//오늘은…참을게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1319"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3112",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9f199be8ba2042c9dab1795fe18c3c031fc1f2fd6515b24b0be37e9660ef853d",
+          "text": "사실은 이대로//아침을 맞고 싶지만…//오늘은…참을게요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a8e64f54a4e446b5",
+      "source": "本当なら、このまま//朝を迎えたいですけど……//今日は……がまんするです。",
+      "text": "사실은 이대로//아침을 맞고 싶지만…//오늘은…참을게요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1319"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3112"
+        }
+      ]
+    },
+    "reason": "本当なら의 속마음을 원래라면이라는 가정으로 옮긴 직역 교정"
+  },
+  {
+    "unit": "dialogue:10711ecaa3d1b41e",
+    "source": "蒸……気……//狂え……帝……都……//我……裏切りし……",
+    "before": {
+      "id": "dialogue:10711ecaa3d1b41e",
+      "source": "蒸……気……//狂え……帝……都……//我……裏切りし……",
+      "text": "증…기…//미쳐라…제…도…//나를…배신한…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1344"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3212",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9e681d7a58e1af0657760be695d7ab98a2a4107e62d7c70620a40d98d0ba4889",
+          "text": "증…기…//미쳐라…제…도…//나…배신한…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:10711ecaa3d1b41e",
+      "source": "蒸……気……//狂え……帝……都……//我……裏切りし……",
+      "text": "증…기…//미쳐라…제…도…//날…배신한…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1344"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3212"
+        }
+      ]
+    },
+    "reason": "나를 배신한 제도라는 원문의 목적격 의미 유지"
+  },
+  {
+    "unit": "dialogue:c8b839c69a8c487d",
+    "source": "子どもに幸せになって//欲しいと思うのは、//親として当然の気持ち。",
+    "before": {
+      "id": "dialogue:c8b839c69a8c487d",
+      "source": "子どもに幸せになって//欲しいと思うのは、//親として当然の気持ち。",
+      "text": "아이들이 행복해지기를//바라는 것은，//부모로서 당연한 마음．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1363"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3238",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9fee91a5cf7b150f39b1982f4bb177ba8e985cd09c38b7a3d1cc4147afb979dd",
+          "text": "아이가 행복해지길//바라는 건，//부모로서 당연한 마음．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:c8b839c69a8c487d",
+      "source": "子どもに幸せになって//欲しいと思うのは、//親として当然の気持ち。",
+      "text": "아이가 행복해지길//바라는 건，//부모로서 당연한 마음．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1363"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3238"
+        }
+      ]
+    },
+    "reason": "특정 딸에 대한 단수 표현 및 부모의 마음 자연화"
+  },
+  {
+    "unit": "dialogue:2d50aac3bad9727f",
+    "source": "やっと届きましたか∈//大神さん、わたしも出撃します∈//いいですよね！",
+    "before": {
+      "id": "dialogue:2d50aac3bad9727f",
+      "source": "やっと届きましたか∈//大神さん、わたしも出撃します∈//いいですよね！",
+      "text": "겨우 도착했나요∈//오오가미 씨，저도 출격할게요∈//좋죠∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3406",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "17cca5cf5ca1292d839b61294b0dda99f61492de70c11955bf54aa05410ae0b0",
+          "text": "이제야 도착했네요∈//오오가미 씨，저도 출격할게요∈//괜찮죠∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2d50aac3bad9727f",
+      "source": "やっと届きましたか∈//大神さん、わたしも出撃します∈//いいですよね！",
+      "text": "드디어 왔네요∈//오오가미 씨，저도 출격해요∈//괜찮죠∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3406"
+        }
+      ]
+    },
+    "reason": "방금 도착한 물건을 확인하는 문장의 자연스러운 종결"
+  },
+  {
+    "unit": "dialogue:c7bafdbe60e25b8e",
+    "source": "ふっ……よかろう。//この異国の地に、//私の名を轟かせてくれる。",
+    "before": {
+      "id": "dialogue:c7bafdbe60e25b8e",
+      "source": "ふっ……よかろう。//この異国の地に、//私の名を轟かせてくれる。",
+      "text": "훗…좋다．//이 이국의 땅에，//내 이름을 떨치게 해 주마．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3438",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "78dc0cefdba73a9362555e798ea17e4739c8abcea3267ea252db0ef4aa3b1670",
+          "text": "훗…좋다．//이 이국의 땅에，//내 이름을 떨치겠다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:c7bafdbe60e25b8e",
+      "source": "ふっ……よかろう。//この異国の地に、//私の名を轟かせてくれる。",
+      "text": "훗…좋다．//이 이국의 땅에，//내 이름을 떨치겠다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3438"
+        }
+      ]
+    },
+    "reason": "내 이름을 내가 떨치겠다는 의사를 누군가 떨치게 해 주겠다고 옮긴 직역 교정"
+  },
+  {
+    "unit": "dialogue:67f3adae064c24ba",
+    "source": "じゃあな……大神。",
+    "before": {
+      "id": "dialogue:67f3adae064c24ba",
+      "source": "じゃあな……大神。",
+      "text": "잘 가라…오오가미．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1724"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0256",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "5885a7c90c6d69bd50cb5cc79a7de3a24c84a339e690ed25195353a261f0ba4d",
+          "text": "그럼 이만…오오가미",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:67f3adae064c24ba",
+      "source": "じゃあな……大神。",
+      "text": "그럼 이만…오오가미",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1724"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0256"
+        }
+      ]
+    },
+    "reason": "떠나는 사람이 남은 사람에게 하는 じゃあな를 잘 가라로 옮긴 방향 오류 교정"
+  },
+  {
+    "unit": "dialogue:3e87ab89c5225018",
+    "source": "加山くん……あなた……//背中に傷を負っているわね？",
+    "before": {
+      "id": "dialogue:3e87ab89c5225018",
+      "source": "加山くん……あなた……//背中に傷を負っているわね？",
+      "text": "카야마 군…당신…//등에 상처를 입고 있네？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1731"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0270",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b21b1f5dc4c2e321bcee149c329ca72ab42d473d92cf10aaf32607f807f44cd7",
+          "text": "카야마 군…너…//등에 상처를 입었지？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3e87ab89c5225018",
+      "source": "加山くん……あなた……//背中に傷を負っているわね？",
+      "text": "카야마 군…너…//등에 상처를 입었지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1731"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0270"
+        }
+      ]
+    },
+    "reason": "등에 상처가 있다는 상태를 상처를 입고 있다로 직역한 부분 및 부자연스러운 당신 호칭 교정"
+  },
+  {
+    "unit": "dialogue:67f9cc46080ef16f",
+    "source": "じゃあな、大神ぃ。//アディオース！",
+    "before": {
+      "id": "dialogue:67f9cc46080ef16f",
+      "source": "じゃあな、大神ぃ。//アディオース！",
+      "text": "잘 가라，오오가미．//아디오스∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1995"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0184",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "442ed2495569fab4e8264948dd5110143ae06919bb6040094bece31fd86d8f82",
+          "text": "그럼 간다，오오가미．//아디오스∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:67f9cc46080ef16f",
+      "source": "じゃあな、大神ぃ。//アディオース！",
+      "text": "간다，오오가미．//아디오스∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1995"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0184"
+        }
+      ]
+    },
+    "reason": "떠나는 화자가 남아 있는 오오가미에게 인사하는 문장의 방향 오류 교정"
+  },
+  {
+    "unit": "dialogue:041e8fd762668ed8",
+    "source": "人に……信じてもらえる//よろこびを知った……",
+    "before": {
+      "id": "dialogue:041e8fd762668ed8",
+      "source": "人に……信じてもらえる//よろこびを知った……",
+      "text": "사람에게…신뢰받는다는//기쁨을 알게 되었어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0542",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "07038b3366edd057a813d0d0787bb4194c6ecd028d2fc5e089bf96049e31842f",
+          "text": "사람이…나를 믿어 준다는//기쁨을 알게 되었어…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:041e8fd762668ed8",
+      "source": "人に……信じてもらえる//よろこびを知った……",
+      "text": "사람이…나를 믿어 준다는//기쁨을 알게 되었어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0542"
+        }
+      ]
+    },
+    "reason": "신뢰받는다는 명사형 직역을 누군가 나를 믿어 준다는 기쁨으로 자연화"
+  },
+  {
+    "unit": "dialogue:bdb2287f9d3fac6e",
+    "source": "それなのに……//自分が作ったから……//失敗したから……壊すなんて……",
+    "before": {
+      "id": "dialogue:bdb2287f9d3fac6e",
+      "source": "それなのに……//自分が作ったから……//失敗したから……壊すなんて……",
+      "text": "그런데도…//내가 만들었으니까…//실패했다고…부수다니…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0544",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "966e44ec9d8dac7924381e068951959eaa10ae1f899da2b67341e09126c4bf5c",
+          "text": "그런데도…//자기가 만들었다고…//실패했다고…부수다니…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:bdb2287f9d3fac6e",
+      "source": "それなのに……//自分が作ったから……//失敗したから……壊すなんて……",
+      "text": "그런데도…//자기가 만들었다고…//실패했다고…부수다니…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0544"
+        }
+      ]
+    },
+    "reason": "自分은 상대 나가야스를 가리킴. 화자 자신이 만들었다는 오역 교정"
+  },
+  {
+    "unit": "dialogue:794dc8ae388f6177",
+    "source": "町に愛をあふれさせて……",
+    "before": {
+      "id": "dialogue:794dc8ae388f6177",
+      "source": "町に愛をあふれさせて……",
+      "text": "마을에 사랑이 넘치도록…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0031"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1332"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0554",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e3c0479b498d253bf77636f60d3d0d3f43e89c5dcede722e6fd42a1f469edf93",
+          "text": "도시에 사랑이 넘쳐흐르도록…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:794dc8ae388f6177",
+      "source": "町に愛をあふれさせて……",
+      "text": "도시에 사랑이 넘치도록…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0031"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1332"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0554"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:a1e520a95960c814",
+    "source": "キライな町のために、//がんばったりしません∈//そうでしょ？",
+    "before": {
+      "id": "dialogue:a1e520a95960c814",
+      "source": "キライな町のために、//がんばったりしません∈//そうでしょ？",
+      "text": "싫어하는 마을을 위해，//노력하지는 않죠∈//그렇죠？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0055"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0595",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b84066616afbbaddc08f32a3cc1420470a4c92433d98c9ebc4fe400d15382c2b",
+          "text": "싫어하는 도시를 위해//노력하지는 않죠∈//그렇죠？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a1e520a95960c814",
+      "source": "キライな町のために、//がんばったりしません∈//そうでしょ？",
+      "text": "싫어하는 도시를 위해//노력하지는 않죠∈//그렇죠？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0055"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0595"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:09a09814731ea33d",
+    "source": "よそ者が……ほざくな……//この町……は……//我のものなり……",
+    "before": {
+      "id": "dialogue:09a09814731ea33d",
+      "source": "よそ者が……ほざくな……//この町……は……//我のものなり……",
+      "text": "외지인 놈이…지껄이지 마라…//이 마을은…//내 것이다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0060"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0600",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0658",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0713",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0769",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0820",
+          "form": "v003"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "52242a51d83959249710a80f8f446a139f937fcc8420b1fa290830f9b3b76d53",
+          "text": "외부인이…함부로 지껄이지 마라…//이 도시는…//내 것이다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "52242a51d83959249710a80f8f446a139f937fcc8420b1fa290830f9b3b76d53",
+          "text": "외지인이…함부로 지껄이지 마라…//이 도시는…//내 것이다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "52242a51d83959249710a80f8f446a139f937fcc8420b1fa290830f9b3b76d53",
+          "text": "외지인이…지껄이지 마라…//이 도시는…//내 것이다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:09a09814731ea33d",
+      "source": "よそ者が……ほざくな……//この町……は……//我のものなり……",
+      "text": "외지인이…지껄이지 마라…//이 도시는…//내 것이다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0060"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0600"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0658"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0713"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0769"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0820"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:f3d61f5d879036eb",
+    "source": "この町……は……//過ちを犯……した……//許せぬ……",
+    "before": {
+      "id": "dialogue:f3d61f5d879036eb",
+      "source": "この町……は……//過ちを犯……した……//許せぬ……",
+      "text": "이 마을은…//잘못을 저질렀다…//용서할 수 없다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0061"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0601",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0659",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0714",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0770",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0821",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "2ff73abbd926d2a243a16a9f3a62db52967be4a800d79aca7a318057e2ef5eb3",
+          "text": "이 도시는…//잘못을 저질렀다…//용서할 수 없다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f3d61f5d879036eb",
+      "source": "この町……は……//過ちを犯……した……//許せぬ……",
+      "text": "이 도시는…//잘못을 저질렀다…//용서할 수 없다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0061"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0601"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0659"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0714"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0770"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0821"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:4df14236b717298d",
+    "source": "江戸……我の……作りし町……//そ……して……//我を……裏切りし……町……",
+    "before": {
+      "id": "dialogue:4df14236b717298d",
+      "source": "江戸……我の……作りし町……//そ……して……//我を……裏切りし……町……",
+      "text": "에도…내가…만든 마을…//그…리고…//나를…배신한…마을…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0850",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4d97470208a303d5b61333eb70ed09df048f605dc2f411a4a9147043d13dae5a",
+          "text": "에도…내가…만든 도시…//그…리고…//나를…배신한…도시…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4df14236b717298d",
+      "source": "江戸……我の……作りし町……//そ……して……//我を……裏切りし……町……",
+      "text": "에도…내가…만든 도시…//그…리고…//나를…배신한…도시…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0850"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:2157d37896a885e0",
+    "source": "人が集い……愛しあう……//すばらしい町ではありませんか！",
+    "before": {
+      "id": "dialogue:2157d37896a885e0",
+      "source": "人が集い……愛しあう……//すばらしい町ではありませんか！",
+      "text": "사람들이 모여…서로 사랑하는…//정말 멋진 마을 아닌가요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1070"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0202",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e44006634b130a57312327d0c614c7349c3926935afc89a264ebbd0a082b329a",
+          "text": "사람들이 모이고…서로 사랑하는…//멋진 도시가 아닌가요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2157d37896a885e0",
+      "source": "人が集い……愛しあう……//すばらしい町ではありませんか！",
+      "text": "사람들이 모이고…서로 사랑하는…//멋진 도시가 아닌가요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1070"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0202"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:26c7bf12c993341b",
+    "source": "この町はもう、//あんたのもんじゃない∈",
+    "before": {
+      "id": "dialogue:26c7bf12c993341b",
+      "source": "この町はもう、//あんたのもんじゃない∈",
+      "text": "이 마을은 이제，//네 것이 아니야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1137"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0311",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9333f667b8f703497faf24c6fcb1c508bab209ae37798490e8d2589aa8dedc4c",
+          "text": "이 도시는 이제//네 것이 아니야∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:26c7bf12c993341b",
+      "source": "この町はもう、//あんたのもんじゃない∈",
+      "text": "이 도시는 이제//네 것이 아니야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1137"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0311"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:a1385fa4e6c99f77",
+    "source": "この町を愛して、//守ろうとしているやつらの//もんだろうが！",
+    "before": {
+      "id": "dialogue:a1385fa4e6c99f77",
+      "source": "この町を愛して、//守ろうとしているやつらの//もんだろうが！",
+      "text": "이 마을을 사랑하고，//지키려 하는 사람들의//거라고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1138"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0312",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "cf066217f35e9304d5e020a59c5cf8a730ed95bb1ea1365782c178fea9d82062",
+          "text": "이 도시를 사랑하고，//지키려 하는 사람들의//것이잖아∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a1385fa4e6c99f77",
+      "source": "この町を愛して、//守ろうとしているやつらの//もんだろうが！",
+      "text": "이 도시를 사랑하고，//지키려 하는 사람들의//거잖아∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1138"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0312"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:249373ac581ab26a",
+    "source": "みんなこの町が好きなんだよ。//あんたの作った、//この帝都がさ。",
+    "before": {
+      "id": "dialogue:249373ac581ab26a",
+      "source": "みんなこの町が好きなんだよ。//あんたの作った、//この帝都がさ。",
+      "text": "모두 이 마을을 좋아해．//당신이 만든，//이 제도가 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1143"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0317",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9b8bf0dc92123187afd99bf86f50a42739a9057659c29d2462853e2a826705d2",
+          "text": "모두 이 도시를 좋아해．//네가 만든，//이 제도를 말이야．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:249373ac581ab26a",
+      "source": "みんなこの町が好きなんだよ。//あんたの作った、//この帝都がさ。",
+      "text": "모두 이 도시를 좋아해．//네가 만든，//이 제도를 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1143"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0317"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:d0d78fd913d45c41",
+    "source": "……愛が満ちていく町なんです。",
+    "before": {
+      "id": "dialogue:d0d78fd913d45c41",
+      "source": "……愛が満ちていく町なんです。",
+      "text": "…사랑이 가득 찬 마을이에요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1259"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0496",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "62b5635c2d80e3b8cfba014d4e3dacb7546a2c005499c45c513cd6a1af7fa206",
+          "text": "…사랑이 가득 차오르는 도시예요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:d0d78fd913d45c41",
+      "source": "……愛が満ちていく町なんです。",
+      "text": "…사랑이 차오르는 도시예요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1259"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0496"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:e35c844abb851315",
+    "source": "それはちがうよ∈//町は誰のものでもない！//みんなのものじゃないか∈",
+    "before": {
+      "id": "dialogue:e35c844abb851315",
+      "source": "それはちがうよ∈//町は誰のものでもない！//みんなのものじゃないか∈",
+      "text": "그건 틀려∈//마을은 누구의 것도 아니야∈//모두의 것이잖아∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1396"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0706",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "d477912944274129591ee65b6cb295c65109183094ee3384a368be6189c2389b",
+          "text": "그건 틀려∈//도시는 누구의 것도 아니야∈//모두의 것이잖아∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:e35c844abb851315",
+      "source": "それはちがうよ∈//町は誰のものでもない！//みんなのものじゃないか∈",
+      "text": "그건 틀려∈//도시는 누구의 것도 아니야∈//모두의 것이잖아∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1396"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0706"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:0307b4d8bafa7702",
+    "source": "この町に住んで……//守って……生きている……//みんなのものでしょ？",
+    "before": {
+      "id": "dialogue:0307b4d8bafa7702",
+      "source": "この町に住んで……//守って……生きている……//みんなのものでしょ？",
+      "text": "이 마을에 살고…//지키고…살아가는…//모두의 것이잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1397"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0707",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "07dba6d11ea00dbeb5f2fdf2ec40abf43642cb4b50974f054c92b21f30b3bf2a",
+          "text": "이 도시에서 살고…//지키며 살아가는…//모두의 것이잖아？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:0307b4d8bafa7702",
+      "source": "この町に住んで……//守って……生きている……//みんなのものでしょ？",
+      "text": "이 도시에서 살고…//지키며 살아가는…//모두의 것이잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1397"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0707"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:8efc37a0411be827",
+    "source": "この町も……//住んでいる人たちも……//みんな、好きだよ。",
+    "before": {
+      "id": "dialogue:8efc37a0411be827",
+      "source": "この町も……//住んでいる人たちも……//みんな、好きだよ。",
+      "text": "이 마을도…//살고 있는 사람들도…//모두，좋아해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1400"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0710",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "5c3d56eef908c9bb5151f13f7ab877edab55e45a194ec2c72ab47f4300bd9f4f",
+          "text": "이 도시도…//살고 있는 사람들도…//모두 좋아해．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:8efc37a0411be827",
+      "source": "この町も……//住んでいる人たちも……//みんな、好きだよ。",
+      "text": "이 도시도…//살고 있는 사람들도…//모두 좋아해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1400"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0710"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:cde1cc37d7195e18",
+    "source": "この町は、//みんなのものなんだからさ。",
+    "before": {
+      "id": "dialogue:cde1cc37d7195e18",
+      "source": "この町は、//みんなのものなんだからさ。",
+      "text": "이 마을은//모두의 것이니까 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1402"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0712",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9ca8611b86c203ef0a9f4d2847ca21b45849ec19ac1b0e3d1aab4ee4819bc3e8",
+          "text": "이 도시는//모두의 것이니까 말이야．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:cde1cc37d7195e18",
+      "source": "この町は、//みんなのものなんだからさ。",
+      "text": "이 도시는//모두의 것이니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1402"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0712"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:77ead032e03121a1",
+    "source": "でもさ……この町は、//アンタだけのものじゃないだろ？",
+    "before": {
+      "id": "dialogue:77ead032e03121a1",
+      "source": "でもさ……この町は、//アンタだけのものじゃないだろ？",
+      "text": "하지만 말이야…이 마을은，//당신만의 것이 아니잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1431"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0763",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f40eb46edc5a110a1eee00b604767651cfe5e66f7128bf5ea623be8f28b030b0",
+          "text": "하지만 말이야…이 도시는，//너만의 것이 아니잖아？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:77ead032e03121a1",
+      "source": "でもさ……この町は、//アンタだけのものじゃないだろ？",
+      "text": "하지만 말이야…이 도시는，//너만의 것이 아니잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1431"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0763"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:04bf5da1939cacec",
+    "source": "町のためにって、//血を流した連中のものだろ。",
+    "before": {
+      "id": "dialogue:04bf5da1939cacec",
+      "source": "町のためにって、//血を流した連中のものだろ。",
+      "text": "마을을 위해，//피를 흘린 녀석들의 거잖아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1432"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0764",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9a56a2bf2bacaeffbcec1883968d5f27199290d13b536c521926d37b65b180a2",
+          "text": "도시를 위해//피를 흘린 녀석들의 것이잖아．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:04bf5da1939cacec",
+      "source": "町のためにって、//血を流した連中のものだろ。",
+      "text": "도시를 위해//피를 흘린 녀석들의 것이잖아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1432"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0764"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:532730a8d84f96bd",
+    "source": "アンタの居場所は、//もう、この町にはないんだよ∈",
+    "before": {
+      "id": "dialogue:532730a8d84f96bd",
+      "source": "アンタの居場所は、//もう、この町にはないんだよ∈",
+      "text": "네가 있을 곳은，//이제 이 마을에는 없어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1434"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0766",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f3f12a5e354f6a2d198b7fbb24e6f8e0087cdf452fb057d93e0be7a94aaf9615",
+          "text": "네가 있을 곳은，//이제 이 도시에는 없어∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:532730a8d84f96bd",
+      "source": "アンタの居場所は、//もう、この町にはないんだよ∈",
+      "text": "네가 있을 곳은，//이제 이 도시에는 없어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1434"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0766"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:a9d7792b54758e10",
+    "source": "過ちを犯すのは町じゃない。//……人さ。",
+    "before": {
+      "id": "dialogue:a9d7792b54758e10",
+      "source": "過ちを犯すのは町じゃない。//……人さ。",
+      "text": "잘못하는 건 마을이 아냐．//…사람이지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1438"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0772",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9101156ececcc11e6d0f2d7de86503f48ba82cd80c13ae1da5dd9fbc1843c806",
+          "text": "잘못을 저지르는 건 도시가 아니야．//…사람이지．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:a9d7792b54758e10",
+      "source": "過ちを犯すのは町じゃない。//……人さ。",
+      "text": "잘못하는 건 도시가 아냐．//…사람이지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1438"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0772"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:fd9ca0280de8f8c0",
+    "source": "この町が……//愛されていたから……",
+    "before": {
+      "id": "dialogue:fd9ca0280de8f8c0",
+      "source": "この町が……//愛されていたから……",
+      "text": "이 마을이…//사랑받고 있었으니까…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1466"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0818",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "86f0e1a54a3c24e4775ebd46ead9716071eeb704b4fab48a4f500832c0e655d0",
+          "text": "이 도시가…//사랑받고 있었으니까…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fd9ca0280de8f8c0",
+      "source": "この町が……//愛されていたから……",
+      "text": "이 도시가…//사랑받고 있었으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1466"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0818"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:7b3069f29c1cd6a8",
+    "source": "人が集まり……旅立ち……//帰ってきたいと思える町……",
+    "before": {
+      "id": "dialogue:7b3069f29c1cd6a8",
+      "source": "人が集まり……旅立ち……//帰ってきたいと思える町……",
+      "text": "사람이 모이고…떠나고…//다시 오고 싶은 마을…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1472"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0826",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a277d1cc3ef694eca6e70889d6239f4b5f0b81aa373528eef451d9d8c70c6919",
+          "text": "사람들이 모이고…떠나고…//다시 돌아오고 싶어지는 도시…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:7b3069f29c1cd6a8",
+      "source": "人が集まり……旅立ち……//帰ってきたいと思える町……",
+      "text": "사람이 모여…떠나고…//다시 오고 싶은 도시…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1472"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0826"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:4bc46998a6192a4b",
+    "source": "私たちは、そういう町を//作っていきたいんです。",
+    "before": {
+      "id": "dialogue:4bc46998a6192a4b",
+      "source": "私たちは、そういう町を//作っていきたいんです。",
+      "text": "저희는 그런 마을을//만들어 가고 싶습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1473"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0827",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "64b8120eb2e91a3d0580eb4e4b3ab333a39a2619ca637a0d9f65a631764596a8",
+          "text": "저희는 그런 도시를//만들어 가고 싶습니다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4bc46998a6192a4b",
+      "source": "私たちは、そういう町を//作っていきたいんです。",
+      "text": "저희는 그런 도시를//만들어 가고 싶습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1473"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0827"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:5f68b27eb64950fc",
+    "source": "愛があふれるこの町を……",
+    "before": {
+      "id": "dialogue:5f68b27eb64950fc",
+      "source": "愛があふれるこの町を……",
+      "text": "사랑이 넘치는 이 마을을…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1476"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0830",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "d3ab7332aa1223bb1d122272a4b111565a51e9fcd78329107873003ea4ace098",
+          "text": "사랑이 넘치는 이 도시를…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5f68b27eb64950fc",
+      "source": "愛があふれるこの町を……",
+      "text": "사랑이 넘치는 이 도시를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1476"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0830"
+        }
+      ]
+    },
+    "reason": "제도/에도 및 주민을 가리키는 町를 도시로 표현. 각 문장의 원문 및 두 번역 대조"
+  },
+  {
+    "unit": "dialogue:eb281d580e88c0e5",
+    "source": "この帝都は、//パパとママが仲直りした//大切な街です！",
+    "before": {
+      "id": "dialogue:eb281d580e88c0e5",
+      "source": "この帝都は、//パパとママが仲直りした//大切な街です！",
+      "text": "이 제도는，//아빠와 엄마가 화해한//소중한 도시예요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0616"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1875",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f2682c73c529fa375da66daf3bd9f1318aa1c69518b69b042898070700d7a659",
+          "text": "이 제도는，//아빠와 엄마가 화해한//소중한 거리예요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:eb281d580e88c0e5",
+      "source": "この帝都は、//パパとママが仲直りした//大切な街です！",
+      "text": "이 제도는，//아빠와 엄마가 화해한//소중한 도시예요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0616"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1875"
+        }
+      ]
+    },
+    "reason": "제도라는 도시 전체를 뜻하는 街를 거리로 축소한 변형 교정"
+  },
+  {
+    "unit": "dialogue:fec7a2fe4ddc6182",
+    "source": "無事なのか……//どうなのかさえも……",
+    "before": {
+      "id": "dialogue:fec7a2fe4ddc6182",
+      "source": "無事なのか……//どうなのかさえも……",
+      "text": "무사한 건가…//어떤 상태인지조차도…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0861"
+        },
+        {
+          "id": "SLG/G04/E/EV04038.SBN#0009",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "7efa196e6052008115527c62431b09f1ceff05aeffc82fb60867817d0a69b8e7",
+          "text": "무사한지…//아닌지조차도…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fec7a2fe4ddc6182",
+      "source": "無事なのか……//どうなのかさえも……",
+      "text": "무사한지…//아닌지조차도…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0861"
+        },
+        {
+          "id": "SLG/G04/E/EV04038.SBN#0009"
+        }
+      ]
+    },
+    "reason": "무사한지조차 알 수 없다는 생사 확인 구문 자연화"
+  },
+  {
+    "unit": "dialogue:4fbf076756fb7ff1",
+    "source": "なら……ば……//ミカサを……帝……都に……//落とすまで！",
+    "before": {
+      "id": "dialogue:4fbf076756fb7ff1",
+      "source": "なら……ば……//ミカサを……帝……都に……//落とすまで！",
+      "text": "그렇다면…//미카사를…제…도에…//떨어뜨릴 때까지∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0983"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0838",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "7b883b6de65655075289470f1a5402d29c005e3ba4cd2f7d8683d362bfb444a8",
+          "text": "그렇다면…//미카사를…제…도에…//떨어뜨리겠다∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4fbf076756fb7ff1",
+      "source": "なら……ば……//ミカサを……帝……都に……//落とすまで！",
+      "text": "그렇다면…//미카사를…제…도에…//떨어뜨리겠다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0983"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0838"
+        }
+      ]
+    },
+    "reason": "落とすまで는 떨어뜨리면 그만이라는 의지. 떨어뜨릴 때까지라는 미완성 직역 교정"
+  },
+  {
+    "unit": "dialogue:9ca84603d741f2fd",
+    "source": "男と女よ……//帝都を……未来を託す……",
+    "before": {
+      "id": "dialogue:9ca84603d741f2fd",
+      "source": "男と女よ……//帝都を……未来を託す……",
+      "text": "남자와 여자여…//제도를…미래를 맡긴다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0862",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0865",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "15b96ce369167e150345a299f047eb81338b45e35d7b607f7356b9a5c2319b36",
+          "text": "남자와 여자여…//제도와…미래를 맡긴다…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:9ca84603d741f2fd",
+      "source": "男と女よ……//帝都を……未来を託す……",
+      "text": "남자와 여자여…//제도와…미래를 맡긴다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0862"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0865"
+        }
+      ]
+    },
+    "reason": "제도와 미래를 맡긴다는 목적어 연결 자연화"
+  },
+  {
+    "unit": "dialogue:7ef5f69698cb2f3b",
+    "source": "中尉……//その命令は聞けませんわ。",
+    "before": {
+      "id": "dialogue:7ef5f69698cb2f3b",
+      "source": "中尉……//その命令は聞けませんわ。",
+      "text": "중위님…//그 명령은 들을 수 없어요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1049"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0172",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "01369e4aafc76c2c623ec77468dcff0b7baad23a40ec35664c1f1bd4a2e62116",
+          "text": "중위님…//그 명령은 따를 수 없어요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:7ef5f69698cb2f3b",
+      "source": "中尉……//その命令は聞けませんわ。",
+      "text": "중위님…//그 명령은 따를 수 없어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1049"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0172"
+        }
+      ]
+    },
+    "reason": "명령을 들을 수 없다를 따를 수 없다로 교정"
+  },
+  {
+    "unit": "dialogue:95fefb9f593c548e",
+    "source": "お兄ちゃん∈//アイリスたちも//はやく逃げないと！",
+    "before": {
+      "id": "dialogue:95fefb9f593c548e",
+      "source": "お兄ちゃん∈//アイリスたちも//はやく逃げないと！",
+      "text": "오빠∈//아이리스들도//빨리 도망쳐야 해∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1157"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0332",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "15c60b592562c9fbe53c9501118f9d5b8d010ba679d3c877b2298ff92aeda6d9",
+          "text": "오빠∈//우리도//빨리 도망쳐야 해∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:95fefb9f593c548e",
+      "source": "お兄ちゃん∈//アイリスたちも//はやく逃げないと！",
+      "text": "오빠∈//우리도//빨리 도망쳐야 해∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1157"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0332"
+        }
+      ]
+    },
+    "reason": "아이리스들을 우리로 표현하여 아이리스가 여러 명인 듯한 직역 교정"
+  },
+  {
+    "unit": "dialogue:5af7413c49061cfa",
+    "source": "中尉さんとわたしなら……//不可能なことなど、//ナッシングでーす∈",
+    "before": {
+      "id": "dialogue:5af7413c49061cfa",
+      "source": "中尉さんとわたしなら……//不可能なことなど、//ナッシングでーす∈",
+      "text": "중위님과 저라면…//불가능한 일 따윈，//노씽이에요～∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1241"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0472",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "2bf69a5117f81b0507a0f442f0f961b5528e2c97657627759a9c81f7e9629403",
+          "text": "중위님과 저라면…//불가능한 일 따윈，//낫싱이에요～∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5af7413c49061cfa",
+      "source": "中尉さんとわたしなら……//不可能なことなど、//ナッシングでーす∈",
+      "text": "중위님과 저라면…//불가능한 일 따윈，//낫싱이에요～∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1241"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0472"
+        }
+      ]
+    },
+    "reason": "오리히메의 외래어 말투는 보존하되 낫싱 표기 정리"
+  },
+  {
+    "unit": "dialogue:cadaf4a87bec4823",
+    "source": "ふっ……どうもしないさ。//アタシとアンタとは、//ずっと一緒だろ？",
+    "before": {
+      "id": "dialogue:cadaf4a87bec4823",
+      "source": "ふっ……どうもしないさ。//アタシとアンタとは、//ずっと一緒だろ？",
+      "text": "훗…아무렇지도 않아．//나와 너는，//계속 함께잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0743",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "8f9108b8abbd2954e5c9a172090410c04ee7476adda3ff73cd0682216b978762",
+          "text": "뭘 하긴．//나랑 너는//계속 함께잖아？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:cadaf4a87bec4823",
+      "source": "ふっ……どうもしないさ。//アタシとアンタとは、//ずっと一緒だろ？",
+      "text": "뭘 하긴．//나랑 너는//계속 함께잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0743"
+        }
+      ]
+    },
+    "reason": "どうもしない는 반응을 묻는 앞말을 받아 뭘 하긴이라고 답하는 구문"
+  },
+  {
+    "unit": "dialogue:4ec1f9020f8ec14b",
+    "source": "失敗したから壊す……か。//わかりやすくていいねぇ……//バカはさ。",
+    "before": {
+      "id": "dialogue:4ec1f9020f8ec14b",
+      "source": "失敗したから壊す……か。//わかりやすくていいねぇ……//バカはさ。",
+      "text": "실패했으니까 부순다…인가．//알기 쉬워서 좋네…//바보라니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1430"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0762",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f86f96c8740a0c0a7325944b5ad4912ea0f1deef9b926ffccbdf075bf8c8e6fc",
+          "text": "실패했으니까 부순다…이건가．//알기 쉬워서 좋네…//바보란 건 말이야．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4ec1f9020f8ec14b",
+      "source": "失敗したから壊す……か。//わかりやすくていいねぇ……//バカはさ。",
+      "text": "실패했으니 부순다…인가．//알기 쉬워서 좋네…//바보란 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1430"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0762"
+        }
+      ]
+    },
+    "reason": "바보들은 알기 쉽다고 비꼬는 구문의 끝맺음 자연화"
+  },
+  {
+    "unit": "dialogue:9923e7db2d8673f8",
+    "source": "じゃあな……//また会う日まで。",
+    "before": {
+      "id": "dialogue:9923e7db2d8673f8",
+      "source": "じゃあな……//また会う日まで。",
+      "text": "잘 가라…//다시 만날 날까지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0000"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0346",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "baed39aaff4541e3409426c365c83bc8d3920e32f5ae2cf855487ec8b57e8b0b",
+          "text": "그럼…//다시 만날 때까지．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:9923e7db2d8673f8",
+      "source": "じゃあな……//また会う日まで。",
+      "text": "그럼…//다시 만날 때까지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0000"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0346"
+        }
+      ]
+    },
+    "reason": "じゃあな는 여기서 화자가 떠나는 인사. 잘 가라라는 방향 단정 삭제"
+  },
+  {
+    "unit": "dialogue:401fc9e01cf6c420",
+    "source": "なんだか……//あっという間だったような//気がしますね。",
+    "before": {
+      "id": "dialogue:401fc9e01cf6c420",
+      "source": "なんだか……//あっという間だったような//気がしますね。",
+      "text": "왠지…//눈 깜짝할 사이였다는//기분이 드네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0370",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b6a7a9d79eb93588dd91e37d25a90774947676c40a2dba65d4b7861b833dc939",
+          "text": "왠지…//정말 순식간이었던 것 같네요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:401fc9e01cf6c420",
+      "source": "なんだか……//あっという間だったような//気がしますね。",
+      "text": "왠지…//정말 순식간이었던 것 같네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0370"
+        }
+      ]
+    },
+    "reason": "눈 깜짝할 사이였다는 기분이 든다는 직역 중복 완화"
+  },
+  {
+    "unit": "dialogue:3144ad6c03aaa9b9",
+    "source": "なぁ……今度、//一緒に巴里にでも、//遊びに行くか？",
+    "before": {
+      "id": "dialogue:3144ad6c03aaa9b9",
+      "source": "なぁ……今度、//一緒に巴里にでも、//遊びに行くか？",
+      "text": "있잖아…다음에，//같이 파리에라도//놀러 갈래？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0382",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "28f3b05eba46373df30ad7063572db88df33ee3a1cde3c919a4a1377a5ee5b31",
+          "text": "있잖아…이번에，//같이 파리에라도，//놀러 갈래？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3144ad6c03aaa9b9",
+      "source": "なぁ……今度、//一緒に巴里にでも、//遊びに行くか？",
+      "text": "있잖아…다음에，//같이 파리에라도//놀러 갈래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0382"
+        }
+      ]
+    },
+    "reason": "헤어진 뒤 다음에 파리를 방문하자는 今度의 의미"
+  },
+  {
+    "unit": "dialogue:2dbd0fbbe4f83059",
+    "source": "あたし……//どうしても、今日//この場所に来たかったんです。",
+    "before": {
+      "id": "dialogue:2dbd0fbbe4f83059",
+      "source": "あたし……//どうしても、今日//この場所に来たかったんです。",
+      "text": "저…//어떻게 해서든，오늘//이곳에 오고 싶었어요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0040"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0407",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "2eada716c80e02e96977a10ec4c741a27a45cb526498486100f4537e18db6d3d",
+          "text": "저…//꼭 오늘//이곳에 오고 싶었어요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2dbd0fbbe4f83059",
+      "source": "あたし……//どうしても、今日//この場所に来たかったんです。",
+      "text": "저…//꼭 오늘//이곳에 오고 싶었어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0040"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0407"
+        }
+      ]
+    },
+    "reason": "どうしても今日를 꼭 오늘로 자연스럽게 표현"
+  },
+  {
+    "unit": "dialogue:c46891ce22e3c652",
+    "source": "中尉さん……//最高の舞台を演じますから……//お休みもらってもいいですか？",
+    "before": {
+      "id": "dialogue:c46891ce22e3c652",
+      "source": "中尉さん……//最高の舞台を演じますから……//お休みもらってもいいですか？",
+      "text": "중위님…//최고의 무대를 보여 드릴 테니까…//쉬어도 될까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0185"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1713",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6eb21a1abcccc20ad32aac1599ec4912e84aea9ab9e51b4a8911d4b283e00716",
+          "text": "중위님…//최고의 무대를 보여 드릴 테니까…//휴가를 받아도 될까요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:c46891ce22e3c652",
+      "source": "中尉さん……//最高の舞台を演じますから……//お休みもらってもいいですか？",
+      "text": "중위님…//최고의 무대를 보여 드릴 테니…//휴가를 주실래요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0185"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1713"
+        }
+      ]
+    },
+    "reason": "공연 후 お休み를 받고 싶다는 휴가 요청의 의미 명확화"
+  },
+  {
+    "unit": "dialogue:930e891e8975e2d4",
+    "source": "これで失礼するです。//チャオ∈",
+    "before": {
+      "id": "dialogue:930e891e8975e2d4",
+      "source": "これで失礼するです。//チャオ∈",
+      "text": "이걸로 실례하겠습니다．//챠오∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0195"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1735",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "52aa1830dd297b5b434bfc82254cdca446e307fed936510b0a93aa3146e96dfb",
+          "text": "그럼 실례할게요．//차오∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:930e891e8975e2d4",
+      "source": "これで失礼するです。//チャオ∈",
+      "text": "그럼 실례할게요．//차오∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0195"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1735"
+        }
+      ]
+    },
+    "reason": "これで失礼する의 자연스러운 작별 인사 및 차오 표기"
+  },
+  {
+    "unit": "dialogue:7cb0b58410e11ecf",
+    "source": "とってもおいしいんですよ。//ほっぺたが落ちちゃうくらい//なんです！",
+    "before": {
+      "id": "dialogue:7cb0b58410e11ecf",
+      "source": "とってもおいしいんですよ。//ほっぺたが落ちちゃうくらい//なんです！",
+      "text": "정말 맛있답니다．//볼이 떨어질 만큼//맛있어요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0224"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1473",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "bc16c1c8f792058dd6527b0c801b6fc65f550a87db05e5004777649c987c4da8",
+          "text": "정말 맛있답니다．//볼이 떨어질 정도로//맛있어요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:7cb0b58410e11ecf",
+      "source": "とってもおいしいんですよ。//ほっぺたが落ちちゃうくらい//なんです！",
+      "text": "정말 맛있어요．//눈이 번쩍 뜨일 만큼//맛있어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0224"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1473"
+        }
+      ]
+    },
+    "reason": "ほっぺたが落ちるほど의 맛있다는 관용 표현을 볼이 떨어진다는 직역에서 한국어 감탄으로 현지화"
+  },
+  {
+    "unit": "dialogue:03f0a21926364d99",
+    "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+    "before": {
+      "id": "dialogue:03f0a21926364d99",
+      "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+      "text": "그렇군…도쿄에서의//귀공의 싸움…//찬찬히 지켜보았다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0240"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1633",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b879801e33efee9e18ce90a137267acf45709428aa6701eb2f8cfdb6fb0f875a",
+          "text": "그래…도쿄에서 귀공이 싸우는 모습…찬찬히 지켜보았다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:03f0a21926364d99",
+      "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+      "text": "그래…도쿄에서 귀공이 싸우는 모습…찬찬히 지켜보았다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0240"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1633"
+        }
+      ]
+    },
+    "reason": "そうだ의 응답과 도쿄에서 싸우는 모습을 봤다는 문장 자연화"
+  },
+  {
+    "unit": "dialogue:277312fae359ee71",
+    "source": "カン……だな。//お前ならできると、//そう思ったんだよ。",
+    "before": {
+      "id": "dialogue:277312fae359ee71",
+      "source": "カン……だな。//お前ならできると、//そう思ったんだよ。",
+      "text": "감…이군．//너라면 할 수 있을 거라고，//그렇게 생각했어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0327"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1612",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "73730bdad0cabb232145eae5103a2ecafb329a95482262a6cc25eb5811529fdc",
+          "text": "직감…이지．//너라면 할 수 있을 거라고，//그렇게 생각했어．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:277312fae359ee71",
+      "source": "カン……だな。//お前ならできると、//そう思ったんだよ。",
+      "text": "직감이지．//너라면 할 수 있을 거라고，//그렇게 생각했어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0327"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1612"
+        }
+      ]
+    },
+    "reason": "감이군이라는 부자연스러운 단독 응답을 직감이지로 표현"
+  },
+  {
+    "unit": "dialogue:09d25b5c9c3b9e49",
+    "source": "見ろよ、大神……//もう、街は復興している。",
+    "before": {
+      "id": "dialogue:09d25b5c9c3b9e49",
+      "source": "見ろよ、大神……//もう、街は復興している。",
+      "text": "봐，오오가미…//벌써 거리는 복구되었어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0484"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0245",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "225e0061dd061aadb69b2cd5d93fd9f34ae4790a89f16a98727ee93a4e505482",
+          "text": "봐，오오가미…//벌써 도시는 복구되고 있어．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:09d25b5c9c3b9e49",
+      "source": "見ろよ、大神……//もう、街は復興している。",
+      "text": "봐，오오가미…//도시가 복구되고 있어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0484"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0245"
+        }
+      ]
+    },
+    "reason": "復興している는 현재 재건 중이라는 장면. 이미 복구가 끝났다는 번역 교정"
+  },
+  {
+    "unit": "dialogue:fce0561d5e11e639",
+    "source": "今度は、もっとゆっくりと//遊びにきますね。",
+    "before": {
+      "id": "dialogue:fce0561d5e11e639",
+      "source": "今度は、もっとゆっくりと//遊びにきますね。",
+      "text": "다음에는，좀 더 느긋하게//놀러 올게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0502"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0273",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0767",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "83e18545a317c8082a21a6a7a9dfc6b62510da08b82d2736790df11dd06cac5f",
+          "text": "이번에는，좀 더 느긋하게//놀러 올게요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "83e18545a317c8082a21a6a7a9dfc6b62510da08b82d2736790df11dd06cac5f",
+          "text": "이번에는，좀 더 천천히//놀러 올게요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fce0561d5e11e639",
+      "source": "今度は、もっとゆっくりと//遊びにきますね。",
+      "text": "다음에는 좀 느긋하게//놀러 올게요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0502"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0273"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0767"
+        }
+      ]
+    },
+    "reason": "작별 인사에서 今度は는 다음 방문의 뜻"
+  },
+  {
+    "unit": "dialogue:1fbf8409a48cf4d5",
+    "source": "貴公をムコに迎えたくて、//トーキョーまで来たのだが……",
+    "before": {
+      "id": "dialogue:1fbf8409a48cf4d5",
+      "source": "貴公をムコに迎えたくて、//トーキョーまで来たのだが……",
+      "text": "귀공을 사위로 맞고 싶어서，//도쿄까지 왔지만…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0527"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0304",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0105411539229c26f15d3f8f2b8c94eca41d61126bbab00a87c43f013400151b",
+          "text": "귀공을 사위로 맞으려고，//도쿄까지 왔지만…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1fbf8409a48cf4d5",
+      "source": "貴公をムコに迎えたくて、//トーキョーまで来たのだが……",
+      "text": "귀공을 신랑으로 맞으려，//도쿄까지 왔지만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0527"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0304"
+        }
+      ]
+    },
+    "reason": "글리신이 자신의 남편으로 맞으려 했다는 회고. 사위로 옮긴 오역 교정"
+  },
+  {
+    "unit": "dialogue:16dc7d2f45346e01",
+    "source": "好き嫌いも直して、//なんでも食べなきゃダメだよ。//わかった！",
+    "before": {
+      "id": "dialogue:16dc7d2f45346e01",
+      "source": "好き嫌いも直して、//なんでも食べなきゃダメだよ。//わかった！",
+      "text": "편식도 고치고，//뭐든지 잘 먹어야 해．//알았어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0542"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0325",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "184eef6ced18f223909434fa04d4a6412c8b8b1a6739812ebf3240f5297f5380",
+          "text": "편식도 고치고，//뭐든지 잘 먹어야 해．//알았지∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:16dc7d2f45346e01",
+      "source": "好き嫌いも直して、//なんでも食べなきゃダメだよ。//わかった！",
+      "text": "편식도 고치고，//뭐든지 잘 먹어야 해．//알았지∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0542"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0325"
+        }
+      ]
+    },
+    "reason": "상대에게 알아들었는지 묻는 わかった를 알았지로 표현"
+  },
+  {
+    "unit": "dialogue:fce76d29300cbf56",
+    "source": "別に、考え込んでから//驚かなくてもいいだろう？",
+    "before": {
+      "id": "dialogue:fce76d29300cbf56",
+      "source": "別に、考え込んでから//驚かなくてもいいだろう？",
+      "text": "딱히，고민을 다 하고 나서//놀라든 말든 상관없잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0659"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0531",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f57565cdd10abf5cd21c0efedd8a5fa0ecd231ed0cf28aebe060c7e97133cd87",
+          "text": "생각에 잠겼다가//뒤늦게 놀랄 것까진 없잖아？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fce76d29300cbf56",
+      "source": "別に、考え込んでから//驚かなくてもいいだろう？",
+      "text": "생각에 잠겼다가//뒤늦게 놀랄 것까진 없잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0659"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0531"
+        }
+      ]
+    },
+    "reason": "생각한 뒤 놀라지 않아도 된다는 원문을 놀라든 말든 상관없다로 옮긴 의미 반전 교정"
+  },
+  {
+    "unit": "dialogue:357422cfb187bb98",
+    "source": "中尉さん……//これで……わたしも、//日本人になれましたか？",
+    "before": {
+      "id": "dialogue:357422cfb187bb98",
+      "source": "中尉さん……//これで……わたしも、//日本人になれましたか？",
+      "text": "중위님…//이걸로…저도，//일본인이 될 수 있었나요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0725"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0661",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "fa0854a37b14c5db0cae2d1e15f4aea1d565a152e84962320e878d07ed1caf51",
+          "text": "중위님…//이걸로…저도，//일본인이 된 건가요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:357422cfb187bb98",
+      "source": "中尉さん……//これで……わたしも、//日本人になれましたか？",
+      "text": "중위님…//이걸로…저도，//일본인이 된 건가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0725"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0661"
+        }
+      ]
+    },
+    "reason": "이미 일본인이 된 것인지 묻는 문장 자연화"
+  },
+  {
+    "unit": "dialogue:964e9a02d4742661",
+    "source": "わたし、日本人の妻に……//なれるでしょうか？",
+    "before": {
+      "id": "dialogue:964e9a02d4742661",
+      "source": "わたし、日本人の妻に……//なれるでしょうか？",
+      "text": "저，일본인의 아내가…//될 수 있을까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0728"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0671",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4fbe702cfd5412de80fcebfefde7117f4e019e9f1e055d84a24341fef7bd65ff",
+          "text": "저，일본인 아내가…//될 수 있을까요？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:964e9a02d4742661",
+      "source": "わたし、日本人の妻に……//なれるでしょうか？",
+      "text": "저，일본인의 아내가…//될 수 있나요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0728"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0671"
+        }
+      ]
+    },
+    "reason": "일본 남자의 아내가 된다는 뜻을 일본 국적의 아내로 읽히지 않도록 조사 유지"
+  },
+  {
+    "unit": "dialogue:dd3ad76f674e9ef0",
+    "source": "それに……//わたしに着物が似合うか……//自信なかったですから。",
+    "before": {
+      "id": "dialogue:dd3ad76f674e9ef0",
+      "source": "それに……//わたしに着物が似合うか……//自信なかったですから。",
+      "text": "게다가…//제게 기모노가 어울릴지…//자신이 없었거든요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0731"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0676",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f7433b5a2ded82a234cac3bf89c6c7c87ddb4032083d8caa1fa7ab6d6652dacd",
+          "text": "게다가…//제가 기모노가 어울릴지…//자신이 없었거든요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:dd3ad76f674e9ef0",
+      "source": "それに……//わたしに着物が似合うか……//自信なかったですから。",
+      "text": "게다가…//제게 기모노가 어울릴지…//자신이 없었거든요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0731"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0676"
+        }
+      ]
+    },
+    "reason": "제가 기모노가 어울릴지라는 주격 중복 교정"
+  },
+  {
+    "unit": "dialogue:1ef1f6e8f88259d8",
+    "source": "パパとママの気持ちも//わかりましたし……",
+    "before": {
+      "id": "dialogue:1ef1f6e8f88259d8",
+      "source": "パパとママの気持ちも//わかりましたし……",
+      "text": "아빠와 엄마의 마음도//알 것 같아서…．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0742"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0693",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b910d030693a56754a8252d16d3e0499c32e4e9d79d95055b74d8560cc869f88",
+          "text": "아빠와 엄마의 마음도//이제 이해하게 됐고…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:1ef1f6e8f88259d8",
+      "source": "パパとママの気持ちも//わかりましたし……",
+      "text": "아빠와 엄마 마음도//이젠 알게 됐고…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0742"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0693"
+        }
+      ]
+    },
+    "reason": "부모의 마음도 이해했다는 연결 구문 자연화"
+  },
+  {
+    "unit": "dialogue:126a4e9778d81784",
+    "source": "ホ、ホンモノだぁ……//ホンモノの大神さんだぁ〓",
+    "before": {
+      "id": "dialogue:126a4e9778d81784",
+      "source": "ホ、ホンモノだぁ……//ホンモノの大神さんだぁ〓",
+      "text": "정，정말이야…//정말 오오가미 씨야〓",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0864"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0939",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "749a4f0b18f5e1b0d9d3090257ffdeee4d81755b2dd0ab327339d32c3781838c",
+          "text": "진，진짜다아…//진짜 오오가미 씨야아〓",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:126a4e9778d81784",
+      "source": "ホ、ホンモノだぁ……//ホンモノの大神さんだぁ〓",
+      "text": "진，진짜다…//진짜 오오가미 씨야〓",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0864"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0939"
+        }
+      ]
+    },
+    "reason": "실물을 마주한 ホンモノ의 놀라움 명확화"
+  },
+  {
+    "unit": "dialogue:fb248ca9b7070736",
+    "source": "もーっ！//寝ぼけたらダメでしょ。//めっ∈",
+    "before": {
+      "id": "dialogue:fb248ca9b7070736",
+      "source": "もーっ！//寝ぼけたらダメでしょ。//めっ∈",
+      "text": "정말∈//잠이 덜 풀렸으면 안 되지．//안 돼∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0943"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1083",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f7742335af3fa9a5cb6bec3ee5380011172b721f41f10040e9dc64c9ccdcf2a6",
+          "text": "정말∈//정신 차려야지．//떽∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fb248ca9b7070736",
+      "source": "もーっ！//寝ぼけたらダメでしょ。//めっ∈",
+      "text": "정말∈//정신 차려야지．//떽∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0943"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1083"
+        }
+      ]
+    },
+    "reason": "寝ぼける를 잠이 덜 풀리면 안 된다는 직역 대신 정신 차려야지로 표현"
+  },
+  {
+    "unit": "dialogue:ae65e06ffd0cce62",
+    "source": "ほら、イチロー∈//はやく起きないと、//おフトン、ひっぺがすよ！",
+    "before": {
+      "id": "dialogue:ae65e06ffd0cce62",
+      "source": "ほら、イチロー∈//はやく起きないと、//おフトン、ひっぺがすよ！",
+      "text": "자，이치로∈//빨리 안 일어나면，//이불，확 뺏어버릴 거야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0952"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0957",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1103",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1111",
+          "form": "v003"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b1831e9406d87a2e431d449862720e47f99b4a6eeec68fbbb2c8e6d5efe650ca",
+          "text": "자，이치로∈//얼른 일어나지 않으면，//이불，확 뺏어버릴 거야∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b1831e9406d87a2e431d449862720e47f99b4a6eeec68fbbb2c8e6d5efe650ca",
+          "text": "자，이치로∈//빨리 안 일어나면，//이불 확 걷어 버릴 거야∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b1831e9406d87a2e431d449862720e47f99b4a6eeec68fbbb2c8e6d5efe650ca",
+          "text": "자，이치로∈//얼른 일어나지 않으면，//이불 확 걷어 버릴 거야∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:ae65e06ffd0cce62",
+      "source": "ほら、イチロー∈//はやく起きないと、//おフトン、ひっぺがすよ！",
+      "text": "자，이치로∈//빨리 안 일어나면，//이불 확 걷어 버릴 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0952"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0957"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1111"
+        }
+      ]
+    },
+    "reason": "이불을 확 걷어 버린다는 동작 표현 자연화"
+  },
+  {
+    "unit": "dialogue:642445ef251a5824",
+    "source": "それに……そんなことは、//アンタがあとで、//確かめればいいだけのことだろ？",
+    "before": {
+      "id": "dialogue:642445ef251a5824",
+      "source": "それに……そんなことは、//アンタがあとで、//確かめればいいだけのことだろ？",
+      "text": "게다가…그런 건，//네가 나중에，//확인하면 될 일뿐이잖아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1145",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "49af87b36a91eb305e07c71a40a6182908b586ddbba6d0e0664aa2270fd6d6d4",
+          "text": "게다가…그런 건，//네가 나중에，//확인해 보면 될 일이잖아？",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:642445ef251a5824",
+      "source": "それに……そんなことは、//アンタがあとで、//確かめればいいだけのことだろ？",
+      "text": "게다가…그런 건，//네가 나중에，//확인해 보면 될 일이잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1145"
+        }
+      ]
+    },
+    "reason": "확인하면 될 일뿐이라는 어색한 제한 구문 교정"
+  },
+  {
+    "unit": "dialogue:4036d9b6e36e0b5f",
+    "source": "迷惑をかけるのは、//アンタだけにしとくよ。//楽しみにしてるんだぜ。",
+    "before": {
+      "id": "dialogue:4036d9b6e36e0b5f",
+      "source": "迷惑をかけるのは、//アンタだけにしとくよ。//楽しみにしてるんだぜ。",
+      "text": "민폐 끼치는 건，//너 하나로 해 둘게．//기대하고 있으라고．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0981"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1152",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "07980f9ed3daff8cfda6fba01195ab645d96e49c556976318431e167a3e15930",
+          "text": "민폐 끼치는 건，//너한테만 하기로 할게．//기대하고 있으라고．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4036d9b6e36e0b5f",
+      "source": "迷惑をかけるのは、//アンタだけにしとくよ。//楽しみにしてるんだぜ。",
+      "text": "민폐는，//너한테만 끼칠게．//기대하고 있으라고．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0981"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1152"
+        }
+      ]
+    },
+    "reason": "민폐를 끼칠 상대는 오오가미뿐이라는 의미 명확화"
+  },
+  {
+    "unit": "dialogue:2ba019a69770f3f4",
+    "source": "そ、そこまで……//大神さんが//おっしゃるのでしたら……",
+    "before": {
+      "id": "dialogue:2ba019a69770f3f4",
+      "source": "そ、そこまで……//大神さんが//おっしゃるのでしたら……",
+      "text": "그，거기까지…//오오가미 씨가//그러시다면…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0997"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1183",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "cc37e9c93e8a495a0c8d3e65d50932b324d5c7532af36532ab890307368812c7",
+          "text": "그，그렇게까지…//오오가미 씨가//말씀하신다면…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:2ba019a69770f3f4",
+      "source": "そ、そこまで……//大神さんが//おっしゃるのでしたら……",
+      "text": "그，그리도…//오오가미 씨가//말씀하신다면…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0997"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1183"
+        }
+      ]
+    },
+    "reason": "そこまで는 장소가 아닌 발언의 정도. 거기까지라는 직역 교정"
+  },
+  {
+    "unit": "dialogue:cb8aad3023da79cc",
+    "source": "あん……//草履の鼻緒が……",
+    "before": {
+      "id": "dialogue:cb8aad3023da79cc",
+      "source": "あん……//草履の鼻緒が……",
+      "text": "아앗…//짚신끈이…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1008"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1202",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "67d0b3380ff0aac778e2ad946521aebaf1221428ae0bcf55ea1585651bf9abf4",
+          "text": "아앗…//조리 끈이…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:cb8aad3023da79cc",
+      "source": "あん……//草履の鼻緒が……",
+      "text": "아앗…//조리 끈이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1008"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1202"
+        }
+      ]
+    },
+    "reason": "草履의 끈을 조리 끈으로 표현하여 짚신과 구별"
+  },
+  {
+    "unit": "dialogue:097745fcfccdbd01",
+    "source": "いや、また今度でいいよ。//でも……早めに頼むね。",
+    "before": {
+      "id": "dialogue:097745fcfccdbd01",
+      "source": "いや、また今度でいいよ。//でも……早めに頼むね。",
+      "text": "아니，다음에 해도 돼．//그래도…빨리 부탁할게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0530"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1661"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2133",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b1217524e89ced92cd2472dab3420faeae168975efdbae212b96ff8c9c9edd7f",
+          "text": "아니，다음에 해도 괜찮아．//하지만…좀 일찍 부탁할게．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:097745fcfccdbd01",
+      "source": "いや、また今度でいいよ。//でも……早めに頼むね。",
+      "text": "아니，다음에 해도 돼．//그래도…빨리 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0530"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1661"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2133"
+        }
+      ]
+    },
+    "reason": "빠른 대답을 부탁하는 早め를 시간대가 일찍이라는 뜻과 구별"
+  },
+  {
+    "unit": "dialogue:9beaaa2a9a1b4328",
+    "source": "はい……わかりましたです。//なるべく早めにお返事します。",
+    "before": {
+      "id": "dialogue:9beaaa2a9a1b4328",
+      "source": "はい……わかりましたです。//なるべく早めにお返事します。",
+      "text": "네…알겠습니다．//가능한 한 빨리 대답드릴게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0531"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1662",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2134",
+          "form": "v002"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4bf830c0b9956202a2a12f869fd4c0faa212754555e27c4f89766ed8abe996a3",
+          "text": "네…알겠습니다．//가급적 빨리 대답할게요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4bf830c0b9956202a2a12f869fd4c0faa212754555e27c4f89766ed8abe996a3",
+          "text": "네…알겠습니다．//가급적 빨리 답장드릴게요．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:9beaaa2a9a1b4328",
+      "source": "はい……わかりましたです。//なるべく早めにお返事します。",
+      "text": "네…알겠어요．//되도록 빨리 대답드릴게요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0531"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1662"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2134"
+        }
+      ]
+    },
+    "reason": "직접 대답하는 장면의 返事를 편지 답장으로 한정한 변형 교정"
+  },
+  {
+    "unit": "dialogue:58f54b4c608d5593",
+    "source": "それで……俺も、//結婚について考えないと//いけないなと思ってさ。",
+    "before": {
+      "id": "dialogue:58f54b4c608d5593",
+      "source": "それで……俺も、//結婚について考えないと//いけないなと思ってさ。",
+      "text": "그래서…나도，//결혼에 대해 생각해야//할 것 같아서 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1724",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2089"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "838bdd47594c1912218a319a6c1d6e1adb590090fa0451f914e6a9498f094986",
+          "text": "그래서…나도，//결혼에 대해 생각해야겠다고//생각해서 말이야．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:58f54b4c608d5593",
+      "source": "それで……俺も、//結婚について考えないと//いけないなと思ってさ。",
+      "text": "그래서…나도，//결혼에 대해 생각해야//할 것 같아서 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1724"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2089"
+        }
+      ]
+    },
+    "reason": "생각해야겠다고 생각해서라는 중복 완화"
+  },
+  {
+    "unit": "dialogue:3fdf603b343909c7",
+    "source": "それじゃ、俺はもう行くよ。//見回りを続けないとね。",
+    "before": {
+      "id": "dialogue:3fdf603b343909c7",
+      "source": "それじゃ、俺はもう行くよ。//見回りを続けないとね。",
+      "text": "그럼，난 이제 가 볼게．//순찰을 계속 해야 하니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1052"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1454",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1605",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "d7d7b92b246edf58d24bc797f54f975917e7492e2ea885ef88b9e2041162b24d",
+          "text": "그럼，난 이제 가 볼게．//순찰을 계속해야 하니까．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3fdf603b343909c7",
+      "source": "それじゃ、俺はもう行くよ。//見回りを続けないとね。",
+      "text": "그럼，난 이제 가 볼게．//순찰을 계속해야 하니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1052"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1454"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1605"
+        }
+      ]
+    },
+    "reason": "계속해야의 띄어쓰기 교정"
+  },
+  {
+    "unit": "dialogue:360799f381741676",
+    "source": "えぇ、そうですね……//私もまだ……//きちんと考えたことは……",
+    "before": {
+      "id": "dialogue:360799f381741676",
+      "source": "えぇ、そうですね……//私もまだ……//きちんと考えたことは……",
+      "text": "네，그렇네요…//저도 아직…//제대로 생각한 것은…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1345"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1695",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2056",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "70daedb260cc3e8495f7b665054896677990d2dec5fc9918afe0064401acfb68",
+          "text": "네，그렇네요…//저도 아직…//제대로 생각해 본 적은…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:360799f381741676",
+      "source": "えぇ、そうですね……//私もまだ……//きちんと考えたことは……",
+      "text": "네，그렇네요…//저도 아직…//깊이 생각해 본 적은…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1345"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1695"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2056"
+        }
+      ]
+    },
+    "reason": "考えたこと의 경험 의미를 생각한 것은이라는 명사형과 구별"
+  },
+  {
+    "unit": "dialogue:089568f487151184",
+    "source": "まぁ、いいか。//さて……俺も//自分の部屋に戻るか。",
+    "before": {
+      "id": "dialogue:089568f487151184",
+      "source": "まぁ、いいか。//さて……俺も//自分の部屋に戻るか。",
+      "text": "뭐，됐나．//자，그럼…나도//내 방으로 돌아갈까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2047"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2064"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2101",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2120"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2139"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2157"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2175"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "145737a26100c88b3f118ad89bb0c2478524a0aacf8fe8e4456ab939e38f0223",
+          "text": "뭐，됐나．//자…나도//내 방으로 돌아갈까．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:089568f487151184",
+      "source": "まぁ、いいか。//さて……俺も//自分の部屋に戻るか。",
+      "text": "뭐，됐어．//자…나도//내 방으로 돌아갈까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2047"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2064"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2120"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2139"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2157"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2175"
+        }
+      ]
+    },
+    "reason": "まあいいか라는 독백의 부자연스러운 됐나 종결 교정"
+  },
+  {
+    "unit": "dialogue:977513989b253ac2",
+    "source": "さて……//俺は見回りに戻るか。",
+    "before": {
+      "id": "dialogue:977513989b253ac2",
+      "source": "さて……//俺は見回りに戻るか。",
+      "text": "자…//난 순찰하러 돌아가 볼까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0424",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "a7e33899c2f68e6ffc3967488c20fef2d630b1448935eb2a816de15ab3179d5a",
+          "text": "자…//난 순찰로 돌아갈까．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:977513989b253ac2",
+      "source": "さて……//俺は見回りに戻るか。",
+      "text": "자…//순찰하러 돌아갈까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0424"
+        }
+      ]
+    },
+    "reason": "순찰로 돌아간다는 직역을 순찰하러 돌아가다로 표현"
+  },
+  {
+    "unit": "dialogue:61425b76501bc6c0",
+    "source": "私の勝ち……ですか〓//殿方に、恥を//かかせてしまうなんて……",
+    "before": {
+      "id": "dialogue:61425b76501bc6c0",
+      "source": "私の勝ち……ですか〓//殿方に、恥を//かかせてしまうなんて……",
+      "text": "제가 이긴 건가요〓//남성분께 망신을//드리게 되다니…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT12HANA.SBN#0007"
+        },
+        {
+          "id": "MINIGAME/JT12HANA.SBN#0015",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "431383527f0de2e3755a53d809a5f4e57796a43756f87c5f2d9fc38f95703e3f",
+          "text": "제가 이긴…건가요〓//남성분께 망신을//드리고 말다니…",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:61425b76501bc6c0",
+      "source": "私の勝ち……ですか〓//殿方に、恥を//かかせてしまうなんて……",
+      "text": "제가 이긴 건가요〓//남성분께 망신을//주고 말다니…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT12HANA.SBN#0007"
+        },
+        {
+          "id": "MINIGAME/JT12HANA.SBN#0015"
+        }
+      ]
+    },
+    "reason": "망신을 드린다는 부적절한 객체 높임을 자연스러운 표현으로 교정"
+  }
+]

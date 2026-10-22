@@ -1,0 +1,6 @@
+{"id": "dialogue:b2fe9d3dd04c587a", "source": "Cメモリ不足", "text": "C메모리부족", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0004"}]}
+{"id": "dialogue:619c696e89bce41c", "source": "読み込み失敗", "text": "로드 실패", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0005"}, {"id": "ADVDATA/ENDING.BIN#0007"}]}
+{"id": "dialogue:3a391293c2711d96", "source": "読み込みFull", "text": "로드Full", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0009"}]}
+{"id": "dialogue:d17e083e8a2d82b2", "source": "誤差検出！", "text": "오차 검출∈", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0010"}]}
+{"id": "dialogue:a65040301f43a754", "source": "データが読み込まれてません", "text": "데이터가 로드되지 않았습니다", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0011"}]}
+{"id": "dialogue:40d275c60d15aa28", "source": "ハンドル拾得失敗", "text": "핸들 획득 실패", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/ENDING.BIN#0012"}]}

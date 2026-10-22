@@ -1,0 +1,251 @@
+[
+  {
+    "unit": "dialogue:d39b66ac20c4c029",
+    "source": "今回のお題はこれや∈//この中の、どれか１組を//そろえてや！",
+    "before": {
+      "id": "dialogue:d39b66ac20c4c029",
+      "source": "今回のお題はこれや∈//この中の、どれか１組を//そろえてや！",
+      "text": "이번 주제는 이기다∈//이 중에서，어느 한 세트만//맞춰 봐라",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0004"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d39b66ac20c4c029",
+      "source": "今回のお題はこれや∈//この中の、どれか１組を//そろえてや！",
+      "text": "이번 주제는 이기다∈//이 중에서，어느 한 세트를//맞춰 봐라",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0004"
+        }
+      ]
+    },
+    "reason": "「どれか１組を」를 「한 세트만」으로 좁힌 부분 교정."
+  },
+  {
+    "unit": "dialogue:15c826272b18c67a",
+    "source": "へっへへーん∈//勝たせてもろたで。//まいどおおきに！",
+    "before": {
+      "id": "dialogue:15c826272b18c67a",
+      "source": "へっへへーん∈//勝たせてもろたで。//まいどおおきに！",
+      "text": "헤헤～∈//내가 이겼다．//고맙다∈",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0007"
+        },
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0017"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:15c826272b18c67a",
+      "source": "へっへへーん∈//勝たせてもろたで。//まいどおおきに！",
+      "text": "헤헤～∈//내가 이겼다//고맙데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0007"
+        },
+        {
+          "id": "MINIGAME/JT05KORA.SBN#0017"
+        }
+      ]
+    },
+    "reason": "홍란 「まいどおおきに」 사투리 반영."
+  },
+  {
+    "unit": "dialogue:35a89161889bd81e",
+    "source": "どうしたの？//こんな戦い方じゃ、//あたしは満足しないわよ。",
+    "before": {
+      "id": "dialogue:35a89161889bd81e",
+      "source": "どうしたの？//こんな戦い方じゃ、//あたしは満足しないわよ。",
+      "text": "왜 그래？//이런 전투 방식으로는，//난 만족 못 해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT17KAED.SBN#0007"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:35a89161889bd81e",
+      "source": "どうしたの？//こんな戦い方じゃ、//あたしは満足しないわよ。",
+      "text": "왜 그래？//이런 승부로는，//난 만족 못 해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT17KAED.SBN#0007"
+        }
+      ]
+    },
+    "reason": "마작 대전의 「戦い方」를 전투로 옮긴 부분 교정."
+  },
+  {
+    "unit": "dialogue:18b611d695f2ff26",
+    "source": "今度は、//大神さんが親か……",
+    "before": {
+      "id": "dialogue:18b611d695f2ff26",
+      "source": "今度は、//大神さんが親か……",
+      "text": "이번에는，//오오가미 씨가 딜러라니…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT19YURI.SBN#0006"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:18b611d695f2ff26",
+      "source": "今度は、//大神さんが親か……",
+      "text": "이번에는，//오오가미 씨가 딜러네…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT19YURI.SBN#0006"
+        }
+      ]
+    },
+    "reason": "「親か」를 「딜러라니」로 옮긴 어색한 반응 교정."
+  },
+  {
+    "unit": "dialogue:60e250cf43bf511d",
+    "source": "@c9お題パイ@c0は、//画面のここを見れば//確認することができます。",
+    "before": {
+      "id": "dialogue:60e250cf43bf511d",
+      "source": "@c9お題パイ@c0は、//画面のここを見れば//確認することができます。",
+      "text": "@c9지정 패@c0는，//화면의 이곳에서//확인할 수 있습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0029"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:60e250cf43bf511d",
+      "source": "@c9お題パイ@c0は、//画面のここを見れば//確認することができます。",
+      "text": "@c9주제 패@c0는，//화면의 이곳에서//확인할 수 있습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0029"
+        }
+      ]
+    },
+    "reason": "お題 용어를 미니게임 전체의 「주제」로 통일."
+  },
+  {
+    "unit": "dialogue:cfe09dc5b8917482",
+    "source": "上がりの形に、//@c9お題パイ@c0が//１組も含まれていないと……",
+    "before": {
+      "id": "dialogue:cfe09dc5b8917482",
+      "source": "上がりの形に、//@c9お題パイ@c0が//１組も含まれていないと……",
+      "text": "화료 형태에，//@c9지정 패@c0가//한 세트도 없으면…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0032"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cfe09dc5b8917482",
+      "source": "上がりの形に、//@c9お題パイ@c0が//１組も含まれていないと……",
+      "text": "화료 형태에，//@c9주제 패@c0가//한 세트도 없으면…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0032"
+        }
+      ]
+    },
+    "reason": "お題 용어를 「주제」로 통일."
+  },
+  {
+    "unit": "dialogue:d57811429ced7c06",
+    "source": "@c9お題パイ@c0が//１組も無いため、//上がることができません。",
+    "before": {
+      "id": "dialogue:d57811429ced7c06",
+      "source": "@c9お題パイ@c0が//１組も無いため、//上がることができません。",
+      "text": "@c9지정 패@c0가//한 세트도 없어//화료할 수 없습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0036"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d57811429ced7c06",
+      "source": "@c9お題パイ@c0が//１組も無いため、//上がることができません。",
+      "text": "@c9주제 패@c0가//한 세트도 없어//화료할 수 없습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0036"
+        }
+      ]
+    },
+    "reason": "お題 용어를 「주제」로 통일."
+  },
+  {
+    "unit": "dialogue:c2051a02e0069988",
+    "source": "こちらは、お題パイの１つである//@c10カンナ@c0さんが//１組そろっているので……",
+    "before": {
+      "id": "dialogue:c2051a02e0069988",
+      "source": "こちらは、お題パイの１つである//@c10カンナ@c0さんが//１組そろっているので……",
+      "text": "이쪽은 지정 패인//@c10칸나@c0씨가//한 세트 모여 있으니…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0038"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c2051a02e0069988",
+      "source": "こちらは、お題パイの１つである//@c10カンナ@c0さんが//１組そろっているので……",
+      "text": "이쪽은 주제 패인//@c10칸나@c0씨가//한 세트 모여 있으니…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0038"
+        }
+      ]
+    },
+    "reason": "お題 용어를 「주제」로 통일."
+  },
+  {
+    "unit": "dialogue:d887c979b1a5a4fb",
+    "source": "これから、//とても大切な、@c10お題@パイ@c0の//ルールを説明しますね。",
+    "before": {
+      "id": "dialogue:d887c979b1a5a4fb",
+      "source": "これから、//とても大切な、@c10お題@パイ@c0の//ルールを説明しますね。",
+      "text": "지금부터 아주 중요한//@c10지정 패@c0의//규칙을 설명할게요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0027"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d887c979b1a5a4fb",
+      "source": "これから、//とても大切な、@c10お題@パイ@c0の//ルールを説明しますね。",
+      "text": "지금부터 아주 중요한//@c10주제 패@c0의//규칙을 설명할게요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "MINIGAME/TUT.SBN#0027"
+        }
+      ]
+    },
+    "reason": "お題 용어를 「주제」로 통일."
+  }
+]

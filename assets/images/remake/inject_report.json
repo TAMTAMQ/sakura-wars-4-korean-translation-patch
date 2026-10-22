@@ -1,6 +1,1457 @@
 {
  "files": [
   {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 68957,
+     "slot": 72476,
+     "old": 67301,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 82360,
+     "slot": 86736,
+     "old": 77316,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS03.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS04.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS05.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS06.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS07.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS08.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS09.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS10.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS11.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS12.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS13.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS14.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61461,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      1
+     ],
+     "compressed": true,
+     "payload": 126223,
+     "slot": 133840,
+     "old": 129569,
+     "max_diff": {
+      "1": 0
+     },
+     "mean_diff": {
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/OPTION_BG.CSD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 302058,
+     "slot": 319344,
+     "old": 318322,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/E2MGTITL.ADC",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/GAME0.CSD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1,
+      2,
+      4
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "2": 0,
+      "4": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "2": 0.0,
+      "4": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/MENU0.CSD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      4,
+      9,
+      10
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 74,
+      "4": 105,
+      "10": 125,
+      "9": 41
+     },
+     "mean_diff": {
+      "0": 0.06,
+      "4": 0.1,
+      "10": 0.26,
+      "9": 0.02
+     }
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/WIN0.CSD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1,
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0,
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "2": 0.0,
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/SAVEMENU.CBD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      4
+     ],
+     "compressed": true,
+     "payload": 386994,
+     "slot": 407356,
+     "old": 406763,
+     "max_diff": {
+      "4": 0
+     },
+     "mean_diff": {
+      "4": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/SAVESLG.CBD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      1
+     ],
+     "compressed": true,
+     "payload": 167830,
+     "slot": 176380,
+     "old": 175959,
+     "max_diff": {
+      "1": 0
+     },
+     "mean_diff": {
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/SYSSELECT.CBD",
+   "blocks": [
+    {
+     "block": 1,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 123521,
+     "slot": 138276,
+     "old": 130040,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/TITLEMENU.CBD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      1
+     ],
+     "compressed": true,
+     "payload": 347951,
+     "slot": 369188,
+     "old": 366200,
+     "max_diff": {
+      "1": 0
+     },
+     "mean_diff": {
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/TITLESEQ.CBD",
+   "blocks": [
+    {
+     "block": 3,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 251343,
+     "slot": 273600,
+     "old": 253235,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/WARNING.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 56717,
+     "slot": 60688,
+     "old": 55210,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G01/CMAP01.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 1,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 2,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 3,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 4,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 5,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 6,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 7,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    },
+    {
+     "block": 8,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G01/E/EV01001EFF00.BT1",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    },
+    {
+     "block": 4,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G01/SMAP01.ESM",
+   "blocks": [
+    {
+     "block": 115,
+     "textures": [
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0
+     },
+     "mean_diff": {
+      "2": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G02/SMAP02.ESM",
+   "blocks": [
+    {
+     "block": 118,
+     "textures": [
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0
+     },
+     "mean_diff": {
+      "2": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G03/SMAP03.ESM",
+   "blocks": [
+    {
+     "block": 118,
+     "textures": [
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0
+     },
+     "mean_diff": {
+      "2": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G04/SMAP04.ESM",
+   "blocks": [
+    {
+     "block": 115,
+     "textures": [
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0
+     },
+     "mean_diff": {
+      "2": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G05/CMAP05.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    },
+    {
+     "block": 1,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    },
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/G05/SMAP05.ESM",
+   "blocks": [
+    {
+     "block": 118,
+     "textures": [
+      2
+     ],
+     "compressed": false,
+     "max_diff": {
+      "2": 0
+     },
+     "mean_diff": {
+      "2": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/COQUELICOT_F2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
+   "blocks": [
+    {
+     "block": 115,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/ERICA_F2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/ERICA_F2_N.BC",
+   "blocks": [
+    {
+     "block": 140,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/GLYCINE_F2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/GLYCINE_F2_N.BC",
+   "blocks": [
+    {
+     "block": 125,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/HANABI_F2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/HANABI_F2_N.BC",
+   "blocks": [
+    {
+     "block": 85,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/IRIS_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/IRIS_K2_N.BC",
+   "blocks": [
+    {
+     "block": 74,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/KANNA_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/KANNA_K2_N.BC",
+   "blocks": [
+    {
+     "block": 114,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/KOURAN_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/KOURAN_K2_N.BC",
+   "blocks": [
+    {
+     "block": 97,
+     "textures": [
+      0
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/LOBELIA_F2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/LOBELIA_F2_N.BC",
+   "blocks": [
+    {
+     "block": 190,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/MARIA_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/MARIA_K2_N.BC",
+   "blocks": [
+    {
+     "block": 135,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/OGAMI_K2_N.BC",
+   "blocks": [
+    {
+     "block": 126,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/ORIHIME_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/ORIHIME_K2_N.BC",
+   "blocks": [
+    {
+     "block": 140,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/RENI_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/RENI_K2_N.BC",
+   "blocks": [
+    {
+     "block": 104,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/SAKURA_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/SAKURA_K2_N.BC",
+   "blocks": [
+    {
+     "block": 114,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/SUMIRE_K2.GRCT",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "0": 0,
+      "1": 0
+     },
+     "mean_diff": {
+      "0": 0.0,
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SLG/UNITS/SUMIRE_K2_N.BC",
+   "blocks": [
+    {
+     "block": 185,
+     "textures": [
+      0,
+      1
+     ],
+     "compressed": false,
+     "max_diff": {
+      "1": 0,
+      "0": 0
+     },
+     "mean_diff": {
+      "1": 0.0,
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
    "source": "ADVDATA/CG_ALL1.DAT",
    "blocks": [
     {
@@ -839,7 +2290,7 @@
       0
      ],
      "compressed": true,
-     "payload": 9847,
+     "payload": 10192,
      "slot": 12248,
      "old": 8477,
      "gr_idx_entries": [
@@ -1135,657 +2586,6 @@
    ]
   },
   {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 68957,
-     "slot": 72476,
-     "old": 67301,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 82360,
-     "slot": 86736,
-     "old": 77316,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS03.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS04.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS05.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS06.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS07.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS08.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS09.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS10.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS11.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS12.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS13.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS14.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      1
-     ],
-     "compressed": true,
-     "payload": 126223,
-     "slot": 133840,
-     "old": 129569,
-     "max_diff": {
-      "1": 0
-     },
-     "mean_diff": {
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/OPTION_BG.CSD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 302058,
-     "slot": 319344,
-     "old": 318322,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "MINIGAME/E2MGTITL.ADC",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "MINIGAME/GAME0.CSD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1,
-      2,
-      4
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "2": 0,
-      "4": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "2": 0.0,
-      "4": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "MINIGAME/MENU0.CSD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      4,
-      9,
-      10
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 74,
-      "4": 105,
-      "10": 125,
-      "9": 41
-     },
-     "mean_diff": {
-      "0": 0.06,
-      "4": 0.1,
-      "10": 0.26,
-      "9": 0.02
-     }
-    }
-   ]
-  },
-  {
-   "source": "MINIGAME/WIN0.CSD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1,
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0,
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "2": 0.0,
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G01/CMAP01.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 1,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 2,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 3,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 4,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 5,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 6,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 7,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    },
-    {
-     "block": 8,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G01/E/EV01001EFF00.BT1",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    },
-    {
-     "block": 4,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G01/SMAP01.ESM",
-   "blocks": [
-    {
-     "block": 115,
-     "textures": [
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0
-     },
-     "mean_diff": {
-      "2": 0.0
-     }
-    }
-   ]
-  },
-  {
    "source": "SLG/G02/CMAP02.GRCT",
    "blocks": [
     {
@@ -1960,24 +2760,6 @@
      },
      "mean_diff": {
       "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G02/SMAP02.ESM",
-   "blocks": [
-    {
-     "block": 118,
-     "textures": [
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0
-     },
-     "mean_diff": {
-      "2": 0.0
      }
     }
    ]
@@ -2252,24 +3034,6 @@
    ]
   },
   {
-   "source": "SLG/G03/SMAP03.ESM",
-   "blocks": [
-    {
-     "block": 118,
-     "textures": [
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0
-     },
-     "mean_diff": {
-      "2": 0.0
-     }
-    }
-   ]
-  },
-  {
    "source": "SLG/G04/CMAP04.GRCT",
    "blocks": [
     {
@@ -2343,770 +3107,6 @@
       0
      ],
      "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G04/SMAP04.ESM",
-   "blocks": [
-    {
-     "block": 115,
-     "textures": [
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0
-     },
-     "mean_diff": {
-      "2": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G05/CMAP05.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    },
-    {
-     "block": 1,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    },
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/G05/SMAP05.ESM",
-   "blocks": [
-    {
-     "block": 118,
-     "textures": [
-      2
-     ],
-     "compressed": false,
-     "max_diff": {
-      "2": 0
-     },
-     "mean_diff": {
-      "2": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/COQUELICOT_F2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/COQUELICOT_F2_N.BC",
-   "blocks": [
-    {
-     "block": 115,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/ERICA_F2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/ERICA_F2_N.BC",
-   "blocks": [
-    {
-     "block": 140,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/GLYCINE_F2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/GLYCINE_F2_N.BC",
-   "blocks": [
-    {
-     "block": 125,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/HANABI_F2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/HANABI_F2_N.BC",
-   "blocks": [
-    {
-     "block": 85,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/IRIS_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/IRIS_K2_N.BC",
-   "blocks": [
-    {
-     "block": 74,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/KANNA_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/KANNA_K2_N.BC",
-   "blocks": [
-    {
-     "block": 114,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/KOURAN_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/KOURAN_K2_N.BC",
-   "blocks": [
-    {
-     "block": 97,
-     "textures": [
-      0
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/LOBELIA_F2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/LOBELIA_F2_N.BC",
-   "blocks": [
-    {
-     "block": 190,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/MARIA_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/MARIA_K2_N.BC",
-   "blocks": [
-    {
-     "block": 135,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/OGAMI_K2_N.BC",
-   "blocks": [
-    {
-     "block": 126,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/ORIHIME_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/ORIHIME_K2_N.BC",
-   "blocks": [
-    {
-     "block": 140,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/RENI_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/RENI_K2_N.BC",
-   "blocks": [
-    {
-     "block": 104,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/SAKURA_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/SAKURA_K2_N.BC",
-   "blocks": [
-    {
-     "block": 114,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/SUMIRE_K2.GRCT",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "0": 0,
-      "1": 0
-     },
-     "mean_diff": {
-      "0": 0.0,
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SLG/UNITS/SUMIRE_K2_N.BC",
-   "blocks": [
-    {
-     "block": 185,
-     "textures": [
-      0,
-      1
-     ],
-     "compressed": false,
-     "max_diff": {
-      "1": 0,
-      "0": 0
-     },
-     "mean_diff": {
-      "1": 0.0,
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/SAVEMENU.CBD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      4
-     ],
-     "compressed": true,
-     "payload": 386994,
-     "slot": 407356,
-     "old": 406763,
-     "max_diff": {
-      "4": 0
-     },
-     "mean_diff": {
-      "4": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/SAVESLG.CBD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      1
-     ],
-     "compressed": true,
-     "payload": 167830,
-     "slot": 176380,
-     "old": 175959,
-     "max_diff": {
-      "1": 0
-     },
-     "mean_diff": {
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/SYSSELECT.CBD",
-   "blocks": [
-    {
-     "block": 1,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 123521,
-     "slot": 138276,
-     "old": 130040,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/TITLEMENU.CBD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      1
-     ],
-     "compressed": true,
-     "payload": 347951,
-     "slot": 369188,
-     "old": 366200,
-     "max_diff": {
-      "1": 0
-     },
-     "mean_diff": {
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/TITLESEQ.CBD",
-   "blocks": [
-    {
-     "block": 3,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 251343,
-     "slot": 273600,
-     "old": 253235,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/WARNING.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 56717,
-     "slot": 60688,
-     "old": 55210,
      "max_diff": {
       "0": 0
      },

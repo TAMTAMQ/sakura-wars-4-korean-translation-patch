@@ -1,0 +1,7 @@
+{"id": "dialogue:b0c5b9ce90eb5e04", "source": "この試合では、//あたしのパイがボーナスパイよ。", "text": "이 시합에서는，//내 패가 보너스 패야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0003"}]}
+{"id": "dialogue:71e1a5b9621ec340", "source": "今回のお題はこれね。//この中の、どれか１組を//そろえてくれる？", "text": "이번 주제는 이거야．//이 중에서，어느 한 세트를//맞춰 줄래？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0004"}]}
+{"id": "dialogue:e8cd121dd12b92b1", "source": "いいわ。//あたしが親をするわね。", "text": "좋아．//내가 딜러를 맡을게．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0005"}]}
+{"id": "dialogue:75cbdefd1b69aa89", "source": "それじゃあ、//大神くんが親をやってくれる？", "text": "그럼，//오오가미 군이 딜러 역할을 해 줄래？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0006"}]}
+{"id": "dialogue:35a89161889bd81e", "source": "どうしたの？//こんな戦い方じゃ、//あたしは満足しないわよ。", "text": "왜 그래？//이런 승부로는，//난 만족 못 해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0007"}]}
+{"id": "dialogue:41544043bfe32ae3", "source": "あたしに勝つなんて……//さすがは花組の隊長さんね。", "text": "나한테 이기다니…//역시 화조의 대장이네．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0008"}]}
+{"id": "dialogue:916dcfb22ba30532", "source": "楽しかったわよ、大神くん。//また遊びましょうね。", "text": "즐거웠어，오오가미 군．//다음에 또 놀자．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT17KAED.SBN#0009"}]}

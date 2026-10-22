@@ -1,0 +1,32 @@
+{"id": "dialogue:b2732d0677eee785", "source": "双武を動かすには、//すさまじい霊力が必要だな……//さくらくん、大丈夫か？", "text": "쌍무를 움직이려면，//엄청난 영력이 필요하겠군…//사쿠라 군，괜찮아？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0001"}]}
+{"id": "dialogue:85e173bc052d7732", "source": "だ、大丈夫ですよ！//このくらい……//大神さんの苦労にくらべたら……", "text": "괜，괜찮아요∈//이 정도는…//오오가미 씨의 고생에 비하면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0002"}]}
+{"id": "dialogue:7862ef12d4496704", "source": "俺の苦労……//なんだい、それ……？", "text": "내 고생이라니…//그게 무슨 소리야…？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0003"}]}
+{"id": "dialogue:445e735d14f9c41e", "source": "大神さんは、//みんなのことを……//平和のことを考えて……", "text": "오오가미 씨는，//모두를…//평화를 생각하며…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0004"}]}
+{"id": "dialogue:e22948481c86d151", "source": "いつも……いつも、//隊長として、//苦労していました……", "text": "언제나…언제나，//대장으로서，//고생하셨어요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0005"}]}
+{"id": "dialogue:d5a1ef40c15dae60", "source": "だから、今度は、//あたしたちが、大神さんを//助ける番なんです！", "text": "그러니까，이번에는，//저희가，오오가미 씨를//도울 차례예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0006"}]}
+{"id": "dialogue:f1b7e855282c6ce1", "source": "そんなの……苦労じゃないさ。", "text": "그런 건…고생이 아니야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0008"}]}
+{"id": "dialogue:a27b6abe3d9c34e1", "source": "じゃ、操縦はまかせたよ。", "text": "그럼，조종은 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0009"}]}
+{"id": "dialogue:a05924b26a9d3641", "source": "そんなの……苦労じゃないさ。//俺より、さくらくんたちの方が//大変だったと思うよ。", "text": "그런 건…고생이 아니야．//나보다，사쿠라 군 일행이 더//힘들었을 거라고 생각해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0010"}]}
+{"id": "dialogue:93cd7e23e6c99173", "source": "大神さん……//ありがとうございます……//気づかってくれて。", "text": "오오가미 씨…//고마워요…//신경 써 주셔서．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0011"}]}
+{"id": "dialogue:10f3b6539cf89fd2", "source": "帝国華撃団のみんなも、//巴里華撃団のみんなも……", "text": "제국화격단 여러분도，//파리화격단 여러분도…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0012"}]}
+{"id": "dialogue:9a3eb49bf14077c9", "source": "みんな、大神さんには//感謝の気持ちで//いっぱいだと思いますよ。", "text": "모두 오오가미 씨에게//감사하고 있을 거예요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0013"}]}
+{"id": "dialogue:895e15a97ad7463a", "source": "俺も、みんなの期待に//負けないように、//がんばらないといけないな。", "text": "나도 모두의 기대에//부응하도록，//노력해야겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0014"}]}
+{"id": "dialogue:67c71a315474fc45", "source": "はい！　あたしも、//大神さんの力になれるように、//もっと心と技をみがきます！", "text": "네∈저도，//오오가미 씨에게 힘이 될 수 있도록，//마음과 기술을 더욱 연마하겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0015"}]}
+{"id": "dialogue:b6c12bbb53deca4b", "source": "よし……//長安を倒すぞ！//さくらくん、力をかしてくれ∈", "text": "좋아…//나가야스를 쓰러뜨리자∈//사쿠라 군，힘을 빌려 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0016"}]}
+{"id": "dialogue:1b99fb822ee5fb72", "source": "了解！//真宮寺さくら……//お供いたします∈", "text": "알겠습니다∈//신구지 사쿠라…//따르겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0017"}]}
+{"id": "dialogue:d6917bfc31e0e371", "source": "ちょうど、疲れてたんだ。//じゃ、双武の操縦は//まかせたよ。", "text": "마침 피곤하던 참이었어．//그럼，쌍무의 조종은//부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0018"}]}
+{"id": "dialogue:e495a9d5c96e42ca", "source": "え〓//そ、双武はあたし一人じゃ//動かせませんよ！", "text": "에엑〓//서，쌍무는 저 혼자서는//움직일 수 없다고요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0019"}]}
+{"id": "dialogue:75995b8b7ab3dcaf", "source": "え？　でも……//俺を休ませてくれるって//話じゃ……", "text": "어？하지만…//나를 쉬게 해 주겠다는//말이…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0020"}]}
+{"id": "dialogue:ab9fdf70cb17b88b", "source": "大神さん……//これだけは、ダメなんです。//わかってください……", "text": "오오가미 씨…//이것만은 안 돼요．//알아 주세요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0021"}]}
+{"id": "dialogue:ac72b8e807262751", "source": "双武は……//大神さんとあたしの二人で//動かすものなんですから……", "text": "쌍무는…//오오가미 씨와 저，둘이서//움직이는 거니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0022"}]}
+{"id": "dialogue:724811ef39df342c", "source": "あの……お願いごとは、//ほかのことにしてもらえますか？//あたしにできる範囲で……", "text": "저기…부탁은，//다른 걸로 해 주실래요？//제가 할 수 있는 범위 내에서…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0023"}]}
+{"id": "dialogue:a475dfe731eafad1", "source": "そ、そうだったね……//じゃ、ほかの頼みにするよ。", "text": "그，그랬었지…//그럼，다른 부탁을 할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0024"}]}
+{"id": "dialogue:a8e306e76f0e148c", "source": "うーん……//じゃ、隊長をかわって//もらうってのはダメかな〓", "text": "음…//그럼，대장 역할을 바꿔//달라는 건 안 될까〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0025"}]}
+{"id": "dialogue:1d15dd6bba2f14db", "source": "ダメです。", "text": "안 됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0026"}]}
+{"id": "dialogue:e3eba29ee54dd04d", "source": "は、はあ……//これは、願い事を探すのが//大変そうだな……", "text": "하，하아…//이건 부탁할 일을 찾기가//꽤 어렵겠네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0027"}]}
+{"id": "dialogue:98c6fd625143418b", "source": "……大神さん、//考えごとですか？", "text": "…오오가미 씨，//생각 중이신가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0028"}]}
+{"id": "dialogue:98b1c27b28d822ae", "source": "いや、正直//どう答えようかと//迷っているんだ。", "text": "아니，솔직히//어떻게 대답해야 할지//고민 중이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0029"}]}
+{"id": "dialogue:7c577f3a0ff1a62c", "source": "すまない……//そんなに感謝してくれているとは//思ってなかったんだ。", "text": "미안해…//그렇게 고맙게 생각하고 있을 줄은//몰랐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0030"}]}
+{"id": "dialogue:428183b9d398045f", "source": "うふふ……//言葉なんかいりません。//その気持ちがうれしいんです。", "text": "우후후…//말 따위는 필요 없어요．//그 마음이 기쁜걸요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0031"}]}
+{"id": "dialogue:53e8c09cb6175578", "source": "さくらくん……//ありがとう。", "text": "사쿠라 군…//고마워．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0032"}]}
+{"id": "dialogue:f04d4b98b99d3cc3", "source": "はい！　あたしたち……//大神さんのために、//がんばります！", "text": "네∈저희도…//오오가미 씨를 위해서，//열심히 할게요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04006.SBN#0033"}]}

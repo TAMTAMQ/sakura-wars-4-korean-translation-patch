@@ -1,0 +1,8 @@
+{"id": "dialogue:f32cfe3953fef222", "source": "この試合では、//あたしのパイが//ボーナスパイになってるのよ。", "text": "이번 시합에서는，//내 패가//보너스 패가 되어 있다구．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0003"}]}
+{"id": "dialogue:f3783b72b226740c", "source": "今回のお題はこれ。//この中の、どれか１組を//そろえてね。", "text": "이번 주제는 이거야．//이 중에서，어느 한 세트를//맞춰 줘．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0004"}]}
+{"id": "dialogue:d39945a6d3174ce7", "source": "今度は、//あたしが親よ。", "text": "이번에는，//내가 딜러야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0005"}]}
+{"id": "dialogue:18b611d695f2ff26", "source": "今度は、//大神さんが親か……", "text": "이번에는，//오오가미 씨가 딜러네…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0006"}]}
+{"id": "dialogue:d18f8c9a50177df4", "source": "情報どおり∈//まだまだあたしの敵じゃ//ないですね！", "text": "정보대로네요∈//아직은 제 상대가//못 되겠어요∈", "review": "말투 점검", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0007"}]}
+{"id": "dialogue:4a52622dab8aa9ca", "source": "もう……強すぎっ∈", "text": "정말…너무 강해요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0008"}]}
+{"id": "dialogue:0caa5d89da18ad4c", "source": "すこしぐらい、//てかげんしてよね！", "text": "조금쯤은//봐 달라니까요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0009"}]}
+{"id": "dialogue:38f0250bf495c333", "source": "今回は//痛み分けってところかしら？", "text": "이번에는//무승부인 셈인가요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT19YURI.SBN#0010"}]}

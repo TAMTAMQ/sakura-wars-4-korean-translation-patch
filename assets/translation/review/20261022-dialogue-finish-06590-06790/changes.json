@@ -1,0 +1,83 @@
+[
+  {
+    "unit": "dialogue:bca7f779e837b6d8",
+    "source": "へ……？//なんのことだい？",
+    "before": {
+      "id": "dialogue:bca7f779e837b6d8",
+      "source": "へ……？//なんのことだい？",
+      "text": "헤…？//무슨 소리야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0330"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bca7f779e837b6d8",
+      "source": "へ……？//なんのことだい？",
+      "text": "어…？//무슨 소리야？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0330"
+        }
+      ]
+    },
+    "reason": "놀라 되묻는 일본어 감탄사의 한국어 음역 자연화"
+  },
+  {
+    "unit": "dialogue:371f7837a15349a3",
+    "source": "……よし、信じてやる。//だがな……//俺にかくしごとはするなよ。",
+    "before": {
+      "id": "dialogue:371f7837a15349a3",
+      "source": "……よし、信じてやる。//だがな……//俺にかくしごとはするなよ。",
+      "text": "…좋아，믿어 주마．//하지만 말이야…//나한테 숨기는 건 하지 마라．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0345"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:371f7837a15349a3",
+      "source": "……よし、信じてやる。//だがな……//俺にかくしごとはするなよ。",
+      "text": "…좋아，믿어 주마．//하지만 말이야…//내게 아무것도 숨기지 마라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0345"
+        }
+      ]
+    },
+    "reason": "숨기는 건 하지 마라는 부자연스러운 명사화 표현 교정"
+  },
+  {
+    "unit": "dialogue:b3c83345797edccc",
+    "source": "……どこから聞いていた？",
+    "before": {
+      "id": "dialogue:b3c83345797edccc",
+      "source": "……どこから聞いていた？",
+      "text": "…어디서 들었어？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0355"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b3c83345797edccc",
+      "source": "……どこから聞いていた？",
+      "text": "어디부터 들었어？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0355"
+        }
+      ]
+    },
+    "reason": "통화 내용을 어느 부분부터 엿들었느냐는 질문을 장소 질문과 구별"
+  }
+]

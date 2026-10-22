@@ -1,0 +1,2078 @@
+[
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0002",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 2
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0004",
+    "before": {
+      "source": "２液衛或"
+    },
+    "after": {
+      "source": "ニ階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 4
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0005",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 5
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0006",
+    "before": {
+      "source": "１液衛或"
+    },
+    "after": {
+      "source": "一階へ"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 6
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0015",
+    "before": {
+      "source": "迂斡厭梓亜駅"
+    },
+    "after": {
+      "source": "織姫くん"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 15
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0025",
+    "before": {
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 25
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0027",
+    "before": {
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．"
+    },
+    "after": {
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 27
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0030",
+    "before": {
+      "source": "◆梓亥亜焔伊謂絢綾"
+    },
+    "after": {
+      "source": "◆メイン脱出します"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 30
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0033",
+    "before": {
+      "source": "◆ＥＶ：磯意栄延亜怨位！"
+    },
+    "after": {
+      "source": "◆ＥＶ：時間切れ発生！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 33
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0081",
+    "before": {
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．"
+    },
+    "after": {
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 81
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0084",
+    "before": {
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．"
+    },
+    "after": {
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 84
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0088",
+    "before": {
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．"
+    },
+    "after": {
+      "source": "光武二式の//足元についていた謎の金粉。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 88
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0089",
+    "before": {
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．"
+    },
+    "after": {
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 89
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0090",
+    "before": {
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．"
+    },
+    "after": {
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 90
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0091",
+    "before": {
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．"
+    },
+    "after": {
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 91
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0093",
+    "before": {
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．"
+    },
+    "after": {
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 93
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0096",
+    "before": {
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．"
+    },
+    "after": {
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 96
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0101",
+    "before": {
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．"
+    },
+    "after": {
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 101
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0105",
+    "before": {
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．"
+    },
+    "after": {
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 105
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0120.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0120.txt",
+    "reference_sha256": "da2aa4b11f51e4d4e124079af37ee0b72646b7b753b46448ebb01cc1a1c0643e",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0130.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0130.txt",
+    "reference_sha256": "5610bad5c832c446165b3b272e427ef2e268977be11f90df699316a9691975a8",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0210.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0210.txt",
+    "reference_sha256": "2cf0d4fc4cf50a73b15e020b26b7bb86f4ec89b932f3fa031fd3ec21cacaa090",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0240.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0240.txt",
+    "reference_sha256": "127d18e40d065058143e12913c0043757d6764ee0d86143cea453f52eb23acfb",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0310.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0310.txt",
+    "reference_sha256": "40ab1700b5e34d33e3695a0dbe94a3ad9c204bace02d2ff18e5a97718445604c",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0320.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0320.txt",
+    "reference_sha256": "f087a502a933fb57ff2096b77e85691ea90fb77a0b6461b5b9df9b4a1190f4b6",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0340.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0340.txt",
+    "reference_sha256": "770f28f064935450e300548c0b5ede0f6caac081727bc6373fe3a8367d2fad69",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0410.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0410.txt",
+    "reference_sha256": "a3beaa6ced49dfdc2bbf2e3838c19442c053d259de50573a3e3eb3862652ecf0",
+    "table_index": 106
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0510.SBX#0106",
+    "before": {
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．"
+    },
+    "after": {
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0510.txt",
+    "reference_sha256": "cecba06a4427542cfb49bda706bee372d3b01b51b2d4a9eafff915736df97d89",
+    "table_index": 106
+  }
+]

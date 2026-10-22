@@ -1,0 +1,32 @@
+{"id": "dialogue:bc00873cb938d929", "source": "双武を動かすには、//すさまじい霊力が必要だな……//ロベリア、大丈夫か？", "text": "쌍무를 움직이려면，//엄청난 영력이 필요하겠군…//로벨리아，괜찮아？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0001"}]}
+{"id": "dialogue:7679ca05bb637a18", "source": "はぁ〓//こんな程度で心配するなよ。//バカだからか？", "text": "하아〓//이 정도 일로 걱정하지 마．//바보라서 그런 거야？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0002"}]}
+{"id": "dialogue:0dcb8dec710d48ac", "source": "楽しめよ。//こんな化け物と//戦えてるんだからさ。", "text": "즐기라고．//이런 괴물과//싸우고 있는 거니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0003"}]}
+{"id": "dialogue:6c61359fd8b070b0", "source": "ロ、ロベリア……//なんだかうれしそうだな？", "text": "로，로벨리아…//왠지 기뻐 보이네？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0004"}]}
+{"id": "dialogue:c3a5c00b7fdcae5f", "source": "あたりまえだろ？//こんな勝てそうもない戦い……//わくわくするじゃないか。", "text": "당연하잖아？//이렇게 이길 것 같지 않은 싸움…//오히려 두근거리잖아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0005"}]}
+{"id": "dialogue:11a06f8bc4c84625", "source": "ゲームってヤツはね……//逆転するからこそ、//おもしろいのさ。", "text": "게임이라는 건 말이야…//뒤집는 맛이 있으니까//재미있는 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0006"}]}
+{"id": "dialogue:1fa37d5c0a6b7f53", "source": "ゲームだって……？", "text": "게임이라니…？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0007"}]}
+{"id": "dialogue:357011b1e5768f76", "source": "もっとマジメに戦えよ……", "text": "좀 더 진지하게 싸우라고…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0008"}]}
+{"id": "dialogue:67400f830e5f7d72", "source": "確かに楽しめそうだな。", "text": "확실히 재미있을 것 같네．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0009"}]}
+{"id": "dialogue:514f84a2106bd125", "source": "帝都の運命がかかってるんだぞ。//もっとマジメに戦えよ。", "text": "제도의 운명이 걸려 있다고．//좀 더 진지하게 싸워．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0010"}]}
+{"id": "dialogue:85cececbeba7aef9", "source": "本当につまらないオトコだな。//マジメすぎるのも、//考えものだって言ってるだろ！", "text": "정말 재미없는 남자라니까．//너무 진지한 것도//문제라고 했잖아∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0011"}]}
+{"id": "dialogue:384619cc52215087", "source": "あ……いや、//そうは言っても……", "text": "아…아니，//그렇다고 해도…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0012"}]}
+{"id": "dialogue:e378e309643b7722", "source": "こんなデタラメな戦い……//ゲームでしかないのさ。//運が勝負を決めるんだからな。", "text": "이런 엉터리 같은 싸움…//게임일 뿐이야．//운이 승부를 결정하는 거니까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0013"}, {"id": "SLG/G04/E/EV04017.SBN#0022"}]}
+{"id": "dialogue:1c335bf6acb2a652", "source": "双武も、大神華撃団も……//アイツの前には、//紙クズ同然……", "text": "쌍무도，오오가미 화격단도…//그 녀석 앞에서는，//종잇조각이나 다름없어…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0014"}, {"id": "SLG/G04/E/EV04017.SBN#0023"}]}
+{"id": "dialogue:f6e50de69dceaf61", "source": "この戦いのあと、//どっちが生き残っているかは……//アンタの運しだいさ。", "text": "이 싸움이 끝난 뒤，//누가 살아남아 있을지는…//네 운에 달렸어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0015"}, {"id": "SLG/G04/E/EV04017.SBN#0024"}]}
+{"id": "dialogue:76d0896f391c3568", "source": "お、俺の運……？", "text": "내，내 운…？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0016"}]}
+{"id": "dialogue:8babf58e9c8b15b6", "source": "フフフ……//だから言ったろ？//ゲームってさ。", "text": "후후후…//그러니까 말했잖아？//게임이라는 건 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0017"}]}
+{"id": "dialogue:437932c312715273", "source": "わかったら、//ゲームに勝てるように、//お祈りでもしてな。", "text": "알았으면，//게임에서 이길 수 있도록，//기도나 하고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0018"}]}
+{"id": "dialogue:6d862c3a689cb786", "source": "あ、あぁ……//がんばってみるよ。", "text": "아，아아…//노력해 볼게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0019"}]}
+{"id": "dialogue:c15ec519f66d5dce", "source": "この戦い……//ゲームって考えれば、//確かに楽しめそうだな。", "text": "이 싸움…//게임이라고 생각하면，//확실히 재미있을 것 같네．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0020"}]}
+{"id": "dialogue:6bddb2925382fc27", "source": "アーッハッハッハッ！//その意気さ。//わかってるじゃないか∈", "text": "아하하하하∈//그 기세야．//제법이잖아∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0021"}]}
+{"id": "dialogue:3fada0cee4c2a2ee", "source": "あぁ、そうだな。//ロベリア……//お前の運も借りるぞ。", "text": "아아，그렇지．//로벨리아…//네 운도 빌릴게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0025"}]}
+{"id": "dialogue:75a81ac34bff4703", "source": "フッ……//利子は高いぜ。", "text": "훗…//이자는 비싸다고．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0026"}]}
+{"id": "dialogue:dd9f7db974cd8e5e", "source": "よし、いくぞ……！//俺たちの勝負運を//見せてやる∈", "text": "좋아，간다…∈//우리의 승부 운을//보여 주마∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0027"}]}
+{"id": "dialogue:61255c757f9e4a5e", "source": "そんなに緊張するなよ。//アンタの運なら、//このゲームも勝てるさ。", "text": "그렇게 긴장하지 마．//네 운이라면，//이 게임도 이길 수 있을 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0028"}]}
+{"id": "dialogue:d6f68eeb467712d7", "source": "そ、そうかな……//でも……勝てる可能性なんて//ほとんどないんだぞ。", "text": "그，그럴까…하지만…//이길 가능성 따위는//거의 없다고．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0029"}]}
+{"id": "dialogue:8fd7077dc6245044", "source": "よく考えてみな。//アンタのそばにいるのは誰だ？", "text": "잘 생각해 봐．//네 곁에 있는 건 누구지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0030"}]}
+{"id": "dialogue:42ff5c954db0fff1", "source": "このアタシだろ？//アンタはあの時……//このアタシを選んだんだろ？", "text": "바로 나잖아？//너는 그때…//이 나를 선택했었지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0031"}]}
+{"id": "dialogue:983de2ea8db1b9b2", "source": "勝てる可能性は低いけど……//ゼロってわけじゃない。//なら……くつがえすだけさ。", "text": "이길 가능성은 낮지만…//제로라는 뜻은 아니야．//그렇다면…뒤집어 놓는 것뿐이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0032"}]}
+{"id": "dialogue:38f20069cd6333ad", "source": "逆転のないゲームなんてない。//勝てない勝負なんて……//この世にないんだよ。", "text": "역전이 없는 게임 따윈 없어．//이길 수 없는 승부란…//이 세상에 없단 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0033"}]}
+{"id": "dialogue:b304672712e40726", "source": "わかったら、いくぞ。//アンタの運が……//カギをにぎってるんだからな。", "text": "알았으면 가자．//네 운이…//열쇠를 쥐고 있으니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0035"}]}
+{"id": "dialogue:6b8e58c22714a278", "source": "……わかった。//よし、行くか∈", "text": "…알았어．//좋아，가 볼까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04017.SBN#0036"}]}

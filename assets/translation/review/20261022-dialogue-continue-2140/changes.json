@@ -1,0 +1,998 @@
+[
+  {
+    "unit": "dialogue:30648d4712d6e035",
+    "source": "貴様がトーキョーに//混乱を招く元凶か∈",
+    "before": {
+      "id": "dialogue:30648d4712d6e035",
+      "source": "貴様がトーキョーに//混乱を招く元凶か∈",
+      "text": "네놈이 도쿄에//혼란을 불러올 원흉인가∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1489"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:30648d4712d6e035",
+      "source": "貴様がトーキョーに//混乱を招く元凶か∈",
+      "text": "네놈이 도쿄에//혼란을 일으킨 원흉인가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1489"
+        }
+      ]
+    },
+    "reason": "이미 발생한 혼란의 원흉을 말함. 불러올이라는 미래 시제 교정"
+  },
+  {
+    "unit": "dialogue:f2555a9ecd97307e",
+    "source": "……蒸気が漏れ出したから、//隔壁が作動した。//機関部内温度、危険域突破。",
+    "before": {
+      "id": "dialogue:f2555a9ecd97307e",
+      "source": "……蒸気が漏れ出したから、//隔壁が作動した。//機関部内温度、危険域突破。",
+      "text": "…증기가 새어 나와서，//격벽이 작동했다．//기관부 온도，위험역 돌파．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1508"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f2555a9ecd97307e",
+      "source": "……蒸気が漏れ出したから、//隔壁が作動した。//機関部内温度、危険域突破。",
+      "text": "…증기가 새어서，//격벽이 작동했다．//기관부 온도，위험 수준 초과．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1508"
+        }
+      ]
+    },
+    "reason": "危険域突破를 위험역 돌파라는 직역에서 상황 보고에 맞게 교정"
+  },
+  {
+    "unit": "dialogue:0ca6fd139609de04",
+    "source": "ウチらは光武に乗ってるから//なんとか無事やけど……//米田はんは……",
+    "before": {
+      "id": "dialogue:0ca6fd139609de04",
+      "source": "ウチらは光武に乗ってるから//なんとか無事やけど……//米田はんは……",
+      "text": "우리는 광무를 타고 있어서//우째 무사하지만도…//요네다 씨는…",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1509"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0ca6fd139609de04",
+      "source": "ウチらは光武に乗ってるから//なんとか無事やけど……//米田はんは……",
+      "text": "우리는 광무를 타고 있어서//어찌어찌 무사하지만…//요네다 씨는…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1509"
+        }
+      ]
+    },
+    "reason": "なんとか無事를 우째 무사하다라는 부자연스러운 표현에서 교정"
+  },
+  {
+    "unit": "dialogue:b755aa8bdb4f21f9",
+    "source": "親が子どもを守るのに、//理由なんてねぇんだよ……",
+    "before": {
+      "id": "dialogue:b755aa8bdb4f21f9",
+      "source": "親が子どもを守るのに、//理由なんてねぇんだよ……",
+      "text": "부모가 아이를 지키는 데에는，//이유 따위는 없어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1520"
+        },
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0028"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b755aa8bdb4f21f9",
+      "source": "親が子どもを守るのに、//理由なんてねぇんだよ……",
+      "text": "부모가 자식을 지키는 데，//이유 따윈 필요 없어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1520"
+        },
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0028"
+        }
+      ]
+    },
+    "reason": "부모가 자식을 지키는 데 이유가 필요 없다는 의미를 명확히 표현"
+  },
+  {
+    "unit": "dialogue:38975be645006271",
+    "source": "俺にとっちゃ……//お前たちは、//子どもみたいなもんだからな。",
+    "before": {
+      "id": "dialogue:38975be645006271",
+      "source": "俺にとっちゃ……//お前たちは、//子どもみたいなもんだからな。",
+      "text": "나한테는…//너희가，//아이 같은 존재니까 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1523"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:38975be645006271",
+      "source": "俺にとっちゃ……//お前たちは、//子どもみたいなもんだからな。",
+      "text": "나한테는…//너희가，//자식 같은 존재니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1523"
+        }
+      ]
+    },
+    "reason": "子ども는 화자와의 관계에서 자식이라는 뜻. 단순히 어린아이 같은 존재라는 오해 제거"
+  },
+  {
+    "unit": "dialogue:b91aee572b0e2c04",
+    "source": "巴里華撃団に//出撃命令を出せ∈//いちいち考えるな、バカ！",
+    "before": {
+      "id": "dialogue:b91aee572b0e2c04",
+      "source": "巴里華撃団に//出撃命令を出せ∈//いちいち考えるな、バカ！",
+      "text": "파리화격단에 출격 명령을 내려라∈일일이 생각하지 마，바보야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1570"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b91aee572b0e2c04",
+      "source": "巴里華撃団に//出撃命令を出せ∈//いちいち考えるな、バカ！",
+      "text": "파리화격단에//출격 명령을 내려∈//계속 고민하지 마，바보야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1570"
+        }
+      ]
+    },
+    "reason": "결단을 촉구하는 いちいち考えるな를 일일이 생각하다라는 직역에서 자연화"
+  },
+  {
+    "unit": "dialogue:fdbc22860996b3b8",
+    "source": "当然ですよ！//わたしが本気をだせば、//ざっとこんなもんです。",
+    "before": {
+      "id": "dialogue:fdbc22860996b3b8",
+      "source": "当然ですよ！//わたしが本気をだせば、//ざっとこんなもんです。",
+      "text": "당연하죠∈//제가 진심으로 하면，//이 정도는 아무것도 아니죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1590"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fdbc22860996b3b8",
+      "source": "当然ですよ！//わたしが本気をだせば、//ざっとこんなもんです。",
+      "text": "당연하죠∈//제가 힘 좀 쓰면，//이 정도는 아무것도 아니죠．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1590"
+        }
+      ]
+    },
+    "reason": "本気をだす는 진심으로 말한다는 의미가 아닌 본실력 발휘"
+  },
+  {
+    "unit": "dialogue:1c992f8e569f4a37",
+    "source": "わたくしもそう言おうと//思っていました。",
+    "before": {
+      "id": "dialogue:1c992f8e569f4a37",
+      "source": "わたくしもそう言おうと//思っていました。",
+      "text": "저도 그렇게 말하려//생각하고 있었습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1633"
+        },
+        {
+          "id": "SLG/G03/E/EV03005.SBN#0083"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1c992f8e569f4a37",
+      "source": "わたくしもそう言おうと//思っていました。",
+      "text": "저도 그렇게//말하려던 참이었어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1633"
+        },
+        {
+          "id": "SLG/G03/E/EV03005.SBN#0083"
+        }
+      ]
+    },
+    "reason": "말하려 생각하고 있었다는 부자연스러운 관형·연결 교정"
+  },
+  {
+    "unit": "dialogue:44e07034379bdf53",
+    "source": "なぁ、隊長もそう思うだろ？//歓迎される側は、//それだけでひと仕事なのにさ。",
+    "before": {
+      "id": "dialogue:44e07034379bdf53",
+      "source": "なぁ、隊長もそう思うだろ？//歓迎される側は、//それだけでひと仕事なのにさ。",
+      "text": "있잖아，대장도 그렇지？//환영받는 건，//그것만으로 큰일인데．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1659"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1278"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0124"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:44e07034379bdf53",
+      "source": "なぁ、隊長もそう思うだろ？//歓迎される側は、//それだけでひと仕事なのにさ。",
+      "text": "대장도 그리 생각하지？//환영받는 쪽은，//그것만으로 큰일인데．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1659"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1278"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0124"
+        }
+      ]
+    },
+    "reason": "대장에게 의견 동의를 묻는 질문과 환영받는 쪽의 수고라는 뜻을 명확히 표현"
+  },
+  {
+    "unit": "dialogue:2690847bf3d63407",
+    "source": "ああ、わかった。//きっと……参加するよ。//じゃあな……",
+    "before": {
+      "id": "dialogue:2690847bf3d63407",
+      "source": "ああ、わかった。//きっと……参加するよ。//じゃあな……",
+      "text": "아아，알았어．//분명…참가할게．//그럼 이만…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1722"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0078"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0251"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2690847bf3d63407",
+      "source": "ああ、わかった。//きっと……参加するよ。//じゃあな……",
+      "text": "아아，알았어．//꼭…참석할게．//그럼 이만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1722"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0078"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0251"
+        }
+      ]
+    },
+    "reason": "파티 참석 약속에 어울리는 구어 표현으로 자연화"
+  },
+  {
+    "unit": "dialogue:dd035b51b3f5f84f",
+    "source": "ったく……なんでこのアタシが//テンプルなんかに//行かなきゃならないんだよ。",
+    "before": {
+      "id": "dialogue:dd035b51b3f5f84f",
+      "source": "ったく……なんでこのアタシが//テンプルなんかに//行かなきゃならないんだよ。",
+      "text": "정말이지…왜 내가//템플 같은 곳에//가야 하는 거냐고．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0135"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dd035b51b3f5f84f",
+      "source": "ったく……なんでこのアタシが//テンプルなんかに//行かなきゃならないんだよ。",
+      "text": "정말이지…왜 내가//절 같은 곳에//가야 하는 거냐고．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0135"
+        }
+      ]
+    },
+    "reason": "テンプル을 템플로 음역한 표현을 한국어 절로 현지화"
+  },
+  {
+    "unit": "dialogue:a7541cf409e513ba",
+    "source": "ねぇ、見て見て∈//ニャンニャン//つくってもらったんだ！",
+    "before": {
+      "id": "dialogue:a7541cf409e513ba",
+      "source": "ねぇ、見て見て∈//ニャンニャン//つくってもらったんだ！",
+      "text": "있잖아，이것 좀 봐∈//냥냥//만들어 줬어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0150"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a7541cf409e513ba",
+      "source": "ねぇ、見て見て∈//ニャンニャン//つくってもらったんだ！",
+      "text": "이것 봐∈//냥냥 모양으로//만들어 주셨어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0150"
+        }
+      ]
+    },
+    "reason": "사탕 장인이 자신에게 만들어 준 상황. 만들어 줬다는 수혜·행위 주체 혼동 교정"
+  },
+  {
+    "unit": "dialogue:1f1d9527498235f9",
+    "source": "アイリスはね、//ジャンポールを//つくってもらったんだよ∈",
+    "before": {
+      "id": "dialogue:1f1d9527498235f9",
+      "source": "アイリスはね、//ジャンポールを//つくってもらったんだよ∈",
+      "text": "아이리스는 말이야，//장 폴을//만들어 줬어∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0151"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1f1d9527498235f9",
+      "source": "アイリスはね、//ジャンポールを//つくってもらったんだよ∈",
+      "text": "아이리스 건//장 폴 모양으로//만들어 주셨어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0151"
+        }
+      ]
+    },
+    "reason": "사탕 장인에게 모양을 부탁한 수혜 표현으로 교정"
+  },
+  {
+    "unit": "dialogue:99ee22ba6801de2c",
+    "source": "ん……ほいひいでふう……",
+    "before": {
+      "id": "dialogue:99ee22ba6801de2c",
+      "source": "ん……ほいひいでふう……",
+      "text": "음…호이히이데후우…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0159"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:99ee22ba6801de2c",
+      "source": "ん……ほいひいでふう……",
+      "text": "음…마히허요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0159"
+        }
+      ]
+    },
+    "reason": "음식을 입에 넣고 맛있다고 말하는 소리. 일본어 발음 음역을 한국어 뭉개진 발음으로 현지화"
+  },
+  {
+    "unit": "dialogue:443ac79d541e1d77",
+    "source": "はわはわ……//はへふひまひたぁ……",
+    "before": {
+      "id": "dialogue:443ac79d541e1d77",
+      "source": "はわはわ……//はへふひまひたぁ……",
+      "text": "하와와…//하헤후히마히타아…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0174"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:443ac79d541e1d77",
+      "source": "はわはわ……//はへふひまひたぁ……",
+      "text": "후아아…//너무 머거써요…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0174"
+        }
+      ]
+    },
+    "reason": "많이 먹어 말이 뭉개진 食べ過ぎました를 일본어 소리 음역 대신 한국어로 현지화"
+  },
+  {
+    "unit": "dialogue:44f31338a5e88473",
+    "source": "あははははは∈//エリカはんのことは、//ウチにまかしといてんか。",
+    "before": {
+      "id": "dialogue:44f31338a5e88473",
+      "source": "あははははは∈//エリカはんのことは、//ウチにまかしといてんか。",
+      "text": "아하하하하하∈//에리카 씨는，//내한테 맡겨 도．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0175"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:44f31338a5e88473",
+      "source": "あははははは∈//エリカはんのことは、//ウチにまかしといてんか。",
+      "text": "아하하하하하∈//에리카 씨는，//내한테 맡겨라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0175"
+        }
+      ]
+    },
+    "reason": "홍란의 부탁·자청 표현에서 어색한 맡겨 도 교정"
+  },
+  {
+    "unit": "dialogue:f2b3a298b1abb15b",
+    "source": "はひ〜……//レッツゴーでふぅ……",
+    "before": {
+      "id": "dialogue:f2b3a298b1abb15b",
+      "source": "はひ〜……//レッツゴーでふぅ……",
+      "text": "하히～…//레츠고오데후으…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0177"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f2b3a298b1abb15b",
+      "source": "はひ〜……//レッツゴーでふぅ……",
+      "text": "네에～…//렛츠 고예여…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0177"
+        }
+      ]
+    },
+    "reason": "입에 음식이 든 채 하는 대답의 일본어 음역을 한국어 발음으로 현지화"
+  },
+  {
+    "unit": "dialogue:b9edfee093e003e5",
+    "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+    "before": {
+      "id": "dialogue:b9edfee093e003e5",
+      "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+      "text": "뭐꼬 칸나 씨，//억수로 신났네．//완전 몬자 봉행이데이．",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0201"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b9edfee093e003e5",
+      "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+      "text": "칸나 씨，//억수로 신났네．//완전 몬자 대장이데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0201"
+        }
+      ]
+    },
+    "reason": "음식 굽기를 지휘하는 사람을 놀리는 もんじゃ奉行를 관직 봉행 그대로 음역하지 않고 현지화"
+  },
+  {
+    "unit": "dialogue:7bd3c55fc2d1f4f8",
+    "source": "まだまだですわね。//これでは、免許皆伝など、//夢のまた夢ですわ。",
+    "before": {
+      "id": "dialogue:7bd3c55fc2d1f4f8",
+      "source": "まだまだですわね。//これでは、免許皆伝など、//夢のまた夢ですわ。",
+      "text": "아직 멀었군요．//이래서는 면허개전은//꿈도 못 꾸겠어요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0226"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7bd3c55fc2d1f4f8",
+      "source": "まだまだですわね。//これでは、免許皆伝など、//夢のまた夢ですわ。",
+      "text": "아직 멀었군요．//달인이 되는 건//꿈도 못 꾸겠어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0226"
+        }
+      ]
+    },
+    "reason": "꽃꽂이 실력을 평하는 免許皆伝를 한국어에서 뜻이 통하는 표현으로 현지화"
+  },
+  {
+    "unit": "dialogue:b7a3e193aecb6034",
+    "source": "もうすこし、派手にしても//よろしいかと思いますけど……//なかなか筋はいいですわ。",
+    "before": {
+      "id": "dialogue:b7a3e193aecb6034",
+      "source": "もうすこし、派手にしても//よろしいかと思いますけど……//なかなか筋はいいですわ。",
+      "text": "조금 더 화려하게 해도//괜찮을 것 같습니다만…//꽤 실력이 좋으시군요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0238"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b7a3e193aecb6034",
+      "source": "もうすこし、派手にしても//よろしいかと思いますけど……//なかなか筋はいいですわ。",
+      "text": "조금 더 화려하게 해도//괜찮을 것 같습니다만…//꽤 소질이 있으시군요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0238"
+        }
+      ]
+    },
+    "reason": "筋がいい는 현재 숙련도가 높다는 뜻보다 소질을 칭찬하는 말"
+  },
+  {
+    "unit": "dialogue:bb3de15035648605",
+    "source": "しびれる……どういうことだ？//つまさきの感覚が、//なくなってしまったが……",
+    "before": {
+      "id": "dialogue:bb3de15035648605",
+      "source": "しびれる……どういうことだ？//つまさきの感覚が、//なくなってしまったが……",
+      "text": "저릿해…어떻게 된 거지？//발끝의 감각이，//없어져 버렸는데…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0248"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bb3de15035648605",
+      "source": "しびれる……どういうことだ？//つまさきの感覚が、//なくなってしまったが……",
+      "text": "저리다니…무슨 뜻이지？//발끝의 감각이，//없어져 버렸는데…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0248"
+        }
+      ]
+    },
+    "reason": "낯선 발 저림이라는 말의 뜻을 되묻는 일본인 아닌 화자의 질문을 보존"
+  },
+  {
+    "unit": "dialogue:c3471444f74c634a",
+    "source": "貴公もしびれているので//あろうが∈//これでもくらえっ！",
+    "before": {
+      "id": "dialogue:c3471444f74c634a",
+      "source": "貴公もしびれているので//あろうが∈//これでもくらえっ！",
+      "text": "귀공도 다리가 저린 모양이지만∈//이것도 받아라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0257"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c3471444f74c634a",
+      "source": "貴公もしびれているので//あろうが∈//これでもくらえっ！",
+      "text": "귀공도 다리가 저리지 않나∈//이것도 받아라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0257"
+        }
+      ]
+    },
+    "reason": "であろうが라는 반격성 지적을 양보절 모양이지만으로 오역한 연결 교정"
+  },
+  {
+    "unit": "dialogue:612e86297ed84b68",
+    "source": "さすがはレニでーす。//こういう時は便利ですね～。",
+    "before": {
+      "id": "dialogue:612e86297ed84b68",
+      "source": "さすがはレニでーす。//こういう時は便利ですね～。",
+      "text": "역시 레니예요．//이럴 때는 편리하네요～．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0275"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:612e86297ed84b68",
+      "source": "さすがはレニでーす。//こういう時は便利ですね～。",
+      "text": "역시 레니예요．//이럴 때는 든든하네요～．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0275"
+        }
+      ]
+    },
+    "reason": "아는 것이 많은 동료에게 편리하다고 한 일본어 직역 자연화"
+  },
+  {
+    "unit": "dialogue:21391bc18a0084fe",
+    "source": "マリアさん、//漢字で話してるから、//チンプンカンプンでーす！",
+    "before": {
+      "id": "dialogue:21391bc18a0084fe",
+      "source": "マリアさん、//漢字で話してるから、//チンプンカンプンでーす！",
+      "text": "마리아 씨，//한자로만 말하니까，//무슨 말인지 하나도 모르겠어요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0281"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:21391bc18a0084fe",
+      "source": "マリアさん、//漢字で話してるから、//チンプンカンプンでーす！",
+      "text": "마리아 씨，//어려운 말만 하니까，//무슨 말인지 하나도 모르겠어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0281"
+        }
+      ]
+    },
+    "reason": "漢字で話す는 어려운 한자어를 쓴다는 불평. 소리로 한자를 말한다는 직역 자연화"
+  },
+  {
+    "unit": "dialogue:7862628e79fe08e5",
+    "source": "「かんざし」って……//ニッポンのアクセサリー//なんだろう？",
+    "before": {
+      "id": "dialogue:7862628e79fe08e5",
+      "source": "「かんざし」って……//ニッポンのアクセサリー//なんだろう？",
+      "text": "「칸자시」라니…//일본의 액세서리//일까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0314"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7862628e79fe08e5",
+      "source": "「かんざし」って……//ニッポンのアクセサリー//なんだろう？",
+      "text": "「비녀」는…//일본의 액세서리인//거지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0314"
+        }
+      ]
+    },
+    "reason": "동일 장면에서 비녀로 번역한 물건을 칸자시로 달리 부른 불일치 교정"
+  },
+  {
+    "unit": "dialogue:fe75dd1de5299c99",
+    "source": "ま、待ちなさい、グリシーヌ。//ここは厳重注意で……",
+    "before": {
+      "id": "dialogue:fe75dd1de5299c99",
+      "source": "ま、待ちなさい、グリシーヌ。//ここは厳重注意で……",
+      "text": "자，잠깐만，글리신．//여긴 엄중 주의로…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0369"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0182"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fe75dd1de5299c99",
+      "source": "ま、待ちなさい、グリシーヌ。//ここは厳重注意で……",
+      "text": "잠깐，글리신．//이번엔 엄중히 경고만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0369"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0182"
+        }
+      ]
+    },
+    "reason": "이 상황에서 주의만 주자는 제안을 여긴이라는 장소 표현에서 교정"
+  },
+  {
+    "unit": "dialogue:8141ae2d61ffc949",
+    "source": "隊長が望んでいることだ！//軍人として、このままでは//生きてはいけぬだろう。",
+    "before": {
+      "id": "dialogue:8141ae2d61ffc949",
+      "source": "隊長が望んでいることだ！//軍人として、このままでは//生きてはいけぬだろう。",
+      "text": "대장이 바라는 일이다∈//군인으로서，이대로는//살아남을 수 없겠지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0370"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0184"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8141ae2d61ffc949",
+      "source": "隊長が望んでいることだ！//軍人として、このままでは//生きてはいけぬだろう。",
+      "text": "대장이 바라는 일이다∈//군인으로서，이대로는//살아갈 수 없겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0370"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0184"
+        }
+      ]
+    },
+    "reason": "수치스러워 살아갈 수 없다는 말을 생존할 수 없다는 뜻의 살아남다로 옮긴 의미 교정"
+  },
+  {
+    "unit": "dialogue:369067b156484e93",
+    "source": "そうか……わかった。//この場は俺があずかる。",
+    "before": {
+      "id": "dialogue:369067b156484e93",
+      "source": "そうか……わかった。//この場は俺があずかる。",
+      "text": "그렇군…알았다．//이곳은 내가 맡으마．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0413"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0261"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:369067b156484e93",
+      "source": "そうか……わかった。//この場は俺があずかる。",
+      "text": "그렇군…알았다．//이 일은 내가 맡으마．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0413"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0261"
+        }
+      ]
+    },
+    "reason": "この場は俺があずかる는 장소를 지키겠다는 뜻이 아닌 분쟁 처리를 맡겠다는 말"
+  },
+  {
+    "unit": "dialogue:817070cf8386f6dc",
+    "source": "米田長官……",
+    "before": {
+      "id": "dialogue:817070cf8386f6dc",
+      "source": "米田長官……",
+      "text": "요네다 중장…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0475"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:817070cf8386f6dc",
+      "source": "米田長官……",
+      "text": "사령관님…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0475"
+        }
+      ]
+    },
+    "reason": "長官이라는 직책 호칭을 중장이라는 계급으로 바꾼 불일치 교정. 기존 사령관 호칭과 통일"
+  },
+  {
+    "unit": "dialogue:0d551fece66926a0",
+    "source": "せやから……これからは、//ウチにも大神はんのこと、//守らせてほしいんや。",
+    "before": {
+      "id": "dialogue:0d551fece66926a0",
+      "source": "せやから……これからは、//ウチにも大神はんのこと、//守らせてほしいんや。",
+      "text": "그러니까…이제부터는，//내도 오오가미 씨를//지키게 해 도．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0550"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1710"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0d551fece66926a0",
+      "source": "せやから……これからは、//ウチにも大神はんのこと、//守らせてほしいんや。",
+      "text": "그러니까…이제부터는，//내도 오오가미 씨를//지키게 해 주라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0550"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1710"
+        }
+      ]
+    },
+    "reason": "홍란의 사투리를 보존하며 지키게 해 도라는 부탁 표현 자연화"
+  },
+  {
+    "unit": "dialogue:c6484d0d9c8d6421",
+    "source": "だって……イチローは、//いつだってボクのことを//やさしく支えてくれてたでしょ。",
+    "before": {
+      "id": "dialogue:c6484d0d9c8d6421",
+      "source": "だって……イチローは、//いつだってボクのことを//やさしく支えてくれてたでしょ。",
+      "text": "그치만…이치로는，//언제나 나를//다정하게 받쳐 줬잖아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0564"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1764"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c6484d0d9c8d6421",
+      "source": "だって……イチローは、//いつだってボクのことを//やさしく支えてくれてたでしょ。",
+      "text": "그치만…이치로는，//늘 다정하게//내 힘이 되어 줬잖아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0564"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1764"
+        }
+      ]
+    },
+    "reason": "마음의 지지를 물리적으로 받쳐 주다처럼 옮긴 직역 자연화"
+  },
+  {
+    "unit": "dialogue:3c2aee485c7f976e",
+    "source": "ああ、いいぜ。//隊長と戦えるんなら、//恐いもんなしだぜ！",
+    "before": {
+      "id": "dialogue:3c2aee485c7f976e",
+      "source": "ああ、いいぜ。//隊長と戦えるんなら、//恐いもんなしだぜ！",
+      "text": "아아，좋아．//대장과 싸울 수 있다면，//무서울 것 하나 없다고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0606"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3c2aee485c7f976e",
+      "source": "ああ、いいぜ。//隊長と戦えるんなら、//恐いもんなしだぜ！",
+      "text": "아아，좋아．//대장과 함께 싸우면，//무서울 것 하나 없다고∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0606"
+        }
+      ]
+    },
+    "reason": "대장과 함께 싸운다는 동료 관계를 명시. 대장을 상대로 싸운다는 중의성 제거"
+  },
+  {
+    "unit": "dialogue:494950431f176cb2",
+    "source": "大神はんと一緒なら、//絶対にミカサをとめられるで！",
+    "before": {
+      "id": "dialogue:494950431f176cb2",
+      "source": "大神はんと一緒なら、//絶対にミカサをとめられるで！",
+      "text": "오오가미 씨랑 같이라면，반드시 미카사를 멈출 수 있다∈",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0614"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1872"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:494950431f176cb2",
+      "source": "大神はんと一緒なら、//絶対にミカサをとめられるで！",
+      "text": "오오가미 씨랑 함께면，//반드시 미카사를 멈출 수 있다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0614"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1872"
+        }
+      ]
+    },
+    "reason": "같이라면이라는 부자연스러운 결합 교정"
+  },
+  {
+    "unit": "dialogue:0dc12c283bb1413d",
+    "source": "大神華撃団、出撃だ∈//いいな……//生きて帰ってくるんだぞ∈",
+    "before": {
+      "id": "dialogue:0dc12c283bb1413d",
+      "source": "大神華撃団、出撃だ∈//いいな……//生きて帰ってくるんだぞ∈",
+      "text": "오오가미 화격단，출격이다∈//좋아…//살아서 돌아와야 한다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0668"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1978"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0dc12c283bb1413d",
+      "source": "大神華撃団、出撃だ∈//いいな……//生きて帰ってくるんだぞ∈",
+      "text": "오오가미 화격단，출격이다∈//알겠지…//살아서 돌아와라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0668"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1978"
+        }
+      ]
+    },
+    "reason": "いいな는 좋다는 평가가 아닌 명령 확인"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "schema": "sakura-shared-dialogue/v1",
+  "occurrences": 40338,
+  "units": 23029,
+  "shared_units": 7617,
+  "shared_occurrences": 24927,
+  "units_with_variants": 1727,
+  "semantic_variant_units": 1692,
+  "layout_only_variant_units": 35,
+  "changed_rendered_rows": 0,
+  "before_dcp_sha256": "313ec6929f4ebc5fa0d809cc79fa0e20720176d0ea385b31d9812b2c5598862a",
+  "before_text_sha256": "43a470d6bd7c70ea702a7466767b57c6c4ce76d10aec43a406e5802187949dac",
+  "phrase": "phrase:kayama-haste",
+  "runtime_verified": false,
+  "after_dcp_sha256": "313ec6929f4ebc5fa0d809cc79fa0e20720176d0ea385b31d9812b2c5598862a",
+  "identical_dcp": true,
+  "all_occurrence_texts_identical": 40338,
+  "protected_metadata_identical": true,
+  "phrase_edit_propagates_to": [
+    "ADVDATA/LIPSYNC2.LIP#1993",
+    "ADVDATA/SCRIPT/S0210.SBX#0181",
+    "ADVDATA/SCRIPT/S0510.SBX#1381"
+  ],
+  "inputs_tracked": 263
+}

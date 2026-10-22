@@ -1,6 +1,7 @@
 """v0.5 통합 기준선에서 편집한 문안과 자산을 합성한다."""
 import argparse, hashlib, json, os, re, shutil, struct, tempfile, zipfile
 from pathlib import Path
+from dialogue import SCHEMA, load as load_dialogue
 
 ROOT=Path(__file__).resolve().parents[1]
 def sha(data): return hashlib.sha256(data).hexdigest()
@@ -24,7 +25,31 @@ def encode(text,codes):
     if 0 in out: raise ValueError('문안에 NUL을 넣을 수 없습니다.')
     return bytes(out)
 
-def build(root=ROOT,output=None):
+def sjis_glyphs(data):
+    n=0;i=0
+    while i<len(data):
+        i+=2 if (0x81<=data[i]<=0x9f or data[i]>=0xe0) else 1; n+=1
+    return n
+
+def align_lip(text,codes,orig,pad):
+    """여러 줄 대사의 각 줄이 일본어 원문의 해당 줄이 찍히던 칸에서 시작하도록 줄 끝에 빈 타일을 넣는다.
+    줄 안의 글자·띄어쓰기는 그대로 둔다(보이는 모양이 번역과 같아야 한다). 맞출 수 없으면 None."""
+    if '⟦' in text: return None
+    lines=text.split('//'); jp=[sjis_glyphs(x) for x in orig.split(b'//')]
+    if len(lines)<2: return None
+    glyphs=[len(l)-sum(1 for i,ch in enumerate(l) if ch==' ' and i and l[i-1] in codes) for l in lines]
+    width=max(jp); nK=sum(glyphs); nJ=sum(jp)
+    if nK>=nJ: return None
+    if len(lines)==len(jp) and all(k<=j for k,j in zip(glyphs,jp)): slots=jp
+    else:
+        # 줄 수가 다르면 줄 시작 칸을 글자 수 비례로 정한다
+        slots=[]; seen=0
+        for k,n in enumerate(glyphs):
+            nxt=nJ if k==len(glyphs)-1 else round((seen+n)*nJ/nK)
+            slots.append(min(width,max(n,nxt-round(seen*nJ/nK)))); seen+=n
+    return b'//'.join(encode(l,codes)+pad*max(0,s-n) for l,n,s in zip(lines,glyphs,slots))
+
+def build(root=ROOT,output=None,lip_align=False):
     manifest=readjson(root/'config/baseline.json')
     bindings=readjson(root/'config/text-bindings.json')
     index=readjson(root/'assets/translation/index.json')
@@ -37,17 +62,26 @@ def build(root=ROOT,output=None):
         data=safe(root/'originals'/item.get('origin','v05'),item['path']).read_bytes()
         if len(data)!=item['size'] or sha(data)!=item['sha256']: raise ValueError('기준선 불일치: '+item['path'])
         baseline[item['path']]=data
-    rows={}; segment_hashes={}
-    for seg in index['segments']:
-        path=safe(root,seg['path']); segment_hashes[seg['path']]=sha(path.read_bytes())
-        for line in path.read_text(encoding='utf-8').splitlines():
-            if not line: continue
-            row=json.loads(line); key=row['id']
-            if key in rows or key not in bindings: raise ValueError('중복 또는 미등록 ID: '+key)
-            fixed=bindings[key]
-            for field in fixed:
-                if row.get(field)!=fixed[field]: raise ValueError('보호 필드 변경: '+key+' '+field)
-            rows[key]=row
+    rows={}; segment_hashes={}; dialogue_info=None
+    resolved=None
+    if index.get('schema') not in (None,SCHEMA) or ('units' in index and index.get('schema')!=SCHEMA):
+        raise ValueError('지원하지 않는 공유 대사 색인 형식')
+    if index.get('schema')==SCHEMA:
+        catalogue,resolved,segment_hashes=load_dialogue(root,index)
+        dialogue_info={'units':len(catalogue.units),'occurrences':len(resolved),
+                      'units_with_variants':sum(bool(u.get('variants')) for u in catalogue.units.values())}
+    input_rows=list(resolved.values()) if resolved is not None else []
+    if resolved is None:
+        for seg in index['segments']:
+            path=safe(root,seg['path']); data=path.read_bytes(); segment_hashes[seg['path']]=sha(data)
+            input_rows.extend(json.loads(line) for line in data.decode('utf-8').splitlines() if line)
+    for row in input_rows:
+        key=row['id']
+        if key in rows or key not in bindings: raise ValueError('중복 또는 미등록 ID: '+key)
+        fixed=bindings[key]
+        for field in fixed:
+            if row.get(field)!=fixed[field]: raise ValueError('보호 필드 변경: '+key+' '+field)
+        rows[key]=row
     if set(rows)!=set(bindings): raise ValueError('번역 ID 모집단 누락')
     # LIPSYNC: 표의 off_b가 대사 중간(원본은 마지막 4글자)을 가리킨다. v0.5는 모든 항목에서
     # 대사를 off_b까지 채웠다(짧게 끝나 off_b가 NUL 패딩을 가리키는 항목 0개). 짧아진 대사는
@@ -74,15 +108,30 @@ def build(root=ROOT,output=None):
             if pos<end and start<pos+len(expected): raise ValueError('쓰기 겹침: '+owner+' / '+other)
         writes.setdefault(rel,[]).append((pos,pos+len(expected),owner))
         result[rel][pos:pos+len(expected)]=new
+    disc_lip={rel:safe(root/'originals/disc',rel).read_bytes() for rel in lip_offb} if lip_align else {}
     for key,row in rows.items():
+        rel=row['file']; raw=bytes.fromhex(row['raw_hex'])
+        if rel in disc_lip:
+            # 시험 기능: 일본어 원문의 글자 칸 위치에 한글을 맞춘다(원문이 쓰던 0 채움 구간까지 사용)
+            start=row['offset']; orig=disc_lip[rel]; end=orig.find(b'\0',start)
+            base=baseline[rel]; cur=len(raw)
+            aligned=align_lip(row['text'],codes,orig[start:end],pad)
+            if aligned is not None and len(aligned)<=end-start and not any(base[start+cur:end+1]):
+                need=max((b-start for b in lip_offb[rel] if start<b<=end),default=0)
+                while len(aligned)<min(need+8,end-start-1): aligned+=pad
+                write(rel,start,base[start:end+1],aligned+b'\0'*(end+1-start-len(aligned)),key)
+                changed.append(key); continue
         if row['text']==row['baseline_text']: continue
-        rel=row['file']; raw=bytes.fromhex(row['raw_hex']); encoded=encode(row['text'],codes)
+        encoded=encode(row['text'],codes)
         if len(encoded)>row['capacity']:
             raise ValueError(f"{key}: {len(encoded)}바이트 > 현재 가용 {row['capacity']}바이트. 리포인팅 설계 후 확장하세요.")
         if rel in lip_offb:
             start=row['offset']
             need=max((b-start for b in lip_offb[rel] if start<b<=start+row['capacity']),default=0)
-            if (need-len(encoded))%len(pad) and need>len(encoded): raise ValueError(f'{key}: off_b까지 홀수 바이트')
+            # 원본은 off_b가 마지막 4글자를 가리킨다. off_b에서 대사가 끝나면 off_b가 NUL을 가리키므로
+            # off_b 뒤에도 최대 4칸(용량 안)을 채운다.
+            if need: need=min(row['capacity'],need+8)
+            if (need-len(encoded))%len(pad) and need>len(encoded): need-=1
             while len(encoded)<need: encoded+=pad
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
         changed.append(key)
@@ -141,11 +190,13 @@ def build(root=ROOT,output=None):
     report={'output':str(output),'sha256':sha(output.read_bytes()),'files':len(result),
         'changed_translation_ids':changed,'changed_files':sorted(writes),'baseline_payload_equal':not writes,
         'segment_hashes':segment_hashes,'index_sha256':sha((root/'assets/translation/index.json').read_bytes()),
-        'runtime_verified':False,'release_approved':False}
+        'runtime_verified':False,'release_approved':False,'dialogue':dialogue_info}
     (output.parent/'build-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps({k:v for k,v in report.items() if k!='segment_hashes'},ensure_ascii=False,indent=2))
     return report
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(); parser.add_argument('--output',type=Path); args=parser.parse_args()
-    build(output=args.output)
+    parser=argparse.ArgumentParser(); parser.add_argument('--output',type=Path)
+    parser.add_argument('--lip-align',action='store_true',help='시험: LIPSYNC 한글을 일본어 글자 칸 위치에 맞춤')
+    args=parser.parse_args()
+    build(output=args.output,lip_align=args.lip_align)

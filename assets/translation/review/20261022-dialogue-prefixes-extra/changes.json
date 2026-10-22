@@ -1,0 +1,2115 @@
+[
+  {
+    "unit": "dialogue:ade9ca247a976219",
+    "source": "天地神明！",
+    "before": {
+      "id": "dialogue:ade9ca247a976219",
+      "source": "地神明！",
+      "text": "지신명∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0008"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2040"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1755"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1332"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ade9ca247a976219",
+      "source": "天地神明！",
+      "text": "천지신명∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0008"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2040"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1755"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1332"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:73cc65d0b6ad05a0",
+    "source": "震天動地！",
+    "before": {
+      "id": "dialogue:73cc65d0b6ad05a0",
+      "source": "天動地！",
+      "text": "천동지∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0010"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2042"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1757"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1334"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:73cc65d0b6ad05a0",
+      "source": "震天動地！",
+      "text": "진천동지∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0010"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2042"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1757"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1334"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:226d349d641e4314",
+    "source": "いきます！",
+    "before": {
+      "id": "dialogue:226d349d641e4314",
+      "source": "きます！",
+      "text": "니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0013"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2045"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1760"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1337"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:226d349d641e4314",
+      "source": "いきます！",
+      "text": "갑니다∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0013"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2045"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1760"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1337"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:04581489148068ce",
+    "source": "一刀両断！",
+    "before": {
+      "id": "dialogue:04581489148068ce",
+      "source": "刀両断！",
+      "text": "도양단∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0015"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2047"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1762"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1339"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:04581489148068ce",
+      "source": "一刀両断！",
+      "text": "일도양단∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0015"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2047"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1762"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1339"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:3d8911b1198fa2c5",
+    "source": "桜花天昇！",
+    "before": {
+      "id": "dialogue:3d8911b1198fa2c5",
+      "source": "花天昇！",
+      "text": "화천승∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0035"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2067"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1782"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1359"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3d8911b1198fa2c5",
+      "source": "桜花天昇！",
+      "text": "앵화천승∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0035"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2067"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1782"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1359"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:fdfad7c53b877b80",
+    "source": "いくわよ！",
+    "before": {
+      "id": "dialogue:fdfad7c53b877b80",
+      "source": "くわよ！",
+      "text": "다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0038"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2070"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1785"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1362",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "93eccb2021b8f59a69bc7ff6621057b9a22c266590b8efcaeb562253a28de092",
+          "text": "니다∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:fdfad7c53b877b80",
+      "source": "いくわよ！",
+      "text": "간다∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0038"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2070"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1785"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1362",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "갑니다∈",
+          "base_text_sha256": "7b28c3519647200a47fe3d12539ed6992fb9a9c40644e5cdcd7b06eaf9277969",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:a03f7da7961cb7f5",
+    "source": "……了解。",
+    "before": {
+      "id": "dialogue:a03f7da7961cb7f5",
+      "source": "…了解。",
+      "text": "…응．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0799"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0913"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a03f7da7961cb7f5",
+      "source": "……了解。",
+      "text": "……응．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0799"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0913"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:42304a3040449c21",
+    "source": "勝負です！",
+    "before": {
+      "id": "dialogue:42304a3040449c21",
+      "source": "負です！",
+      "text": "부∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0827"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1769"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1485",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1062"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6c7ea175b1e8a70e80ecefff5e4b4e91ea75abdaddebe6b269cd9892a4ad4dfb",
+          "text": "부예요∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:42304a3040449c21",
+      "source": "勝負です！",
+      "text": "승부∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0827"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1769"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1485",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1062"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "승부예요∈",
+          "base_text_sha256": "d00dedcbe8460a705b6c833183ceb735a254a1237607e0547567a36cb8b6573a",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:873b3df4986e52d3",
+    "source": "孔雀の舞！",
+    "before": {
+      "id": "dialogue:873b3df4986e52d3",
+      "source": "雀の舞！",
+      "text": "작의 춤∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1149"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2092"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1807"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1384"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:873b3df4986e52d3",
+      "source": "孔雀の舞！",
+      "text": "공작의 춤∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1149"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2092"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1807"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1384"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:e5de31420dd5f5e8",
+    "source": "ショット！",
+    "before": {
+      "id": "dialogue:e5de31420dd5f5e8",
+      "source": "ョット！",
+      "text": "샷∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1154"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2097"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1812"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1389",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "046178903032d3f409b15fa2a57b06c8813f802511476882038593ee1f0e1ea0",
+          "text": "욧∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:e5de31420dd5f5e8",
+      "source": "ショット！",
+      "text": "샷∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1154"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2097"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1812"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1389"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:91f727f20c9035be",
+    "source": "そ～れっ！",
+    "before": {
+      "id": "dialogue:91f727f20c9035be",
+      "source": "～れっ！",
+      "text": "～라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1200"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2143",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1858",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1435",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c7ce43d47cfdff0c3c5904524e0ac4163162652c822ecf64383d3da9427ca780",
+          "text": "～∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "c7ce43d47cfdff0c3c5904524e0ac4163162652c822ecf64383d3da9427ca780",
+          "text": "～앗∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:91f727f20c9035be",
+      "source": "そ～れっ！",
+      "text": "영차∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1200"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2143"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1858"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1435"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:8a2db7b87c98e78f",
+    "source": "がお～っ！",
+    "before": {
+      "id": "dialogue:8a2db7b87c98e78f",
+      "source": "お～っ！",
+      "text": "오～∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1205"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2148"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1863"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1440"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8a2db7b87c98e78f",
+      "source": "がお～っ！",
+      "text": "어흥～∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1205"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2148"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1863"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1440"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:3aca6991a3d9e6a3",
+    "source": "うえ～ん！",
+    "before": {
+      "id": "dialogue:3aca6991a3d9e6a3",
+      "source": "え～ん！",
+      "text": "아앙∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1208"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2151"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1866",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1443",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "fa2cc7d5cd480ecb359239229f29522331d2afa7c75da5402d0ac3f36f699fc5",
+          "text": "앙∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3aca6991a3d9e6a3",
+      "source": "うえ～ん！",
+      "text": "으아앙∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1208"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2151"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1866",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1443",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "으앙∈",
+          "base_text_sha256": "590c00fc00b587d5a0193594bf5f91445ae26202d2ca8965aba44a640328d97b",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:c8cd994cc0c4e08e",
+    "source": "ぐううっ！",
+    "before": {
+      "id": "dialogue:c8cd994cc0c4e08e",
+      "source": "ううっ！",
+      "text": "윽∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1287"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2230"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1945"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1522"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c8cd994cc0c4e08e",
+      "source": "ぐううっ！",
+      "text": "으윽∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1287"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2230"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1945"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1522"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:a44db1234f510d6d",
+    "source": "天罰です！",
+    "before": {
+      "id": "dialogue:a44db1234f510d6d",
+      "source": "罰です！",
+      "text": "벌이죠∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1309"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2252"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1967"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1544"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a44db1234f510d6d",
+      "source": "天罰です！",
+      "text": "천벌이죠∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1309"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2252"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1967"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1544"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:3b1f3947f581068b",
+    "source": "アーメン！",
+    "before": {
+      "id": "dialogue:3b1f3947f581068b",
+      "source": "ーメン！",
+      "text": "～멘∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1326"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2269"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1984"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1561"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3b1f3947f581068b",
+      "source": "アーメン！",
+      "text": "아멘∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1326"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2269"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1984"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1561"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:81b7208962d7bd39",
+    "source": "あああっ！",
+    "before": {
+      "id": "dialogue:81b7208962d7bd39",
+      "source": "ああっ！",
+      "text": "앗∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1415"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2358"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2073",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1650"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "87a10714e2a6bc2cb6b241c9167409083682bbc5ab427d52b984ea6c9ae3e7a9",
+          "text": "악∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:81b7208962d7bd39",
+      "source": "あああっ！",
+      "text": "아앗∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1415"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2358"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2073",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1650"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "아악∈",
+          "base_text_sha256": "8d6f28b34e0358a852199c84350e932b5056b247f357c9be6f304f73fb8cad7f",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:3b3eca3685d6dcdf",
+    "source": "雪月風花！",
+    "before": {
+      "id": "dialogue:3b3eca3685d6dcdf",
+      "source": "月風花！",
+      "text": "월풍화∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1433"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2376"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2091"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1668"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3b3eca3685d6dcdf",
+      "source": "雪月風花！",
+      "text": "설월풍화∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1433"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2376"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2091"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1668"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:7e760b56cd543ddb",
+    "source": "ぬうう……",
+    "before": {
+      "id": "dialogue:7e760b56cd543ddb",
+      "source": "うう……",
+      "text": "으…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1434"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2377"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2092"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1669"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7e760b56cd543ddb",
+      "source": "ぬうう……",
+      "text": "으으…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1434"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2377"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2092"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1669"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:892014be6fe4eb57",
+    "source": "おおお……",
+    "before": {
+      "id": "dialogue:892014be6fe4eb57",
+      "source": "おお……",
+      "text": "오…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1435"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2378"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2093"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1670"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:892014be6fe4eb57",
+      "source": "おおお……",
+      "text": "오오…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1435"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2378"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2093"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1670"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:5861001a6788599e",
+    "source": "消え去れ！",
+    "before": {
+      "id": "dialogue:5861001a6788599e",
+      "source": "え去れ！",
+      "text": "져라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1436"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2379"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2094",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1671",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "3db6fbdd40e14a79b3639a36d43416e20d02c326352b9b59c01185d7c599e4d2",
+          "text": "라져라∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5861001a6788599e",
+      "source": "消え去れ！",
+      "text": "꺼져라∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1436"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2379"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2094",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1671",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "사라져라∈",
+          "base_text_sha256": "e507021e0c0f767dd2f14cdcefec4448c9f523e0cdd7f2ccfc5f40c64389bf2a",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:d93441d6671173b9",
+    "source": "うぐっ……",
+    "before": {
+      "id": "dialogue:d93441d6671173b9",
+      "source": "ぐっ……",
+      "text": "윽…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1437"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2380"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2095"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1672"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d93441d6671173b9",
+      "source": "うぐっ……",
+      "text": "으윽…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1437"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2380"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2095"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1672"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:e0536314813afd36",
+    "source": "地神之怒！",
+    "before": {
+      "id": "dialogue:e0536314813afd36",
+      "source": "神之怒！",
+      "text": "신의 분노",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1441"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2384"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2099"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1676"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e0536314813afd36",
+      "source": "地神之怒！",
+      "text": "지신의 분노",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1441"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2384"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2099"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1676"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:34854cdaa3164758",
+    "source": "死ねえぇ！",
+    "before": {
+      "id": "dialogue:34854cdaa3164758",
+      "source": "ねえぇ！",
+      "text": "어라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1444"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2387"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2102",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1679",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "7dfc4eab17ecbc71cb8688a2301d4bbbf60a4481da93b6d61d3c6136877aa1c7",
+          "text": "어라아∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:34854cdaa3164758",
+      "source": "死ねえぇ！",
+      "text": "죽어라∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1444"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2387"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2102",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1679",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "죽어라아∈",
+          "base_text_sha256": "f8f82551147ff6abbe85f65d6dc9c753c450525c66a1afb409168f36cbd0ddd0",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:a964a2d16fef687d",
+    "source": "ぐうっ……",
+    "before": {
+      "id": "dialogue:a964a2d16fef687d",
+      "source": "うっ……",
+      "text": "윽…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1445"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1453"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2388"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2396"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2103"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2111"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1680"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1688"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a964a2d16fef687d",
+      "source": "ぐうっ……",
+      "text": "으윽…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1445"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1453"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2388"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2396"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2103"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2111"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1680"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1688"
+        }
+      ],
+      "source_alternatives": [
+        "ぐうっ……",
+        "ぬうっ……"
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:385b65cb837520ae",
+    "source": "天神之戒！",
+    "before": {
+      "id": "dialogue:385b65cb837520ae",
+      "source": "神之戒！",
+      "text": "신의 계율",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1449"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2392"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2107"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1684"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:385b65cb837520ae",
+      "source": "天神之戒！",
+      "text": "천신의 계율",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1449"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2392"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2107"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1684"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:274a191dc24373fd",
+    "source": "絶望しろ！",
+    "before": {
+      "id": "dialogue:274a191dc24373fd",
+      "source": "望しろ！",
+      "text": "망해라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1451"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2394"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2109",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1686",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "16a2abc0f12351c1e3e60ad99ae4d2931d00a7f6e207cbf8a91095b6af79b66b",
+          "text": "망하라∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:274a191dc24373fd",
+      "source": "絶望しろ！",
+      "text": "절망해라∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1451"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2394"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2109",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1686",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "절망하라∈",
+          "base_text_sha256": "9bdd2f66d5600c43899662c004d24e054c838c7546530d6861ab6af9a005a940",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:8d7a4cc43059dae0",
+    "source": "五行霊氣！",
+    "before": {
+      "id": "dialogue:8d7a4cc43059dae0",
+      "source": "行霊氣！",
+      "text": "행영기∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1457"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2400"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2115"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1692"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8d7a4cc43059dae0",
+      "source": "五行霊氣！",
+      "text": "오행영기∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1457"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2400"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2115"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1692"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:50944c3164e38efb",
+    "source": "やるねぇ！",
+    "before": {
+      "id": "dialogue:50944c3164e38efb",
+      "source": "るねぇ！",
+      "text": "법인데∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1465"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2408"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2123",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1700",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "33da05d76e29f52346ec96879684bb454fb33ee522562f3f7b16b3f932745a91",
+          "text": "법이네∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:50944c3164e38efb",
+      "source": "やるねぇ！",
+      "text": "제법인데∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1465"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2408"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2123",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1700",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "text": "제법이네∈",
+          "base_text_sha256": "868046ac6143fcf16f5df3bbb6b84009e36d74da9e7b9e229ee22d0caa9bd254",
+          "review": "전체 원문 대조 완료",
+          "reason": "앞부분 복원 후에도 필요한 기존 말투·길이 차이 보존"
+        }
+      }
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:1b9f1939e77f8964",
+    "source": "……筑前煮。",
+    "before": {
+      "id": "dialogue:1b9f1939e77f8964",
+      "source": "筑前煮。",
+      "text": "치쿠젠니",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0365"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b9f1939e77f8964",
+      "source": "……筑前煮。",
+      "text": "…치쿠젠니",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0365"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:cf7ef6fb3feeeccf",
+    "source": "……来い。",
+    "before": {
+      "id": "dialogue:cf7ef6fb3feeeccf",
+      "source": "…来い。",
+      "text": "와．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0400"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cf7ef6fb3feeeccf",
+      "source": "……来い。",
+      "text": "…와．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0400"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:5bda6e84beb9e02c",
+    "source": "……なに？",
+    "before": {
+      "id": "dialogue:5bda6e84beb9e02c",
+      "source": "…なに？",
+      "text": "…뭐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0451"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5bda6e84beb9e02c",
+      "source": "……なに？",
+      "text": "……뭐？",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0451"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:8ab006f172ecae7d",
+    "source": "みゃあ～。",
+    "before": {
+      "id": "dialogue:8ab006f172ecae7d",
+      "source": "ゃあ～。",
+      "text": "아～．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0934"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8ab006f172ecae7d",
+      "source": "みゃあ～。",
+      "text": "먀아～．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0934"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:345ffc1dc5b8d19c",
+    "source": "み、みー。",
+    "before": {
+      "id": "dialogue:345ffc1dc5b8d19c",
+      "source": "、みー。",
+      "text": "，미－．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0935"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0936"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:345ffc1dc5b8d19c",
+      "source": "み、みー。",
+      "text": "냐，냐．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0935"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0936"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:42677282c1259c9a",
+    "source": "ふみゃー。",
+    "before": {
+      "id": "dialogue:42677282c1259c9a",
+      "source": "みゃー。",
+      "text": "먀―．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0940"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:42677282c1259c9a",
+      "source": "ふみゃー。",
+      "text": "냐아．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0940"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:660e9f80375c842d",
+    "source": "……ニャー。",
+    "before": {
+      "id": "dialogue:660e9f80375c842d",
+      "source": "ニャー。",
+      "text": "아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0945"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0946"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:660e9f80375c842d",
+      "source": "……ニャー。",
+      "text": "…냐아．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0945"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0946"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:ac908069a37c2760",
+    "source": "そうか……",
+    "before": {
+      "id": "dialogue:ac908069a37c2760",
+      "source": "うか……",
+      "text": "렇군…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1005"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ac908069a37c2760",
+      "source": "そうか……",
+      "text": "그렇군…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1005"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:31e3826fd3e62801",
+    "source": "隊長ーっ∈",
+    "before": {
+      "id": "dialogue:31e3826fd3e62801",
+      "source": "長ーっ∈",
+      "text": "장∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1619"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1621"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:31e3826fd3e62801",
+      "source": "隊長ーっ∈",
+      "text": "대장∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1619"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1621"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:2e8e56430c89f131",
+    "source": "大神さん∈",
+    "before": {
+      "id": "dialogue:2e8e56430c89f131",
+      "source": "神さん∈",
+      "text": "오가미 씨",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1622"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2e8e56430c89f131",
+      "source": "大神さん∈",
+      "text": "오오가미 씨",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1622"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:1576e585c926221b",
+    "source": "はうぅ……",
+    "before": {
+      "id": "dialogue:1576e585c926221b",
+      "source": "うぅ……",
+      "text": "윽…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0162"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1576e585c926221b",
+      "source": "はうぅ……",
+      "text": "으윽…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0162"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:5dd60e098afb1c79",
+    "source": "きゃーっ∈",
+    "before": {
+      "id": "dialogue:5dd60e098afb1c79",
+      "source": "ゃーっ∈",
+      "text": "아－∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0364"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5dd60e098afb1c79",
+      "source": "きゃーっ∈",
+      "text": "꺄아－∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0364"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:bd6c628f9112d025",
+    "source": "さくら……",
+    "before": {
+      "id": "dialogue:bd6c628f9112d025",
+      "source": "くら……",
+      "text": "쿠라…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0504"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bd6c628f9112d025",
+      "source": "さくら……",
+      "text": "사쿠라…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0504"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:072b6b5c3189be01",
+    "source": "すみれ……",
+    "before": {
+      "id": "dialogue:072b6b5c3189be01",
+      "source": "みれ……",
+      "text": "미레…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0505"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:072b6b5c3189be01",
+      "source": "すみれ……",
+      "text": "스미레…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0505"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:b47f991a3f9c9c91",
+    "source": "マリア……",
+    "before": {
+      "id": "dialogue:b47f991a3f9c9c91",
+      "source": "リア……",
+      "text": "리아…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0506"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b47f991a3f9c9c91",
+      "source": "マリア……",
+      "text": "마리아…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0506"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:8b58a53102b0b76c",
+    "source": "カンナ……",
+    "before": {
+      "id": "dialogue:8b58a53102b0b76c",
+      "source": "ンナ……",
+      "text": "응…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0507"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8b58a53102b0b76c",
+      "source": "カンナ……",
+      "text": "칸나…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0507"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리하고 일본어 잔재 또는 오역을 교정"
+  },
+  {
+    "unit": "dialogue:6734812c4eead330",
+    "source": "エリカ……",
+    "before": {
+      "id": "dialogue:6734812c4eead330",
+      "source": "リカ……",
+      "text": "리카…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0512"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6734812c4eead330",
+      "source": "エリカ……",
+      "text": "에리카…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0512"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:922dd75d34c108a2",
+    "source": "了解です！",
+    "before": {
+      "id": "dialogue:922dd75d34c108a2",
+      "source": "解です！",
+      "text": "겠어요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1093"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:922dd75d34c108a2",
+      "source": "了解です！",
+      "text": "알겠어요∈",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1093"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:c8d78bfb6753d42f",
+    "source": "そうね……",
+    "before": {
+      "id": "dialogue:c8d78bfb6753d42f",
+      "source": "うね……",
+      "text": "래…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0342"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c8d78bfb6753d42f",
+      "source": "そうね……",
+      "text": "그래…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0342"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:496c4a1092cdc645",
+    "source": "実はな……",
+    "before": {
+      "id": "dialogue:496c4a1092cdc645",
+      "source": "はな……",
+      "text": "실은…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0552"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:496c4a1092cdc645",
+      "source": "実はな……",
+      "text": "사실은…",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0552"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:461f9e6a1b4b9c11",
+    "source": "……乾杯。",
+    "before": {
+      "id": "dialogue:461f9e6a1b4b9c11",
+      "source": "…乾杯。",
+      "text": "건배．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0628"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:461f9e6a1b4b9c11",
+      "source": "……乾杯。",
+      "text": "…건배．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0628"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  },
+  {
+    "unit": "dialogue:8402788aafef0ea1",
+    "source": "……うん。",
+    "before": {
+      "id": "dialogue:8402788aafef0ea1",
+      "source": "…うん。",
+      "text": "…응．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0679"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8402788aafef0ea1",
+      "source": "……うん。",
+      "text": "……응．",
+      "review": "원문/번역 전체 문자열 경계 복원 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0679"
+        }
+      ]
+    },
+    "reason": "off_b 앞에 붙은 실제 문자까지 문안 소유 범위를 복원. 포인터/타이밍은 그대로 두고 전체 문장을 관리"
+  }
+]

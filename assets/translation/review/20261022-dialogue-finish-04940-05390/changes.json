@@ -1,0 +1,197 @@
+[
+  {
+    "unit": "dialogue:1c8a99faf80e706e",
+    "source": "急にあらたまって……//なんだい、話って？",
+    "before": {
+      "id": "dialogue:1c8a99faf80e706e",
+      "source": "急にあらたまって……//なんだい、話って？",
+      "text": "갑자기 정색하고…//뭔데，할 말이？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0681"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2070"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1c8a99faf80e706e",
+      "source": "急にあらたまって……//なんだい、話って？",
+      "text": "갑자기 진지하게…//뭔데，할 말이？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0681"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2070"
+        }
+      ]
+    },
+    "reason": "あらたまって는 정색하여 화낸다는 뜻이 아닌 진지하게 말을 꺼내는 태도"
+  },
+  {
+    "unit": "dialogue:be39480fd87cb1f5",
+    "source": "うん……すこし冷えたみたい。//もう行くよ。//アイリスはどうする？",
+    "before": {
+      "id": "dialogue:be39480fd87cb1f5",
+      "source": "うん……すこし冷えたみたい。//もう行くよ。//アイリスはどうする？",
+      "text": "응…몸이 좀 식었나 봐．//이제 갈게．//아이리스는 어떻게 할 거야？",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0986"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:be39480fd87cb1f5",
+      "source": "うん……すこし冷えたみたい。//もう行くよ。//アイリスはどうする？",
+      "text": "응…좀 쌀쌀해졌어．//이제 갈게．//아이리스는 어떻게 할 거야？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0986"
+        }
+      ]
+    },
+    "reason": "몸이 식었다는 일본어 직역을 추위를 느끼는 구어로 자연화"
+  },
+  {
+    "unit": "dialogue:9f99eed15d1128b6",
+    "source": "あ、あたしも……行きます。//なんだか……//身体がほてっちゃって……",
+    "before": {
+      "id": "dialogue:9f99eed15d1128b6",
+      "source": "あ、あたしも……行きます。//なんだか……//身体がほてっちゃって……",
+      "text": "아，저도…갈게요．//왠지…//얼굴이 화끈거려…",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1053"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9f99eed15d1128b6",
+      "source": "あ、あたしも……行きます。//なんだか……//身体がほてっちゃって……",
+      "text": "아，저도…갈게요．//왠지…//몸이 달아올라서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1053"
+        }
+      ]
+    },
+    "reason": "身体がほてる를 몸이 달아오르다로 표현"
+  },
+  {
+    "unit": "dialogue:5583fd1cea866d8c",
+    "source": "だから……//みんながいないなんて……//あたしも考えられませんでした。",
+    "before": {
+      "id": "dialogue:5583fd1cea866d8c",
+      "source": "だから……//みんながいないなんて……//あたしも考えられませんでした。",
+      "text": "그러니까…//모두가 없다니…//저도 상상도 못 했어요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1070"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5583fd1cea866d8c",
+      "source": "だから……//みんながいないなんて……//あたしも考えられませんでした。",
+      "text": "그러니까…//모두가 없는 건…//저도 상상 못 했어요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1070"
+        }
+      ]
+    },
+    "reason": "저도 상상도라는 중복 조사와 부자연스러운 가정절 자연화"
+  },
+  {
+    "unit": "dialogue:a460a2ac8daaf104",
+    "source": "街って……//不思議ですよね。",
+    "before": {
+      "id": "dialogue:a460a2ac8daaf104",
+      "source": "街って……//不思議ですよね。",
+      "text": "거리라는 건…//신기하네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1166"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a460a2ac8daaf104",
+      "source": "街って……//不思議ですよね。",
+      "text": "도시라는 건…//신기하네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1166"
+        }
+      ]
+    },
+    "reason": "사람들이 모여 만든 도시를 논하는 장면의 街를 거리와 구별"
+  },
+  {
+    "unit": "dialogue:fbb68d56925e2995",
+    "source": "人が集まって……//街になって……//そして……また人が集まる。",
+    "before": {
+      "id": "dialogue:fbb68d56925e2995",
+      "source": "人が集まって……//街になって……//そして……また人が集まる。",
+      "text": "사람들이 모여서…거리가 되고…//그리고…다시 사람들이 모이고요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1167"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fbb68d56925e2995",
+      "source": "人が集まって……//街になって……//そして……また人が集まる。",
+      "text": "사람들이 모여서…도시가 되고…//그리고…다시 사람들이 모이고요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1167"
+        }
+      ]
+    },
+    "reason": "도시 형성에 관한 문맥을 보존"
+  },
+  {
+    "unit": "dialogue:f46a65eddc618b6b",
+    "source": "（でも……なつかしさに//　変わりはないな……）",
+    "before": {
+      "id": "dialogue:f46a65eddc618b6b",
+      "source": "（でも……なつかしさに//　変わりはないな……）",
+      "text": "（하지만…그리움은//변함없군…）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1186"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f46a65eddc618b6b",
+      "source": "（でも……なつかしさに//　変わりはないな……）",
+      "text": "（하지만…정겨움은//변함없군…）",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1186"
+        }
+      ]
+    },
+    "reason": "눈앞의 익숙한 풍경에 느끼는 なつかしさ를 정겨움으로 표현"
+  }
+]

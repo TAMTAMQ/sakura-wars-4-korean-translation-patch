@@ -1,0 +1,14 @@
+{"id": "dialogue:3e8bd67b0ec16b3c", "source": "この試合はね、//アイリスのパイが//ボーナスパイになってるよ。", "text": "이 시합은 말이야//아이리스의 패가//보너스 패가 되어 있어．", "review": "번역 검수", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0003"}]}
+{"id": "dialogue:5933575eca6e720d", "source": "今回のお題はこれ！//この中の、どれか１組は、//そろえてね。", "text": "이번 주제는 이거∈//이 중에서，어느 한 세트를，//맞춰 줘．", "review": "재검수2", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0004"}]}
+{"id": "dialogue:8e329e887655f05a", "source": "今度は、アイリスが親だよ。", "text": "이번에는 아이리스가 딜러야．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0005"}]}
+{"id": "dialogue:e443a19f623d3613", "source": "次は//お兄ちゃんが親だね！", "text": "다음은//오빠가 딜러네∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0006"}]}
+{"id": "dialogue:cefff0fe9c983071", "source": "わ～い、わ～い！//アイリス、だいしょーりー！", "text": "와～이，와～이∈//아이리스，대승리∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0007"}, {"id": "MINIGAME/JT04IRIS.SBN#0019"}]}
+{"id": "dialogue:cfd59923170ef0ed", "source": "えーっ！//アイリスの負け～っ〓//つまんなーい∈", "text": "에엑∈//아이리스의 패배～〓//시시해～∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0008"}, {"id": "MINIGAME/JT04IRIS.SBN#0020"}]}
+{"id": "dialogue:536787886e653b89", "source": "わーい、たのしかった。//もーいっかいやろ、お兄ちゃん。", "text": "와아，즐거웠어．//한 번 더 하자，오빠．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0009"}, {"id": "MINIGAME/JT04IRIS.SBN#0021"}]}
+{"id": "dialogue:5943dbce95b3319d", "source": "次の対戦相手は、//花火だよ～。//応援してるからね∈", "text": "다음 대전 상대는，//하나비야～．//응원하고 있을게∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0010"}]}
+{"id": "dialogue:75a600614e3fe66d", "source": "勝ち抜き戦のはじまり～！", "text": "토너먼트 시작～∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0013"}]}
+{"id": "dialogue:ab6301f9bfbcdc59", "source": "あいてはね……//ぜんぶで５人！", "text": "상대는 말이야…//전부 ５명∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0014"}]}
+{"id": "dialogue:23d5510c7d9c8edb", "source": "お兄ちゃん∈//さいごまで、//がんばってね！", "text": "오빠∈//마지막까지，//힘내∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0015"}]}
+{"id": "dialogue:b4d5e175799ad50f", "source": "ねぇ、お兄ちゃん！//もういっかい、//アイリスとたいせんしてくれる？", "text": "있잖아，오빠∈//한 번 더，//아이리스랑 대결해 줄 거야？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0016"}]}
+{"id": "dialogue:e575f41e18a4dfd9", "source": "キャハハ！//アイリスまけないからね！", "text": "꺄하핫∈//아이리스，지지 않을 거니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0017"}]}
+{"id": "dialogue:c5699a66435fa1f2", "source": "え～、やめちゃうの～？//お兄ちゃんの//いくじなし～。", "text": "에～，그만두는 거야～？//오빠는//겁쟁이라니까～．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT04IRIS.SBN#0018"}]}

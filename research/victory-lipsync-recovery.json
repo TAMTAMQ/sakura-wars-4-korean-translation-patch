@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0823",
+    "offset": 134609,
+    "table_off_b": 134607,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1475",
+    "offset": 184634,
+    "table_off_b": 184632,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2418",
+    "offset": 335649,
+    "table_off_b": 335647,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1044",
+    "offset": 185725,
+    "table_off_b": 185723,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2133",
+    "offset": 301764,
+    "table_off_b": 301762,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1710",
+    "offset": 229774,
+    "table_off_b": 229772,
+    "original_hex": "8c8882df81b8",
+    "text": "결정∈",
+    "reason": "기존 추출기가 off_b의 프레임 꼬리 f를 대사로 오인하고 NUL 뒤 실제 자막을 누락함"
+  }
+]

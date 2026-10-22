@@ -1,0 +1,564 @@
+{
+  "changes": [
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#0665",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC1.LIP.jsonl",
+      "source": "そお？　一郎ちゃんは//あいかわらず遠慮深いのねぇ。",
+      "before": "그래？//이치로는//여전히 사양을 많이 하네．",
+      "after": "그래？//이치로는//여전히 사양도 많네．",
+      "reason": "사양을 많이 한다는 번역투를 친근한 구어로 수정.",
+      "encoded_bytes": 36,
+      "capacity": 40,
+      "line_bytes": [
+        6,
+        8,
+        18
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC1.LIP#1169",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC1.LIP.jsonl",
+      "source": "少しは、//手加減してあげたらどうですか？",
+      "before": "조금은，//살살 좀 해 주면 안 되나요？",
+      "after": "조금은，//봐주시면 어떨까요？",
+      "reason": "상대에게 조금 봐주라고 권하는 자연스러운 존댓말로 통일.",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "line_bytes": [
+        8,
+        18
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0338",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "半年と言えど……//会えぬということが、//これほど辛いとは思わなかった。",
+      "before": "반년이라 해도…//만나지 못한다는 것이，//이토록 괴로울 줄은 몰랐다．",
+      "after": "반년이라 해도…//만나지 못하는 게，//이토록 괴로울 줄은 몰랐다．",
+      "reason": "만나지 못한다는 것이라는 번역투 정리. 글리신의 절제된 어미 유지.",
+      "encoded_bytes": 58,
+      "capacity": 62,
+      "line_bytes": [
+        14,
+        16,
+        24
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0358",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "どうした？//なにを考える必要がある。//答えは一つであろう。",
+      "before": "왜 그러지？//무엇을 생각할 필요가 있나．//답은 하나일 터다．",
+      "after": "왜 그러지？//뭘 그리 망설이나．//답은 하나일 터다．",
+      "reason": "결단을 촉구하는 반문을 생각할 필요라는 직역 대신 망설임으로 표현.",
+      "encoded_bytes": 46,
+      "capacity": 54,
+      "line_bytes": [
+        10,
+        16,
+        16
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#0967",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "大神さんに会って……//人を好きになるってことが//どういうことかわかったんです。",
+      "before": "오오가미 씨를 만나서…//누군가를 좋아한다는 것이//무엇인지 알게 되었어요．",
+      "after": "오오가미 씨를 만나서…//누군가를 좋아하는 마음이//어떤 건지 알게 됐어요．",
+      "reason": "좋아한다는 것이 무엇인지라는 명사화 직역을 구어로 정리.",
+      "encoded_bytes": 66,
+      "capacity": 68,
+      "line_bytes": [
+        20,
+        22,
+        20
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#1673",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "大神よ……//今回はお前の大手柄だな。",
+      "before": "오오가미…//이번엔 네 큰 공로구나．",
+      "after": "오오가미…//이번엔 네 공이 컸구나．",
+      "reason": "네 큰 공로구나라는 어색한 명사 직역을 자연스러운 칭찬으로 수정.",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "line_bytes": [
+        10,
+        20
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#1993",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "古人曰く、//「急いては事を仕損じる」",
+      "before": "옛말에，//「급하면 일을 그르친다」",
+      "after": "옛말에，//「급할수록 돌아가라」",
+      "reason": "사용자 제안: 익숙한 한국어 속담으로 현지화.",
+      "encoded_bytes": 30,
+      "capacity": 32,
+      "line_bytes": [
+        8,
+        20
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC2.LIP#2112",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC2.LIP.jsonl",
+      "source": "少しは、//手加減してあげたらどうですか？",
+      "before": "조금은，//살살 좀 해 주면 안 되나요？",
+      "after": "조금은，//봐주시면 어떨까요？",
+      "reason": "상대에게 조금 봐주라고 권하는 자연스러운 존댓말로 통일.",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "line_bytes": [
+        8,
+        18
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#0621",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC3.LIP.jsonl",
+      "source": "はい、了解です∈//ドーンと//まかせちゃってください∈",
+      "before": "네，알겠습니다∈//팍 하고//맡겨 주세요∈",
+      "after": "네，알겠습니다∈//저만 믿으세요∈",
+      "reason": "팍 하고·확이라는 의성어 직역을 자신 있게 맡기라는 뜻으로 수정.",
+      "encoded_bytes": 32,
+      "capacity": 38,
+      "line_bytes": [
+        16,
+        14
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#0819",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC3.LIP.jsonl",
+      "source": "しょうがないな……//この貸しは高くつくぜ。",
+      "before": "어쩔 수 없네…//이 빚은 비싸게 치를 거야．",
+      "after": "할 수 없지…//이 빚은 톡톡히 갚으라고．",
+      "reason": "도움을 받은 상대에게 보답을 요구하는 로벨리아의 능청스러운 말투를 명확히 함.",
+      "encoded_bytes": 34,
+      "capacity": 36,
+      "line_bytes": [
+        10,
+        22
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1222",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC3.LIP.jsonl",
+      "source": "町、言うもんはな……//そういう人と人のつながりで//できてるもんやろ？",
+      "before": "도시라는 건 말이다…그런 사람과 사람의 이어짐으로//만들어지는 거 아이가",
+      "after": "도시란 말이다…//사람과 사람이 어울려//만들어 가는 거 아이가",
+      "reason": "사람과 사람의 이어짐이라는 직역을 풀고 홍란의 기존 사투리 유지.",
+      "encoded_bytes": 54,
+      "capacity": 64,
+      "line_bytes": [
+        14,
+        18,
+        18
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1292",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC3.LIP.jsonl",
+      "source": "大神よ……//今回はお前の大手柄だな。",
+      "before": "오오가미…//이번엔 네 큰 공로구나．",
+      "after": "오오가미…//이번엔 네 공이 컸구나．",
+      "reason": "네 큰 공로구나라는 어색한 명사 직역을 자연스러운 칭찬으로 수정.",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "line_bytes": [
+        10,
+        20
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC3.LIP#1827",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC3.LIP.jsonl",
+      "source": "少しは、//手加減してあげたらどうですか？",
+      "before": "조금은，//살살 좀 해 주는 게 어때요？",
+      "after": "조금은，//봐주시면 어떨까요？",
+      "reason": "상대에게 조금 봐주라고 권하는 자연스러운 존댓말로 통일.",
+      "encoded_bytes": 28,
+      "capacity": 32,
+      "line_bytes": [
+        8,
+        18
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0140",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC4.LIP.jsonl",
+      "source": "そういうもんか……//なんか、わかった気がする。",
+      "before": "그런 건가…//왠지，알 것 같은 기분이 들어．",
+      "after": "그런 건가…//왠지，알 것 같아．",
+      "reason": "알 것 같은 기분이 든다는 중복 표현 정리.",
+      "encoded_bytes": 28,
+      "capacity": 38,
+      "line_bytes": [
+        10,
+        16
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0227",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC4.LIP.jsonl",
+      "source": "ええ……本当にすごいですね。//ニッポンのことわざで言えば……//下手の横好きですね！",
+      "before": "네…정말 대단하네요．//일본 속담으로 말하자면…서투른데도 좋아한다는 말이 딱이네요∈",
+      "after": "네…정말 대단하네요．//일본 속담처럼…//솜씨는 없어도 열성은 있네요∈",
+      "reason": "일본 속담이라는 언급과 어설픈 칭찬의 농담은 살리고 뜻을 자연스럽게 전달.",
+      "encoded_bytes": 64,
+      "capacity": 78,
+      "line_bytes": [
+        20,
+        14,
+        26
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#0245",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC4.LIP.jsonl",
+      "source": "そういう時は……胸を張り、//堂々と人々の喝采に//応えるのだ。",
+      "before": "그럴 때는…가슴을 펴고，//당당하게 사람들의 갈채에//답하는 거다．",
+      "after": "그럴 때는…가슴을 펴고，//사람들의 환호에//당당히 화답하는 거다．",
+      "reason": "갈채에 답한다는 직역을 자연스러운 한국어로 정리.",
+      "encoded_bytes": 60,
+      "capacity": 60,
+      "line_bytes": [
+        22,
+        14,
+        20
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/LIPSYNC4.LIP#1404",
+      "path": "assets/translation/segments/ADVDATA/LIPSYNC4.LIP.jsonl",
+      "source": "少しは、//手加減してあげたらどうですか？",
+      "before": "조금은，//봐주시는 게 어때요？",
+      "after": "조금은，//봐주시면 어떨까요？",
+      "reason": "상대에게 조금 봐주라고 권하는 자연스러운 존댓말로 통일.",
+      "encoded_bytes": 28,
+      "capacity": 28,
+      "line_bytes": [
+        8,
+        18
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0130.SBX#2662",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0130.SBX.jsonl",
+      "source": "そお？　イチローちゃんは//あいかわらず遠慮深いのねぇ。",
+      "before": "그래？//이치로 씨는//여전히 사양을 많이 하네．",
+      "after": "그래？//이치로 씨는//여전히 사양도 많네．",
+      "reason": "음성 자막과 같은 표현으로 정리하되 기존 호칭은 유지.",
+      "encoded_bytes": 38,
+      "capacity": 42,
+      "line_bytes": [
+        6,
+        10,
+        18
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0181",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0210.SBX.jsonl",
+      "source": "古人⊇く、//「急いてはことをしそんじる」",
+      "before": "옛말에 이르기를，//「급할수록 돌아가라」라고 했다．",
+      "after": "옛말에，//「급할수록 돌아가라」",
+      "reason": "같은 장면의 일반 대사와 음성 자막 표현 통일.",
+      "encoded_bytes": 30,
+      "capacity": 48,
+      "line_bytes": [
+        8,
+        20
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0641",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0210.SBX.jsonl",
+      "source": "半年と言えど……//会えぬということが、//これほどつらいと思わなかった。",
+      "before": "반년이라고는 해도…//만나지 못한다는 것이，//이토록 괴로울 줄은 몰랐다．",
+      "after": "반년이라 해도…//만나지 못하는 게，//이토록 괴로울 줄은 몰랐다．",
+      "reason": "동일 장면의 음성 자막과 자연스러운 표현 통일.",
+      "encoded_bytes": 58,
+      "capacity": 66,
+      "line_bytes": [
+        14,
+        16,
+        24
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0210.SBX#0675",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0210.SBX.jsonl",
+      "source": "どうした？//なにを考える必要がある。//答えは一つであろう。",
+      "before": "왜 그러지？//무엇을 생각할 필요가 있나．//답은 하나일 터다．",
+      "after": "왜 그러지？//뭘 그리 망설이나．//답은 하나일 터다．",
+      "reason": "결단을 촉구하는 반문을 생각할 필요라는 직역 대신 망설임으로 표현.",
+      "encoded_bytes": 46,
+      "capacity": 54,
+      "line_bytes": [
+        10,
+        16,
+        16
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0220.SBX#2484",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0220.SBX.jsonl",
+      "source": "大神さんに会って……//人を好きになるってことが//どういうことかわかったんです。",
+      "before": "오오가미 씨를 만나서…//누군가를 좋아한다는 게//무엇인지 알게 되었어요．",
+      "after": "오오가미 씨를 만나서…//누군가를 좋아하는 마음이//어떤 건지 알게 됐어요．",
+      "reason": "좋아한다는 것이 무엇인지라는 명사화 직역을 구어로 정리.",
+      "encoded_bytes": 66,
+      "capacity": 66,
+      "line_bytes": [
+        20,
+        22,
+        20
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0240.SBX#0151",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0240.SBX.jsonl",
+      "source": "大神よ……//今回はお前の大手柄だな。",
+      "before": "오오가미…//이번에는 네가 큰 공을 세웠구나．",
+      "after": "오오가미…//이번엔 네 공이 컸구나．",
+      "reason": "네 큰 공로구나라는 어색한 명사 직역을 자연스러운 칭찬으로 수정.",
+      "encoded_bytes": 32,
+      "capacity": 40,
+      "line_bytes": [
+        10,
+        20
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#1513",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0310.SBX.jsonl",
+      "source": "付け焼刃にならぬとよいが……//我々は芝居に関しては、//素人だからな。",
+      "before": "벼락치기 수준이 아니어야 할 텐데…//연극에 관해서 우리는//초보니까．",
+      "after": "급히 배워서 될지 모르겠군…//우리는 연극에는//문외한이니까．",
+      "reason": "付け焼刃의 급히 익힌 솜씨라는 뜻을 살려 벼락치기 수준이라는 어색한 표현 정리.",
+      "encoded_bytes": 56,
+      "capacity": 62,
+      "line_bytes": [
+        24,
+        14,
+        14
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#1745",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0310.SBX.jsonl",
+      "source": "文化の良さというものは、//触れた瞬間にわかるものだ。",
+      "before": "문화의 훌륭함이라는 것은，//닿는 순간 알 수 있는 법이다．",
+      "after": "문화의 가치는，//직접 접하면 알 수 있는 법이다．",
+      "reason": "문화에 닿는다는 물리적 직역을 문맥에 맞는 접하다로 수정.",
+      "encoded_bytes": 42,
+      "capacity": 50,
+      "line_bytes": [
+        14,
+        26
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0310.SBX#2288",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0310.SBX.jsonl",
+      "source": "そして……それを//なつかしいと思う私がいる……//とてもすばらしいです。",
+      "before": "그리고…그걸//그립다고 느끼는 제가 있어요…//정말 멋진 일이에요．",
+      "after": "그리고…그게//그립게 느껴져요…//정말 멋진 일이에요．",
+      "reason": "그립다고 느끼는 제가 있다는 번역투를 하나비의 차분한 말투로 정리.",
+      "encoded_bytes": 50,
+      "capacity": 60,
+      "line_bytes": [
+        12,
+        16,
+        18
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0320.SBX#1882",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0320.SBX.jsonl",
+      "source": "はい、了解です∈//ドーンと//まかせちゃってください∈",
+      "before": "네，알겠습니다∈//확 맡겨 주세요∈",
+      "after": "네，알겠습니다∈//저만 믿으세요∈",
+      "reason": "팍 하고·확이라는 의성어 직역을 자신 있게 맡기라는 뜻으로 수정.",
+      "encoded_bytes": 32,
+      "capacity": 32,
+      "line_bytes": [
+        16,
+        14
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1287",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "ミカサを失った帝都は、//大量の蒸気を使えなくなり、//以前の便利さを失った……",
+      "before": "미카사를 잃은 제도는，//대량의 증기를 사용할 수 없게 되어，//이전의 편리함을 잃었다…",
+      "after": "미카사를 잃은 제도는，//증기를 충분히 쓰지 못해，//예전처럼 편리하지 않았다…",
+      "reason": "이전의 편리함을 잃었다는 명사 직역을 자연스러운 서술로 수정.",
+      "encoded_bytes": 70,
+      "capacity": 76,
+      "line_bytes": [
+        20,
+        22,
+        24
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1446",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "気合は十分だ∈//あとは、本番を待つのみ！//よし……いくぞ！",
+      "before": "기합은 충분해∈//남은 건，실전을 기다리는 것뿐∈//좋아…간다∈",
+      "after": "의욕은 넘쳐∈//이제 공연만 기다리면 돼∈//좋아…간다∈",
+      "reason": "공연을 앞둔 문맥의 本番을 전투 실전이 아닌 공연으로 수정.",
+      "encoded_bytes": 50,
+      "capacity": 58,
+      "line_bytes": [
+        12,
+        22,
+        12
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1476",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "あ、ああ……ありがとう。//なんだかすごく//悪い気がするけど……",
+      "before": "아，아아…고마워．//왠지 모르게 굉장히//죄책감이 드는데…",
+      "after": "아，아아…고마워．//왠지 정말//미안해지는데…",
+      "reason": "마지막 푸딩을 양보받는 장면. 죄책감이라는 과한 표현을 미안함으로 수정.",
+      "encoded_bytes": 44,
+      "capacity": 54,
+      "line_bytes": [
+        18,
+        8,
+        14
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1478",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "ええ……本当にすごいですね。//ニッポンのことわざで言えば……//下手の横好きですね！",
+      "before": "네…정말 대단하네요．//일본 속담으로 말하자면…//서툴면서 좋아하기만 하는 거네요∈",
+      "after": "네…정말 대단하네요．//일본 속담처럼…//솜씨는 없어도 열성은 있네요∈",
+      "reason": "일본 속담이라는 언급과 어설픈 칭찬의 농담은 살리고 뜻을 자연스럽게 전달.",
+      "encoded_bytes": 64,
+      "capacity": 76,
+      "line_bytes": [
+        20,
+        14,
+        26
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#1643",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "そういう時は……胸を張り、//堂々と人々の喝采に//応えるのだ。",
+      "before": "그럴 때는…가슴을 펴고，//당당하게 사람들의 갈채에//답하는 거다．",
+      "after": "그럴 때는…가슴을 펴고，//사람들의 환호에//당당히 화답하는 거다．",
+      "reason": "갈채에 답한다는 직역을 자연스러운 한국어로 정리.",
+      "encoded_bytes": 60,
+      "capacity": 60,
+      "line_bytes": [
+        22,
+        14,
+        20
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2080",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
+      "source": "そういうもんか……//なんか、わかった気がする。",
+      "before": "그런 건가…//왠지，알 것 같은 기분이 들어．",
+      "after": "그런 건가…//왠지，알 것 같아．",
+      "reason": "알 것 같은 기분이 든다는 중복 표현 정리.",
+      "encoded_bytes": 28,
+      "capacity": 38,
+      "line_bytes": [
+        10,
+        16
+      ],
+      "max_fullwidth_lines": 2
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0510.SBX#1381",
+      "path": "assets/translation/segments/ADVDATA/SCRIPT/S0510.SBX.jsonl",
+      "source": "「急いてはことをしそんじる」",
+      "before": "「서두르면 일을 그르치는 법이야」",
+      "after": "「급할수록 돌아가라」",
+      "reason": "카야마 격언을 묻는 퀴즈 선택지도 본편과 일치.",
+      "encoded_bytes": 20,
+      "capacity": 30,
+      "line_bytes": [
+        20
+      ],
+      "max_fullwidth_lines": 1
+    },
+    {
+      "id": "MINIGAME/JT15KAYA.SBN#0007",
+      "path": "assets/translation/segments/MINIGAME/JT15KAYA.SBN.jsonl",
+      "source": "古人曰く……//「勝って兜の緒を締めよ！」//まだまだ俺には勝てんな、大神！",
+      "before": "옛말에 이르기를…//「이겼을 때 투구끈을 고쳐 매라∈」//아직 나를 이기긴 멀었군，오오가미∈",
+      "after": "옛말에…//「이겼어도 방심하지 마라∈」//아직 날 이기긴 멀었군，오오가미∈",
+      "reason": "투구끈 속담을 승리 뒤에도 방심하지 말라는 뜻으로 현지화.",
+      "encoded_bytes": 68,
+      "capacity": 82,
+      "line_bytes": [
+        8,
+        26,
+        30
+      ],
+      "max_fullwidth_lines": 3
+    },
+    {
+      "id": "SLG/G04/E/EV04015.SBN#0024",
+      "path": "assets/translation/segments/SLG/G04/E/EV04015.SBN.jsonl",
+      "source": "どうした、隊長。//なにを考える必要がある？",
+      "before": "왜 그래，대장．//무엇을 생각할 필요가 있지？",
+      "after": "왜 그러나，대장．//뭘 그리 망설이나？",
+      "reason": "동료를 남기고 갈지 고민하는 장면의 결단 촉구. 글리신의 단호한 말투 유지.",
+      "encoded_bytes": 34,
+      "capacity": 40,
+      "line_bytes": [
+        16,
+        16
+      ],
+      "max_fullwidth_lines": 2
+    }
+  ],
+  "runtime_verified": false,
+  "scope": "추출 문안의 속담·관용구·직역투 후보 대조. 전 대사 수동 검수 완료를 의미하지 않음."
+}

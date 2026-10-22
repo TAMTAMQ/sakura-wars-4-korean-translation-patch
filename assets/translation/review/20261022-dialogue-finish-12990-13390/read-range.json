@@ -1,0 +1,13 @@
+{
+  "list": "work/qa/dialogue/single-review.json",
+  "start_inclusive": 12990,
+  "end_exclusive": 13390,
+  "method": "원문·현재 번역 직접 독해",
+  "edits": {
+    "13372": [
+      "꽃꽂이를 하느라//다리가 저린 글리신 씨…//하나비 씨가 말한 해결법은？",
+      "정좌 후 저린 상태를 근육 경련인 쥐와 구분."
+    ]
+  },
+  "exceptions": {}
+}

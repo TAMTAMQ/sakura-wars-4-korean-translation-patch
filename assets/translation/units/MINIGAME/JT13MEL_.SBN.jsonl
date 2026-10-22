@@ -1,0 +1,9 @@
+{"id": "dialogue:180d4d435f650c89", "source": "では、はじめましょう", "text": "그럼，시작하겠습니다", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0002"}]}
+{"id": "dialogue:155fa97abd513fcb", "source": "この試合では、//私のパイが//ボーナスパイになっていますよ。", "text": "이 시합에서는，//제 패가//보너스 패가 되어 있어요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0003"}, {"id": "MINIGAME/JT18KASU.SBN#0003"}]}
+{"id": "dialogue:ce902cf73add7751", "source": "今回のお題はこちらです。//この中の、どれか１組を//そろえてください。", "text": "이번 주제는 이것입니다．//이 중에서，어느 한 세트를//맞춰 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0004"}]}
+{"id": "dialogue:d876295db3bc11a4", "source": "では……//わたしが親ですね。", "text": "그럼…//제가 딜러네요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0005"}]}
+{"id": "dialogue:ab7c12ee0cee4c22", "source": "お次は、//大神さんが親ですよ。", "text": "다음은，//오오가미 씨가 딜러예요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0006"}]}
+{"id": "dialogue:05cd0a6534d92d94", "source": "すみません、//勝たせていただきましたよ。", "text": "죄송해요，//제가 이겼네요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0007"}]}
+{"id": "dialogue:13296768305ccc56", "source": "あ～ぁ、負けちゃった。", "text": "아～，져 버렸네．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0008"}]}
+{"id": "dialogue:f001d1d60bd8abaa", "source": "さすがに、お強いですね。", "text": "역시，강하시군요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0009"}]}
+{"id": "dialogue:2f244e25dccc539f", "source": "おつかれさまでした、大神さん。//もう一度、いかがですか？", "text": "수고하셨습니다，오오가미 씨．//한 번 더，어떠신가요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT13MEL_.SBN#0010"}]}

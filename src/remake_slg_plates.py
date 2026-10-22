@@ -23,6 +23,7 @@ SS = 4                 # 슈퍼샘플링 배율
 PLATE_ALPHA = 136 / 255
 TEXT_GRAY = 238
 SHADOW_ALPHA = 0.85
+LAYOUT_AUDIT = []
 
 
 def load_font(cfg, px):
@@ -40,36 +41,45 @@ def glyph_px(height):
 
 
 def place(ink, starts, W, cuts, align, x_off):
-    """글자 잉크 구간(ink: 글자 원점 기준 [l, r])을 조각 경계(cuts)를 넘지 않게 배치한다.
-    경계에 걸린 글자는 다음 조각 시작으로 민다. 넘치면 None."""
-    def run(x0):
-        out, shift = [], 0.0
-        for (l, r), s in zip(ink, starts):
-            x = x0 + s + shift
-            for c in cuts:
-                if x + l < c < x + r:
-                    shift += c - (x + l) + SS
-                    x = x0 + s + shift
-            out.append(x)
-        end = max(x + r for x, (l, r) in zip(out, ink)) if out else x0
-        return out, end
-    lo = x_off * SS + 2 * SS
-    pos, end = run(lo)
-    if end > W - 2 * SS:
+    """자간을 유지한 채 문자열 전체를 옮겨 조각 경계를 피한다.
+
+    글자 하나만 다음 조각으로 밀면 「시카 미」처럼 단어 안에 틈이 생긴다.
+    모든 글자의 공통 원점이 될 수 있는 구간을 구하고, 안 맞으면 호출자가
+    문자열 전체를 같은 비율로 축소한다. 개별 글자 이동은 허용하지 않는다.
+    """
+    spans = [(s + l, s + r) for (l, r), s in zip(ink, starts) if r > l]
+    if not spans:
+        return [x_off * SS + s for s in starts]
+    left = min(l for l, _ in spans)
+    right = max(r for _, r in spans)
+    lo, hi = x_off * SS + 2 * SS - left, W - 2 * SS - right
+    if hi < lo:
         return None
-    if align == 'center':
-        for k in range(40):  # 가운데로 옮겨 보되 경계 때문에 넘치면 덜 옮긴다
-            off = (W - (end - lo)) / 2 - lo
-            p2, e2 = run(lo + off * (1 - k / 40))
-            if e2 <= W - 2 * SS:
-                return p2
-    return pos
+    intervals = [(lo, hi)]
+    for c in cuts:
+        for l, r in spans:
+            forbidden_lo, forbidden_hi = c - r, c - l
+            remaining = []
+            for a, b in intervals:
+                if b <= forbidden_lo or a >= forbidden_hi:
+                    remaining.append((a, b))
+                else:
+                    if a <= forbidden_lo:
+                        remaining.append((a, forbidden_lo))
+                    if b >= forbidden_hi:
+                        remaining.append((forbidden_hi, b))
+            intervals = remaining
+            if not intervals:
+                return None
+    desired = (W - left - right) / 2 if align == 'center' else lo
+    x0 = min((min(max(desired, a), b) for a, b in intervals), key=lambda x: abs(x - desired))
+    return [x0 + s for s in starts]
 
 
-def render_mask(text, width, height, layout, track, x_off, font_cfg, cuts=()):
+def render_mask(text, width, height, layout, track, x_off, font_cfg, cuts=(), shadow_guard=3):
     """chain 전체 폭의 글자 마스크(0~1)를 만든다."""
     if cuts and layout != 'spaced':
-        return render_chain(text, width, height, layout, track, x_off, font_cfg, cuts)
+        return render_chain(text, width, height, layout, track, x_off, font_cfg, cuts, shadow_guard)
     W, H = width * SS, height * SS
     size = glyph_px(height) * SS
     font = load_font(font_cfg, size)
@@ -118,8 +128,8 @@ def render_mask(text, width, height, layout, track, x_off, font_cfg, cuts=()):
     return np.asarray(layer, dtype=np.float64) / 255
 
 
-def render_chain(text, width, height, layout, track, x_off, font_cfg, cuts):
-    """여러 조각으로 나뉘는 띠: 글자가 조각 경계를 가로지르지 않게 배치한다.
+def render_chain(text, width, height, layout, track, x_off, font_cfg, cuts, shadow_guard=3):
+    """여러 조각으로 나뉘는 띠: 자간을 유지하면서 글자가 조각 경계를 피하게 한다.
     (경계에 걸린 글자는 두 조각에 나뉘어 들어가, 게임이 조각을 따로 그리는 화면에서
     남은 획이 그림자처럼 보였다.)"""
     W, H = width * SS, height * SS
@@ -131,27 +141,44 @@ def render_chain(text, width, height, layout, track, x_off, font_cfg, cuts):
     top = (H - (box[3] - box[1])) / 2 - box[1] - SS
     chars = list(text)
     cuts = [c * SS for c in cuts]
-    for k in range(51):
+    # 폰트의 가상 전각 칸이 아닌 실제 획의 경계를 사용한다. 특히 그림자가
+    # 없는 검은 이름 상자에 그림자 3px을 예약하면 필요 이상으로 좁아진다.
+    glyphs, bounds = {}, {}
+    for c in set(chars) - {' '}:
+        gw = int(np.ceil(font.getlength(c))) + 2 * SS
+        g = Image.new('L', (gw, H), 0)
+        ImageDraw.Draw(g).text((0, top), c, font=font, fill=255)
+        cols = np.where(np.asarray(g).max(0) > 0)[0]
+        if not len(cols):
+            raise ValueError(f'글리프 없음: {c!r}')
+        glyphs[c] = g
+        bounds[c] = (int(cols[0]), int(cols[-1]) + 1)
+    for k in range(76):
         s = 1 - k * 0.01
         starts, x, ink = [], 0.0, []
         for c in chars:
-            b = font.getbbox(c) if c != ' ' else (0, 0, 0, 0)
+            b = bounds[c] if c != ' ' else (0, 0)
             starts.append(x)
-            ink.append((b[0] * s, b[2] * s + 3 * SS))  # 오른쪽 아래 그림자 몫 3px
+            ink.append((b[0] * s, b[1] * s + shadow_guard * SS) if c != ' ' else (0, 0))
             x += (font.getlength(c) + track * SS) * s
         pos = place(ink, starts, W, cuts, layout, x_off)
         if pos is not None:
             break
     else:
-        print('  경계 맞춤 실패(기존 배치 사용):', text, width, cuts)
-        return render_mask(text, width, height, layout, track, x_off, font_cfg)
+        raise ValueError(f'자간 유지·경계 맞춤 실패: {text!r}, 폭={width}, 경계={cuts}')
+    LAYOUT_AUDIT.append({'text': text, 'width': width, 'height': height,
+                         'cuts': [c / SS for c in cuts], 'horizontal_scale': round(s, 2),
+                         'shadow_guard': shadow_guard,
+                         'positions': [round(x / SS, 4) for x in pos],
+                         'natural_starts': [round(x / SS, 4) for x in starts],
+                         'artificial_gap': max((abs((pos[i] - pos[i - 1]) - (starts[i] - starts[i - 1]))
+                                                for i in range(1, len(pos))), default=0) / SS})
     layer = Image.new('L', (W, H), 0)
     for c, x in zip(chars, pos):
         if c == ' ':
             continue
-        gw = int(np.ceil(font.getlength(c))) + 2 * SS
-        g = Image.new('L', (gw, H), 0)
-        ImageDraw.Draw(g).text((0, top), c, font=font, fill=255)
+        g = glyphs[c]
+        gw = g.width
         g = g.resize((max(1, round(gw * s)), H), Image.LANCZOS)
         layer.paste(g, (int(round(x)), 0), g)
     layer = layer.resize((width, height), Image.BOX)
@@ -176,6 +203,7 @@ def compose(mask, style):
 
 
 def main():
+    LAYOUT_AUDIT.clear()
     cfg = json.loads(CONFIG.read_text(encoding='utf-8'))
     index = json.loads((ROOT / 'assets/extracted/images/index.json').read_text(encoding='utf-8'))
     tex = {(t['source'], t['block'], t['texture']): t for t in index['textures']}
@@ -220,8 +248,11 @@ def main():
                 acc += r[3] - r[1]
                 if acc < used:
                     cuts.append(acc)
+            audit_start = len(LAYOUT_AUDIT)
             mask = render_mask(text, used, h, chain['layout'], chain.get('track', 0), chain.get('x', 0), cfg['font'],
-                               cuts) if text else np.zeros((h, used))
+                               cuts, shadow_guard=0 if chain['style'] == 'box' else 3) if text else np.zeros((h, used))
+            for row in LAYOUT_AUDIT[audit_start:]:
+                row.update(source=blk['source'], block=blk['block'], field=chain['key'])
             mask = np.pad(mask, ((0, 0), (0, width - used)))
             rgba = compose(mask, chain['style'])
             off = 0
@@ -237,6 +268,8 @@ def main():
                             'original': meta['original_png'], 'patched': meta['png'],
                             'remake': out.relative_to(ROOT).as_posix()})
     (OUT / 'index.json').write_text(json.dumps(results, ensure_ascii=False, indent=1), encoding='utf-8')
+    (ROOT / 'research/slg-layout-audit.json').write_text(
+        json.dumps(LAYOUT_AUDIT, ensure_ascii=False, indent=2), encoding='utf-8')
     print('재제작', len(results))
 
 

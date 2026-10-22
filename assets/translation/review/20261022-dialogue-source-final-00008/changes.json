@@ -1,0 +1,1880 @@
+[
+  {
+    "unit": "dialogue:41b3d4a5d5cba270",
+    "source": "ニ階へ",
+    "before": {
+      "id": "dialogue:41b3d4a5d5cba270",
+      "source": "２液衛或",
+      "text": "２층으로",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0002",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0004",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0004"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "8d84803b629095db802e22a203131763ec9b2d81cbcf9669f9685eeb618e34fd",
+          "text": "２층행",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:41b3d4a5d5cba270",
+      "source": "ニ階へ",
+      "text": "２층으로",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0002",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0004",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0004"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0004"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "8d84803b629095db802e22a203131763ec9b2d81cbcf9669f9685eeb618e34fd",
+          "text": "２층행",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:9a9d23a7555e571f",
+    "source": "一階へ",
+    "before": {
+      "id": "dialogue:9a9d23a7555e571f",
+      "source": "１液衛或",
+      "text": "１층으로",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0005",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0006",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0006"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4675f9d6b748e3da1d34efa719839ef5686440ff569e076fc6f3577a7193df0f",
+          "text": "１층행",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:9a9d23a7555e571f",
+      "source": "一階へ",
+      "text": "１층으로",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0005",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0006",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0006"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0005"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0006"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4675f9d6b748e3da1d34efa719839ef5686440ff569e076fc6f3577a7193df0f",
+          "text": "１층행",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:3acb410b0a11bd3a",
+    "source": "織姫くん",
+    "before": {
+      "id": "dialogue:3acb410b0a11bd3a",
+      "source": "迂斡厭梓亜駅",
+      "text": "오리히메",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0015"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "71637e037bd68b153670c37cff7ecd7467a69dba5f56e648e88dfd9693db85ef",
+          "text": "오리히메 군",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:3acb410b0a11bd3a",
+      "source": "織姫くん",
+      "text": "오리히메",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0015"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0015",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0015"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "71637e037bd68b153670c37cff7ecd7467a69dba5f56e648e88dfd9693db85ef",
+          "text": "오리히메 군",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:cd47644684bd23d0",
+    "source": "◆Ｒ２ＭＡＰ：時間切れ発生！",
+    "before": {
+      "id": "dialogue:cd47644684bd23d0",
+      "source": "◆Ｒ２ＭＡＰ：磯意栄延亜怨位！",
+      "text": "◆Ｒ２ＭＡＰ：시간 초과 발생∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0025",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0025"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "69aab433c645fcd2f4545b5c57ece8e275b50d74998dc63def421bc7cd3c166f",
+          "text": "◆Ｒ２ＭＡＰ：시간초과 발생∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:cd47644684bd23d0",
+      "source": "◆Ｒ２ＭＡＰ：時間切れ発生！",
+      "text": "◆Ｒ２ＭＡＰ：시간 초과 발생∈",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0025",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0025"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0025"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "69aab433c645fcd2f4545b5c57ece8e275b50d74998dc63def421bc7cd3c166f",
+          "text": "◆Ｒ２ＭＡＰ：시간초과 발생∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:0d8c4315176c1ab4",
+    "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。",
+    "before": {
+      "id": "dialogue:0d8c4315176c1ab4",
+      "source": "◆穐愛：ＭＶＣＬＩＣＫ葦亜－１安亜掩援沿綾．",
+      "text": "◆에러：ＭＶＣＬＩＣＫ이－１을 반환했습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0027"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0027",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0027",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0027",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b75c4b2f0de3867ddddf85e3106fd6dc6cba8ad0fe7cd82b43fc414a94e3a374",
+          "text": "◆에러：ＭＶＣＬＩＣＫ이－１을 반환했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b75c4b2f0de3867ddddf85e3106fd6dc6cba8ad0fe7cd82b43fc414a94e3a374",
+          "text": "◆오류：ＭＶＣＬＩＣＫ이－１을 반환했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:0d8c4315176c1ab4",
+      "source": "◆エラー：ＭＶＣＬＩＣＫが−１を返した。",
+      "text": "◆에러：ＭＶＣＬＩＣＫ이－１을 반환했습니다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0027"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0027",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0027",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0027",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0027",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b75c4b2f0de3867ddddf85e3106fd6dc6cba8ad0fe7cd82b43fc414a94e3a374",
+          "text": "◆에러：ＭＶＣＬＩＣＫ이－１을 반환했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "b75c4b2f0de3867ddddf85e3106fd6dc6cba8ad0fe7cd82b43fc414a94e3a374",
+          "text": "◆오류：ＭＶＣＬＩＣＫ이－１을 반환했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:ba7b5f2e26015509",
+    "source": "◆メイン脱出します",
+    "before": {
+      "id": "dialogue:ba7b5f2e26015509",
+      "source": "◆梓亥亜焔伊謂絢綾",
+      "text": "◆메인 탈출합니다",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0030"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0457ca6dc25d7ec48293e882c9fcdb2d9604624b2f138e6118044a1d28fcc3fd",
+          "text": "◆메인에서 나갑니다",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:ba7b5f2e26015509",
+      "source": "◆メイン脱出します",
+      "text": "◆메인 탈출합니다",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0030",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0030"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0457ca6dc25d7ec48293e882c9fcdb2d9604624b2f138e6118044a1d28fcc3fd",
+          "text": "◆메인에서 나갑니다",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:4fcbff65adfe8569",
+    "source": "◆ＥＶ：時間切れ発生！",
+    "before": {
+      "id": "dialogue:4fcbff65adfe8569",
+      "source": "◆ＥＶ：磯意栄延亜怨位！",
+      "text": "◆ＥＶ：시간초과 발생∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0033",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "984bb215f5625ddd4ca9966fcd8754f0134cf3d207abcb8f407a624111ccf76b",
+          "text": "◆ＥＶ：시간 초과 발생∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:4fcbff65adfe8569",
+      "source": "◆ＥＶ：時間切れ発生！",
+      "text": "◆ＥＶ：시간초과 발생∈",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0033"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0033",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0033",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "984bb215f5625ddd4ca9966fcd8754f0134cf3d207abcb8f407a624111ccf76b",
+          "text": "◆ＥＶ：시간 초과 발생∈",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:7e3189e9b10aea10",
+    "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。",
+    "before": {
+      "id": "dialogue:7e3189e9b10aea10",
+      "source": "衣遠綾穐粟亜鉛鴛亜「園胤塩於」．//汚亜甥凹挨亜央亜域亜暗吋．",
+      "text": "요네다가 맡긴 신도멸각．//이검이도를 구성하는 한 자루．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0081",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0081",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 신도멸각．//이검이도를 이루는//네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 「신도멸각」．이검이도를 이루는 네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:7e3189e9b10aea10",
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。",
+      "text": "요네다가 맡긴 신도멸각．//이검이도를 구성하는 한 자루．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0081",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0081",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 신도멸각．//이검이도를 이루는//네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 「신도멸각」．이검이도를 이루는 네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:92f3128a4d98ae35",
+    "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。",
+    "before": {
+      "id": "dialogue:92f3128a4d98ae35",
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜移移億屋挨亜襖甥．//渦憶渥臆曳亜桶牡乙営姐亜欧鵜亜域．",
+      "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0084",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0084",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0084"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중이다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속 수수께끼의 남자．//제국화격단 월조 조사 중．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:92f3128a4d98ae35",
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。",
+      "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0084",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0084",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0084"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중이다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속 수수께끼의 남자．//제국화격단 월조 조사 중．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:e2eadcb79c0e9610",
+    "source": "光武二式の//足元についていた謎の金粉。",
+    "before": {
+      "id": "dialogue:e2eadcb79c0e9610",
+      "source": "越杏亜葦仮挨//怨何穐亜伽淫芦鴬亜移移億屋挨亜価姐凹．",
+      "text": "광무 ２식의//발밑에 붙어 있던 수수께끼의 금가루．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0088"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4270c66ccaf0e6c3d61a16dc24ea12cea4f6ab362e6498bf0da95f619a4c3ffc",
+          "text": "광무 ２식의//발에 묻은 의문의 금가루．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:e2eadcb79c0e9610",
+      "source": "光武二式の//足元についていた謎の金粉。",
+      "text": "광무 ２식의//발밑에 붙어 있던 수수께끼의 금가루．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0088"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4270c66ccaf0e6c3d61a16dc24ea12cea4f6ab362e6498bf0da95f619a4c3ffc",
+          "text": "광무 ２식의//발에 묻은 의문의 금가루．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:d024cabf61a2d875",
+    "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。",
+    "before": {
+      "id": "dialogue:d024cabf61a2d875",
+      "source": "扱押烏穐粟亜鉛鴛//「鴎亜佳加」亜可茜．//以嘉鴛亜「夏扱鵜員」．",
+      "text": "카야마에게 받은//「노 관람」티켓．//작품은 「타카사고」．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0089"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e2a8b15626d2eb7abfd552016469af66dab2758037db99fa5728f4ded573eda9",
+          "text": "카야마에게 받은//「노 공연 관람」티켓．작품은 「타카사고」．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:d024cabf61a2d875",
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。",
+      "text": "카야마에게 받은//「노 관람」티켓．//작품은 「타카사고」．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0089"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e2a8b15626d2eb7abfd552016469af66dab2758037db99fa5728f4ded573eda9",
+          "text": "카야마에게 받은//「노 공연 관람」티켓．작품은 「타카사고」．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:6022df1fd5cc364e",
+    "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。",
+    "before": {
+      "id": "dialogue:6022df1fd5cc364e",
+      "source": "鵜嘘唄挨亜嫁或烏葦宛．//家寡葦亜科暇斡鯵亜姐果易//綾握暗粟亜営葵架員亜芦綾．",
+      "text": "사쿠라의 브로마이드．//벚꽃이 흩날리는 가운데//다정하게 미소 짓고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0090",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0090"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "671dfab5b01373de6d5afa477dc19d74ebc6154cf2c65fc39d19027018b4c537",
+          "breaks": [
+            23
+          ],
+          "reason": "기존 사용처의 줄바꿈만 보존. 대표 문안 수정 시 배치 재검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:6022df1fd5cc364e",
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。",
+      "text": "사쿠라의 브로마이드．//벚꽃이 흩날리는 가운데//다정하게 미소 짓고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0090",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0090"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "671dfab5b01373de6d5afa477dc19d74ebc6154cf2c65fc39d19027018b4c537",
+          "breaks": [
+            23
+          ],
+          "reason": "기존 사용처의 줄바꿈만 보존. 대표 문안 수정 시 배치 재검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:47ee23aa393f2b7b",
+    "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。",
+    "before": {
+      "id": "dialogue:47ee23aa393f2b7b",
+      "source": "稲営悦挨亜嫁或烏葦宛．//渦宴寡亜寡綾怨安亜歌員//佳疫挨亜餌陰穐亜河暗員亜芦綾．",
+      "text": "스미레의 브로마이드．//제비꽃 꽃다발을 안고//관객의 성원에 답하고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0091",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0091",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0091"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "602b435bad0edefddfec05ca29de54dbc1d774c5069dafde159095032ac98658",
+          "text": "스미레의 브로마이드．//제비꽃 꽃다발을 안고//관객의 환호에 답하고 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:47ee23aa393f2b7b",
+      "source": "すみれのブロマイド。//すみれの花束をかかえ//観客の声援に応えている。",
+      "text": "스미레의 브로마이드．//제비꽃 꽃다발을 안고//관객의 성원에 답하고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0091"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0091",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0091",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0091"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "602b435bad0edefddfec05ca29de54dbc1d774c5069dafde159095032ac98658",
+          "text": "스미레의 브로마이드．//제비꽃 꽃다발을 안고//관객의 환호에 답하고 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f3f170dc8eba545b",
+    "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。",
+    "before": {
+      "id": "dialogue:f3f170dc8eba545b",
+      "source": "謁吋挨亜嫁或烏葦宛．//暗葦宴稲花稲亜寡綾怨安亜淫苛穐亜梓員//案茄暗粟亜唖荷為亜華暗員亜芦綾．",
+      "text": "칸나의 브로마이드．//하이비스커스 꽃다발을 어깨에 메고//당당하게 포즈를 취하고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0093",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0093"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0c4e7d74b143e3708f5f53492a9adf06c47a1484e33c30d361d7486e2591033d",
+          "text": "칸나의 브로마이드．하이비스커스 꽃다발을 어깨에 메고 당당하게 포즈를 취하고 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f3f170dc8eba545b",
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。",
+      "text": "칸나의 브로마이드．//하이비스커스 꽃다발을 어깨에 메고//당당하게 포즈를 취하고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0093",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0093"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0c4e7d74b143e3708f5f53492a9adf06c47a1484e33c30d361d7486e2591033d",
+          "text": "칸나의 브로마이드．하이비스커스 꽃다발을 어깨에 메고 당당하게 포즈를 취하고 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:feb19cd681888e0d",
+    "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。",
+    "before": {
+      "id": "dialogue:feb19cd681888e0d",
+      "source": "迂斡厭梓挨亜嫁或烏葦宛．//逢営亜闇亜過葦為亜育穐亜霞員//渥胃暗粟亜蚊員為亜荻員亜芦綾．",
+      "text": "오리히메의 브로마이드．//장미 한 송이를 입에 물고//화려하게 탱고를 추고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0096",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0096"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "740d3516e53448cf00e87e88b07b3a2630b1879e8e3eee193bfc9b4d08e94093",
+          "text": "오리히메의 브로마이드．//장미 한 송이를 물고//화려하게 탱고를 춘다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:feb19cd681888e0d",
+      "source": "織姫のブロマイド。//薔薇を一輪口にくわえ、//華麗にタンゴを踊る。",
+      "text": "오리히메의 브로마이드．//장미 한 송이를 입에 물고//화려하게 탱고를 추고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0096",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0096"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0096"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "740d3516e53448cf00e87e88b07b3a2630b1879e8e3eee193bfc9b4d08e94093",
+          "text": "오리히메의 브로마이드．//장미 한 송이를 물고//화려하게 탱고를 춘다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:5ecff895c9d63244",
+    "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。",
+    "before": {
+      "id": "dialogue:5ecff895c9d63244",
+      "source": "或奄斡慰挨亜嫁或烏葦宛．//鞍鋭会安亜烏磯員//壱緯葦亜解慰回亜芦綾．",
+      "text": "로벨리아의 브로마이드．//사케를 마시고//기분이 한껏 좋아져 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0101",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0101",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본 술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5ecff895c9d63244",
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。",
+      "text": "로벨리아의 브로마이드．//사케를 마시고//기분이 한껏 좋아져 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0101",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0101",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본 술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:5f7b356e82910aba",
+    "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。",
+    "before": {
+      "id": "dialogue:5f7b356e82910aba",
+      "source": "越閲榎葦亜悔改亜渦因闇亜魁鮎案亜牡遠烏娃晦．//壱械安亜応甥亜移園衛或一亜海灰瑛//葵横亜蛾界渥沿綾．",
+      "text": "홍란이 특별 제작한 휴대용//키네마트론．기능을 문자 수신으로만 한정해 소형・경량화했다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0105"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6ca1df0cd117e624c0f31117fe6dfd6d5538385e491ae94f24e65a8d5c162826",
+          "text": "홍란 특제 휴대용 키네마트론．//기능을 문자 수신으로만 한정해，//소형・경량화했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5f7b356e82910aba",
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。",
+      "text": "홍란이 특별 제작한 휴대용//키네마트론．기능을 문자 수신으로만 한정해 소형・경량화했다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0105"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6ca1df0cd117e624c0f31117fe6dfd6d5538385e491ae94f24e65a8d5c162826",
+          "text": "홍란 특제 휴대용 키네마트론．//기능을 문자 수신으로만 한정해，//소형・경량화했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f79e38bc4b058c6e",
+    "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。",
+    "before": {
+      "id": "dialogue:f79e38bc4b058c6e",
+      "source": "迂迂姐営姐亜一飲淫亜鉛鴛亜皆逸惟．//絵鮎為亜鋭芥亜一飲蟹宇一//開或階穐亜歌亜閏亥綾．",
+      "text": "오오가미가 만들어 받은 사탕 공예．//늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0106",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0106",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0106"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 받은 사탕 세공．늑대를 본떠 만들었지만，//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 달라 한 사탕 공예．늑대를 본떴지만，//개로밖에 안 보인다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미를 위해 만들어 준 사탕 공예．늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f79e38bc4b058c6e",
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。",
+      "text": "오오가미가 만들어 받은 사탕 공예．//늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0106",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0106",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0106"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 받은 사탕 세공．늑대를 본떠 만들었지만，//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 달라 한 사탕 공예．늑대를 본떴지만，//개로밖에 안 보인다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미를 위해 만들어 준 사탕 공예．늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  }
+]

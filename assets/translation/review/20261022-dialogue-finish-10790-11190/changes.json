@@ -1,0 +1,83 @@
+[
+  {
+    "unit": "dialogue:27e41c0224dddff5",
+    "source": "俺も一緒にお願いしていいかな？",
+    "before": {
+      "id": "dialogue:27e41c0224dddff5",
+      "source": "俺も一緒にお願いしていいかな？",
+      "text": "나도 같이 부탁해도 될까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0908"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:27e41c0224dddff5",
+      "source": "俺も一緒にお願いしていいかな？",
+      "text": "나도 함께 빌어도 될까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0908"
+        }
+      ]
+    },
+    "reason": "종이학에 소원을 비는 장면이므로 부탁과 구분."
+  },
+  {
+    "unit": "dialogue:a2213c63c92cb8bf",
+    "source": "俺も一緒にお願いしていいかな？//みんなが無事に//帰ってこられるように……",
+    "before": {
+      "id": "dialogue:a2213c63c92cb8bf",
+      "source": "俺も一緒にお願いしていいかな？//みんなが無事に//帰ってこられるように……",
+      "text": "나도 같이 부탁해도 될까？//모두가 무사히//돌아올 수 있도록…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0923"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a2213c63c92cb8bf",
+      "source": "俺も一緒にお願いしていいかな？//みんなが無事に//帰ってこられるように……",
+      "text": "나도 함께 빌어도 될까？//모두가 무사히//돌아올 수 있도록…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0923"
+        }
+      ]
+    },
+    "reason": "선택지와 확장 대사의 소원 표현 통일."
+  },
+  {
+    "unit": "dialogue:a083aad92bd74c7d",
+    "source": "アイリス……//部屋にいるかな？",
+    "before": {
+      "id": "dialogue:a083aad92bd74c7d",
+      "source": "アイリス……//部屋にいるかな？",
+      "text": "아이리스…//방에 있어？",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1149"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a083aad92bd74c7d",
+      "source": "アイリス……//部屋にいるかな？",
+      "text": "아이리스…//방에 있나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1149"
+        }
+      ]
+    },
+    "reason": "방문 전 혼잣말을 상대에게 묻는 문장과 구분."
+  }
+]

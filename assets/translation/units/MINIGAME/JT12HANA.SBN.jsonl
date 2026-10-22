@@ -1,0 +1,11 @@
+{"id": "dialogue:2f956e4c4a05cf3d", "source": "この試合では、//私のパイが//ボーナスパイです……ぽっ。", "text": "이번 시합에선，//제 패가//보너스 패예요…발그레", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0003"}]}
+{"id": "dialogue:a3dd0c824608aeef", "source": "今回のお題はこちらです。//この中の、どれか１組を//そろえていただけますか？", "text": "이번 주제는 이것입니다．//이 중에서，어느 한 세트를//맞춰 주시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0004"}]}
+{"id": "dialogue:10543c10753ad7d7", "source": "あの……//私が親のようです……", "text": "저기…//제가 딜러인 것 같아요…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0005"}]}
+{"id": "dialogue:beef0691bf39e183", "source": "次は……//大神さんが親ですね。", "text": "다음은…//오오가미 씨가 딜러예요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0006"}]}
+{"id": "dialogue:61425b76501bc6c0", "source": "私の勝ち……ですか〓//殿方に、恥を//かかせてしまうなんて……", "text": "제가 이긴 건가요〓//남성분께 망신을//주고 말다니…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0007"}, {"id": "MINIGAME/JT12HANA.SBN#0015"}]}
+{"id": "dialogue:c7a5bace9bebf879", "source": "楽しんでいただけたようで、//私も、うれしいです。//……ぽっ。", "text": "즐거워하신 것 같아，//저도 기뻐요．//…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0008"}, {"id": "MINIGAME/JT12HANA.SBN#0016"}]}
+{"id": "dialogue:648042596dc5284b", "source": "大神さんと同じですね……//……ぽっ。", "text": "오오가미 씨와 같네요…//…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0009"}, {"id": "MINIGAME/JT12HANA.SBN#0017"}]}
+{"id": "dialogue:299bc3fdc9374b0f", "source": "次の相手は//かなり、強敵でよ。//応援していますね……", "text": "다음 상대는//상당한 강적이에요．//응원하고 있을게요…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0010"}]}
+{"id": "dialogue:dec899717c560577", "source": "今度も、がんばりますから、//もう一度……//お相手願えませんか？", "text": "이번에도 열심히 할 테니，//다시 한 번…//상대해 주시겠어요？", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0012"}]}
+{"id": "dialogue:9f629f0f2aaf7f8d", "source": "ありがとうございます。//私……幸せです。//……ぽっ。", "text": "감사합니다．//저…행복해요．//…（발그레）", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0013"}]}
+{"id": "dialogue:dd9c339e89983c9f", "source": "そうですか……//では、いつまでも//お待ちしておりますから……", "text": "그렇습니까…//그럼，언제까지고//기다리고 있을 테니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT12HANA.SBN#0014"}]}

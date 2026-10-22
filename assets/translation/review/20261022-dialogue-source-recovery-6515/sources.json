@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0109",
+    "before": {
+      "source": "暗慰……迂確鴛亜鴎亜惟以胤亜閏員//円斡園堰胤亜迂員//握撹亜葦拡畏拡亜鞍葦亜我泳遠……"
+    },
+    "after": {
+      "source": "はぁ……今日は能を見たり、//グリシーヌが来たり、//本当にいろいろあったなぁ……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 109
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0110",
+    "before": {
+      "source": "円斡園堰敢亜環壱暗員亜甘宇一……//歌亜蔭姻綾……迂確鴛亜葦一亜甥甥．//漢……咽鞍亜暗宇……"
+    },
+    "after": {
+      "source": "グリシーヌと話がしたいけど……//ダメだ……今日はもう寝よう。//また……明日だな……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 110
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0111",
+    "before": {
+      "source": "暗慰……迂確鴛亜鴎亜惟以胤亜閏員//越瓜斡越胤亜迂員//握撹亜葦拡畏拡亜鞍葦亜我泳遠……"
+    },
+    "after": {
+      "source": "はぁ……今日は能を見たり、//コクリコが来たり、//本当にいろいろあったなぁ……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 111
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0112",
+    "before": {
+      "source": "越瓜斡越敢亜環壱暗員亜甘宇一……//歌亜蔭姻綾……迂確鴛亜葦一亜甥甥．//漢……咽鞍亜暗宇……"
+    },
+    "after": {
+      "source": "コクリコと話がしたいけど……//ダメだ……今日はもう寝よう。//また……明日だな……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 112
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0113",
+    "before": {
+      "source": "暗慰……迂確鴛亜鴎亜惟以胤亜閏員//或奄斡慰胤亜迂員//握撹亜葦拡畏拡亜鞍葦亜我泳遠……"
+    },
+    "after": {
+      "source": "はぁ……今日は能を見たり、//ロベリアが来たり、//本当にいろいろあったなぁ……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 113
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0114",
+    "before": {
+      "source": "或奄斡慰敢亜環壱暗員亜甘宇一……//歌亜蔭姻綾……迂確鴛亜葦一亜甥甥．//漢……咽鞍亜暗宇……"
+    },
+    "after": {
+      "source": "ロベリアと話がしたいけど……//ダメだ……今日はもう寝よう。//また……明日だな……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 114
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0115",
+    "before": {
+      "source": "暗慰……迂確鴛亜鴎亜惟以胤亜閏員//暗吋宴亜駅胤亜迂員//握撹亜葦拡畏拡亜鞍葦亜我泳遠……"
+    },
+    "after": {
+      "source": "はぁ……今日は能を見たり、//花火くんが来たり、//本当にいろいろあったなぁ……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 115
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0116",
+    "before": {
+      "source": "暗吋宴亜駅葦敢亜環壱暗員亜甘宇一……//歌亜蔭姻綾……迂確鴛亜葦一亜甥甥．//漢……咽鞍亜暗宇……"
+    },
+    "after": {
+      "source": "花火くんと話がしたいけど……//ダメだ……今日はもう寝よう。//また……明日だな……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 116
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0117",
+    "before": {
+      "source": "暗慰……迂確鴛亜鴎亜惟以胤亜閏員//穐斡扱亜駅胤亜迂員//握撹亜葦拡畏拡亜鞍葦亜我泳遠……"
+    },
+    "after": {
+      "source": "はぁ……今日は能を見たり、//エリカくんが来たり、//本当にいろいろあったなぁ……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 117
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0118",
+    "before": {
+      "source": "穐斡扱亜駅葦敢亜環壱暗員亜甘宇一……//歌亜蔭姻綾……迂確鴛亜葦一亜甥甥．//漢……咽鞍亜暗宇……"
+    },
+    "after": {
+      "source": "エリカくんと話がしたいけど……//ダメだ……今日はもう寝よう。//また……明日だな……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 118
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0120",
+    "before": {
+      "source": "厩瓦謂絢綾，亜迂迂姐営亜涯．//宇価亜噂云衛逸衣？"
+    },
+    "after": {
+      "source": "すみません、大神さん。//よろしいですか？"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 120
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0121",
+    "before": {
+      "source": "遠，亜遠〓//扱稲営亜駅……？//慰……宇価亜監粟．"
+    },
+    "after": {
+      "source": "は、はい〓//かすみくん……？//ああ……今、行くよ。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 121
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0122",
+    "before": {
+      "source": "迂迂姐営亜涯，//芋斡渥臆曳挨亜円敢烏亜涯闇鞄瑛//革園葦亜鰻亜芦淫衣．"
+    },
+    "after": {
+      "source": "大神さん、//巴里華撃団のグラン・マさんから//通信が入って来ていますよ。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 122
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0123",
+    "before": {
+      "source": "看堰鰻赫穐瑛亜革園葦〓//握撹亥姐衣？"
+    },
+    "after": {
+      "source": "シャノワールから通信〓//本当ですか？"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 123
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0124",
+    "before": {
+      "source": "遠，亜握撹葦穐衣．//因院宇咳厩挨亜鮎横亜牡遠烏娃晦衛或//鉛慰亜溢逸衣．"
+    },
+    "after": {
+      "source": "ええ、本当です。//作戦指令室の大型キネマトロンで//受信してくださいね。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 124
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0125",
+    "before": {
+      "source": "越閲榎亜涯姐亜渦胤亜夏介挨//歌鞄吋為亜葦案叡瑛亜芋斡鰻//革園異亜移亜芦粟亜劃淫衣．"
+    },
+    "after": {
+      "source": "紅蘭さんが、帝都タワーの//アンテナを利用して、巴里と//通信できるようになったんです。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 125
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0126",
+    "before": {
+      "source": "竿磯亜越閲榎葦遠．//因院宇咳厩葦宇．//嘩或亜監粟！"
+    },
+    "after": {
+      "source": "さすが、紅蘭だな。//作戦指令室だね。//すぐに行くよ！"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 126
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0129",
+    "before": {
+      "source": "円敢烏闇鞄瑛亜廓亜革園亥姐……//鮎横亜牡遠烏娃晦亜稲梶蔚鯵//葦韻駅．"
+    },
+    "after": {
+      "source": "グラン・マからの通信か……//大型キネマトロンのスイッチは//これだな。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 129
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0130",
+    "before": {
+      "source": "葦拡，亜煙管．//簡亜宇咽鯵亜潅亜温駅．"
+    },
+    "after": {
+      "source": "おや、ムッシュ。//元気そうじゃないか。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 130
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0131",
+    "before": {
+      "source": "宇緩亥缶，亜迂翰一葦穐衣．//芋斡鯵亜下渥或果姐衣？"
+    },
+    "after": {
+      "source": "支配人、お久しぶりです。//巴里は平和ですか？"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 131
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0132",
+    "before": {
+      "source": "慰，亜殻握亜歌亜叡胤亜獲．//肝亜鵜干胤亜怪厭亜虻員亜撹葦押．"
+    },
+    "after": {
+      "source": "ああ、心配いらないよ。//大きな事件も特にないしね。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 132
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0133",
+    "before": {
+      "source": "円拡易亜撹葦宇……悦葦恰闇鞄//＂下渥或果姐衣？＂唄絢亜虻歓慰．//格亜艦亜莞稲芦粟亜撹叡観．"
+    },
+    "after": {
+      "source": "でもさ……レディに対して、//平和ですか？　はないだろう。//もっと気の利いたことを言いな。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 133
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0134",
+    "before": {
+      "source": "慰，亜諌過叡衣．//宇緩亥缶……"
+    },
+    "after": {
+      "source": "あ、すみません。//支配人……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 134
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0135",
+    "before": {
+      "source": "威院厭亜慰樺綾閲磯遠衣．"
+    },
+    "after": {
+      "source": "あいかわらず、お美しいですね。"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 135
+  },
+  {
+    "id": "ADVDATA/SCRIPT/S0220.SBX#0136",
+    "before": {
+      "source": "禾葦亜格亜貫園亜潅亜温鴛易……"
+    },
+    "after": {
+      "source": "少し太ったのでは……"
+    },
+    "reference": "research/legacy/original_txt/ADVDATA/SCRIPT/S0220.txt",
+    "reference_sha256": "e61cd38b0f439e0a9fa725157af4e13abfe3f3fc9c945145fd2a53f365fa88bf",
+    "table_index": 136
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "unit": "dialogue:6274a89c522d00d9",
+    "source": "そうかい……？//なにかあったら相談してくれよ。",
+    "before": {
+      "id": "dialogue:6274a89c522d00d9",
+      "source": "そうかい……？//なにかあったら相談してくれよ。",
+      "text": "그래…？//무슨 일이 생기면 상담해 줘．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1241"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6274a89c522d00d9",
+      "source": "そうかい……？//なにかあったら相談してくれよ。",
+      "text": "그래…？//무슨 일 있으면 내게 말해 줘．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1241"
+        }
+      ]
+    },
+    "reason": "相談してくれ는 상대에게 상담을 제공해 달라는 뜻이 아닌 자신에게 고민을 털어놓으라는 뜻"
+  },
+  {
+    "unit": "dialogue:7bd9d61556dc5377",
+    "source": "そ、それは……つまり……//世間で言うところの……",
+    "before": {
+      "id": "dialogue:7bd9d61556dc5377",
+      "source": "そ、それは……つまり……//世間で言うところの……",
+      "text": "그，그건…그러니까…//세상에서 말하는 소위…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1312"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7bd9d61556dc5377",
+      "source": "そ、それは……つまり……//世間で言うところの……",
+      "text": "그，그건…그러니까…//흔히 말하는 그…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1312"
+        }
+      ]
+    },
+    "reason": "世間で言うところの의 부자연스러운 세상에서 말하는 소위 중복 직역 교정"
+  },
+  {
+    "unit": "dialogue:61041596d602c739",
+    "source": "ボクの帝劇での//初主演だったから……//その……記念に。",
+    "before": {
+      "id": "dialogue:61041596d602c739",
+      "source": "ボクの帝劇での//初主演だったから……//その……記念に。",
+      "text": "내가 제국극장에서//첫 주연이었으니까…//그…기념으로．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1459"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:61041596d602c739",
+      "source": "ボクの帝劇での//初主演だったから……//その……記念に。",
+      "text": "제국극장에서//첫 주연을 맡은 작품이라…//그…기념으로．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1459"
+        }
+      ]
+    },
+    "reason": "첫 주연 작품이었음을 명시하여 내가 첫 주연이라는 어색한 서술 교정"
+  },
+  {
+    "unit": "dialogue:554480ae9c77ebde",
+    "source": "何も着ないのがいいと思うよ。//マリアが言うんだから、//一番正しいはずだよ。",
+    "before": {
+      "id": "dialogue:554480ae9c77ebde",
+      "source": "何も着ないのがいいと思うよ。//マリアが言うんだから、//一番正しいはずだよ。",
+      "text": "아무것도 안 입고 자는 게 좋을 것 같아．마리아가 하는 말이니까，//가장 틀림없을 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1514"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:554480ae9c77ebde",
+      "source": "何も着ないのがいいと思うよ。//マリアが言うんだから、//一番正しいはずだよ。",
+      "text": "아무것도 안 입고 자는 게 좋겠어．//마리아가 하는 말이니까，//제일 확실하겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1514"
+        }
+      ]
+    },
+    "reason": "가장 틀림없다는 부자연스러운 최상급 결합 교정"
+  },
+  {
+    "unit": "dialogue:7dc70b0bdcf104d0",
+    "source": "ああ、いいぜ。//立ち話もなんだし……//部屋に入ってくれよ。",
+    "before": {
+      "id": "dialogue:7dc70b0bdcf104d0",
+      "source": "ああ、いいぜ。//立ち話もなんだし……//部屋に入ってくれよ。",
+      "text": "아아，좋아．//서서 이야기할 것도 없으니…//방으로 들어와．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1619"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1624"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7dc70b0bdcf104d0",
+      "source": "ああ、いいぜ。//立ち話もなんだし……//部屋に入ってくれよ。",
+      "text": "아아，좋아．//서서 얘기하기도 그러니…//방으로 들어와．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1619"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1624"
+        }
+      ]
+    },
+    "reason": "立ち話もなんだし는 서서 이야기할 것이 없다는 뜻이 아닌 방에 들어가서 이야기하자는 권유"
+  },
+  {
+    "unit": "dialogue:ed9ffeae411102f2",
+    "source": "はぁ……一応。//米田支配人に//まかされたんですけど……",
+    "before": {
+      "id": "dialogue:ed9ffeae411102f2",
+      "source": "はぁ……一応。//米田支配人に//まかされたんですけど……",
+      "text": "하아…일단은요．//요네다 지배인님께//맡게 됐습니다만…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1823"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ed9ffeae411102f2",
+      "source": "はぁ……一応。//米田支配人に//まかされたんですけど……",
+      "text": "하아…일단은요．//요네다 지배인님이//맡기셨습니다만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1823"
+        }
+      ]
+    },
+    "reason": "지배인에게 자신을 맡겼다는 수여·사역 관계 교정"
+  }
+]

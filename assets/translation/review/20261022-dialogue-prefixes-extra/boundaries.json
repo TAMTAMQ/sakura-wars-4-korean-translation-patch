@@ -1,0 +1,3148 @@
+[
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0008",
+    "unit": "dialogue:ade9ca247a976219",
+    "before": {
+      "offset": 18565,
+      "capacity": 8,
+      "raw_hex": "f0a4f0dbf2aa81b8",
+      "baseline_text": "지신명∈",
+      "source": "地神明！"
+    },
+    "after": {
+      "offset": 18563,
+      "capacity": 10,
+      "raw_hex": "f3eaf0a4f0dbf2aa81b8",
+      "baseline_text": "천지신명∈",
+      "source": "天地神明！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天地神明！",
+    "original_text_start": 18563,
+    "original_table_off_b": 18565
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2040",
+    "unit": "dialogue:ade9ca247a976219",
+    "before": {
+      "offset": 310697,
+      "capacity": 8,
+      "raw_hex": "f0a4f0dbf2aa81b8",
+      "baseline_text": "지신명∈",
+      "source": "地神明！"
+    },
+    "after": {
+      "offset": 310695,
+      "capacity": 10,
+      "raw_hex": "f3eaf0a4f0dbf2aa81b8",
+      "baseline_text": "천지신명∈",
+      "source": "天地神明！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天地神明！",
+    "original_text_start": 310695,
+    "original_table_off_b": 310697
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1755",
+    "unit": "dialogue:ade9ca247a976219",
+    "before": {
+      "offset": 276812,
+      "capacity": 8,
+      "raw_hex": "f0a4f0dbf2aa81b8",
+      "baseline_text": "지신명∈",
+      "source": "地神明！"
+    },
+    "after": {
+      "offset": 276810,
+      "capacity": 10,
+      "raw_hex": "f3eaf0a4f0dbf2aa81b8",
+      "baseline_text": "천지신명∈",
+      "source": "天地神明！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天地神明！",
+    "original_text_start": 276810,
+    "original_table_off_b": 276812
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1332",
+    "unit": "dialogue:ade9ca247a976219",
+    "before": {
+      "offset": 204822,
+      "capacity": 8,
+      "raw_hex": "f0a4f0dbf2aa81b8",
+      "baseline_text": "지신명∈",
+      "source": "地神明！"
+    },
+    "after": {
+      "offset": 204820,
+      "capacity": 10,
+      "raw_hex": "f3eaf0a4f0dbf2aa81b8",
+      "baseline_text": "천지신명∈",
+      "source": "天地神明！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天地神明！",
+    "original_text_start": 204820,
+    "original_table_off_b": 204822
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0010",
+    "unit": "dialogue:73cc65d0b6ad05a0",
+    "before": {
+      "offset": 18693,
+      "capacity": 8,
+      "raw_hex": "f3eaf0ebf0a481b8",
+      "baseline_text": "천동지∈",
+      "source": "天動地！"
+    },
+    "after": {
+      "offset": 18691,
+      "capacity": 10,
+      "raw_hex": "f151f3eaf0ebf0a481b8",
+      "baseline_text": "진천동지∈",
+      "source": "震天動地！"
+    },
+    "prefix_hex": "f151",
+    "original_japanese": "震天動地！",
+    "original_text_start": 18691,
+    "original_table_off_b": 18693
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2042",
+    "unit": "dialogue:73cc65d0b6ad05a0",
+    "before": {
+      "offset": 310825,
+      "capacity": 8,
+      "raw_hex": "f3eaf0ebf0a481b8",
+      "baseline_text": "천동지∈",
+      "source": "天動地！"
+    },
+    "after": {
+      "offset": 310823,
+      "capacity": 10,
+      "raw_hex": "f151f3eaf0ebf0a481b8",
+      "baseline_text": "진천동지∈",
+      "source": "震天動地！"
+    },
+    "prefix_hex": "f151",
+    "original_japanese": "震天動地！",
+    "original_text_start": 310823,
+    "original_table_off_b": 310825
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1757",
+    "unit": "dialogue:73cc65d0b6ad05a0",
+    "before": {
+      "offset": 276940,
+      "capacity": 8,
+      "raw_hex": "f3eaf0ebf0a481b8",
+      "baseline_text": "천동지∈",
+      "source": "天動地！"
+    },
+    "after": {
+      "offset": 276938,
+      "capacity": 10,
+      "raw_hex": "f151f3eaf0ebf0a481b8",
+      "baseline_text": "진천동지∈",
+      "source": "震天動地！"
+    },
+    "prefix_hex": "f151",
+    "original_japanese": "震天動地！",
+    "original_text_start": 276938,
+    "original_table_off_b": 276940
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1334",
+    "unit": "dialogue:73cc65d0b6ad05a0",
+    "before": {
+      "offset": 204950,
+      "capacity": 8,
+      "raw_hex": "f3eaf0ebf0a481b8",
+      "baseline_text": "천동지∈",
+      "source": "天動地！"
+    },
+    "after": {
+      "offset": 204948,
+      "capacity": 10,
+      "raw_hex": "f151f3eaf0ebf0a481b8",
+      "baseline_text": "진천동지∈",
+      "source": "震天動地！"
+    },
+    "prefix_hex": "f151",
+    "original_japanese": "震天動地！",
+    "original_text_start": 204948,
+    "original_table_off_b": 204950
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0013",
+    "unit": "dialogue:226d349d641e4314",
+    "before": {
+      "offset": 18822,
+      "capacity": 6,
+      "raw_hex": "f0b8f0cf81b8",
+      "baseline_text": "니다∈",
+      "source": "きます！"
+    },
+    "after": {
+      "offset": 18820,
+      "capacity": 8,
+      "raw_hex": "f1def0b8f0cf81b8",
+      "baseline_text": "갑니다∈",
+      "source": "いきます！"
+    },
+    "prefix_hex": "f1de",
+    "original_japanese": "いきます！",
+    "original_text_start": 18820,
+    "original_table_off_b": 18822
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2045",
+    "unit": "dialogue:226d349d641e4314",
+    "before": {
+      "offset": 310954,
+      "capacity": 6,
+      "raw_hex": "f0b8f0cf81b8",
+      "baseline_text": "니다∈",
+      "source": "きます！"
+    },
+    "after": {
+      "offset": 310952,
+      "capacity": 8,
+      "raw_hex": "f1def0b8f0cf81b8",
+      "baseline_text": "갑니다∈",
+      "source": "いきます！"
+    },
+    "prefix_hex": "f1de",
+    "original_japanese": "いきます！",
+    "original_text_start": 310952,
+    "original_table_off_b": 310954
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1760",
+    "unit": "dialogue:226d349d641e4314",
+    "before": {
+      "offset": 277069,
+      "capacity": 6,
+      "raw_hex": "f0b8f0cf81b8",
+      "baseline_text": "니다∈",
+      "source": "きます！"
+    },
+    "after": {
+      "offset": 277067,
+      "capacity": 8,
+      "raw_hex": "f1def0b8f0cf81b8",
+      "baseline_text": "갑니다∈",
+      "source": "いきます！"
+    },
+    "prefix_hex": "f1de",
+    "original_japanese": "いきます！",
+    "original_text_start": 277067,
+    "original_table_off_b": 277069
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1337",
+    "unit": "dialogue:226d349d641e4314",
+    "before": {
+      "offset": 205079,
+      "capacity": 6,
+      "raw_hex": "f0b8f0cf81b8",
+      "baseline_text": "니다∈",
+      "source": "きます！"
+    },
+    "after": {
+      "offset": 205077,
+      "capacity": 8,
+      "raw_hex": "f1def0b8f0cf81b8",
+      "baseline_text": "갑니다∈",
+      "source": "いきます！"
+    },
+    "prefix_hex": "f1de",
+    "original_japanese": "いきます！",
+    "original_text_start": 205077,
+    "original_table_off_b": 205079
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0015",
+    "unit": "dialogue:04581489148068ce",
+    "before": {
+      "offset": 18876,
+      "capacity": 8,
+      "raw_hex": "f0f4f345f16581b8",
+      "baseline_text": "도양단∈",
+      "source": "刀両断！"
+    },
+    "after": {
+      "offset": 18874,
+      "capacity": 10,
+      "raw_hex": "f1ccf0f4f345f16581b8",
+      "baseline_text": "일도양단∈",
+      "source": "一刀両断！"
+    },
+    "prefix_hex": "f1cc",
+    "original_japanese": "一刀両断！",
+    "original_text_start": 18874,
+    "original_table_off_b": 18876
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2047",
+    "unit": "dialogue:04581489148068ce",
+    "before": {
+      "offset": 311008,
+      "capacity": 8,
+      "raw_hex": "f0f4f345f16581b8",
+      "baseline_text": "도양단∈",
+      "source": "刀両断！"
+    },
+    "after": {
+      "offset": 311006,
+      "capacity": 10,
+      "raw_hex": "f1ccf0f4f345f16581b8",
+      "baseline_text": "일도양단∈",
+      "source": "一刀両断！"
+    },
+    "prefix_hex": "f1cc",
+    "original_japanese": "一刀両断！",
+    "original_text_start": 311006,
+    "original_table_off_b": 311008
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1762",
+    "unit": "dialogue:04581489148068ce",
+    "before": {
+      "offset": 277123,
+      "capacity": 8,
+      "raw_hex": "f0f4f345f16581b8",
+      "baseline_text": "도양단∈",
+      "source": "刀両断！"
+    },
+    "after": {
+      "offset": 277121,
+      "capacity": 10,
+      "raw_hex": "f1ccf0f4f345f16581b8",
+      "baseline_text": "일도양단∈",
+      "source": "一刀両断！"
+    },
+    "prefix_hex": "f1cc",
+    "original_japanese": "一刀両断！",
+    "original_text_start": 277121,
+    "original_table_off_b": 277123
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1339",
+    "unit": "dialogue:04581489148068ce",
+    "before": {
+      "offset": 205133,
+      "capacity": 8,
+      "raw_hex": "f0f4f345f16581b8",
+      "baseline_text": "도양단∈",
+      "source": "刀両断！"
+    },
+    "after": {
+      "offset": 205131,
+      "capacity": 10,
+      "raw_hex": "f1ccf0f4f345f16581b8",
+      "baseline_text": "일도양단∈",
+      "source": "一刀両断！"
+    },
+    "prefix_hex": "f1cc",
+    "original_japanese": "一刀両断！",
+    "original_text_start": 205131,
+    "original_table_off_b": 205133
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0035",
+    "unit": "dialogue:3d8911b1198fa2c5",
+    "before": {
+      "offset": 20361,
+      "capacity": 8,
+      "raw_hex": "f163f3eaf2d581b8",
+      "baseline_text": "화천승∈",
+      "source": "花天昇！"
+    },
+    "after": {
+      "offset": 20359,
+      "capacity": 10,
+      "raw_hex": "f442f163f3eaf2d581b8",
+      "baseline_text": "앵화천승∈",
+      "source": "桜花天昇！"
+    },
+    "prefix_hex": "f442",
+    "original_japanese": "桜花天昇！",
+    "original_text_start": 20359,
+    "original_table_off_b": 20361
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2067",
+    "unit": "dialogue:3d8911b1198fa2c5",
+    "before": {
+      "offset": 312493,
+      "capacity": 8,
+      "raw_hex": "f163f3eaf2d581b8",
+      "baseline_text": "화천승∈",
+      "source": "花天昇！"
+    },
+    "after": {
+      "offset": 312491,
+      "capacity": 10,
+      "raw_hex": "f442f163f3eaf2d581b8",
+      "baseline_text": "앵화천승∈",
+      "source": "桜花天昇！"
+    },
+    "prefix_hex": "f442",
+    "original_japanese": "桜花天昇！",
+    "original_text_start": 312491,
+    "original_table_off_b": 312493
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1782",
+    "unit": "dialogue:3d8911b1198fa2c5",
+    "before": {
+      "offset": 278608,
+      "capacity": 8,
+      "raw_hex": "f163f3eaf2d581b8",
+      "baseline_text": "화천승∈",
+      "source": "花天昇！"
+    },
+    "after": {
+      "offset": 278606,
+      "capacity": 10,
+      "raw_hex": "f442f163f3eaf2d581b8",
+      "baseline_text": "앵화천승∈",
+      "source": "桜花天昇！"
+    },
+    "prefix_hex": "f442",
+    "original_japanese": "桜花天昇！",
+    "original_text_start": 278606,
+    "original_table_off_b": 278608
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1359",
+    "unit": "dialogue:3d8911b1198fa2c5",
+    "before": {
+      "offset": 206618,
+      "capacity": 8,
+      "raw_hex": "f163f3eaf2d581b8",
+      "baseline_text": "화천승∈",
+      "source": "花天昇！"
+    },
+    "after": {
+      "offset": 206616,
+      "capacity": 10,
+      "raw_hex": "f442f163f3eaf2d581b8",
+      "baseline_text": "앵화천승∈",
+      "source": "桜花天昇！"
+    },
+    "prefix_hex": "f442",
+    "original_japanese": "桜花天昇！",
+    "original_text_start": 206616,
+    "original_table_off_b": 206618
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0038",
+    "unit": "dialogue:fdfad7c53b877b80",
+    "before": {
+      "offset": 20467,
+      "capacity": 4,
+      "raw_hex": "f0cf81b8",
+      "baseline_text": "다∈",
+      "source": "くわよ！"
+    },
+    "after": {
+      "offset": 20465,
+      "capacity": 6,
+      "raw_hex": "f0c1f0cf81b8",
+      "baseline_text": "간다∈",
+      "source": "いくわよ！"
+    },
+    "prefix_hex": "f0c1",
+    "original_japanese": "いくわよ！",
+    "original_text_start": 20465,
+    "original_table_off_b": 20467
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2070",
+    "unit": "dialogue:fdfad7c53b877b80",
+    "before": {
+      "offset": 312599,
+      "capacity": 4,
+      "raw_hex": "f0cf81b8",
+      "baseline_text": "다∈",
+      "source": "くわよ！"
+    },
+    "after": {
+      "offset": 312597,
+      "capacity": 6,
+      "raw_hex": "f0c1f0cf81b8",
+      "baseline_text": "간다∈",
+      "source": "いくわよ！"
+    },
+    "prefix_hex": "f0c1",
+    "original_japanese": "いくわよ！",
+    "original_text_start": 312597,
+    "original_table_off_b": 312599
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1785",
+    "unit": "dialogue:fdfad7c53b877b80",
+    "before": {
+      "offset": 278714,
+      "capacity": 4,
+      "raw_hex": "f0cf81b8",
+      "baseline_text": "다∈",
+      "source": "くわよ！"
+    },
+    "after": {
+      "offset": 278712,
+      "capacity": 6,
+      "raw_hex": "f0c1f0cf81b8",
+      "baseline_text": "간다∈",
+      "source": "いくわよ！"
+    },
+    "prefix_hex": "f0c1",
+    "original_japanese": "いくわよ！",
+    "original_text_start": 278712,
+    "original_table_off_b": 278714
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1362",
+    "unit": "dialogue:fdfad7c53b877b80",
+    "before": {
+      "offset": 206724,
+      "capacity": 6,
+      "raw_hex": "f0b8f0cf81b8",
+      "baseline_text": "니다∈",
+      "source": "くわよ！"
+    },
+    "after": {
+      "offset": 206722,
+      "capacity": 8,
+      "raw_hex": "f1def0b8f0cf81b8",
+      "baseline_text": "갑니다∈",
+      "source": "いくわよ！"
+    },
+    "prefix_hex": "f1de",
+    "original_japanese": "いくわよ！",
+    "original_text_start": 206722,
+    "original_table_off_b": 206724
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0799",
+    "unit": "dialogue:a03f7da7961cb7f5",
+    "before": {
+      "offset": 131559,
+      "capacity": 6,
+      "raw_hex": "81638bdb8144",
+      "baseline_text": "…넵．",
+      "source": "…了解。"
+    },
+    "after": {
+      "offset": 131557,
+      "capacity": 8,
+      "raw_hex": "816381638bdb8144",
+      "baseline_text": "……넵．",
+      "source": "……了解。"
+    },
+    "prefix_hex": "8163",
+    "original_japanese": "……了解。",
+    "original_text_start": 131557,
+    "original_table_off_b": 131559
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0913",
+    "unit": "dialogue:a03f7da7961cb7f5",
+    "before": {
+      "offset": 158606,
+      "capacity": 6,
+      "raw_hex": "81638bdb8144",
+      "baseline_text": "…넵．",
+      "source": "…了解。"
+    },
+    "after": {
+      "offset": 158604,
+      "capacity": 8,
+      "raw_hex": "816381638bdb8144",
+      "baseline_text": "……넵．",
+      "source": "……了解。"
+    },
+    "prefix_hex": "8163",
+    "original_japanese": "……了解。",
+    "original_text_start": 158604,
+    "original_table_off_b": 158606
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#0827",
+    "unit": "dialogue:42304a3040449c21",
+    "before": {
+      "offset": 134829,
+      "capacity": 4,
+      "raw_hex": "f29381b8",
+      "baseline_text": "부∈",
+      "source": "負です！"
+    },
+    "after": {
+      "offset": 134827,
+      "capacity": 6,
+      "raw_hex": "f2d5f29381b8",
+      "baseline_text": "승부∈",
+      "source": "勝負です！"
+    },
+    "prefix_hex": "f2d5",
+    "original_japanese": "勝負です！",
+    "original_text_start": 134827,
+    "original_table_off_b": 134829
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#1769",
+    "unit": "dialogue:42304a3040449c21",
+    "before": {
+      "offset": 286097,
+      "capacity": 4,
+      "raw_hex": "f29381b8",
+      "baseline_text": "부∈",
+      "source": "負です！"
+    },
+    "after": {
+      "offset": 286095,
+      "capacity": 6,
+      "raw_hex": "f2d5f29381b8",
+      "baseline_text": "승부∈",
+      "source": "勝負です！"
+    },
+    "prefix_hex": "f2d5",
+    "original_japanese": "勝負です！",
+    "original_text_start": 286095,
+    "original_table_off_b": 286097
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1485",
+    "unit": "dialogue:42304a3040449c21",
+    "before": {
+      "offset": 257048,
+      "capacity": 8,
+      "raw_hex": "f293f26bf0ef81b8",
+      "baseline_text": "부예요∈",
+      "source": "負です！"
+    },
+    "after": {
+      "offset": 257046,
+      "capacity": 10,
+      "raw_hex": "f2d5f293f26bf0ef81b8",
+      "baseline_text": "승부예요∈",
+      "source": "勝負です！"
+    },
+    "prefix_hex": "f2d5",
+    "original_japanese": "勝負です！",
+    "original_text_start": 257046,
+    "original_table_off_b": 257048
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1062",
+    "unit": "dialogue:42304a3040449c21",
+    "before": {
+      "offset": 185058,
+      "capacity": 4,
+      "raw_hex": "f29381b8",
+      "baseline_text": "부∈",
+      "source": "負です！"
+    },
+    "after": {
+      "offset": 185056,
+      "capacity": 6,
+      "raw_hex": "f2d5f29381b8",
+      "baseline_text": "승부∈",
+      "source": "勝負です！"
+    },
+    "prefix_hex": "f2d5",
+    "original_japanese": "勝負です！",
+    "original_text_start": 185056,
+    "original_table_off_b": 185058
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1149",
+    "unit": "dialogue:873b3df4986e52d3",
+    "before": {
+      "offset": 163319,
+      "capacity": 8,
+      "raw_hex": "f0edf8e1f15d81b8",
+      "baseline_text": "작의 춤∈",
+      "source": "雀の舞！"
+    },
+    "after": {
+      "offset": 163317,
+      "capacity": 10,
+      "raw_hex": "f1edf0edf8e1f15d81b8",
+      "baseline_text": "공작의 춤∈",
+      "source": "孔雀の舞！"
+    },
+    "prefix_hex": "f1ed",
+    "original_japanese": "孔雀の舞！",
+    "original_text_start": 163317,
+    "original_table_off_b": 163319
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2092",
+    "unit": "dialogue:873b3df4986e52d3",
+    "before": {
+      "offset": 314334,
+      "capacity": 8,
+      "raw_hex": "f0edf8e1f15d81b8",
+      "baseline_text": "작의 춤∈",
+      "source": "雀の舞！"
+    },
+    "after": {
+      "offset": 314332,
+      "capacity": 10,
+      "raw_hex": "f1edf0edf8e1f15d81b8",
+      "baseline_text": "공작의 춤∈",
+      "source": "孔雀の舞！"
+    },
+    "prefix_hex": "f1ed",
+    "original_japanese": "孔雀の舞！",
+    "original_text_start": 314332,
+    "original_table_off_b": 314334
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1807",
+    "unit": "dialogue:873b3df4986e52d3",
+    "before": {
+      "offset": 280449,
+      "capacity": 8,
+      "raw_hex": "f0edf8e1f15d81b8",
+      "baseline_text": "작의 춤∈",
+      "source": "雀の舞！"
+    },
+    "after": {
+      "offset": 280447,
+      "capacity": 10,
+      "raw_hex": "f1edf0edf8e1f15d81b8",
+      "baseline_text": "공작의 춤∈",
+      "source": "孔雀の舞！"
+    },
+    "prefix_hex": "f1ed",
+    "original_japanese": "孔雀の舞！",
+    "original_text_start": 280447,
+    "original_table_off_b": 280449
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1384",
+    "unit": "dialogue:873b3df4986e52d3",
+    "before": {
+      "offset": 208459,
+      "capacity": 8,
+      "raw_hex": "f0edf8e1f15d81b8",
+      "baseline_text": "작의 춤∈",
+      "source": "雀の舞！"
+    },
+    "after": {
+      "offset": 208457,
+      "capacity": 10,
+      "raw_hex": "f1edf0edf8e1f15d81b8",
+      "baseline_text": "공작의 춤∈",
+      "source": "孔雀の舞！"
+    },
+    "prefix_hex": "f1ed",
+    "original_japanese": "孔雀の舞！",
+    "original_text_start": 208457,
+    "original_table_off_b": 208459
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1154",
+    "unit": "dialogue:e5de31420dd5f5e8",
+    "before": {
+      "offset": 163455,
+      "capacity": 4,
+      "raw_hex": "8e8781b8",
+      "baseline_text": "샷∈",
+      "source": "ョット！"
+    },
+    "after": {
+      "offset": 163453,
+      "capacity": 6,
+      "raw_hex": "83568e8781b8",
+      "baseline_text": "シ샷∈",
+      "source": "ショット！"
+    },
+    "prefix_hex": "8356",
+    "original_japanese": "ショット！",
+    "original_text_start": 163453,
+    "original_table_off_b": 163455
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2097",
+    "unit": "dialogue:e5de31420dd5f5e8",
+    "before": {
+      "offset": 314470,
+      "capacity": 4,
+      "raw_hex": "8e8781b8",
+      "baseline_text": "샷∈",
+      "source": "ョット！"
+    },
+    "after": {
+      "offset": 314468,
+      "capacity": 6,
+      "raw_hex": "83568e8781b8",
+      "baseline_text": "シ샷∈",
+      "source": "ショット！"
+    },
+    "prefix_hex": "8356",
+    "original_japanese": "ショット！",
+    "original_text_start": 314468,
+    "original_table_off_b": 314470
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1812",
+    "unit": "dialogue:e5de31420dd5f5e8",
+    "before": {
+      "offset": 280585,
+      "capacity": 4,
+      "raw_hex": "8e8781b8",
+      "baseline_text": "샷∈",
+      "source": "ョット！"
+    },
+    "after": {
+      "offset": 280583,
+      "capacity": 6,
+      "raw_hex": "83568e8781b8",
+      "baseline_text": "シ샷∈",
+      "source": "ショット！"
+    },
+    "prefix_hex": "8356",
+    "original_japanese": "ショット！",
+    "original_text_start": 280583,
+    "original_table_off_b": 280585
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1389",
+    "unit": "dialogue:e5de31420dd5f5e8",
+    "before": {
+      "offset": 208595,
+      "capacity": 4,
+      "raw_hex": "8eab81b8",
+      "baseline_text": "욧∈",
+      "source": "ョット！"
+    },
+    "after": {
+      "offset": 208593,
+      "capacity": 6,
+      "raw_hex": "83568eab81b8",
+      "baseline_text": "シ욧∈",
+      "source": "ショット！"
+    },
+    "prefix_hex": "8356",
+    "original_japanese": "ショット！",
+    "original_text_start": 208593,
+    "original_table_off_b": 208595
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1200",
+    "unit": "dialogue:91f727f20c9035be",
+    "before": {
+      "offset": 166676,
+      "capacity": 6,
+      "raw_hex": "816088a881b8",
+      "baseline_text": "～라∈",
+      "source": "～れっ！"
+    },
+    "after": {
+      "offset": 166674,
+      "capacity": 8,
+      "raw_hex": "82bb816088a881b8",
+      "baseline_text": "そ～라∈",
+      "source": "そ～れっ！"
+    },
+    "prefix_hex": "82bb",
+    "original_japanese": "そ～れっ！",
+    "original_text_start": 166674,
+    "original_table_off_b": 166676
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2143",
+    "unit": "dialogue:91f727f20c9035be",
+    "before": {
+      "offset": 317691,
+      "capacity": 4,
+      "raw_hex": "816081b8",
+      "baseline_text": "～∈",
+      "source": "～れっ！"
+    },
+    "after": {
+      "offset": 317689,
+      "capacity": 6,
+      "raw_hex": "f0fa816081b8",
+      "baseline_text": "자～∈",
+      "source": "そ～れっ！"
+    },
+    "prefix_hex": "f0fa",
+    "original_japanese": "そ～れっ！",
+    "original_text_start": 317689,
+    "original_table_off_b": 317691
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1858",
+    "unit": "dialogue:91f727f20c9035be",
+    "before": {
+      "offset": 283806,
+      "capacity": 6,
+      "raw_hex": "81608ab381b8",
+      "baseline_text": "～앗∈",
+      "source": "～れっ！"
+    },
+    "after": {
+      "offset": 283804,
+      "capacity": 8,
+      "raw_hex": "82bb81608ab381b8",
+      "baseline_text": "そ～앗∈",
+      "source": "そ～れっ！"
+    },
+    "prefix_hex": "82bb",
+    "original_japanese": "そ～れっ！",
+    "original_text_start": 283804,
+    "original_table_off_b": 283806
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1435",
+    "unit": "dialogue:91f727f20c9035be",
+    "before": {
+      "offset": 211816,
+      "capacity": 4,
+      "raw_hex": "816081b8",
+      "baseline_text": "～∈",
+      "source": "～れっ！"
+    },
+    "after": {
+      "offset": 211814,
+      "capacity": 6,
+      "raw_hex": "f0fa816081b8",
+      "baseline_text": "자～∈",
+      "source": "そ～れっ！"
+    },
+    "prefix_hex": "f0fa",
+    "original_japanese": "そ～れっ！",
+    "original_text_start": 211814,
+    "original_table_off_b": 211816
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1205",
+    "unit": "dialogue:8a2db7b87c98e78f",
+    "before": {
+      "offset": 166853,
+      "capacity": 6,
+      "raw_hex": "88b5816081b8",
+      "baseline_text": "오～∈",
+      "source": "お～っ！"
+    },
+    "after": {
+      "offset": 166851,
+      "capacity": 8,
+      "raw_hex": "82aa88b5816081b8",
+      "baseline_text": "が오～∈",
+      "source": "がお～っ！"
+    },
+    "prefix_hex": "82aa",
+    "original_japanese": "がお～っ！",
+    "original_text_start": 166851,
+    "original_table_off_b": 166853
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2148",
+    "unit": "dialogue:8a2db7b87c98e78f",
+    "before": {
+      "offset": 317868,
+      "capacity": 6,
+      "raw_hex": "88b5816081b8",
+      "baseline_text": "오～∈",
+      "source": "お～っ！"
+    },
+    "after": {
+      "offset": 317866,
+      "capacity": 8,
+      "raw_hex": "82aa88b5816081b8",
+      "baseline_text": "が오～∈",
+      "source": "がお～っ！"
+    },
+    "prefix_hex": "82aa",
+    "original_japanese": "がお～っ！",
+    "original_text_start": 317866,
+    "original_table_off_b": 317868
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1863",
+    "unit": "dialogue:8a2db7b87c98e78f",
+    "before": {
+      "offset": 283983,
+      "capacity": 6,
+      "raw_hex": "88b5816081b8",
+      "baseline_text": "오～∈",
+      "source": "お～っ！"
+    },
+    "after": {
+      "offset": 283981,
+      "capacity": 8,
+      "raw_hex": "82aa88b5816081b8",
+      "baseline_text": "が오～∈",
+      "source": "がお～っ！"
+    },
+    "prefix_hex": "82aa",
+    "original_japanese": "がお～っ！",
+    "original_text_start": 283981,
+    "original_table_off_b": 283983
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1440",
+    "unit": "dialogue:8a2db7b87c98e78f",
+    "before": {
+      "offset": 211993,
+      "capacity": 6,
+      "raw_hex": "88b5816081b8",
+      "baseline_text": "오～∈",
+      "source": "お～っ！"
+    },
+    "after": {
+      "offset": 211991,
+      "capacity": 8,
+      "raw_hex": "82aa88b5816081b8",
+      "baseline_text": "が오～∈",
+      "source": "がお～っ！"
+    },
+    "prefix_hex": "82aa",
+    "original_japanese": "がお～っ！",
+    "original_text_start": 211991,
+    "original_table_off_b": 211993
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1208",
+    "unit": "dialogue:3aca6991a3d9e6a3",
+    "before": {
+      "offset": 166997,
+      "capacity": 6,
+      "raw_hex": "f0aff3d081b8",
+      "baseline_text": "아앙∈",
+      "source": "え～ん！"
+    },
+    "after": {
+      "offset": 166995,
+      "capacity": 8,
+      "raw_hex": "f0a2f0aff3d081b8",
+      "baseline_text": "으아앙∈",
+      "source": "うえ～ん！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "うえ～ん！",
+    "original_text_start": 166995,
+    "original_table_off_b": 166997
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2151",
+    "unit": "dialogue:3aca6991a3d9e6a3",
+    "before": {
+      "offset": 318012,
+      "capacity": 6,
+      "raw_hex": "f0aff3d081b8",
+      "baseline_text": "아앙∈",
+      "source": "え～ん！"
+    },
+    "after": {
+      "offset": 318010,
+      "capacity": 8,
+      "raw_hex": "f0a2f0aff3d081b8",
+      "baseline_text": "으아앙∈",
+      "source": "うえ～ん！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "うえ～ん！",
+    "original_text_start": 318010,
+    "original_table_off_b": 318012
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1866",
+    "unit": "dialogue:3aca6991a3d9e6a3",
+    "before": {
+      "offset": 284127,
+      "capacity": 4,
+      "raw_hex": "f3d081b8",
+      "baseline_text": "앙∈",
+      "source": "え～ん！"
+    },
+    "after": {
+      "offset": 284125,
+      "capacity": 6,
+      "raw_hex": "f0a2f3d081b8",
+      "baseline_text": "으앙∈",
+      "source": "うえ～ん！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "うえ～ん！",
+    "original_text_start": 284125,
+    "original_table_off_b": 284127
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1443",
+    "unit": "dialogue:3aca6991a3d9e6a3",
+    "before": {
+      "offset": 212137,
+      "capacity": 4,
+      "raw_hex": "f3d081b8",
+      "baseline_text": "앙∈",
+      "source": "え～ん！"
+    },
+    "after": {
+      "offset": 212135,
+      "capacity": 6,
+      "raw_hex": "f0a2f3d081b8",
+      "baseline_text": "으앙∈",
+      "source": "うえ～ん！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "うえ～ん！",
+    "original_text_start": 212135,
+    "original_table_off_b": 212137
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1287",
+    "unit": "dialogue:c8cd994cc0c4e08e",
+    "before": {
+      "offset": 172531,
+      "capacity": 4,
+      "raw_hex": "f64581b8",
+      "baseline_text": "윽∈",
+      "source": "ううっ！"
+    },
+    "after": {
+      "offset": 172529,
+      "capacity": 6,
+      "raw_hex": "f0a2f64581b8",
+      "baseline_text": "으윽∈",
+      "source": "ぐううっ！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぐううっ！",
+    "original_text_start": 172529,
+    "original_table_off_b": 172531
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2230",
+    "unit": "dialogue:c8cd994cc0c4e08e",
+    "before": {
+      "offset": 323546,
+      "capacity": 4,
+      "raw_hex": "f64581b8",
+      "baseline_text": "윽∈",
+      "source": "ううっ！"
+    },
+    "after": {
+      "offset": 323544,
+      "capacity": 6,
+      "raw_hex": "f0a2f64581b8",
+      "baseline_text": "으윽∈",
+      "source": "ぐううっ！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぐううっ！",
+    "original_text_start": 323544,
+    "original_table_off_b": 323546
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1945",
+    "unit": "dialogue:c8cd994cc0c4e08e",
+    "before": {
+      "offset": 289661,
+      "capacity": 4,
+      "raw_hex": "f64581b8",
+      "baseline_text": "윽∈",
+      "source": "ううっ！"
+    },
+    "after": {
+      "offset": 289659,
+      "capacity": 6,
+      "raw_hex": "f0a2f64581b8",
+      "baseline_text": "으윽∈",
+      "source": "ぐううっ！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぐううっ！",
+    "original_text_start": 289659,
+    "original_table_off_b": 289661
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1522",
+    "unit": "dialogue:c8cd994cc0c4e08e",
+    "before": {
+      "offset": 217671,
+      "capacity": 4,
+      "raw_hex": "f64581b8",
+      "baseline_text": "윽∈",
+      "source": "ううっ！"
+    },
+    "after": {
+      "offset": 217669,
+      "capacity": 6,
+      "raw_hex": "f0a2f64581b8",
+      "baseline_text": "으윽∈",
+      "source": "ぐううっ！"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぐううっ！",
+    "original_text_start": 217669,
+    "original_table_off_b": 217671
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1309",
+    "unit": "dialogue:a44db1234f510d6d",
+    "before": {
+      "offset": 173475,
+      "capacity": 8,
+      "raw_hex": "f464f0b2f25281b8",
+      "baseline_text": "벌이죠∈",
+      "source": "罰です！"
+    },
+    "after": {
+      "offset": 173473,
+      "capacity": 10,
+      "raw_hex": "f3eaf464f0b2f25281b8",
+      "baseline_text": "천벌이죠∈",
+      "source": "天罰です！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天罰です！",
+    "original_text_start": 173473,
+    "original_table_off_b": 173475
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2252",
+    "unit": "dialogue:a44db1234f510d6d",
+    "before": {
+      "offset": 324490,
+      "capacity": 8,
+      "raw_hex": "f464f0b2f25281b8",
+      "baseline_text": "벌이죠∈",
+      "source": "罰です！"
+    },
+    "after": {
+      "offset": 324488,
+      "capacity": 10,
+      "raw_hex": "f3eaf464f0b2f25281b8",
+      "baseline_text": "천벌이죠∈",
+      "source": "天罰です！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天罰です！",
+    "original_text_start": 324488,
+    "original_table_off_b": 324490
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1967",
+    "unit": "dialogue:a44db1234f510d6d",
+    "before": {
+      "offset": 290605,
+      "capacity": 8,
+      "raw_hex": "f464f0b2f25281b8",
+      "baseline_text": "벌이죠∈",
+      "source": "罰です！"
+    },
+    "after": {
+      "offset": 290603,
+      "capacity": 10,
+      "raw_hex": "f3eaf464f0b2f25281b8",
+      "baseline_text": "천벌이죠∈",
+      "source": "天罰です！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天罰です！",
+    "original_text_start": 290603,
+    "original_table_off_b": 290605
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1544",
+    "unit": "dialogue:a44db1234f510d6d",
+    "before": {
+      "offset": 218615,
+      "capacity": 8,
+      "raw_hex": "f464f0b2f25281b8",
+      "baseline_text": "벌이죠∈",
+      "source": "罰です！"
+    },
+    "after": {
+      "offset": 218613,
+      "capacity": 10,
+      "raw_hex": "f3eaf464f0b2f25281b8",
+      "baseline_text": "천벌이죠∈",
+      "source": "天罰です！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天罰です！",
+    "original_text_start": 218613,
+    "original_table_off_b": 218615
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1326",
+    "unit": "dialogue:3b1f3947f581068b",
+    "before": {
+      "offset": 174774,
+      "capacity": 6,
+      "raw_hex": "8160895981b8",
+      "baseline_text": "～멘∈",
+      "source": "ーメン！"
+    },
+    "after": {
+      "offset": 174772,
+      "capacity": 8,
+      "raw_hex": "83418160895981b8",
+      "baseline_text": "ア～멘∈",
+      "source": "アーメン！"
+    },
+    "prefix_hex": "8341",
+    "original_japanese": "アーメン！",
+    "original_text_start": 174772,
+    "original_table_off_b": 174774
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2269",
+    "unit": "dialogue:3b1f3947f581068b",
+    "before": {
+      "offset": 325789,
+      "capacity": 6,
+      "raw_hex": "8160895981b8",
+      "baseline_text": "～멘∈",
+      "source": "ーメン！"
+    },
+    "after": {
+      "offset": 325787,
+      "capacity": 8,
+      "raw_hex": "83418160895981b8",
+      "baseline_text": "ア～멘∈",
+      "source": "アーメン！"
+    },
+    "prefix_hex": "8341",
+    "original_japanese": "アーメン！",
+    "original_text_start": 325787,
+    "original_table_off_b": 325789
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1984",
+    "unit": "dialogue:3b1f3947f581068b",
+    "before": {
+      "offset": 291904,
+      "capacity": 6,
+      "raw_hex": "8160895981b8",
+      "baseline_text": "～멘∈",
+      "source": "ーメン！"
+    },
+    "after": {
+      "offset": 291902,
+      "capacity": 8,
+      "raw_hex": "83418160895981b8",
+      "baseline_text": "ア～멘∈",
+      "source": "アーメン！"
+    },
+    "prefix_hex": "8341",
+    "original_japanese": "アーメン！",
+    "original_text_start": 291902,
+    "original_table_off_b": 291904
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1561",
+    "unit": "dialogue:3b1f3947f581068b",
+    "before": {
+      "offset": 219914,
+      "capacity": 6,
+      "raw_hex": "8160895981b8",
+      "baseline_text": "～멘∈",
+      "source": "ーメン！"
+    },
+    "after": {
+      "offset": 219912,
+      "capacity": 8,
+      "raw_hex": "83418160895981b8",
+      "baseline_text": "ア～멘∈",
+      "source": "アーメン！"
+    },
+    "prefix_hex": "8341",
+    "original_japanese": "アーメン！",
+    "original_text_start": 219912,
+    "original_table_off_b": 219914
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1415",
+    "unit": "dialogue:81b7208962d7bd39",
+    "before": {
+      "offset": 180826,
+      "capacity": 4,
+      "raw_hex": "f2b381b8",
+      "baseline_text": "앗∈",
+      "source": "ああっ！"
+    },
+    "after": {
+      "offset": 180824,
+      "capacity": 6,
+      "raw_hex": "f0aff2b381b8",
+      "baseline_text": "아앗∈",
+      "source": "あああっ！"
+    },
+    "prefix_hex": "f0af",
+    "original_japanese": "あああっ！",
+    "original_text_start": 180824,
+    "original_table_off_b": 180826
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2358",
+    "unit": "dialogue:81b7208962d7bd39",
+    "before": {
+      "offset": 331841,
+      "capacity": 4,
+      "raw_hex": "f2b381b8",
+      "baseline_text": "앗∈",
+      "source": "ああっ！"
+    },
+    "after": {
+      "offset": 331839,
+      "capacity": 6,
+      "raw_hex": "f0aff2b381b8",
+      "baseline_text": "아앗∈",
+      "source": "あああっ！"
+    },
+    "prefix_hex": "f0af",
+    "original_japanese": "あああっ！",
+    "original_text_start": 331839,
+    "original_table_off_b": 331841
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2073",
+    "unit": "dialogue:81b7208962d7bd39",
+    "before": {
+      "offset": 297956,
+      "capacity": 4,
+      "raw_hex": "f34e81b8",
+      "baseline_text": "악∈",
+      "source": "ああっ！"
+    },
+    "after": {
+      "offset": 297954,
+      "capacity": 6,
+      "raw_hex": "f0aff34e81b8",
+      "baseline_text": "아악∈",
+      "source": "あああっ！"
+    },
+    "prefix_hex": "f0af",
+    "original_japanese": "あああっ！",
+    "original_text_start": 297954,
+    "original_table_off_b": 297956
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1650",
+    "unit": "dialogue:81b7208962d7bd39",
+    "before": {
+      "offset": 225966,
+      "capacity": 4,
+      "raw_hex": "f2b381b8",
+      "baseline_text": "앗∈",
+      "source": "ああっ！"
+    },
+    "after": {
+      "offset": 225964,
+      "capacity": 6,
+      "raw_hex": "f0aff2b381b8",
+      "baseline_text": "아앗∈",
+      "source": "あああっ！"
+    },
+    "prefix_hex": "f0af",
+    "original_japanese": "あああっ！",
+    "original_text_start": 225964,
+    "original_table_off_b": 225966
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1433",
+    "unit": "dialogue:3b3eca3685d6dcdf",
+    "before": {
+      "offset": 182132,
+      "capacity": 8,
+      "raw_hex": "f2e5f1c0f16381b8",
+      "baseline_text": "월풍화∈",
+      "source": "月風花！"
+    },
+    "after": {
+      "offset": 182130,
+      "capacity": 10,
+      "raw_hex": "f241f2e5f1c0f16381b8",
+      "baseline_text": "설월풍화∈",
+      "source": "雪月風花！"
+    },
+    "prefix_hex": "f241",
+    "original_japanese": "雪月風花！",
+    "original_text_start": 182130,
+    "original_table_off_b": 182132
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2376",
+    "unit": "dialogue:3b3eca3685d6dcdf",
+    "before": {
+      "offset": 333147,
+      "capacity": 8,
+      "raw_hex": "f2e5f1c0f16381b8",
+      "baseline_text": "월풍화∈",
+      "source": "月風花！"
+    },
+    "after": {
+      "offset": 333145,
+      "capacity": 10,
+      "raw_hex": "f241f2e5f1c0f16381b8",
+      "baseline_text": "설월풍화∈",
+      "source": "雪月風花！"
+    },
+    "prefix_hex": "f241",
+    "original_japanese": "雪月風花！",
+    "original_text_start": 333145,
+    "original_table_off_b": 333147
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2091",
+    "unit": "dialogue:3b3eca3685d6dcdf",
+    "before": {
+      "offset": 299262,
+      "capacity": 8,
+      "raw_hex": "f2e5f1c0f16381b8",
+      "baseline_text": "월풍화∈",
+      "source": "月風花！"
+    },
+    "after": {
+      "offset": 299260,
+      "capacity": 10,
+      "raw_hex": "f241f2e5f1c0f16381b8",
+      "baseline_text": "설월풍화∈",
+      "source": "雪月風花！"
+    },
+    "prefix_hex": "f241",
+    "original_japanese": "雪月風花！",
+    "original_text_start": 299260,
+    "original_table_off_b": 299262
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1668",
+    "unit": "dialogue:3b3eca3685d6dcdf",
+    "before": {
+      "offset": 227272,
+      "capacity": 8,
+      "raw_hex": "f2e5f1c0f16381b8",
+      "baseline_text": "월풍화∈",
+      "source": "月風花！"
+    },
+    "after": {
+      "offset": 227270,
+      "capacity": 10,
+      "raw_hex": "f241f2e5f1c0f16381b8",
+      "baseline_text": "설월풍화∈",
+      "source": "雪月風花！"
+    },
+    "prefix_hex": "f241",
+    "original_japanese": "雪月風花！",
+    "original_text_start": 227270,
+    "original_table_off_b": 227272
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1434",
+    "unit": "dialogue:7e760b56cd543ddb",
+    "before": {
+      "offset": 182174,
+      "capacity": 4,
+      "raw_hex": "f0a2f7d1",
+      "baseline_text": "으…",
+      "source": "うう……"
+    },
+    "after": {
+      "offset": 182172,
+      "capacity": 6,
+      "raw_hex": "f0a2f0a2f7d1",
+      "baseline_text": "으으…",
+      "source": "ぬうう……"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぬうう……",
+    "original_text_start": 182172,
+    "original_table_off_b": 182174
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2377",
+    "unit": "dialogue:7e760b56cd543ddb",
+    "before": {
+      "offset": 333189,
+      "capacity": 4,
+      "raw_hex": "f0a2f7d1",
+      "baseline_text": "으…",
+      "source": "うう……"
+    },
+    "after": {
+      "offset": 333187,
+      "capacity": 6,
+      "raw_hex": "f0a2f0a2f7d1",
+      "baseline_text": "으으…",
+      "source": "ぬうう……"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぬうう……",
+    "original_text_start": 333187,
+    "original_table_off_b": 333189
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2092",
+    "unit": "dialogue:7e760b56cd543ddb",
+    "before": {
+      "offset": 299304,
+      "capacity": 4,
+      "raw_hex": "f0a2f7d1",
+      "baseline_text": "으…",
+      "source": "うう……"
+    },
+    "after": {
+      "offset": 299302,
+      "capacity": 6,
+      "raw_hex": "f0a2f0a2f7d1",
+      "baseline_text": "으으…",
+      "source": "ぬうう……"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぬうう……",
+    "original_text_start": 299302,
+    "original_table_off_b": 299304
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1669",
+    "unit": "dialogue:7e760b56cd543ddb",
+    "before": {
+      "offset": 227314,
+      "capacity": 4,
+      "raw_hex": "f0a2f7d1",
+      "baseline_text": "으…",
+      "source": "うう……"
+    },
+    "after": {
+      "offset": 227312,
+      "capacity": 6,
+      "raw_hex": "f0a2f0a2f7d1",
+      "baseline_text": "으으…",
+      "source": "ぬうう……"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "ぬうう……",
+    "original_text_start": 227312,
+    "original_table_off_b": 227314
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1435",
+    "unit": "dialogue:892014be6fe4eb57",
+    "before": {
+      "offset": 182207,
+      "capacity": 4,
+      "raw_hex": "f0b5f7d1",
+      "baseline_text": "오…",
+      "source": "おお……"
+    },
+    "after": {
+      "offset": 182205,
+      "capacity": 6,
+      "raw_hex": "f0b5f0b5f7d1",
+      "baseline_text": "오오…",
+      "source": "おおお……"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "おおお……",
+    "original_text_start": 182205,
+    "original_table_off_b": 182207
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2378",
+    "unit": "dialogue:892014be6fe4eb57",
+    "before": {
+      "offset": 333222,
+      "capacity": 4,
+      "raw_hex": "f0b5f7d1",
+      "baseline_text": "오…",
+      "source": "おお……"
+    },
+    "after": {
+      "offset": 333220,
+      "capacity": 6,
+      "raw_hex": "f0b5f0b5f7d1",
+      "baseline_text": "오오…",
+      "source": "おおお……"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "おおお……",
+    "original_text_start": 333220,
+    "original_table_off_b": 333222
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2093",
+    "unit": "dialogue:892014be6fe4eb57",
+    "before": {
+      "offset": 299337,
+      "capacity": 4,
+      "raw_hex": "f0b5f7d1",
+      "baseline_text": "오…",
+      "source": "おお……"
+    },
+    "after": {
+      "offset": 299335,
+      "capacity": 6,
+      "raw_hex": "f0b5f0b5f7d1",
+      "baseline_text": "오오…",
+      "source": "おおお……"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "おおお……",
+    "original_text_start": 299335,
+    "original_table_off_b": 299337
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1670",
+    "unit": "dialogue:892014be6fe4eb57",
+    "before": {
+      "offset": 227347,
+      "capacity": 4,
+      "raw_hex": "f0b5f7d1",
+      "baseline_text": "오…",
+      "source": "おお……"
+    },
+    "after": {
+      "offset": 227345,
+      "capacity": 6,
+      "raw_hex": "f0b5f0b5f7d1",
+      "baseline_text": "오오…",
+      "source": "おおお……"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "おおお……",
+    "original_text_start": 227345,
+    "original_table_off_b": 227347
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1436",
+    "unit": "dialogue:5861001a6788599e",
+    "before": {
+      "offset": 182246,
+      "capacity": 6,
+      "raw_hex": "f1d0f0a881b8",
+      "baseline_text": "져라∈",
+      "source": "え去れ！"
+    },
+    "after": {
+      "offset": 182244,
+      "capacity": 8,
+      "raw_hex": "f4d0f1d0f0a881b8",
+      "baseline_text": "꺼져라∈",
+      "source": "消え去れ！"
+    },
+    "prefix_hex": "f4d0",
+    "original_japanese": "消え去れ！",
+    "original_text_start": 182244,
+    "original_table_off_b": 182246
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2379",
+    "unit": "dialogue:5861001a6788599e",
+    "before": {
+      "offset": 333261,
+      "capacity": 6,
+      "raw_hex": "f1d0f0a881b8",
+      "baseline_text": "져라∈",
+      "source": "え去れ！"
+    },
+    "after": {
+      "offset": 333259,
+      "capacity": 8,
+      "raw_hex": "f4d0f1d0f0a881b8",
+      "baseline_text": "꺼져라∈",
+      "source": "消え去れ！"
+    },
+    "prefix_hex": "f4d0",
+    "original_japanese": "消え去れ！",
+    "original_text_start": 333259,
+    "original_table_off_b": 333261
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2094",
+    "unit": "dialogue:5861001a6788599e",
+    "before": {
+      "offset": 299376,
+      "capacity": 8,
+      "raw_hex": "f0a8f1d0f0a881b8",
+      "baseline_text": "라져라∈",
+      "source": "え去れ！"
+    },
+    "after": {
+      "offset": 299374,
+      "capacity": 10,
+      "raw_hex": "f0a6f0a8f1d0f0a881b8",
+      "baseline_text": "사라져라∈",
+      "source": "消え去れ！"
+    },
+    "prefix_hex": "f0a6",
+    "original_japanese": "消え去れ！",
+    "original_text_start": 299374,
+    "original_table_off_b": 299376
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1671",
+    "unit": "dialogue:5861001a6788599e",
+    "before": {
+      "offset": 227386,
+      "capacity": 8,
+      "raw_hex": "f0a8f1d0f0a881b8",
+      "baseline_text": "라져라∈",
+      "source": "え去れ！"
+    },
+    "after": {
+      "offset": 227384,
+      "capacity": 10,
+      "raw_hex": "f0a6f0a8f1d0f0a881b8",
+      "baseline_text": "사라져라∈",
+      "source": "消え去れ！"
+    },
+    "prefix_hex": "f0a6",
+    "original_japanese": "消え去れ！",
+    "original_text_start": 227384,
+    "original_table_off_b": 227386
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1437",
+    "unit": "dialogue:d93441d6671173b9",
+    "before": {
+      "offset": 182296,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "ぐっ……"
+    },
+    "after": {
+      "offset": 182294,
+      "capacity": 6,
+      "raw_hex": "82a48e458163",
+      "baseline_text": "う윽…",
+      "source": "うぐっ……"
+    },
+    "prefix_hex": "82a4",
+    "original_japanese": "うぐっ……",
+    "original_text_start": 182294,
+    "original_table_off_b": 182296
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2380",
+    "unit": "dialogue:d93441d6671173b9",
+    "before": {
+      "offset": 333311,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "ぐっ……"
+    },
+    "after": {
+      "offset": 333309,
+      "capacity": 6,
+      "raw_hex": "82a48e458163",
+      "baseline_text": "う윽…",
+      "source": "うぐっ……"
+    },
+    "prefix_hex": "82a4",
+    "original_japanese": "うぐっ……",
+    "original_text_start": 333309,
+    "original_table_off_b": 333311
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2095",
+    "unit": "dialogue:d93441d6671173b9",
+    "before": {
+      "offset": 299426,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "ぐっ……"
+    },
+    "after": {
+      "offset": 299424,
+      "capacity": 6,
+      "raw_hex": "82a48e458163",
+      "baseline_text": "う윽…",
+      "source": "うぐっ……"
+    },
+    "prefix_hex": "82a4",
+    "original_japanese": "うぐっ……",
+    "original_text_start": 299424,
+    "original_table_off_b": 299426
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1672",
+    "unit": "dialogue:d93441d6671173b9",
+    "before": {
+      "offset": 227436,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "ぐっ……"
+    },
+    "after": {
+      "offset": 227434,
+      "capacity": 6,
+      "raw_hex": "82a48e458163",
+      "baseline_text": "う윽…",
+      "source": "うぐっ……"
+    },
+    "prefix_hex": "82a4",
+    "original_japanese": "うぐっ……",
+    "original_text_start": 227434,
+    "original_table_off_b": 227436
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1441",
+    "unit": "dialogue:e0536314813afd36",
+    "before": {
+      "offset": 182724,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f1cef158",
+      "baseline_text": "신의 분노",
+      "source": "神之怒！"
+    },
+    "after": {
+      "offset": 182722,
+      "capacity": 10,
+      "raw_hex": "f0a4f0dbf8e1f1cef158",
+      "baseline_text": "지신의 분노",
+      "source": "地神之怒！"
+    },
+    "prefix_hex": "f0a4",
+    "original_japanese": "地神之怒！",
+    "original_text_start": 182722,
+    "original_table_off_b": 182724
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2384",
+    "unit": "dialogue:e0536314813afd36",
+    "before": {
+      "offset": 333739,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f1cef158",
+      "baseline_text": "신의 분노",
+      "source": "神之怒！"
+    },
+    "after": {
+      "offset": 333737,
+      "capacity": 10,
+      "raw_hex": "f0a4f0dbf8e1f1cef158",
+      "baseline_text": "지신의 분노",
+      "source": "地神之怒！"
+    },
+    "prefix_hex": "f0a4",
+    "original_japanese": "地神之怒！",
+    "original_text_start": 333737,
+    "original_table_off_b": 333739
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2099",
+    "unit": "dialogue:e0536314813afd36",
+    "before": {
+      "offset": 299854,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f1cef158",
+      "baseline_text": "신의 분노",
+      "source": "神之怒！"
+    },
+    "after": {
+      "offset": 299852,
+      "capacity": 10,
+      "raw_hex": "f0a4f0dbf8e1f1cef158",
+      "baseline_text": "지신의 분노",
+      "source": "地神之怒！"
+    },
+    "prefix_hex": "f0a4",
+    "original_japanese": "地神之怒！",
+    "original_text_start": 299852,
+    "original_table_off_b": 299854
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1676",
+    "unit": "dialogue:e0536314813afd36",
+    "before": {
+      "offset": 227864,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f1cef158",
+      "baseline_text": "신의 분노",
+      "source": "神之怒！"
+    },
+    "after": {
+      "offset": 227862,
+      "capacity": 10,
+      "raw_hex": "f0a4f0dbf8e1f1cef158",
+      "baseline_text": "지신의 분노",
+      "source": "地神之怒！"
+    },
+    "prefix_hex": "f0a4",
+    "original_japanese": "地神之怒！",
+    "original_text_start": 227862,
+    "original_table_off_b": 227864
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1444",
+    "unit": "dialogue:34854cdaa3164758",
+    "before": {
+      "offset": 182857,
+      "capacity": 6,
+      "raw_hex": "f15af0a881b8",
+      "baseline_text": "어라∈",
+      "source": "ねえぇ！"
+    },
+    "after": {
+      "offset": 182855,
+      "capacity": 8,
+      "raw_hex": "f3ccf15af0a881b8",
+      "baseline_text": "죽어라∈",
+      "source": "死ねえぇ！"
+    },
+    "prefix_hex": "f3cc",
+    "original_japanese": "死ねえぇ！",
+    "original_text_start": 182855,
+    "original_table_off_b": 182857
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2387",
+    "unit": "dialogue:34854cdaa3164758",
+    "before": {
+      "offset": 333872,
+      "capacity": 6,
+      "raw_hex": "f15af0a881b8",
+      "baseline_text": "어라∈",
+      "source": "ねえぇ！"
+    },
+    "after": {
+      "offset": 333870,
+      "capacity": 8,
+      "raw_hex": "f3ccf15af0a881b8",
+      "baseline_text": "죽어라∈",
+      "source": "死ねえぇ！"
+    },
+    "prefix_hex": "f3cc",
+    "original_japanese": "死ねえぇ！",
+    "original_text_start": 333870,
+    "original_table_off_b": 333872
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2102",
+    "unit": "dialogue:34854cdaa3164758",
+    "before": {
+      "offset": 299987,
+      "capacity": 8,
+      "raw_hex": "f15af0a8f0af81b8",
+      "baseline_text": "어라아∈",
+      "source": "ねえぇ！"
+    },
+    "after": {
+      "offset": 299985,
+      "capacity": 10,
+      "raw_hex": "f3ccf15af0a8f0af81b8",
+      "baseline_text": "죽어라아∈",
+      "source": "死ねえぇ！"
+    },
+    "prefix_hex": "f3cc",
+    "original_japanese": "死ねえぇ！",
+    "original_text_start": 299985,
+    "original_table_off_b": 299987
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1679",
+    "unit": "dialogue:34854cdaa3164758",
+    "before": {
+      "offset": 227997,
+      "capacity": 8,
+      "raw_hex": "f15af0a8f0af81b8",
+      "baseline_text": "어라아∈",
+      "source": "ねえぇ！"
+    },
+    "after": {
+      "offset": 227995,
+      "capacity": 10,
+      "raw_hex": "f3ccf15af0a8f0af81b8",
+      "baseline_text": "죽어라아∈",
+      "source": "死ねえぇ！"
+    },
+    "prefix_hex": "f3cc",
+    "original_japanese": "死ねえぇ！",
+    "original_text_start": 227995,
+    "original_table_off_b": 227997
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1445",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 182894,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 182892,
+      "capacity": 6,
+      "raw_hex": "82ae8e458163",
+      "baseline_text": "ぐ윽…",
+      "source": "ぐうっ……"
+    },
+    "prefix_hex": "82ae",
+    "original_japanese": "ぐうっ……",
+    "original_text_start": 182892,
+    "original_table_off_b": 182894
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1453",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 183582,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 183580,
+      "capacity": 6,
+      "raw_hex": "82ca8e458163",
+      "baseline_text": "ぬ윽…",
+      "source": "ぬうっ……"
+    },
+    "prefix_hex": "82ca",
+    "original_japanese": "ぬうっ……",
+    "original_text_start": 183580,
+    "original_table_off_b": 183582
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2388",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 333909,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 333907,
+      "capacity": 6,
+      "raw_hex": "82ae8e458163",
+      "baseline_text": "ぐ윽…",
+      "source": "ぐうっ……"
+    },
+    "prefix_hex": "82ae",
+    "original_japanese": "ぐうっ……",
+    "original_text_start": 333907,
+    "original_table_off_b": 333909
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2396",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 334597,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 334595,
+      "capacity": 6,
+      "raw_hex": "82ca8e458163",
+      "baseline_text": "ぬ윽…",
+      "source": "ぬうっ……"
+    },
+    "prefix_hex": "82ca",
+    "original_japanese": "ぬうっ……",
+    "original_text_start": 334595,
+    "original_table_off_b": 334597
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2103",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 300024,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 300022,
+      "capacity": 6,
+      "raw_hex": "82ae8e458163",
+      "baseline_text": "ぐ윽…",
+      "source": "ぐうっ……"
+    },
+    "prefix_hex": "82ae",
+    "original_japanese": "ぐうっ……",
+    "original_text_start": 300022,
+    "original_table_off_b": 300024
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2111",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 300712,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 300710,
+      "capacity": 6,
+      "raw_hex": "82ca8e458163",
+      "baseline_text": "ぬ윽…",
+      "source": "ぬうっ……"
+    },
+    "prefix_hex": "82ca",
+    "original_japanese": "ぬうっ……",
+    "original_text_start": 300710,
+    "original_table_off_b": 300712
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1680",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 228034,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 228032,
+      "capacity": 6,
+      "raw_hex": "82ae8e458163",
+      "baseline_text": "ぐ윽…",
+      "source": "ぐうっ……"
+    },
+    "prefix_hex": "82ae",
+    "original_japanese": "ぐうっ……",
+    "original_text_start": 228032,
+    "original_table_off_b": 228034
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1688",
+    "unit": "dialogue:a964a2d16fef687d",
+    "before": {
+      "offset": 228722,
+      "capacity": 4,
+      "raw_hex": "8e458163",
+      "baseline_text": "윽…",
+      "source": "うっ……"
+    },
+    "after": {
+      "offset": 228720,
+      "capacity": 6,
+      "raw_hex": "82ca8e458163",
+      "baseline_text": "ぬ윽…",
+      "source": "ぬうっ……"
+    },
+    "prefix_hex": "82ca",
+    "original_japanese": "ぬうっ……",
+    "original_text_start": 228720,
+    "original_table_off_b": 228722
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1449",
+    "unit": "dialogue:385b65cb837520ae",
+    "before": {
+      "offset": 183383,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f27bf553",
+      "baseline_text": "신의 계율",
+      "source": "神之戒！"
+    },
+    "after": {
+      "offset": 183381,
+      "capacity": 10,
+      "raw_hex": "f3eaf0dbf8e1f27bf553",
+      "baseline_text": "천신의 계율",
+      "source": "天神之戒！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天神之戒！",
+    "original_text_start": 183381,
+    "original_table_off_b": 183383
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2392",
+    "unit": "dialogue:385b65cb837520ae",
+    "before": {
+      "offset": 334398,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f27bf553",
+      "baseline_text": "신의 계율",
+      "source": "神之戒！"
+    },
+    "after": {
+      "offset": 334396,
+      "capacity": 10,
+      "raw_hex": "f3eaf0dbf8e1f27bf553",
+      "baseline_text": "천신의 계율",
+      "source": "天神之戒！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天神之戒！",
+    "original_text_start": 334396,
+    "original_table_off_b": 334398
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2107",
+    "unit": "dialogue:385b65cb837520ae",
+    "before": {
+      "offset": 300513,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f27bf553",
+      "baseline_text": "신의 계율",
+      "source": "神之戒！"
+    },
+    "after": {
+      "offset": 300511,
+      "capacity": 10,
+      "raw_hex": "f3eaf0dbf8e1f27bf553",
+      "baseline_text": "천신의 계율",
+      "source": "天神之戒！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天神之戒！",
+    "original_text_start": 300511,
+    "original_table_off_b": 300513
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1684",
+    "unit": "dialogue:385b65cb837520ae",
+    "before": {
+      "offset": 228523,
+      "capacity": 8,
+      "raw_hex": "f0dbf8e1f27bf553",
+      "baseline_text": "신의 계율",
+      "source": "神之戒！"
+    },
+    "after": {
+      "offset": 228521,
+      "capacity": 10,
+      "raw_hex": "f3eaf0dbf8e1f27bf553",
+      "baseline_text": "천신의 계율",
+      "source": "天神之戒！"
+    },
+    "prefix_hex": "f3ea",
+    "original_japanese": "天神之戒！",
+    "original_text_start": 228521,
+    "original_table_off_b": 228523
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1451",
+    "unit": "dialogue:274a191dc24373fd",
+    "before": {
+      "offset": 183502,
+      "capacity": 8,
+      "raw_hex": "f1fcf14bf0a881b8",
+      "baseline_text": "망해라∈",
+      "source": "望しろ！"
+    },
+    "after": {
+      "offset": 183500,
+      "capacity": 10,
+      "raw_hex": "f4bef1fcf14bf0a881b8",
+      "baseline_text": "절망해라∈",
+      "source": "絶望しろ！"
+    },
+    "prefix_hex": "f4be",
+    "original_japanese": "絶望しろ！",
+    "original_text_start": 183500,
+    "original_table_off_b": 183502
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2394",
+    "unit": "dialogue:274a191dc24373fd",
+    "before": {
+      "offset": 334517,
+      "capacity": 8,
+      "raw_hex": "f1fcf14bf0a881b8",
+      "baseline_text": "망해라∈",
+      "source": "望しろ！"
+    },
+    "after": {
+      "offset": 334515,
+      "capacity": 10,
+      "raw_hex": "f4bef1fcf14bf0a881b8",
+      "baseline_text": "절망해라∈",
+      "source": "絶望しろ！"
+    },
+    "prefix_hex": "f4be",
+    "original_japanese": "絶望しろ！",
+    "original_text_start": 334515,
+    "original_table_off_b": 334517
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2109",
+    "unit": "dialogue:274a191dc24373fd",
+    "before": {
+      "offset": 300632,
+      "capacity": 8,
+      "raw_hex": "f1fcf0a5f0a881b8",
+      "baseline_text": "망하라∈",
+      "source": "望しろ！"
+    },
+    "after": {
+      "offset": 300630,
+      "capacity": 10,
+      "raw_hex": "f4bef1fcf0a5f0a881b8",
+      "baseline_text": "절망하라∈",
+      "source": "絶望しろ！"
+    },
+    "prefix_hex": "f4be",
+    "original_japanese": "絶望しろ！",
+    "original_text_start": 300630,
+    "original_table_off_b": 300632
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1686",
+    "unit": "dialogue:274a191dc24373fd",
+    "before": {
+      "offset": 228642,
+      "capacity": 8,
+      "raw_hex": "f1fcf0a5f0a881b8",
+      "baseline_text": "망하라∈",
+      "source": "望しろ！"
+    },
+    "after": {
+      "offset": 228640,
+      "capacity": 10,
+      "raw_hex": "f4bef1fcf0a5f0a881b8",
+      "baseline_text": "절망하라∈",
+      "source": "絶望しろ！"
+    },
+    "prefix_hex": "f4be",
+    "original_japanese": "絶望しろ！",
+    "original_text_start": 228640,
+    "original_table_off_b": 228642
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1457",
+    "unit": "dialogue:8d7a4cc43059dae0",
+    "before": {
+      "offset": 183957,
+      "capacity": 8,
+      "raw_hex": "f1a7f369f14f81b8",
+      "baseline_text": "행영기∈",
+      "source": "行霊氣！"
+    },
+    "after": {
+      "offset": 183955,
+      "capacity": 10,
+      "raw_hex": "f0b5f1a7f369f14f81b8",
+      "baseline_text": "오행영기∈",
+      "source": "五行霊氣！"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "五行霊氣！",
+    "original_text_start": 183955,
+    "original_table_off_b": 183957
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2400",
+    "unit": "dialogue:8d7a4cc43059dae0",
+    "before": {
+      "offset": 334972,
+      "capacity": 8,
+      "raw_hex": "f1a7f369f14f81b8",
+      "baseline_text": "행영기∈",
+      "source": "行霊氣！"
+    },
+    "after": {
+      "offset": 334970,
+      "capacity": 10,
+      "raw_hex": "f0b5f1a7f369f14f81b8",
+      "baseline_text": "오행영기∈",
+      "source": "五行霊氣！"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "五行霊氣！",
+    "original_text_start": 334970,
+    "original_table_off_b": 334972
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2115",
+    "unit": "dialogue:8d7a4cc43059dae0",
+    "before": {
+      "offset": 301087,
+      "capacity": 8,
+      "raw_hex": "f1a7f369f14f81b8",
+      "baseline_text": "행영기∈",
+      "source": "行霊氣！"
+    },
+    "after": {
+      "offset": 301085,
+      "capacity": 10,
+      "raw_hex": "f0b5f1a7f369f14f81b8",
+      "baseline_text": "오행영기∈",
+      "source": "五行霊氣！"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "五行霊氣！",
+    "original_text_start": 301085,
+    "original_table_off_b": 301087
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1692",
+    "unit": "dialogue:8d7a4cc43059dae0",
+    "before": {
+      "offset": 229097,
+      "capacity": 8,
+      "raw_hex": "f1a7f369f14f81b8",
+      "baseline_text": "행영기∈",
+      "source": "行霊氣！"
+    },
+    "after": {
+      "offset": 229095,
+      "capacity": 10,
+      "raw_hex": "f0b5f1a7f369f14f81b8",
+      "baseline_text": "오행영기∈",
+      "source": "五行霊氣！"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "五行霊氣！",
+    "original_text_start": 229095,
+    "original_table_off_b": 229097
+  },
+  {
+    "id": "ADVDATA/LIPSYNC1.LIP#1465",
+    "unit": "dialogue:50944c3164e38efb",
+    "before": {
+      "offset": 184259,
+      "capacity": 8,
+      "raw_hex": "f2d1f0d3f18d81b8",
+      "baseline_text": "법인데∈",
+      "source": "るねぇ！"
+    },
+    "after": {
+      "offset": 184257,
+      "capacity": 10,
+      "raw_hex": "f0dff2d1f0d3f18d81b8",
+      "baseline_text": "제법인데∈",
+      "source": "やるねぇ！"
+    },
+    "prefix_hex": "f0df",
+    "original_japanese": "やるねぇ！",
+    "original_text_start": 184257,
+    "original_table_off_b": 184259
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#2408",
+    "unit": "dialogue:50944c3164e38efb",
+    "before": {
+      "offset": 335274,
+      "capacity": 8,
+      "raw_hex": "f2d1f0d3f18d81b8",
+      "baseline_text": "법인데∈",
+      "source": "るねぇ！"
+    },
+    "after": {
+      "offset": 335272,
+      "capacity": 10,
+      "raw_hex": "f0dff2d1f0d3f18d81b8",
+      "baseline_text": "제법인데∈",
+      "source": "やるねぇ！"
+    },
+    "prefix_hex": "f0df",
+    "original_japanese": "やるねぇ！",
+    "original_text_start": 335272,
+    "original_table_off_b": 335274
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#2123",
+    "unit": "dialogue:50944c3164e38efb",
+    "before": {
+      "offset": 301389,
+      "capacity": 8,
+      "raw_hex": "f2d1f0b2f0f081b8",
+      "baseline_text": "법이네∈",
+      "source": "るねぇ！"
+    },
+    "after": {
+      "offset": 301387,
+      "capacity": 10,
+      "raw_hex": "f0dff2d1f0b2f0f081b8",
+      "baseline_text": "제법이네∈",
+      "source": "やるねぇ！"
+    },
+    "prefix_hex": "f0df",
+    "original_japanese": "やるねぇ！",
+    "original_text_start": 301387,
+    "original_table_off_b": 301389
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#1700",
+    "unit": "dialogue:50944c3164e38efb",
+    "before": {
+      "offset": 229399,
+      "capacity": 8,
+      "raw_hex": "f2d1f0b2f0f081b8",
+      "baseline_text": "법이네∈",
+      "source": "るねぇ！"
+    },
+    "after": {
+      "offset": 229397,
+      "capacity": 10,
+      "raw_hex": "f0dff2d1f0b2f0f081b8",
+      "baseline_text": "제법이네∈",
+      "source": "やるねぇ！"
+    },
+    "prefix_hex": "f0df",
+    "original_japanese": "やるねぇ！",
+    "original_text_start": 229397,
+    "original_table_off_b": 229399
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0365",
+    "unit": "dialogue:1b9f1939e77f8964",
+    "before": {
+      "offset": 77994,
+      "capacity": 8,
+      "raw_hex": "f0a7f3d3f0b88144",
+      "baseline_text": "쿠젠니．",
+      "source": "筑前煮。"
+    },
+    "after": {
+      "offset": 77990,
+      "capacity": 12,
+      "raw_hex": "f7d1f1d9f0a7f3d3f0b88144",
+      "baseline_text": "…치쿠젠니．",
+      "source": "……筑前煮。"
+    },
+    "prefix_hex": "f7d1f1d9",
+    "original_japanese": "……筑前煮。",
+    "original_text_start": 77990,
+    "original_table_off_b": 77994
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0400",
+    "unit": "dialogue:cf7ef6fb3feeeccf",
+    "before": {
+      "offset": 82936,
+      "capacity": 4,
+      "raw_hex": "f1d78144",
+      "baseline_text": "와．",
+      "source": "…来い。"
+    },
+    "after": {
+      "offset": 82934,
+      "capacity": 6,
+      "raw_hex": "f7d1f1d78144",
+      "baseline_text": "…와．",
+      "source": "……来い。"
+    },
+    "prefix_hex": "f7d1",
+    "original_japanese": "……来い。",
+    "original_text_start": 82934,
+    "original_table_off_b": 82936
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0451",
+    "unit": "dialogue:5bda6e84beb9e02c",
+    "before": {
+      "offset": 90042,
+      "capacity": 6,
+      "raw_hex": "81638a5c8148",
+      "baseline_text": "…뭐？",
+      "source": "…なに？"
+    },
+    "after": {
+      "offset": 90040,
+      "capacity": 8,
+      "raw_hex": "816381638a5c8148",
+      "baseline_text": "……뭐？",
+      "source": "……なに？"
+    },
+    "prefix_hex": "8163",
+    "original_japanese": "……なに？",
+    "original_text_start": 90040,
+    "original_table_off_b": 90042
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0934",
+    "unit": "dialogue:8ab006f172ecae7d",
+    "before": {
+      "offset": 160527,
+      "capacity": 6,
+      "raw_hex": "f0af81608144",
+      "baseline_text": "아～．",
+      "source": "ゃあ～。"
+    },
+    "after": {
+      "offset": 160525,
+      "capacity": 8,
+      "raw_hex": "f5f1f0af81608144",
+      "baseline_text": "먀아～．",
+      "source": "みゃあ～。"
+    },
+    "prefix_hex": "f5f1",
+    "original_japanese": "みゃあ～。",
+    "original_text_start": 160525,
+    "original_table_off_b": 160527
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0935",
+    "unit": "dialogue:345ffc1dc5b8d19c",
+    "before": {
+      "offset": 160565,
+      "capacity": 8,
+      "raw_hex": "814388ab817c8144",
+      "baseline_text": "，미－．",
+      "source": "、みー。"
+    },
+    "after": {
+      "offset": 160563,
+      "capacity": 10,
+      "raw_hex": "82dd814388ab817c8144",
+      "baseline_text": "み，미－．",
+      "source": "み、みー。"
+    },
+    "prefix_hex": "82dd",
+    "original_japanese": "み、みー。",
+    "original_text_start": 160563,
+    "original_table_off_b": 160565
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0936",
+    "unit": "dialogue:345ffc1dc5b8d19c",
+    "before": {
+      "offset": 160617,
+      "capacity": 8,
+      "raw_hex": "814388ab817c8144",
+      "baseline_text": "，미－．",
+      "source": "、みー。"
+    },
+    "after": {
+      "offset": 160615,
+      "capacity": 10,
+      "raw_hex": "82dd814388ab817c8144",
+      "baseline_text": "み，미－．",
+      "source": "み、みー。"
+    },
+    "prefix_hex": "82dd",
+    "original_japanese": "み、みー。",
+    "original_text_start": 160615,
+    "original_table_off_b": 160617
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0940",
+    "unit": "dialogue:42677282c1259c9a",
+    "before": {
+      "offset": 160837,
+      "capacity": 6,
+      "raw_hex": "8df1815c8144",
+      "baseline_text": "먀―．",
+      "source": "みゃー。"
+    },
+    "after": {
+      "offset": 160835,
+      "capacity": 8,
+      "raw_hex": "82d38df1815c8144",
+      "baseline_text": "ふ먀―．",
+      "source": "ふみゃー。"
+    },
+    "prefix_hex": "82d3",
+    "original_japanese": "ふみゃー。",
+    "original_text_start": 160835,
+    "original_table_off_b": 160837
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0945",
+    "unit": "dialogue:660e9f80375c842d",
+    "before": {
+      "offset": 161064,
+      "capacity": 4,
+      "raw_hex": "f0af8144",
+      "baseline_text": "아．",
+      "source": "ニャー。"
+    },
+    "after": {
+      "offset": 161060,
+      "capacity": 8,
+      "raw_hex": "f7d1f29cf0af8144",
+      "baseline_text": "…냐아．",
+      "source": "……ニャー。"
+    },
+    "prefix_hex": "f7d1f29c",
+    "original_japanese": "……ニャー。",
+    "original_text_start": 161060,
+    "original_table_off_b": 161064
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#0946",
+    "unit": "dialogue:660e9f80375c842d",
+    "before": {
+      "offset": 161101,
+      "capacity": 4,
+      "raw_hex": "f0af8144",
+      "baseline_text": "아．",
+      "source": "ニャー。"
+    },
+    "after": {
+      "offset": 161097,
+      "capacity": 8,
+      "raw_hex": "f7d1f29cf0af8144",
+      "baseline_text": "…냐아．",
+      "source": "……ニャー。"
+    },
+    "prefix_hex": "f7d1f29c",
+    "original_japanese": "……ニャー。",
+    "original_text_start": 161097,
+    "original_table_off_b": 161101
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#1005",
+    "unit": "dialogue:ac908069a37c2760",
+    "before": {
+      "offset": 170240,
+      "capacity": 6,
+      "raw_hex": "f27ef0a9f7d1",
+      "baseline_text": "렇군…",
+      "source": "うか……"
+    },
+    "after": {
+      "offset": 170238,
+      "capacity": 8,
+      "raw_hex": "f0d8f27ef0a9f7d1",
+      "baseline_text": "그렇군…",
+      "source": "そうか……"
+    },
+    "prefix_hex": "f0d8",
+    "original_japanese": "そうか……",
+    "original_text_start": 170238,
+    "original_table_off_b": 170240
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#1619",
+    "unit": "dialogue:31e3826fd3e62801",
+    "before": {
+      "offset": 264596,
+      "capacity": 4,
+      "raw_hex": "f0e481b8",
+      "baseline_text": "장∈",
+      "source": "長ーっ∈"
+    },
+    "after": {
+      "offset": 264594,
+      "capacity": 6,
+      "raw_hex": "f0e2f0e481b8",
+      "baseline_text": "대장∈",
+      "source": "隊長ーっ∈"
+    },
+    "prefix_hex": "f0e2",
+    "original_japanese": "隊長ーっ∈",
+    "original_text_start": 264594,
+    "original_table_off_b": 264596
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#1621",
+    "unit": "dialogue:31e3826fd3e62801",
+    "before": {
+      "offset": 264672,
+      "capacity": 4,
+      "raw_hex": "f0e481b8",
+      "baseline_text": "장∈",
+      "source": "長ーっ∈"
+    },
+    "after": {
+      "offset": 264670,
+      "capacity": 6,
+      "raw_hex": "f0e2f0e481b8",
+      "baseline_text": "대장∈",
+      "source": "隊長ーっ∈"
+    },
+    "prefix_hex": "f0e2",
+    "original_japanese": "隊長ーっ∈",
+    "original_text_start": 264670,
+    "original_table_off_b": 264672
+  },
+  {
+    "id": "ADVDATA/LIPSYNC2.LIP#1622",
+    "unit": "dialogue:2e8e56430c89f131",
+    "before": {
+      "offset": 264705,
+      "capacity": 8,
+      "raw_hex": "f0b5f144f8abf247",
+      "baseline_text": "오가미 씨",
+      "source": "神さん∈"
+    },
+    "after": {
+      "offset": 264703,
+      "capacity": 10,
+      "raw_hex": "f0b5f0b5f144f8abf247",
+      "baseline_text": "오오가미 씨",
+      "source": "大神さん∈"
+    },
+    "prefix_hex": "f0b5",
+    "original_japanese": "大神さん∈",
+    "original_text_start": 264703,
+    "original_table_off_b": 264705
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0162",
+    "unit": "dialogue:1576e585c926221b",
+    "before": {
+      "offset": 50987,
+      "capacity": 4,
+      "raw_hex": "f645f7d1",
+      "baseline_text": "윽…",
+      "source": "うぅ……"
+    },
+    "after": {
+      "offset": 50985,
+      "capacity": 6,
+      "raw_hex": "f0a2f645f7d1",
+      "baseline_text": "으윽…",
+      "source": "はうぅ……"
+    },
+    "prefix_hex": "f0a2",
+    "original_japanese": "はうぅ……",
+    "original_text_start": 50985,
+    "original_table_off_b": 50987
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0364",
+    "unit": "dialogue:5dd60e098afb1c79",
+    "before": {
+      "offset": 81309,
+      "capacity": 6,
+      "raw_hex": "f0af817c81b8",
+      "baseline_text": "아－∈",
+      "source": "ゃーっ∈"
+    },
+    "after": {
+      "offset": 81307,
+      "capacity": 8,
+      "raw_hex": "f55ef0af817c81b8",
+      "baseline_text": "꺄아－∈",
+      "source": "きゃーっ∈"
+    },
+    "prefix_hex": "f55e",
+    "original_japanese": "きゃーっ∈",
+    "original_text_start": 81307,
+    "original_table_off_b": 81309
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0504",
+    "unit": "dialogue:bd6c628f9112d025",
+    "before": {
+      "offset": 102726,
+      "capacity": 6,
+      "raw_hex": "f0a7f0a8f7d1",
+      "baseline_text": "쿠라…",
+      "source": "くら……"
+    },
+    "after": {
+      "offset": 102724,
+      "capacity": 8,
+      "raw_hex": "f0a6f0a7f0a8f7d1",
+      "baseline_text": "사쿠라…",
+      "source": "さくら……"
+    },
+    "prefix_hex": "f0a6",
+    "original_japanese": "さくら……",
+    "original_text_start": 102724,
+    "original_table_off_b": 102726
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0505",
+    "unit": "dialogue:072b6b5c3189be01",
+    "before": {
+      "offset": 102753,
+      "capacity": 6,
+      "raw_hex": "f0abf0acf7d1",
+      "baseline_text": "미레…",
+      "source": "みれ……"
+    },
+    "after": {
+      "offset": 102751,
+      "capacity": 8,
+      "raw_hex": "f0aaf0abf0acf7d1",
+      "baseline_text": "스미레…",
+      "source": "すみれ……"
+    },
+    "prefix_hex": "f0aa",
+    "original_japanese": "すみれ……",
+    "original_text_start": 102751,
+    "original_table_off_b": 102753
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0506",
+    "unit": "dialogue:b47f991a3f9c9c91",
+    "before": {
+      "offset": 102781,
+      "capacity": 6,
+      "raw_hex": "f0aef0aff7d1",
+      "baseline_text": "리아…",
+      "source": "リア……"
+    },
+    "after": {
+      "offset": 102779,
+      "capacity": 8,
+      "raw_hex": "f0adf0aef0aff7d1",
+      "baseline_text": "마리아…",
+      "source": "マリア……"
+    },
+    "prefix_hex": "f0ad",
+    "original_japanese": "マリア……",
+    "original_text_start": 102779,
+    "original_table_off_b": 102781
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0507",
+    "unit": "dialogue:8b58a53102b0b76c",
+    "before": {
+      "offset": 102809,
+      "capacity": 4,
+      "raw_hex": "8ba88163",
+      "baseline_text": "응…",
+      "source": "ンナ……"
+    },
+    "after": {
+      "offset": 102807,
+      "capacity": 6,
+      "raw_hex": "834a8ba88163",
+      "baseline_text": "カ응…",
+      "source": "カンナ……"
+    },
+    "prefix_hex": "834a",
+    "original_japanese": "カンナ……",
+    "original_text_start": 102807,
+    "original_table_off_b": 102809
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#0512",
+    "unit": "dialogue:6734812c4eead330",
+    "before": {
+      "offset": 102940,
+      "capacity": 6,
+      "raw_hex": "f0aef0baf7d1",
+      "baseline_text": "리카…",
+      "source": "リカ……"
+    },
+    "after": {
+      "offset": 102938,
+      "capacity": 8,
+      "raw_hex": "f0b9f0aef0baf7d1",
+      "baseline_text": "에리카…",
+      "source": "エリカ……"
+    },
+    "prefix_hex": "f0b9",
+    "original_japanese": "エリカ……",
+    "original_text_start": 102938,
+    "original_table_off_b": 102940
+  },
+  {
+    "id": "ADVDATA/LIPSYNC3.LIP#1093",
+    "unit": "dialogue:922dd75d34c108a2",
+    "before": {
+      "offset": 193338,
+      "capacity": 8,
+      "raw_hex": "f29ef15af0ef81b8",
+      "baseline_text": "겠어요∈",
+      "source": "解です！"
+    },
+    "after": {
+      "offset": 193336,
+      "capacity": 10,
+      "raw_hex": "f2c9f29ef15af0ef81b8",
+      "baseline_text": "알겠어요∈",
+      "source": "了解です！"
+    },
+    "prefix_hex": "f2c9",
+    "original_japanese": "了解です！",
+    "original_text_start": 193336,
+    "original_table_off_b": 193338
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#0342",
+    "unit": "dialogue:c8d78bfb6753d42f",
+    "before": {
+      "offset": 77217,
+      "capacity": 4,
+      "raw_hex": "f143f7d1",
+      "baseline_text": "래…",
+      "source": "うね……"
+    },
+    "after": {
+      "offset": 77215,
+      "capacity": 6,
+      "raw_hex": "f0d8f143f7d1",
+      "baseline_text": "그래…",
+      "source": "そうね……"
+    },
+    "prefix_hex": "f0d8",
+    "original_japanese": "そうね……",
+    "original_text_start": 77215,
+    "original_table_off_b": 77217
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#0552",
+    "unit": "dialogue:496c4a1092cdc645",
+    "before": {
+      "offset": 109456,
+      "capacity": 6,
+      "raw_hex": "f24df0f3f7d1",
+      "baseline_text": "실은…",
+      "source": "はな……"
+    },
+    "after": {
+      "offset": 109454,
+      "capacity": 8,
+      "raw_hex": "f0a6f24df0f3f7d1",
+      "baseline_text": "사실은…",
+      "source": "実はな……"
+    },
+    "prefix_hex": "f0a6",
+    "original_japanese": "実はな……",
+    "original_text_start": 109454,
+    "original_table_off_b": 109456
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#0628",
+    "unit": "dialogue:461f9e6a1b4b9c11",
+    "before": {
+      "offset": 121916,
+      "capacity": 6,
+      "raw_hex": "f28af35f8144",
+      "baseline_text": "건배．",
+      "source": "…乾杯。"
+    },
+    "after": {
+      "offset": 121914,
+      "capacity": 8,
+      "raw_hex": "f7d1f28af35f8144",
+      "baseline_text": "…건배．",
+      "source": "……乾杯。"
+    },
+    "prefix_hex": "f7d1",
+    "original_japanese": "……乾杯。",
+    "original_text_start": 121914,
+    "original_table_off_b": 121916
+  },
+  {
+    "id": "ADVDATA/LIPSYNC4.LIP#0679",
+    "unit": "dialogue:8402788aafef0ea1",
+    "before": {
+      "offset": 128872,
+      "capacity": 6,
+      "raw_hex": "81638ba88144",
+      "baseline_text": "…응．",
+      "source": "…うん。"
+    },
+    "after": {
+      "offset": 128870,
+      "capacity": 8,
+      "raw_hex": "816381638ba88144",
+      "baseline_text": "……응．",
+      "source": "……うん。"
+    },
+    "prefix_hex": "8163",
+    "original_japanese": "……うん。",
+    "original_text_start": 128870,
+    "original_table_off_b": 128872
+  }
+]

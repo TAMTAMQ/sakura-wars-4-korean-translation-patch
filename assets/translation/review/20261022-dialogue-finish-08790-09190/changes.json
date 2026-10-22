@@ -1,0 +1,164 @@
+[
+  {
+    "unit": "dialogue:c09312c80117d4eb",
+    "source": "そうなんですかぁ？//花火さんって、生粋の//大和なでしこって感じですぅ！",
+    "before": {
+      "id": "dialogue:c09312c80117d4eb",
+      "source": "そうなんですかぁ？//花火さんって、生粋の//大和なでしこって感じですぅ！",
+      "text": "그런가요？//하나비 씨는 정말 타고난//야마토 나데시코 같아요！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1291"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c09312c80117d4eb",
+      "source": "そうなんですかぁ？//花火さんって、生粋の//大和なでしこって感じですぅ！",
+      "text": "그런가요？//하나비 씨는 정말 타고난//참한 일본 여성 같아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1291"
+        }
+      ]
+    },
+    "reason": "大和なでしこ를 음역 대신 문맥에 맞게 현지화."
+  },
+  {
+    "unit": "dialogue:05b2ce4d71c3231b",
+    "source": "そ、そうでしょうか？//大和なでしこと言うのなら……//さくらさんや菊之丞さんの方が。",
+    "before": {
+      "id": "dialogue:05b2ce4d71c3231b",
+      "source": "そ、そうでしょうか？//大和なでしこと言うのなら……//さくらさんや菊之丞さんの方が。",
+      "text": "그，그럴까요？//야마토 나데시코라고 한다면…//사쿠라 씨나 키쿠노조 씨 쪽이…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1292"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:05b2ce4d71c3231b",
+      "source": "そ、そうでしょうか？//大和なでしこと言うのなら……//さくらさんや菊之丞さんの方が。",
+      "text": "그，그럴까요？//참한 일본 여성이라면…//사쿠라 씨나 키쿠노조 씨 쪽이…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1292"
+        }
+      ]
+    },
+    "reason": "같은 표현의 대화 내 의미와 번역 통일."
+  },
+  {
+    "unit": "dialogue:f2bf35532f12e954",
+    "source": "正真正銘の大和なでしこなんだ！",
+    "before": {
+      "id": "dialogue:f2bf35532f12e954",
+      "source": "正真正銘の大和なでしこなんだ！",
+      "text": "틀림없는 야마토 나데시코야！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1297"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f2bf35532f12e954",
+      "source": "正真正銘の大和なでしこなんだ！",
+      "text": "누가 봐도 참한 일본 여성이야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1297"
+        }
+      ]
+    },
+    "reason": "여성으로 착각하는 농담이 전달되도록 음역 교정."
+  },
+  {
+    "unit": "dialogue:27ccb6e4eb505a20",
+    "source": "正真正銘の大和なでしこなんだ！//すごいだろう∈",
+    "before": {
+      "id": "dialogue:27ccb6e4eb505a20",
+      "source": "正真正銘の大和なでしこなんだ！//すごいだろう∈",
+      "text": "틀림없는 야마토 나데시코야！//대단하지∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1314"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:27ccb6e4eb505a20",
+      "source": "正真正銘の大和なでしこなんだ！//すごいだろう∈",
+      "text": "누가 봐도 참한 일본 여성이야∈//대단하지∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1314"
+        }
+      ]
+    },
+    "reason": "선택지와 확장 대사의 번역 통일."
+  },
+  {
+    "unit": "dialogue:4e47dfc7af942404",
+    "source": "い、いや……なんでもないよ。//さ……花火くん、//俺たちも行こうか。",
+    "before": {
+      "id": "dialogue:4e47dfc7af942404",
+      "source": "い、いや……なんでもないよ。//さ……花火くん、//俺たちも行こうか。",
+      "text": "아，아니야…아무것도 아니야．//사…하나비 군，//우리도 가 볼까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1326"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4e47dfc7af942404",
+      "source": "い、いや……なんでもないよ。//さ……花火くん、//俺たちも行こうか。",
+      "text": "아，아니야…아무것도 아니야．//자…하나비 군，//우리도 가 볼까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1326"
+        }
+      ]
+    },
+    "reason": "さ를 발음대로 옮긴 오류 교정."
+  },
+  {
+    "unit": "dialogue:f7a85b47c1864c2a",
+    "source": "大神中尉の……//テクニシャン……",
+    "before": {
+      "id": "dialogue:f7a85b47c1864c2a",
+      "source": "大神中尉の……//テクニシャン……",
+      "text": "오오가미 중위님의…//테크니션…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1392"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f7a85b47c1864c2a",
+      "source": "大神中尉の……//テクニシャン……",
+      "text": "오오가미 중위님…//솜씨도 참…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1392"
+        }
+      ]
+    },
+    "reason": "일본어 명사 호칭을 그대로 옮겨 끊긴 문장을 자연스럽게 교정."
+  }
+]

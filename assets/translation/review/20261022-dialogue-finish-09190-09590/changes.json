@@ -1,0 +1,137 @@
+[
+  {
+    "unit": "dialogue:0dcb44f59a256caa",
+    "source": "ちょ、ちょっとね……//できたら……俺の上から、//どいてほしいんだけど……",
+    "before": {
+      "id": "dialogue:0dcb44f59a256caa",
+      "source": "ちょ、ちょっとね……//できたら……俺の上から、//どいてほしいんだけど……",
+      "text": "저，저기 말이야…//가능하다면…내 위에서，//비켜 줬으면 좋겠는데…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1584"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0dcb44f59a256caa",
+      "source": "ちょ、ちょっとね……//できたら……俺の上から、//どいてほしいんだけど……",
+      "text": "조，조금은…//가능하다면…내 위에서，//비켜 줬으면 좋겠는데…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1584"
+        }
+      ]
+    },
+    "reason": "무겁냐는 물음에 조금 무겁다고 답하는 부분 복원."
+  },
+  {
+    "unit": "dialogue:b5bb7c1186c03d36",
+    "source": "へ……？//別にええけど……//どないするん？",
+    "before": {
+      "id": "dialogue:b5bb7c1186c03d36",
+      "source": "へ……？//別にええけど……//どないするん？",
+      "text": "헤…？//상관없지만…//우째 할 끼고？",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1635"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b5bb7c1186c03d36",
+      "source": "へ……？//別にええけど……//どないするん？",
+      "text": "어…？//상관없지만…//우째 할 끼고？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1635"
+        }
+      ]
+    },
+    "reason": "일본어 의문 감탄사를 자연스러운 한국어로 교정."
+  },
+  {
+    "unit": "dialogue:c3038aadd1526cb9",
+    "source": "そうだな……なぜか、//子どものころを思い出す。//なつかしさのある街だ。",
+    "before": {
+      "id": "dialogue:c3038aadd1526cb9",
+      "source": "そうだな……なぜか、//子どものころを思い出す。//なつかしさのある街だ。",
+      "text": "그렇군…왠지，//어린 시절이 떠오르는군．//그리움이 느껴지는 거리다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1694"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c3038aadd1526cb9",
+      "source": "そうだな……なぜか、//子どものころを思い出す。//なつかしさのある街だ。",
+      "text": "그렇군…왠지，//어린 시절이 떠오르는군．//정겨움이 느껴지는 거리다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1694"
+        }
+      ]
+    },
+    "reason": "처음 본 거리에 대한 친숙함을 그리움과 구분."
+  },
+  {
+    "unit": "dialogue:2b6a6335bf50b32d",
+    "source": "へ……？//決闘じゃないのか？",
+    "before": {
+      "id": "dialogue:2b6a6335bf50b32d",
+      "source": "へ……？//決闘じゃないのか？",
+      "text": "헤…？//결투가 아닌 건가？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1865"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2b6a6335bf50b32d",
+      "source": "へ……？//決闘じゃないのか？",
+      "text": "어…？//결투가 아닌 건가？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1865"
+        }
+      ]
+    },
+    "reason": "일본어 의문 감탄사의 음역 교정."
+  },
+  {
+    "unit": "dialogue:8303b19bc2c0a83b",
+    "source": "ゲホゲホ……//し、死ぬかと思った……",
+    "before": {
+      "id": "dialogue:8303b19bc2c0a83b",
+      "source": "ゲホゲホ……//し、死ぬかと思った……",
+      "text": "게호게호…//지，죽는 줄 알았어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2027"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8303b19bc2c0a83b",
+      "source": "ゲホゲホ……//し、死ぬかと思った……",
+      "text": "콜록콜록…//지，죽는 줄 알았어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2027"
+        }
+      ]
+    },
+    "reason": "기침 의성어의 일본어 음역 교정."
+  }
+]

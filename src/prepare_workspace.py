@@ -7,6 +7,8 @@ from extract_cg_all import find_entries
 ROOT=Path(__file__).resolve().parents[1]
 
 def main():
+    if json.loads((ROOT/'assets/translation/index.json').read_text(encoding='utf-8')).get('schema'):
+        raise SystemExit('공유 대사 이관 이후에는 보호 경계를 파일별 문안에서 다시 만들 수 없습니다.')
     bindings={}
     for p in (ROOT/'assets/translation/segments').rglob('*.jsonl'):
         for line in p.read_text(encoding='utf-8').splitlines():

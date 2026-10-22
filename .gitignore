@@ -66,6 +66,9 @@ __pycache__/
 
 # 생성물·외부 참고 자료(배포하지 않음)
 /assets/images/review/image_review.html
+/assets/translation/review/dialogue_review.html
+# 검수 묶음 적용 전 되돌리기용 스냅샷(이전 상태는 git 기록에 있다)
+/assets/translation/review/*/before.zip
 /한글 디자인 참고용 로고.png
 
 # 저작권 자료: 게임 원본 그림에서 나온 이미지는 저장소에 올리지 않는다 (로컬에서만 생성·사용)

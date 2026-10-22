@@ -1,0 +1,37 @@
+{
+  "dcp_sha256": "d5083a05ac0240bef3fe6288f5d8406ea3d76c2c3d3ca7b80be11494ec5d718d",
+  "review_id": 53,
+  "changed_files": [
+    "ADVDATA/CG_ALL1.DAT",
+    "ADVDATA/GR.IDX",
+    "SLG/G02/CMAP02.GRCT",
+    "SLG/G03/CMAP03.GRCT",
+    "SLG/G04/CMAP04.GRCT",
+    "SLG/UNITS/COQUELICOT_F2.GRCT",
+    "SLG/UNITS/ERICA_F2.GRCT",
+    "SLG/UNITS/GLYCINE_F2.GRCT",
+    "SLG/UNITS/HANABI_F2.GRCT",
+    "SLG/UNITS/LOBELIA_F2.GRCT"
+  ],
+  "changed_cg_blocks": [
+    736
+  ],
+  "canvas": [
+    640,
+    480
+  ],
+  "panel_height": [
+    132,
+    188
+  ],
+  "font_size": [
+    17,
+    28
+  ],
+  "tile_count": [
+    12,
+    13
+  ],
+  "max_pixel_diff": 0,
+  "runtime_verified": false
+}

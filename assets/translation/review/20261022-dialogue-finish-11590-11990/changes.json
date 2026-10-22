@@ -1,0 +1,137 @@
+[
+  {
+    "unit": "dialogue:818203062ddccdeb",
+    "source": "ち、ちがうんだ……//織姫くんに見とれてしまって……",
+    "before": {
+      "id": "dialogue:818203062ddccdeb",
+      "source": "ち、ちがうんだ……//織姫くんに見とれてしまって……",
+      "text": "아，아니야…//오리히메 군에게 넋을 잃고//바라보고 있어서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0681"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:818203062ddccdeb",
+      "source": "ち、ちがうんだ……//織姫くんに見とれてしまって……",
+      "text": "아，아니야…//오리히메 군을 넋 놓고//바라보고 있었어…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0681"
+        }
+      ]
+    },
+    "reason": "어색하게 이어진 원인 설명을 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:5e40f1df30a98a46",
+    "source": "エリカくんのドジを直すこと……",
+    "before": {
+      "id": "dialogue:5e40f1df30a98a46",
+      "source": "エリカくんのドジを直すこと……",
+      "text": "에리카 군의 실수를 바로잡는 것…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0994"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5e40f1df30a98a46",
+      "source": "エリカくんのドジを直すこと……",
+      "text": "에리카 군의 덜렁거림 고치기…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0994"
+        }
+      ]
+    },
+    "reason": "ドジ가 실수 하나가 아니라 덜렁대는 성격을 가리키는 의미 복원."
+  },
+  {
+    "unit": "dialogue:826c0e23c2d22036",
+    "source": "私こと、大神一郎は……//エリカくんのドジを直すことを//誓います……",
+    "before": {
+      "id": "dialogue:826c0e23c2d22036",
+      "source": "私こと、大神一郎は……//エリカくんのドジを直すことを//誓います……",
+      "text": "저，오오가미 이치로는…//에리카 군의 실수를 바로잡을 것을//맹세합니다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1003"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:826c0e23c2d22036",
+      "source": "私こと、大神一郎は……//エリカくんのドジを直すことを//誓います……",
+      "text": "저，오오가미 이치로는…//에리카 군의 덜렁거림을 고칠 것을//맹세합니다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1003"
+        }
+      ]
+    },
+    "reason": "선택지와 맹세 대사 의미 통일."
+  },
+  {
+    "unit": "dialogue:30c60ed2ea7bcc63",
+    "source": "なるほど……いい教えだね。//さすがは、大和なでしこだ。",
+    "before": {
+      "id": "dialogue:30c60ed2ea7bcc63",
+      "source": "なるほど……いい教えだね。//さすがは、大和なでしこだ。",
+      "text": "과연…좋은 가르침이야．//역시，야마토 나데시코로군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1185"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:30c60ed2ea7bcc63",
+      "source": "なるほど……いい教えだね。//さすがは、大和なでしこだ。",
+      "text": "과연…좋은 가르침이야．//역시 참한 일본 여성이군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1185"
+        }
+      ]
+    },
+    "reason": "전통적 여성상에 관한 표현 번역 통일."
+  },
+  {
+    "unit": "dialogue:f91e71fcf158f164",
+    "source": "最愛の大神中尉に……//別れの抱擁をしてほしいの。//やってくれるわよね？",
+    "before": {
+      "id": "dialogue:f91e71fcf158f164",
+      "source": "最愛の大神中尉に……//別れの抱擁をしてほしいの。//やってくれるわよね？",
+      "text": "가장 사랑하는 오오가미 중위에게…//작별의 포옹을 해 줬으면 해．//해 줄 거지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1381"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f91e71fcf158f164",
+      "source": "最愛の大神中尉に……//別れの抱擁をしてほしいの。//やってくれるわよね？",
+      "text": "사랑하는 오오가미 중위가…//작별 인사로 꼭 안아 줬으면 해．//해 줄 거지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1381"
+        }
+      ]
+    },
+    "reason": "포옹을 요청하는 주체와 상대가 명확하게 읽히도록 교정."
+  }
+]

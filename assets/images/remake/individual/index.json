@@ -1,0 +1,112 @@
+[
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 6,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0006_BPV1/0000_patched.png",
+  "id": 120,
+  "remake": "assets/images/remake/individual/SLG/G02/CMAP02.GRCT/0006_0000.png",
+  "note": "상단 ???는 번역 대상이 아니므로 원본 글자·크기·위치를 그대로 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 7,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0007_BPV1/0000_patched.png",
+  "id": 121,
+  "remake": "assets/images/remake/individual/SLG/G02/CMAP02.GRCT/0007_0000.png",
+  "note": "녹귀: 원본 오른쪽 세로 な/し 위치에 없/음을 세로 배치. 아래 기병 증귀도 왼쪽 96px 영역에 배치하여 겹침 방지. 가로 압축 없음.",
+  "scope": "부분 수정: 아래쪽 기병 증귀·세로 없음만 재배치. 다른 한글 영역은 기존 재제작과 동일."
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 8,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0008_BPV1/0000_patched.png",
+  "id": 122,
+  "remake": "assets/images/remake/individual/SLG/G02/CMAP02.GRCT/0008_0000.png",
+  "note": "적귀: 원본 오른쪽 세로 な/し 위치에 없/음을 세로 배치. 아래 기병 증귀도 왼쪽 96px 영역에 배치하여 겹침 방지. 가로 압축 없음.",
+  "scope": "부분 수정: 아래쪽 기병 증귀·세로 없음만 재배치. 다른 한글 영역은 기존 재제작과 동일."
+ },
+ {
+  "source": "SLG/G02/CMAP02.GRCT",
+  "block": 9,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G02/CMAP02.GRCT/0009_BPV1/0000_patched.png",
+  "id": 123,
+  "remake": "assets/images/remake/individual/SLG/G02/CMAP02.GRCT/0009_0000.png",
+  "note": "청귀: 원본 오른쪽 세로 な/し 위치에 없/음을 세로 배치. 아래 기병 증귀도 왼쪽 96px 영역에 배치하여 겹침 방지. 가로 압축 없음.",
+  "scope": "부분 수정: 아래쪽 기병 증귀·세로 없음만 재배치. 다른 한글 영역은 기존 재제작과 동일."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 1,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0001_BPV1/0001_patched.png",
+  "id": 127,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0001_0001.png",
+  "note": "에리카 이름판: 일본어 광무 부분의 번역은 유지하고, 번역 대상이 아닌 F2 두 칸은 원본 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 13,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0013_BPV1/0000_patched.png",
+  "id": 132,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0013_0000.png",
+  "note": "상단 ??? 원본 복원. 마조기병 하쿠시키는 원래 24px 행에 자연 비율로 배치. 검은 이름칸은 원본 가나의 작은 글자 높이에 맞춰 하쿠시키를 다시 배치. 가로 압축 없음.",
+  "scope": "부분 수정: 물음표 복원, 제목·검은 이름칸 재배치. 아래 필살기 문구는 기존 재제작과 동일."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 14,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0014_BPV1/0001_patched.png",
+  "id": 134,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0014_0001.png",
+  "note": "글리신 이름판: 번역 대상이 아닌 F2 두 칸을 원본 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 15,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0015_BPV1/0001_patched.png",
+  "id": 136,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0015_0001.png",
+  "note": "코쿠리코 이름판: 번역 대상이 아닌 F2 두 칸을 원본 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 16,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0016_BPV1/0001_patched.png",
+  "id": 138,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0016_0001.png",
+  "note": "로벨리아 이름판: 번역 대상이 아닌 F2 두 칸을 원본 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "SLG/G03/CMAP03.GRCT",
+  "block": 17,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/CMAP03.GRCT/0017_BPV1/0001_patched.png",
+  "id": 140,
+  "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0017_0001.png",
+  "note": "하나비 이름판: 번역 대상이 아닌 F2 두 칸을 원본 복원.",
+  "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ }
+]

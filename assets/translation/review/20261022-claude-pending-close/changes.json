@@ -1,0 +1,47 @@
+[
+  {
+    "unit": "dialogue:373bd8c3b72e2843",
+    "source": "イリス//プロディジュー・ジャンポール",
+    "before": {
+      "id": "dialogue:373bd8c3b72e2843",
+      "source": "イリス//プロディジュー・ジャンポール",
+      "text": "이리스//프로디지와 장 폴",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1227"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2170"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1885"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1462"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:373bd8c3b72e2843",
+      "source": "イリス//プロディジュー・ジャンポール",
+      "text": "이리스//프로디지・장 폴",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1227"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2170"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1885"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1462"
+        }
+      ]
+    },
+    "reason": "원문은 조각이 아니라 완전한 필살기 외침(이리스 / 프로디주・장 폴). 「・」을 「와」로 옮긴 오역을 바로잡음. 장 폴 표기는 다른 대사와 통일."
+  }
+]

@@ -1,0 +1,3031 @@
+[
+  {
+    "unit": "dialogue:15da5992714d0a02",
+    "source": "一階客席",
+    "before": {
+      "id": "dialogue:15da5992714d0a02",
+      "source": "１液亜疫益",
+      "text": "１층 객석",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:15da5992714d0a02",
+      "source": "一階客席",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0001"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:fae6ce40bc3ab4d3"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:7e8cc04da35ebf95",
+    "source": "地下へ",
+    "before": {
+      "id": "dialogue:7e8cc04da35ebf95",
+      "source": "宇暗或",
+      "text": "지하로",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0003"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7e8cc04da35ebf95",
+      "source": "地下へ",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0003"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:02d9fbba08035e5c"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:b78bce724ff3b9b3",
+    "source": "さくらくん",
+    "before": {
+      "id": "dialogue:b78bce724ff3b9b3",
+      "source": "鵜嘘唄亜駅",
+      "text": "사쿠라 군",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0024"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b78bce724ff3b9b3",
+      "source": "さくらくん",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0024"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0009"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0022"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0024"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:d4cc4436a7db5d69"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:67132804f98ad7b8",
+    "source": "すみれくん",
+    "before": {
+      "id": "dialogue:67132804f98ad7b8",
+      "source": "稲営悦亜駅",
+      "text": "스미레 군",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0010"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:67132804f98ad7b8",
+      "source": "すみれくん",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0010"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0010"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:f77d54bc2bc1e004"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:2d6fc373f1389ea3",
+    "source": "マリア",
+    "before": {
+      "id": "dialogue:2d6fc373f1389ea3",
+      "source": "烏斡慰",
+      "text": "마리아",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0011"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2d6fc373f1389ea3",
+      "source": "マリア",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0011"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0011"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:c9c663346fa6b05d"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:a0fface91ac29a2c",
+    "source": "カンナ",
+    "before": {
+      "id": "dialogue:a0fface91ac29a2c",
+      "source": "謁吋",
+      "text": "칸나",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0012"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a0fface91ac29a2c",
+      "source": "カンナ",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0012"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0012"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:85733ed1ba6fafac"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:5caf369912307719",
+    "source": "アイリス",
+    "before": {
+      "id": "dialogue:5caf369912307719",
+      "source": "慰葦斡稲",
+      "text": "아이리스",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0013"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5caf369912307719",
+      "source": "アイリス",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0013"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0013"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:50fc1bd165ed0e06"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:ea2afda3858d65e7",
+    "source": "紅蘭",
+    "before": {
+      "id": "dialogue:ea2afda3858d65e7",
+      "source": "越閲榎",
+      "text": "홍란",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0014"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ea2afda3858d65e7",
+      "source": "紅蘭",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0014"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0014"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:6e2340ee305ef334"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:af9a5abce50a5958",
+    "source": "レニ",
+    "before": {
+      "id": "dialogue:af9a5abce50a5958",
+      "source": "悦絢",
+      "text": "레니",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0016"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:af9a5abce50a5958",
+      "source": "レニ",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0016"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0016"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:d96a9d91e76d9a6d"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:c2bcd7d7d0eb12d1",
+    "source": "エリカくん",
+    "before": {
+      "id": "dialogue:c2bcd7d7d0eb12d1",
+      "source": "穐斡扱亜駅",
+      "text": "에리카 군",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0023"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c2bcd7d7d0eb12d1",
+      "source": "エリカくん",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0023"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0017"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0023"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:68703b2f9ae371a1"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:322e1a0af76ae26f",
+    "source": "グリシーヌ",
+    "before": {
+      "id": "dialogue:322e1a0af76ae26f",
+      "source": "円斡園堰",
+      "text": "글리신",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0018"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:322e1a0af76ae26f",
+      "source": "グリシーヌ",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0018"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0018"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:c0cd5e805f32b882"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:68e23bba0e64873a",
+    "source": "コクリコ",
+    "before": {
+      "id": "dialogue:68e23bba0e64873a",
+      "source": "越瓜斡越",
+      "text": "코쿠리코",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0019"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:68e23bba0e64873a",
+      "source": "コクリコ",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0019"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0019"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:b7ccbb8707894171"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:8e3400dce859e709",
+    "source": "ロベリア",
+    "before": {
+      "id": "dialogue:8e3400dce859e709",
+      "source": "或奄斡慰",
+      "text": "로벨리아",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0020"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8e3400dce859e709",
+      "source": "ロベリア",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0020"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0020"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:b7ab0f2435c60ed6"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:986ad9d9ca3173f1",
+    "source": "花火くん",
+    "before": {
+      "id": "dialogue:986ad9d9ca3173f1",
+      "source": "暗吋宴亜駅",
+      "text": "하나비 군",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0021"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:986ad9d9ca3173f1",
+      "source": "花火くん",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0021"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0021"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:a0fe1e353b38731a"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:2b8f7e4067fd99a5",
+    "source": "◆割り込みイベント発生！",
+    "before": {
+      "id": "dialogue:2b8f7e4067fd99a5",
+      "source": "◆亥椅演娃亜葦炎娃亜怨位！",
+      "text": "◆돌발 이벤트 발생∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0032"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2b8f7e4067fd99a5",
+      "source": "◆割り込みイベント発生！",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0032"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0032"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:dcd09a8d35907e04"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:c7a95072c7ab25de",
+    "source": "「あぁ、無情」の台本。//ジャン・バルジャンの生涯を//描いた感動作品。",
+    "before": {
+      "id": "dialogue:c7a95072c7ab25de",
+      "source": "「慰，亜煙握」挨亜鮎鋭．//逢亜怨逢挨亜位燕為//円猿亜縁艶苑亥亜因薗．",
+      "text": "「레 미제라블」의 대본．//장 발장의 생애를//그린 감동적인 작품．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0080"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c7a95072c7ab25de",
+      "source": "「あぁ、無情」の台本。//ジャン・バルジャンの生涯を//描いた感動作品。",
+      "text": "「레 미제라블」의 대본．//장 발장의 생애를//그린 감동적인 작품．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0080"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0080"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:ececce7604e77798",
+    "source": "銀座の成り立ちが記された//「銀座文書」。//加山が入手してきた。",
+    "before": {
+      "id": "dialogue:ececce7604e77798",
+      "source": "奥甥挨亜尉運姐亜苑往//「奥甥亜応瑛」．//扱押烏姐亜育移叡亜旺綾．",
+      "text": "긴자의 유래가 적힌//「긴자 문서」．//카야마가 입수해 왔다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0082"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ececce7604e77798",
+      "source": "銀座の成り立ちが記された//「銀座文書」。//加山が入手してきた。",
+      "text": "긴자의 유래가 적힌//「긴자 문서」．//카야마가 입수해 왔다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0082"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0082"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:21022068bc2896a5",
+    "source": "大型魔操機兵の消失地点に//残されていた//「シカミ」と呼ばれる能面。",
+    "before": {
+      "id": "dialogue:21022068bc2896a5",
+      "source": "鮎横亜烏欧壱殴葦亜鵜唄王亜宇翁穐//襖慰芦鴬//「磯扱営」唄亜雨斡鯵亜鴎黄（姐旭）．",
+      "text": "대형 마조기병이 사라진 지점에//남겨져 있던//「시카미」라는 노 가면．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0083"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:21022068bc2896a5",
+      "source": "大型魔操機兵の消失地点に//残されていた//「シカミ」と呼ばれる能面。",
+      "text": "대형 마조기병이 사라진 지점에//남겨져 있던//「시카미」라는 노 가면．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0083"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:5089bac91771b475",
+    "source": "黒之巣会を倒したときに//帝国華撃団のみんなと撮影した//記念写真。",
+    "before": {
+      "id": "dialogue:5089bac91771b475",
+      "source": "嘘或鴎稲扱葦為亜煙俺卸安亜恩//渦憶渥臆曳亜綾温葦亜穏鴛//壱音鵜王．",
+      "text": "흑지소회를 물리쳤을 때//제국화격단 모두와 함께 찍은//기념사진．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0085"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5089bac91771b475",
+      "source": "黒之巣会を倒したときに//帝国華撃団のみんなと撮影した//記念写真。",
+      "text": "흑지소회를 물리쳤을 때//제국화격단 모두와 함께 찍은//기념사진．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0085"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f8f68ed11698bf16",
+    "source": "黒鬼会を倒したときに//帝国華撃団のみんなと撮影した//記念写真。",
+    "before": {
+      "id": "dialogue:f8f68ed11698bf16",
+      "source": "嘘或迂絢扱葦為亜煙俺卸安亜恩//渦憶渥臆曳亜綾温葦亜穏鴛//壱音鵜王．",
+      "text": "흑귀회를 물리쳤을 때//제국화격단 모두와 함께 찍은//기념사진．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0086"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f8f68ed11698bf16",
+      "source": "黒鬼会を倒したときに//帝国華撃団のみんなと撮影した//記念写真。",
+      "text": "흑귀회를 물리쳤을 때//제국화격단 모두와 함께 찍은//기념사진．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0086"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0086"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:37dec56dab414bd1",
+    "source": "巴里の平和を守ったときに//巴里華撃団のみんなと撮影した//記念写真。",
+    "before": {
+      "id": "dialogue:37dec56dab414bd1",
+      "source": "芋斡挨亜下渥為亜宇化安亜恩//芋斡渥臆曳亜綾温葦亜穏鴛//壱音鵜王．",
+      "text": "파리의 평화를 지켰을 때//파리화격단 모두와 함께 찍은//기념사진．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0087"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:37dec56dab414bd1",
+      "source": "巴里の平和を守ったときに//巴里華撃団のみんなと撮影した//記念写真。",
+      "text": "파리의 평화를 지켰을 때//파리화격단 모두와 함께 찍은//기념사진．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0087"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0087"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:1b48b78805bf9a8c",
+    "source": "マリアのブロマイド。//橘の花の咲いた小枝を//そっと差し出している。",
+    "before": {
+      "id": "dialogue:1b48b78805bf9a8c",
+      "source": "烏斡慰挨亜嫁或烏葦宛．//火寡葦亜珂亜禍姐宇為//禾稼磯亜咽箇員亜芦綾．",
+      "text": "마리아의 브로마이드．//귤꽃이 핀 잔가지를//살며시 내밀고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0092"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b48b78805bf9a8c",
+      "source": "マリアのブロマイド。//橘の花の咲いた小枝を//そっと差し出している。",
+      "text": "마리아의 브로마이드．//귤꽃이 핀 잔가지를//살며시 내밀고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0092"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0092"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:d7e0ed861f7be2bd",
+    "source": "アイリスのブロマイド。//あやめの花を幸せそうに//ながめている。",
+    "before": {
+      "id": "dialogue:d7e0ed861f7be2bd",
+      "source": "慰葦斡稲挨亜嫁或烏葦宛．//菓寡安亜蝦卯闇亜課握衛或//嘩唄閏員亜芦綾．",
+      "text": "아이리스의 브로마이드．//붓꽃을 행복한 표정으로//바라보고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0094"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d7e0ed861f7be2bd",
+      "source": "アイリスのブロマイド。//あやめの花を幸せそうに//ながめている。",
+      "text": "아이리스의 브로마이드．//붓꽃을 행복한 표정으로//바라보고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0094"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0094"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:7affcfb463802ed5",
+    "source": "紅蘭のブロマイド。//蘭の花をやさしく//胸につつみこんでいる。",
+    "before": {
+      "id": "dialogue:7affcfb463802ed5",
+      "source": "越閲榎挨亜嫁或烏葦宛．//貨栄寡安亜綾握暗粟//姐迦穐亜薗員亜芦綾．",
+      "text": "홍란의 브로마이드．//난초꽃을 다정하게//가슴에 품고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0095"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7affcfb463802ed5",
+      "source": "紅蘭のブロマイド。//蘭の花をやさしく//胸につつみこんでいる。",
+      "text": "홍란의 브로마이드．//난초꽃을 다정하게//가슴에 품고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0095"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0095"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:127b450a81a5c8bd",
+    "source": "レニのブロマイド。//はかなく散りゆく一輪の白い花を//静かに見つめている。",
+    "before": {
+      "id": "dialogue:127b450a81a5c8bd",
+      "source": "悦絢挨亜嫁或烏葦宛．//俄虻葦亜宇鯵亜暗峨亜寡亜闇亜過葦為//欧案厭亜嘩唄閏員亜芦綾．",
+      "text": "레니의 브로마이드．//덧없이 지는 하얀 꽃 한 송이를//조용히 바라보고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0097"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:127b450a81a5c8bd",
+      "source": "レニのブロマイド。//はかなく散りゆく一輪の白い花を//静かに見つめている。",
+      "text": "레니의 브로마이드．//덧없이 지는 하얀 꽃 한 송이를//조용히 바라보고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0097"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0097"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:b0bc3d8c80e4b639",
+    "source": "エリカのブロマイド。//たくさんの蛍にかこまれて、//感激している。",
+    "before": {
+      "id": "dialogue:b0bc3d8c80e4b639",
+      "source": "穐斡扱挨亜嫁或烏葦宛．//移我鴛亜掩牙雨葦穐亜画愛臥威//縁臆暗員亜芦綾．",
+      "text": "에리카의 브로마이드．//수많은 반딧불이에 둘러싸여//감격하고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0098"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b0bc3d8c80e4b639",
+      "source": "エリカのブロマイド。//たくさんの蛍にかこまれて、//感激している。",
+      "text": "에리카의 브로마이드．//수많은 반딧불이에 둘러싸여//감격하고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0098"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0098"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:e9bcf1ceff03ce81",
+    "source": "グリシーヌのブロマイド。//風鈴のやさしい音色を//楽しんでいる。",
+    "before": {
+      "id": "dialogue:e9bcf1ceff03ce81",
+      "source": "円斡園堰挨亜嫁或烏葦宛．//芽蛾挨亜鴛鴛闇亜葵斡為//賀壱員亜芦綾．",
+      "text": "글리신의 브로마이드．//풍경의 은은한 소리를//즐기고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0099"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e9bcf1ceff03ce81",
+      "source": "グリシーヌのブロマイド。//風鈴のやさしい音色を//楽しんでいる。",
+      "text": "글리신의 브로마이드．//풍경의 은은한 소리를//즐기고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0099"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0099"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:7088e64afa21c38e",
+    "source": "コクリコのブロマイド。//シャボン玉をふくらませて、//うれしそうにはしゃいでいる。",
+    "before": {
+      "id": "dialogue:7088e64afa21c38e",
+      "source": "越瓜斡越挨亜嫁或烏葦宛．//宴雅餓駕安亜雨旭瑛//園吋粟亜賀韻介暗員亜芦綾．",
+      "text": "코쿠리코의 브로마이드．//비눗방울을 불며//즐겁게 뛰놀고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0100"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7088e64afa21c38e",
+      "source": "コクリコのブロマイド。//シャボン玉をふくらませて、//うれしそうにはしゃいでいる。",
+      "text": "코쿠리코의 브로마이드．//비눗방울을 불며//즐겁게 뛰놀고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0100"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0100"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:29cd321c7460888a",
+    "source": "花火のブロマイド。//線香花火のはかない光を//そっと見つめている。",
+    "before": {
+      "id": "dialogue:29cd321c7460888a",
+      "source": "暗吋宴挨亜嫁或烏葦宛．//鰯塊雨寡挨亜俄虻鯵亜壊安//姐一厭亜嘩唄閏員亜芦綾．",
+      "text": "하나비의 브로마이드．//선향불꽃의 덧없는 빛을//가만히 바라보고 있다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0102"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:29cd321c7460888a",
+      "source": "花火のブロマイド。//線香花火のはかない光を//そっと見つめている。",
+      "text": "하나비의 브로마이드．//선향불꽃의 덧없는 빛을//가만히 바라보고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0102"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0102"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:2370558846b228f3",
+    "source": "三人娘と大神のブロマイド。//掃除の最中に//ふざけて撮った一枚。",
+    "before": {
+      "id": "dialogue:2370558846b228f3",
+      "source": "逸亜葵廻鰻亜迂迂姐営挨亜嫁或烏葦宛．//快葵亜胤域//逢貨蔚稼亜穏鴛亜鵜王．",
+      "text": "세 소녀와 오오가미의 브로마이드．//청소 도중//장난치며 찍은 사진．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0103"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2370558846b228f3",
+      "source": "三人娘と大神のブロマイド。//掃除の最中に//ふざけて撮った一枚。",
+      "text": "세 소녀와 오오가미의 브로마이드．//청소 도중//장난치며 찍은 사진．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0103"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0103"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:88aa55b5e94f41d8",
+    "source": "大神が、普段から持ち歩いている//これといって特徴の無いサイフ。//とても盗まれやすい。",
+    "before": {
+      "id": "dialogue:88aa55b5e94f41d8",
+      "source": "迂迂姐営姐亜下葵穐亜飲員亜綾絢鯵//怪厭亜悔恢亜虻鯵亜宇詠．//胤懐戒壱亜慰溢亜拐綾．",
+      "text": "오오가미가 평소 들고 다니는//딱히 특징 없는 지갑．//도둑맞기 아주 쉽다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0104"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:88aa55b5e94f41d8",
+      "source": "大神が、普段から持ち歩いている//これといって特徴の無いサイフ。//とても盗まれやすい。",
+      "text": "오오가미가 평소 들고 다니는//딱히 특징 없는 지갑．//도둑맞기 아주 쉽다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0104"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0104"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:d19f95753496b9c6",
+    "source": "降魔戦争の時、//銀座に出現した謎の能楽師。//大久保長安だと思われる。",
+    "before": {
+      "id": "dialogue:d19f95753496b9c6",
+      "source": "貝烏院凱亜劾磯//奥甥穐亜吋夏貨亜移移億屋挨亜鴎姐嘘磯．//迂嘘閏亜吋姐押稲或亜荻握英綾．",
+      "text": "강마전쟁 때 긴자에 나타난 수수께끼의 노 배우．오오쿠보 나가야스로 추정된다．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0107"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d19f95753496b9c6",
+      "source": "降魔戦争の時、//銀座に出現した謎の能楽師。//大久保長安だと思われる。",
+      "text": "강마전쟁 때 긴자에 나타난 수수께끼의 노 배우．오오쿠보 나가야스로 추정된다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0107"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:06edca1a0eb28f06",
+    "source": "闇夜に踊る大久保長安の亡霊。//今は、大神たちに説得され、//帝都の守護神となっている。",
+    "before": {
+      "id": "dialogue:06edca1a0eb28f06",
+      "source": "淫岡亜按穐瑛亜沖荻鯵亜迂嘘閏亜吋姐押稲挨亜外咳．//宇価鴛亜迂迂姐営亜鞍蝦穐粟亜害崖蔭淫//渦胤挨亜移慨園葦亜蔭蟹綾．",
+      "text": "어둠 속에서 춤추는 오오쿠보 나가야스 망령．지금은 오오가미 일행이 설득해 제도 수호신이 됐다．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0108"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:06edca1a0eb28f06",
+      "source": "闇夜に踊る大久保長安の亡霊。//今は、大神たちに説得され、//帝都の守護神となっている。",
+      "text": "어둠 속에서 춤추는 오오쿠보 나가야스 망령．지금은 오오가미 일행이 설득해 제도 수호신이 됐다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0108"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:26f6e7a0b06685c5",
+    "source": "おつかれさまでした、大神さん。//今回も被害が少なくて//よかったですね。",
+    "before": {
+      "id": "dialogue:26f6e7a0b06685c5",
+      "source": "移員暗概飴絢綾，亜迂迂姐営亜涯．//葦碍穐胤亜蓋叡姐亜苑淫瑛//綾蝦葦遠衣．",
+      "text": "수고하셨습니다，오오가미 씨．//이번에도 피해가 적어서//다행이네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0109"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:26f6e7a0b06685c5",
+      "source": "おつかれさまでした、大神さん。//今回も被害が少なくて//よかったですね。",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0109"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:022f959323e5bb5d"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:e07e3851a00989d7",
+    "source": "ああ、そうだな。//みんながしっかりと//やってくれたおかげだよ。",
+    "before": {
+      "id": "dialogue:e07e3851a00989d7",
+      "source": "慰，亜円愛粟．//綾飲亜姶厩暗粟//叡街亜該緯葦宇．",
+      "text": "아，그러게．//모두 확실하게//해 준 덕분이지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0110"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e07e3851a00989d7",
+      "source": "ああ、そうだな。//みんながしっかりと//やってくれたおかげだよ。",
+      "text": "아，그러게．//모두 확실하게//해 준 덕분이지．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0110"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:b8f3d1b050667da3",
+    "source": "ふっ……当然ですわ。//あの程度の事故でしたら、//わたくし一人で十分でしたわ。",
+    "before": {
+      "id": "dialogue:b8f3d1b050667da3",
+      "source": "鎧……劾以暗骸．//円亜握胤亜鵜員唄旭//畏亜浬甥或胤亜維緯沿淫衣．",
+      "text": "흥…당연하죠．//그 정도 사고라면//저 혼자로도 충분했어요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0111"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b8f3d1b050667da3",
+      "source": "ふっ……当然ですわ。//あの程度の事故でしたら、//わたくし一人で十分でしたわ。",
+      "text": "흥…당연하죠．//그 정도 사고라면//저 혼자로도 충분했어요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0111"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f01d269009c78be6",
+    "source": "すみれ……過信は禁物よ。//街の人にケガでもあったら、//どうするつもりなの？",
+    "before": {
+      "id": "dialogue:f01d269009c78be6",
+      "source": "稲営悦……甥一鴛亜価霞葦押．//韻斡亜鵜加飲葦亜綾蔚壱唄胤亜暗旭//淫馨粟亜異亜蛙葦押？",
+      "text": "스미레…자만은 금물이야．//거리 사람들이 다치기라도 하면//어떻게 할 셈이야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0112"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f01d269009c78be6",
+      "source": "すみれ……過信は禁物よ。//街の人にケガでもあったら、//どうするつもりなの？",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0112"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:a8195c6521d38804"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:bf6a71b27f6198a9",
+    "source": "や〜い、怒られてやんの。//だいたいお前一人で//なにができるってんだよ。",
+    "before": {
+      "id": "dialogue:bf6a71b27f6198a9",
+      "source": "押～亜浬垣綾～．//燕栄穐亜柿亜浬甥瑛//蛎亜異亜移亜芦綾鯵亜韻押．",
+      "text": "야～，혼나고 있네～．//애초에 너 혼자서//뭘 할 수 있다는 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0113"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bf6a71b27f6198a9",
+      "source": "や〜い、怒られてやんの。//だいたいお前一人で//なにができるってんだよ。",
+      "text": "야～，혼나고 있네～．//애초에 너 혼자서//뭘 할 수 있다는 거야．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0113"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:588ddc1f6e3c0b38",
+    "source": "なんですってぇ！",
+    "before": {
+      "id": "dialogue:588ddc1f6e3c0b38",
+      "source": "鈎唄員衣！",
+      "text": "뭐라고요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0114"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:588ddc1f6e3c0b38",
+      "source": "なんですってぇ！",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0114"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:0d690294fa06954f"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:8004fc183a6ecc34",
+    "source": "お、はじまった。//この二人のケンカを見んと//帝劇に帰ってきた気がせんわ。",
+    "before": {
+      "id": "dialogue:8004fc183a6ecc34",
+      "source": "迂，亜磯因劃綾．//葦亜画亜臥嚇安亜歌亜閏旭//渦憶各逢穐亜雲慰廓亜壱緯葦亜歌亜飲淫．",
+      "text": "오，시작됐다．//이 둘 싸움을 안 보면//제국극장에 돌아온 기분이 안 들어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0115"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8004fc183a6ecc34",
+      "source": "お、はじまった。//この二人のケンカを見んと//帝劇に帰ってきた気がせんわ。",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0115"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:c30061116cf0d307"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:f036eda1a5d56b76",
+    "source": "紅蘭までそんなこと言って……//ねぇ、レニ……//なんとかしてよぉ。",
+    "before": {
+      "id": "dialogue:f036eda1a5d56b76",
+      "source": "越閲榎引宇亜円拡亜撹安……//畏壱，亜悦絢……//淫馨粟亜格亜叡核．",
+      "text": "홍란까지 그런 말을…//저기，레니…//어떻게 좀 해 줘．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0116"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f036eda1a5d56b76",
+      "source": "紅蘭までそんなこと言って……//ねぇ、レニ……//なんとかしてよぉ。",
+      "text": "홍란까지 그런 말을…//저기，레니…//어떻게 좀 해 줘．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0116"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f5ec3abb30473d50",
+    "source": "……心配しなくていい。//いつものことだし……",
+    "before": {
+      "id": "dialogue:f5ec3abb30473d50",
+      "source": "……殻握亜歌亜叡胤亜獲．//確亜芦鯵亜鞍葦員……",
+      "text": "…걱정 안 해도 돼．//늘 있는 일이고…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0117"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f5ec3abb30473d50",
+      "source": "……心配しなくていい。//いつものことだし……",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0117"
+        }
+      ],
+      "parts": [
+        {
+          "ref": "dialogue:d59279bd1199daa1"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원 및 기존 공통 문안 참조"
+  },
+  {
+    "unit": "dialogue:c4e4a4a3c1e49cf9",
+    "source": "ま、恒例行事みたいな//ものですね〜。//ほっとくのが一番で〜す。",
+    "before": {
+      "id": "dialogue:c4e4a4a3c1e49cf9",
+      "source": "鈎，亜貝頴亜芦鯵亜鞍//温鴛亜韻穫衣～．//咽覚胃汚鯵亜粟亜囲員穫衣～．",
+      "text": "뭐，항상 있는 일//같은 거예요～．//내버려두는 게 최고예요～．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0118"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c4e4a4a3c1e49cf9",
+      "source": "ま、恒例行事みたいな//ものですね〜。//ほっとくのが一番で〜す。",
+      "text": "뭐，항상 있는 일//같은 거예요～．//내버려두는 게 최고예요～．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0118"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:48112c67ddf28af5",
+    "source": "そうかもしれませんけど……//大神さん……//なんとか言ってください。",
+    "before": {
+      "id": "dialogue:48112c67ddf28af5",
+      "source": "円角宇胤亜圧赫宇一……//迂迂姐営亜涯……//鈎唄員亜撹亜格亜叡溢逸衣．",
+      "text": "그럴지도 모르지만…//오오가미 씨…//뭐라고 말 좀 해 주세요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0119"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:48112c67ddf28af5",
+      "source": "そうかもしれませんけど……//大神さん……//なんとか言ってください。",
+      "text": "그럴지도 모르지만…//오오가미 씨…//뭐라고 말 좀 해 주세요．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0119"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:2970248e321f8c2e",
+    "source": "二人とも、いいかげんにしろ。",
+    "before": {
+      "id": "dialogue:2970248e321f8c2e",
+      "source": "画亜綾，亜苑劾厭亜叡唄．",
+      "text": "둘 다，적당히 해라．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0120"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2970248e321f8c2e",
+      "source": "二人とも、いいかげんにしろ。",
+      "text": "둘 다，적당히 해라．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0120"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:f126f16c2a2908fb",
+    "source": "本当は仲良しだから大丈夫だよ。",
+    "before": {
+      "id": "dialogue:f126f16c2a2908fb",
+      "source": "鵜厩鴛亜鵜葦亜解衛絢引亜噂云慰．",
+      "text": "사실은 사이가 좋으니까 괜찮아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0121"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f126f16c2a2908fb",
+      "source": "本当は仲良しだから大丈夫だよ。",
+      "text": "사실은 사이가 좋으니까 괜찮아．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0121"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  },
+  {
+    "unit": "dialogue:7ac5fc3493e48255",
+    "source": "まぁ……いつものことだし。",
+    "before": {
+      "id": "dialogue:7ac5fc3493e48255",
+      "source": "鈎……確亜芦鯵亜鞍葦員．",
+      "text": "뭐…늘 있는 일이고．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0122"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7ac5fc3493e48255",
+      "source": "まぁ……いつものことだし。",
+      "text": "뭐…늘 있는 일이고．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0122"
+        }
+      ]
+    },
+    "reason": "보관 일본어 원문의 동일 파일/표 번호를 대조해 원문 오독 복원"
+  }
+]

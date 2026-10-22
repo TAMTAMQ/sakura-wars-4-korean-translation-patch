@@ -1,0 +1,83 @@
+[
+  {
+    "unit": "dialogue:ab5287cde560230d",
+    "source": "ああ、ありがとう……//約束するよ……//絶対に大切にする。",
+    "before": {
+      "id": "dialogue:ab5287cde560230d",
+      "source": "ああ、ありがとう……//約束するよ……//絶対に大切にする。",
+      "text": "아아，고마워…//약속할게…//절대로 소중히 할게．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1576"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ab5287cde560230d",
+      "source": "ああ、ありがとう……//約束するよ……//絶対に大切にする。",
+      "text": "아아，고마워…//약속할게…//꼭 소중히 간직할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1576"
+        }
+      ]
+    },
+    "reason": "부자연스러운 절대 표현을 자연스럽게 교정."
+  },
+  {
+    "unit": "dialogue:f56b49716020786f",
+    "source": "ここが俺たちの劇場……//歌い……踊り……//舞台に駆けて……",
+    "before": {
+      "id": "dialogue:f56b49716020786f",
+      "source": "ここが俺たちの劇場……//歌い……踊り……//舞台に駆けて……",
+      "text": "여기가 우리들의 극장…//노래하고…춤추며…//무대로 달려가자…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1805"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f56b49716020786f",
+      "source": "ここが俺たちの劇場……//歌い……踊り……//舞台に駆けて……",
+      "text": "여기가 우리들의 극장…//노래하고…춤추며…//무대를 누비며…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1805"
+        }
+      ]
+    },
+    "reason": "이어지는 회상 문장을 갑작스러운 명령형으로 옮긴 부분 교정."
+  },
+  {
+    "unit": "dialogue:5edad1cfb60636af",
+    "source": "舞台前だし……//だれもいないようだな。",
+    "before": {
+      "id": "dialogue:5edad1cfb60636af",
+      "source": "舞台前だし……//だれもいないようだな。",
+      "text": "무대 앞이니까…//아무도 없는 모양이군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2139"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5edad1cfb60636af",
+      "source": "舞台前だし……//だれもいないようだな。",
+      "text": "공연 전이니까…//아무도 없는 모양이군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2139"
+        }
+      ]
+    },
+    "reason": "무대 앞이라는 장소가 아니라 공연 전이라는 시점의 오역 교정."
+  }
+]
