@@ -200,7 +200,7 @@
 {"id": "dialogue:65509d07830d219d", "source": "お、織姫くん……", "text": "오，오리히메 군…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0656"}]}
 {"id": "dialogue:3ccc423a95a30c61", "source": "その着物は……？", "text": "그 옷은…？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0658"}]}
 {"id": "dialogue:0cf475846776d244", "source": "……ママのです。//パパがプロポーズの時に//送った着物なんですよ。", "text": "…엄마 거예요．//아빠가 프러포즈할 때//선물한 기모노예요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0659"}]}
-{"id": "dialogue:0e78ef619687a1bc", "source": "織姫くんは十分、日本人だよ。", "text": "오리히메 군은 충분히 일본인", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0663"}]}
+{"id": "dialogue:0e78ef619687a1bc", "source": "織姫くんは十分、日本人だよ。", "text": "이미 훌륭한 일본인이야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0663"}]}
 {"id": "dialogue:57770ca30ba510b9", "source": "……すごくよく似合ってるよ。", "text": "…정말 잘 어울려", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0664"}]}
 {"id": "dialogue:6bb93bcb1a46eee4", "source": "俺も着物で来ればよかったね。", "text": "나도 기모노 입고 올걸 그랬네", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0665"}]}
 {"id": "dialogue:d6573ab99196910a", "source": "織姫くんは十分、日本人だよ。//姿や服装だけじゃなくて……//心も……日本人のものだよ。", "text": "오리히메 군은 충분히 일본인이야．//외모나 복장뿐만 아니라…//마음까지…일본인이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0666"}]}
@@ -315,7 +315,7 @@
 {"id": "dialogue:cb93b71d2bd2be76", "source": "なぁ……聞いてもよいか。//貴公が……手に入れたもので、//最も価値のあるものは何なのだ？", "text": "저기…물어봐도 되겠나．//귀공이…손에 넣은 것 중에서，//가장 가치 있는 것은 무엇인가？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1033"}]}
 {"id": "dialogue:73f3da0c23fba5ed", "source": "グリシーヌ……君かな？", "text": "글리신…너인가？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1035"}]}
 {"id": "dialogue:c2d899d42da16069", "source": "世界の平和かな？", "text": "세계의 평화일까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1036"}]}
-{"id": "dialogue:b49f9100466d22fc", "source": "手に入れたものは、何もないよ。", "text": "손에 넣은 것은 아무것도 없어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1037"}]}
+{"id": "dialogue:b49f9100466d22fc", "source": "手に入れたものは、何もないよ。", "text": "얻은 건 아무것도 없어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1037"}]}
 {"id": "dialogue:e89a8cd682f1cb0b", "source": "グリシーヌ……君かな？//俺にとっては……//君が一番、価値のある人だよ。", "text": "글리신…너인가？//나에게는…//네가 가장 소중한 사람이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1038"}]}
 {"id": "dialogue:18efbf559a6b52f3", "source": "やっぱり……世界の平和かな？//俺にとっては、//これが一番価値があるよ。", "text": "역시…세계 평화일까？//나에게는，//그게 가장 소중해．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1043"}]}
 {"id": "dialogue:6e171efad8e3a4af", "source": "そ、それは……//恥ずかしくて言えないよ。", "text": "그，그건…//부끄러워서 말 못 해．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1048"}]}
@@ -418,7 +418,7 @@
 {"id": "dialogue:9050b9040c6f1d44", "source": "開場時間じゃないんだけど、//もうお客さまたちが、//集まって来てくださってるの。", "text": "개장 시간이 아닌데도，//벌써 손님들이，//모여들고 계셔．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1297"}]}
 {"id": "dialogue:a44c3a106ffd8c62", "source": "そ、そうなんですか？//お客さんたちが……", "text": "그，그런 건가요？//손님들이…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1298"}]}
 {"id": "dialogue:7b1f6daf433420b0", "source": "集まってくださった//お客さまたちには悪いけど……//今回の初日は、延期する？", "text": "모여 주신//손님들께는 죄송하지만…//이번 첫 공연은，미룰까？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1300"}]}
-{"id": "dialogue:ddea0d8cf4cab39b", "source": "残念ですが……延期しましょう。", "text": "유감입니다만…미루도록 하죠", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1302"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1305"}]}
+{"id": "dialogue:ddea0d8cf4cab39b", "source": "残念ですが……延期しましょう。", "text": "아쉽지만…다음으로 미루죠", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1302"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1305"}]}
 {"id": "dialogue:466204708b20ec0c", "source": "いえ、公演を行います！", "text": "아니요，공연을 합니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1303"}]}
 {"id": "dialogue:79ef6c190a087d65", "source": "米田支配人はなんて言ってます？", "text": "지배인님은 뭐라고 하십니까？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1304"}]}
 {"id": "dialogue:025e66acba088e14", "source": "公演を行います！", "text": "공연을 하겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1306"}]}

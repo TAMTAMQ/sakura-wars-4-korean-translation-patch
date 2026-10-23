@@ -561,13 +561,13 @@
 {"id": "dialogue:47dedbf6021a78be", "source": "だから……誰にも//私たちの邪魔をさせないで……//この夜だけは……", "text": "그러니까…누구도//우리를 방해하지 못하게 해 줘…//이 밤만큼은…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0788"}]}
 {"id": "dialogue:d338b938e2ae1d93", "source": "ああ……わかったよ。", "text": "아아…알았어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0795"}, {"id": "ADVDATA/SCRIPT/S0210.SBX#0452"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0443"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0550"}]}
 {"id": "dialogue:67fe33ee21649416", "source": "ああ……わかったよ。", "text": "아아…알았어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0789"}]}
-{"id": "dialogue:0e9c7ecbdd9a5b86", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸는지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0796"}]}
-{"id": "dialogue:6cc0c3d13bb3aecb", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸는지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0790"}]}
+{"id": "dialogue:0e9c7ecbdd9a5b86", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸던가．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0796"}]}
+{"id": "dialogue:6cc0c3d13bb3aecb", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸던가", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0790"}]}
 {"id": "dialogue:14d77b50357ee7af", "source": "子どもはもう寝る時間だぞ！", "text": "애들은 이제 잘 시간이야∈", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0791"}]}
 {"id": "dialogue:d2f34d381c083e69", "source": "ああ……もちろんだよ。", "text": "아아…물론이지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0809"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0685"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0998"}]}
 {"id": "dialogue:d83890a301d4b83d", "source": "ああ……もちろんだよ。", "text": "아아…물론이지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0792"}]}
-{"id": "dialogue:c5d49c9b02ccd452", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸는지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0810"}]}
-{"id": "dialogue:e3e5c15ce28e96ee", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸는지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0793"}]}
+{"id": "dialogue:c5d49c9b02ccd452", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸던가．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0810"}]}
+{"id": "dialogue:e3e5c15ce28e96ee", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸던가", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0793"}]}
 {"id": "dialogue:9f67664d45fc27be", "source": "……子どもはもう寝る時間だぞ！", "text": "…애들은 이제 잘 시간이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0794"}]}
 {"id": "dialogue:8ec6c6233ff42699", "source": "子どもはもう寝る時間だぞ！//夜中に待ち合わせなんて、//感心しないな∈", "text": "아이들은 벌써 잘 시간이야∈//한밤중에 만나기로 하다니，//좋지 않아∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0797"}]}
 {"id": "dialogue:0d9bf02148bb60ed", "source": "マリユスのセリフが//「この時をどれだけ待ったか。」//だから……", "text": "마리우스의 대사가 「이 순간을 얼마나 기다렸는지 몰라．」//그러니까…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0799"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0813"}]}

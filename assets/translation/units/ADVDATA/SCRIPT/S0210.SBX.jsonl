@@ -92,9 +92,9 @@
 {"id": "dialogue:21b9e9f6e4378485", "source": "……なるほど。//これが本物の能面か……", "text": "…과연．//이것이 진짜 노 가면인가…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0386"}]}
 {"id": "dialogue:eeaaea11f935dab3", "source": "能楽師が被ることで、//能面の命が能楽師に伝わり、//幽玄の世界が広がる……", "text": "노 배우가 가면을 쓰면，//노 가면의 생명이 배우에게 전해지고，유현의 세계가 펼쳐진다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0387"}]}
 {"id": "dialogue:c8eaa3ec0690335a", "source": "（この世とあの世をつなぐ//　能楽師か……//　なにかあるかもしれないな）", "text": "（이 세상과 저 세상을 잇는//노 배우인가…//무언가 있을지도 모르겠군）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0396"}]}
-{"id": "dialogue:1045370411d78e2c", "source": "敵の落とした能面について話す。", "text": "적이 떨어뜨린 노 가면 이야기", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0399"}]}
-{"id": "dialogue:8c18ae2ac2dcdd60", "source": "帝劇の舞台演出について話す。", "text": "제국극장 무대 연출 이야기", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0400"}]}
-{"id": "dialogue:1b194fd2c85b9c71", "source": "さっき見た人影について話す。", "text": "아까 본 사람 그림자 이야기", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0401"}]}
+{"id": "dialogue:1045370411d78e2c", "source": "敵の落とした能面について話す。", "text": "적이 흘린 가면 얘기를 한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0399"}]}
+{"id": "dialogue:8c18ae2ac2dcdd60", "source": "帝劇の舞台演出について話す。", "text": "제국극장 연출 얘기를 한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0400"}]}
+{"id": "dialogue:1b194fd2c85b9c71", "source": "さっき見た人影について話す。", "text": "아까 본 그림자 얘기를 한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0401"}]}
 {"id": "dialogue:d714e49f00883d78", "source": "前の戦闘で、//敵の魔操機兵がこの能面を//落としていったんだ……", "text": "지난 전투에서，//적의 마조기병이 이 노 가면을//떨어뜨리고 갔어…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0403"}]}
 {"id": "dialogue:f1463f94410f4c70", "source": "わからない。//俺もそれを調べたくて//ここに来たんだ。", "text": "모르겠어．//나도 그걸 조사하고 싶어서//여기에 온 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0408"}]}
 {"id": "dialogue:3a1477b250ac3dc2", "source": "今度の帝劇の舞台演出を//どうしようかと思ってね。", "text": "이번 제국극장의 무대 연출을//어떻게 할까 해서 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0410"}]}
@@ -339,7 +339,7 @@
 {"id": "dialogue:3a4586d754cc8e0c", "source": "今の……成長した私を見た//大神さんのお気持ちを//確認したくて……", "text": "지금의…성장한 저를 본//오오가미 씨의 마음을//확인하고 싶어서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1130"}]}
 {"id": "dialogue:a0fa65264c59ffe4", "source": "花火くん……", "text": "하나비 군…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1131"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2815"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2832"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2842"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2263"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0905"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0932"}, {"id": "ADVDATA/SCRIPT/S0340.SBX#0790"}, {"id": "ADVDATA/SCRIPT/S0340.SBX#0796"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0357"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1216"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#2019"}, {"id": "SLG/G04/E/EV04018.SBN#0008"}]}
 {"id": "dialogue:ba45845c8baa7159", "source": "すこし……考えてもいいかな？", "text": "조금…생각해 봐도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1134"}]}
-{"id": "dialogue:5d1d4266ba71680e", "source": "俺の未来は花火くんのものだよ。", "text": "내 미래는 하나비 군의 것이야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1135"}]}
+{"id": "dialogue:5d1d4266ba71680e", "source": "俺の未来は花火くんのものだよ。", "text": "내 미래는 하나비 군 거야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1135"}]}
 {"id": "dialogue:a612ca9b40307c81", "source": "ああ、もちろんだよ。//俺にはもったいないぐらいだ。", "text": "아아，물론이지．//나에게는 과분할 정도야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1136"}]}
 {"id": "dialogue:6684ee6f87618054", "source": "あ……本当ですか……//意を決してトーキョーまで//来たかいがありました。", "text": "아…정말인가요…//큰 결심을 하고 도쿄까지//오길 잘했군요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1137"}]}
 {"id": "dialogue:e9ae973ff855076f", "source": "いいっ〓//そ、それはまだ……", "text": "으앗〓//그，그건 아직…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1139"}]}

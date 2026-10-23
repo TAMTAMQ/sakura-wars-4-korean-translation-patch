@@ -280,7 +280,7 @@
 {"id": "dialogue:22ce35308f8b3b9e", "source": "どうなんだろう？//あたい……変なのかな？", "text": "어떨까？//나…이상한 걸까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0657"}]}
 {"id": "dialogue:b44a879c7ff3a229", "source": "普通だと思うよ。", "text": "평범하다고 생각해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0659"}]}
 {"id": "dialogue:bf53653d13583191", "source": "俺は会えてうれしかったよ。", "text": "나는 만나서 기뻤어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0660"}]}
-{"id": "dialogue:11b0e30ac0163b31", "source": "すみれくんに相談してみたら？", "text": "스미레 군한테 상의해 보면？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0661"}]}
+{"id": "dialogue:11b0e30ac0163b31", "source": "すみれくんに相談してみたら？", "text": "스미레 군과 상의하면 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0661"}]}
 {"id": "dialogue:413eea54af5ad681", "source": "う～ん……普通だと思うよ。//変ってことはないだろう。", "text": "으음…평범한 일이라고 봐．//이상한 건 아닐 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0662"}]}
 {"id": "dialogue:2e14a6711fb0b7ef", "source": "俺は会えてうれしかったよ。//それじゃ、ダメなのかな？", "text": "나는 만나서 기뻤어．//그걸로는，안 되는 걸까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0667"}]}
 {"id": "dialogue:1f4f50cbc54df831", "source": "そうなんだよな……//理屈じゃないんだよな。", "text": "그렇단 말이지…논리로 따질 일이 아니란 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0120.SBX#0669"}]}

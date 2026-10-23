@@ -19149,7 +19149,6 @@
 {"unit": "dialogue:07de4f660824cc52", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "4bacd9d88e2c859d343524a16e87cc32b3f3e05284194d471c9407e039db687b"}
 {"unit": "dialogue:b44a879c7ff3a229", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "ab1473c361ac8a79626308aab3d4e7c48d7329642901d0641d091292339cc7fa"}
 {"unit": "dialogue:bf53653d13583191", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "26cda01a39abf24d4bf428f869366175180931b97e7e67cd74a20be93dc0f27d"}
-{"unit": "dialogue:11b0e30ac0163b31", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "233250d81f8b4f12b2f43dc2089694b0a84d600247f30285ee526a8bbac24c82"}
 {"unit": "dialogue:f91521ddbe824e4a", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "757781617d75a833d79b79382e655f338152882da8a3d85ca2cecd325893dfd2"}
 {"unit": "dialogue:be27fc8489988ba1", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "3d82fbfdd80834b3b39f7f171c467f0ccc3cb6832de1ed965c92e00b447473fc"}
 {"unit": "dialogue:a37a7367020c3489", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "47a726a0d8b7c428122232cf5ac1cb29702b8f0d7e3924a9d148ec8a38274128"}
@@ -19188,9 +19187,7 @@
 {"unit": "dialogue:43532f53744a9c9c", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "b2d03291845e4f736cb47a7c9631daa2bfcf9b297d238580ac439f8d83b49eba"}
 {"unit": "dialogue:8ee45964153648ff", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "cf0e223f0cf8b6690a3835eaf6ae930de7cf3823dff31448e16395c4f3c58f00"}
 {"unit": "dialogue:67fe33ee21649416", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "669163c9b23103c56ccf9a9186a9242e3ade6956c0a84c00b10517a14613abd5"}
-{"unit": "dialogue:6cc0c3d13bb3aecb", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "5367d6a5ea878fd432f668a685d48fc05c1013fe2135550512f79cc1e39478de"}
 {"unit": "dialogue:d83890a301d4b83d", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "f967f45d4d55e6bb7b2f536dcfd9cdbcc6311debee2c65d813ee6beae56ae95e"}
-{"unit": "dialogue:e3e5c15ce28e96ee", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "c22bea3ff0e97e1e72532adf9543e693de23a3ab13f9a1c903a1303350517055"}
 {"unit": "dialogue:92014a82c7afe7c1", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "8a909f0a2c2cdff507b5cf8eca254e471e431fe416da3c1e53cb305c820eb5db"}
 {"unit": "dialogue:c40f73d3ede4cc5e", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "fab174185f683442b375786b2cd1a35c0c17bf14c74ce69378e7f416580dba55"}
 {"unit": "dialogue:430ad792b7c6c94f", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "a1e731850c7fa86377531b41cfacc86f781664725e4cf0cce13be0f0bf756f78"}
@@ -19229,9 +19226,6 @@
 {"unit": "dialogue:aa485dd5cb6bfa8e", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "7cc8a844fd9437a0ec5af0f262668da0756178e66ddfc2044b699b9b0c21cc4c"}
 {"unit": "dialogue:e8c6f1efe1cfbc55", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "c7c78d5d9f5f3decc18691732a3f23c0655188bcbc492b4d85fd68f75cbd64c1"}
 {"unit": "dialogue:bb0f9653921e21e5", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "c0a4d6395d2ccdf8f74a4b81587213b8d0ef2ed49a367f6640e5caed0c1fbdb2"}
-{"unit": "dialogue:1045370411d78e2c", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "0f02b772b46b526e82640ea2555ccc5cc8bd4930559dbdff88f3cb20628a8e80"}
-{"unit": "dialogue:8c18ae2ac2dcdd60", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "8549c29ca9ed8d4aa43213b539655330dea6a523c9b416636997687a6039c18f"}
-{"unit": "dialogue:1b194fd2c85b9c71", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "cf13ada841c0c11c6ab1dbb6d4471ee4044d95d1f394c9b8c7f604d36cafc71f"}
 {"unit": "dialogue:d2a64d339c17de69", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "2db06f702437340f677f39c7521ceece06f42839fc0defa61865050179c12637"}
 {"unit": "dialogue:58e63477509f0a8f", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "d33350c4e30932b6da26b91d3bbb6a4c991999b8534a3ac2b02972840debe569"}
 {"unit": "dialogue:78bf93e5fd20b48e", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "7d2b06cf699a424ab76fb3802331068e5a50816fbb12518d157ce57bcaa40e6c"}
@@ -19249,7 +19243,6 @@
 {"unit": "dialogue:974f33efdff2f9f0", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "13635a3583573d95a98710cd3f0cb59f055bc36abb06bbd4dba6974a197b397c"}
 {"unit": "dialogue:c79a4691da9eef3d", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "0c20c7ffc827c9e3e64acec05317df596a39a781e2946350e7ae84422539b57e"}
 {"unit": "dialogue:ea611886ef2da823", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "fb2bf9b43fcaf7e145173d8ac7c053047e6b5d6cf1c25900c5cb72ca6dc7c34f"}
-{"unit": "dialogue:5d1d4266ba71680e", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "81fc389126381590f7592e21a504260bfd057e5be6f94d6e5ec1b1577b375c6c"}
 {"unit": "dialogue:b3bb84284a025807", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "fa3839c67ce6eaa8e72614cda0179d4cde3426ba5b3a0bc3371e7d50cd1a40b6"}
 {"unit": "dialogue:18f87dc4fc1a0aee", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "fa5be9771ec13e1ac103d4b58e535e3b11e69b03206fe7952be48caafe05da44"}
 {"unit": "dialogue:81fcd0c2e2bf8a66", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "f604510bab1280ee58ac88170b1d01710efba4d69e0dc56388bf8b25846d2d28"}
@@ -19362,7 +19355,6 @@
 {"unit": "dialogue:bcedbdf8fa8b593f", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "0fb53b90df3a7a276126271403603f977ce10c06d785f0012cf988e2561be0ef"}
 {"unit": "dialogue:8e2cf29b6298165c", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "aff0d2a4e987fe1a8661d6eb4e046ad173320b1d5d6873ec4619b9876c7f82c7"}
 {"unit": "dialogue:de5692723d6d06de", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "d9c07e30816811e3c48471a690fc366d5529797f622835de55e182f487b84deb"}
-{"unit": "dialogue:0e78ef619687a1bc", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "fabff8eebfab70ab69470387761dd78a01cbfcedff5a18486107e8a402cea15a"}
 {"unit": "dialogue:57770ca30ba510b9", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "95086e6b343db05fcc499627c23ea5667efa54d54ae3497483adb8545b644026"}
 {"unit": "dialogue:6bb93bcb1a46eee4", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "12021a07483dc8fa6cc3da4f74c2993c0be51474420ed53eee2c901c91bff168"}
 {"unit": "dialogue:547bedcd07abd59f", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "599c7eb405124085c930f7bf075000a8ceb74a6beb9c10765185c41ea87c057e"}
@@ -19371,14 +19363,12 @@
 {"unit": "dialogue:5f239cba7b5d8453", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "cb2c1672cf0e5fe71a25424b8d654f752c43202e8ffe6b54a3cb348c09ae4a08"}
 {"unit": "dialogue:48c6e1eec6684fe6", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "15f9653cefe236a2c346c19cee9fff1df9afd0ff7f9f72b6607faff918f816f3"}
 {"unit": "dialogue:b9519233f788bb9d", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "f3fe21d251a50cb5e61a1a050b8af6f1601a328ce0211914c7676a8a2ce0782c"}
-{"unit": "dialogue:b49f9100466d22fc", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "3bca0c5545fafb25b5f99127dcb312b89c0495ae6f0e20c1951ceeb3dbe4506c"}
 {"unit": "dialogue:a384b22a3b6d082a", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "e6b81db23e9990a3b9b86f00ecb44ca05e82ae80d0fd628a77af957c3abdef43"}
 {"unit": "dialogue:d784ddd54e596f31", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "e8c5b601709a3b442889d70d3ea5090aa26e84385282727d58bfb2aa8baf714a"}
 {"unit": "dialogue:07ac832837b4b04a", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "db68b312c2b8d43d3da9602154691d6051922ca05591add96dcaa9a5b9d326b8"}
 {"unit": "dialogue:8bed65e71610f55d", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "3f5bfc010ff7836fd1aeb3f108643aabf6cea7793266066dd3e656cf4b2bac14"}
 {"unit": "dialogue:9a7e606ede12a389", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "7cf9b687c6fce0d924cbcc3d8f263a4e75d84d5eebbb0f4227547aa0a68d5ac4"}
 {"unit": "dialogue:a23509154295e683", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "d4f32f7a9152c4087a914ae80d9fb04f8146aa07fe40d4c9c26474ba57feec49"}
-{"unit": "dialogue:ddea0d8cf4cab39b", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표를 빼서 생긴 여유로 원문에 가깝게 다시 번역.", "content_sha256": "006ac5150e3740c7bbd52e0183ed073ecb1d3e865420844d355c6360e25ebc33"}
 {"unit": "dialogue:d0da4c0ad40d2946", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "927b92f79054b13225f38f8aa63010ee11787b10af43dd39f98fc81c8a579813"}
 {"unit": "dialogue:d2bb2614a83a1a06", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "cb4fe72636cf4473c0de83b20c7f271d61e17988be49d90d88964d8d6e976f1b"}
 {"unit": "dialogue:6ae3719894b4e6dd", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "7a71931f56804e3a5d2d54262052c7fd06304238c9e08330260f84ab98a31f18"}
@@ -19473,5 +19463,15 @@
 {"unit": "dialogue:d2e7521228fb7fa3", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "5c8bea6138c037c660333f8b5702e7eae455fc571b664089bc13707931d0a1d1"}
 {"unit": "dialogue:b6f96c04a0fb6816", "status": "approved", "date": "2026-10-22", "note": "선택지 끝 마침표 제거(사용자 요청).", "content_sha256": "95c134c5f20a3b75fcb03332e29da3093d8139fdd9cbafb704842608faa73d51"}
 {"unit": "dialogue:83dd83f3df55b948", "status": "approved", "date": "2026-10-22", "note": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지).", "content_sha256": "c897cdb9b83682b80ed569302f16cc86b2f2d0c24d77ce88319815775b17d599"}
-{"unit": "dialogue:0e9c7ecbdd9a5b86", "status": "approved", "date": "2026-10-22", "note": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지).", "content_sha256": "ed8c073a5582b570e733313aa909c142844ce583388f86998bd6b28f95b33435"}
-{"unit": "dialogue:c5d49c9b02ccd452", "status": "approved", "date": "2026-10-22", "note": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지).", "content_sha256": "5ef9a23327eb0f3e27bb27a194c55c53bcc53134cca994f38f8abff4c678e80c"}
+{"unit": "dialogue:11b0e30ac0163b31", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "ef2e10b835ec511fcdd2a3782f4ebf35f5fa3d5acc02a0b99c827c31747aa0b3"}
+{"unit": "dialogue:6cc0c3d13bb3aecb", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "558eb370dfad625c3d19ed5c706941b99e5785398c7a6bbedc9a48ea6708b832"}
+{"unit": "dialogue:e3e5c15ce28e96ee", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "bddf751b0aefa305cf2a9ce84d7c1bf55216a8bc7fb99a7b0261eee182c27bea"}
+{"unit": "dialogue:0e9c7ecbdd9a5b86", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "c63d55a66494de2ea3d0246cab7df67c23dce7531fcd75ec4e6ce31d5b8503ed"}
+{"unit": "dialogue:c5d49c9b02ccd452", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "938e549df906251e5099b2cd1a40c766d378d447601186fde56aaa4369bfe881"}
+{"unit": "dialogue:1045370411d78e2c", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "3d043948e3610f3db729669ec4083733c935b5dd0522cac69966e63df5ad72dd"}
+{"unit": "dialogue:8c18ae2ac2dcdd60", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "b1c2a37541e3134d3f0fc68749c12925737c9f176831978be9656d28e02e77e6"}
+{"unit": "dialogue:1b194fd2c85b9c71", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "e8da83ac57fd84e1b5db3bc1dc753548ae5287bf1497ec46247ee1b8b5b43222"}
+{"unit": "dialogue:5d1d4266ba71680e", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "1cc8b9efe84ff76d79a4beff90bfe27c33dc1c2dfd8b2456e9a4c40ac5775277"}
+{"unit": "dialogue:0e78ef619687a1bc", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "0e411a88f3c49765146d508ed45929642cd64dcb2421ec21eb68bbf3411d5b75"}
+{"unit": "dialogue:b49f9100466d22fc", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "1b134912cd35fd877f78ce98981ba363d6bb4d9ac9e4fd05df5cf8fd02b956df"}
+{"unit": "dialogue:ddea0d8cf4cab39b", "status": "approved", "date": "2026-10-22", "note": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지).", "content_sha256": "99c2a16871a98e302c2ba99a05f2c4e5590083a2f73a4d4bc3f1b28c4345d16e"}

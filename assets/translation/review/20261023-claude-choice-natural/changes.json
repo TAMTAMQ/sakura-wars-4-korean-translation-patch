@@ -1,0 +1,332 @@
+[
+  {
+    "unit": "dialogue:11b0e30ac0163b31",
+    "source": "すみれくんに相談してみたら？",
+    "before": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군한테 상의해 보면？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군과 상의하면 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:6cc0c3d13bb3aecb",
+    "source": "この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:6cc0c3d13bb3aecb",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸는지",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6cc0c3d13bb3aecb",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸던가",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:e3e5c15ce28e96ee",
+    "source": "……この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:e3e5c15ce28e96ee",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸는지",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e3e5c15ce28e96ee",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸던가",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:0e9c7ecbdd9a5b86",
+    "source": "この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸는지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:c5d49c9b02ccd452",
+    "source": "……この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸는지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:1045370411d78e2c",
+    "source": "敵の落とした能面について話す。",
+    "before": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 떨어뜨린 노 가면 이야기",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 흘린 가면 얘기를 한다",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:8c18ae2ac2dcdd60",
+    "source": "帝劇の舞台演出について話す。",
+    "before": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장 무대 연출 이야기",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장 연출 얘기를 한다",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:1b194fd2c85b9c71",
+    "source": "さっき見た人影について話す。",
+    "before": {
+      "id": "dialogue:1b194fd2c85b9c71",
+      "source": "さっき見た人影について話す。",
+      "text": "아까 본 사람 그림자 이야기",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0401"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b194fd2c85b9c71",
+      "source": "さっき見た人影について話す。",
+      "text": "아까 본 그림자 얘기를 한다",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0401"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:5d1d4266ba71680e",
+    "source": "俺の未来は花火くんのものだよ。",
+    "before": {
+      "id": "dialogue:5d1d4266ba71680e",
+      "source": "俺の未来は花火くんのものだよ。",
+      "text": "내 미래는 하나비 군의 것이야",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1135"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5d1d4266ba71680e",
+      "source": "俺の未来は花火くんのものだよ。",
+      "text": "내 미래는 하나비 군 거야",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1135"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:0e78ef619687a1bc",
+    "source": "織姫くんは十分、日本人だよ。",
+    "before": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "오리히메 군은 충분히 일본인",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "이미 훌륭한 일본인이야",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:b49f9100466d22fc",
+    "source": "手に入れたものは、何もないよ。",
+    "before": {
+      "id": "dialogue:b49f9100466d22fc",
+      "source": "手に入れたものは、何もないよ。",
+      "text": "손에 넣은 것은 아무것도 없어",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1037"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b49f9100466d22fc",
+      "source": "手に入れたものは、何もないよ。",
+      "text": "얻은 건 아무것도 없어",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1037"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:ddea0d8cf4cab39b",
+    "source": "残念ですが……延期しましょう。",
+    "before": {
+      "id": "dialogue:ddea0d8cf4cab39b",
+      "source": "残念ですが……延期しましょう。",
+      "text": "유감입니다만…미루도록 하죠",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1305"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ddea0d8cf4cab39b",
+      "source": "残念ですが……延期しましょう。",
+      "text": "아쉽지만…다음으로 미루죠",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1305"
+        }
+      ]
+    },
+    "reason": "과하게 줄었거나 직역투가 된 선택지를 자연스러운 의역으로 다시 정리(선택지 14칸 이하, 선택 뒤 같은 대사는 마침표 유지)."
+  }
+]
