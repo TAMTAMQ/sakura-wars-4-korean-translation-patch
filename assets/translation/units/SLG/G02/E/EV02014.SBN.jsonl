@@ -1,26 +1,26 @@
-{"id": "dialogue:bdd66a70b569bcc6", "source": "ねぇねぇ、//レニ～！", "text": "있잖아，//레니～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0001"}]}
-{"id": "dialogue:1f7dd4ee1ea1978a", "source": "アイリス……//どうかしたの？", "text": "아이리스…//왜 그래？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0002"}]}
-{"id": "dialogue:b5173ae9f06f1c01", "source": "なんだか、お兄ちゃんって、//巴里からかえってきて、//カッコよくなったよね？", "text": "왠지 오빠는，//파리에서 돌아오고 나서，//멋있어졌지？", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0003"}]}
-{"id": "dialogue:8c06d700ae56570e", "source": "……そうだね。//霊力も増大しているし、//統率力もあがったようだ。", "text": "…그렇네．//영력도 증대되었고，//통솔력도 올라간 것 같아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0004"}]}
+{"id": "dialogue:bdd66a70b569bcc6", "source": "ねぇねぇ、//レニ～！", "text": "있잖아，레니～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0001"}]}
+{"id": "dialogue:1f7dd4ee1ea1978a", "source": "アイリス……//どうかしたの？", "text": "아이리스…왜 그래？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0002"}]}
+{"id": "dialogue:b5173ae9f06f1c01", "source": "なんだか、お兄ちゃんって、//巴里からかえってきて、//カッコよくなったよね？", "text": "왠지 오빠는，파리에서//돌아오고 나서，멋있어졌지？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0003"}]}
+{"id": "dialogue:8c06d700ae56570e", "source": "……そうだね。//霊力も増大しているし、//統率力もあがったようだ。", "text": "…그렇네．영력도 증대되었고，//통솔력도 올라간 것 같아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0004"}]}
 {"id": "dialogue:bf6241be08759bdc", "source": "黒髪の貴公子とは、俺のことさ。", "text": "흑발의 귀공자라면，바로 나지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0006"}]}
 {"id": "dialogue:8b5c62e29ffe27b1", "source": "戦闘中のおしゃべりはダメだぞ！", "text": "전투 중에 잡담하면 안 돼∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0007"}]}
 {"id": "dialogue:015c4a898c858567", "source": "よく気がついたな！//かくしていたんだけど……//黒髪の貴公子とは、俺のことさ∈", "text": "잘 알아차렸구나∈//숨기고 있었는데…//흑발의 귀공자란 바로 나지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0008"}]}
-{"id": "dialogue:d4eab326a57709bf", "source": "キャハッ！//レニの言うとおり、お兄ちゃん、//レベルアップしてるね！", "text": "꺄핫∈//레니 말대로，오빠，//레벨업했네∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0009"}]}
-{"id": "dialogue:0d5acb49d4e3d750", "source": "確かに……//ジョークのレベルも//上がっているみたいだ。", "text": "확실히…//농담의 수준도//높아진 것 같아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0010"}]}
-{"id": "dialogue:3d88d13c796028b2", "source": "え……いや、//ジョークじゃなくて……", "text": "어…아니，//농담이 아니라…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0011"}]}
-{"id": "dialogue:1a7a4d8b200d5b54", "source": "あ～、おもしろかった！//アイリス、笑いすぎて//おなかいたくなっちゃった∈", "text": "아～，재밌었다∈//아이리스，너무 웃어서//배가 아파졌어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0012"}]}
-{"id": "dialogue:281f7db42bb4797d", "source": "……ボクも、//ひさしぶりに楽しめた。//では、戦闘に戻る。", "text": "…나도，//오랜만에 즐거웠어．//그럼，전투로 돌아갈게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0013"}]}
-{"id": "dialogue:1465894f30cc020a", "source": "あ、待ってよ、レニ！//じゃあ、お兄ちゃん、//アイリスもいくね！", "text": "아，기다려，레니∈//그럼，오빠，//아이리스도 갈게∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0014"}]}
+{"id": "dialogue:d4eab326a57709bf", "source": "キャハッ！//レニの言うとおり、お兄ちゃん、//レベルアップしてるね！", "text": "꺄핫∈레니 말대로，//오빠，레벨업했네∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0009"}]}
+{"id": "dialogue:0d5acb49d4e3d750", "source": "確かに……//ジョークのレベルも//上がっているみたいだ。", "text": "확실히…농담의//수준도 높아진 것 같아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0010"}]}
+{"id": "dialogue:3d88d13c796028b2", "source": "え……いや、//ジョークじゃなくて……", "text": "어…아니，농담이 아니라…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0011"}]}
+{"id": "dialogue:1a7a4d8b200d5b54", "source": "あ～、おもしろかった！//アイリス、笑いすぎて//おなかいたくなっちゃった∈", "text": "아～，재밌었다∈아이리스，//너무 웃어서 배가 아파졌어∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0012"}]}
+{"id": "dialogue:281f7db42bb4797d", "source": "……ボクも、//ひさしぶりに楽しめた。//では、戦闘に戻る。", "text": "…나도，오랜만에 즐거웠어．//그럼，전투로 돌아갈게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0013"}]}
+{"id": "dialogue:1465894f30cc020a", "source": "あ、待ってよ、レニ！//じゃあ、お兄ちゃん、//アイリスもいくね！", "text": "아，기다려，레니∈//그럼，오빠，아이리스도 갈게∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0014"}]}
 {"id": "dialogue:5d1f122778980962", "source": "二人ともひどいよ……", "text": "둘 다 너무해…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0015"}]}
-{"id": "dialogue:f9145b79c351e046", "source": "二人とも、//戦闘中のおしゃべりはダメだぞ！", "text": "둘 다，//전투 중에 수다 떨면 안 된다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0016"}]}
-{"id": "dialogue:e844e6d8b4a1e7fd", "source": "あらら……//こういうマジメなとこも……", "text": "어머나…//이런 진지한 면도…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0017"}]}
-{"id": "dialogue:4263a600dc607189", "source": "……レベルアップ//しているようだね。", "text": "…레벨업//한 것 같네．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0018"}]}
-{"id": "dialogue:4c785e0a5070d0cc", "source": "じゃ、レニ……//たたかいがおわってから//お兄ちゃんのことおはなししよ∈", "text": "그럼，레니…//싸움이 끝나고 나서//오빠 이야기하자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0019"}]}
+{"id": "dialogue:f9145b79c351e046", "source": "二人とも、//戦闘中のおしゃべりはダメだぞ！", "text": "둘 다，전투 중에 수다 떨면 안 된다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0016"}]}
+{"id": "dialogue:e844e6d8b4a1e7fd", "source": "あらら……//こういうマジメなとこも……", "text": "어머나…이런 진지한 면도…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0017"}]}
+{"id": "dialogue:4263a600dc607189", "source": "……レベルアップ//しているようだね。", "text": "…레벨업 한 것 같네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0018"}]}
+{"id": "dialogue:4c785e0a5070d0cc", "source": "じゃ、レニ……//たたかいがおわってから//お兄ちゃんのことおはなししよ∈", "text": "그럼，레니…싸움이 끝나고//나서 오빠 이야기하자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0019"}]}
 {"id": "dialogue:d80f4f3986879ddf", "source": "まったく……レニまで//おしゃべりするなんて……", "text": "정말이지…레니까지//수다를 떨다니…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0021"}]}
 {"id": "dialogue:f2565e63eb0b3e97", "source": "あれ？　いつもなら、//ここで、お兄ちゃんが//はなしかけてくるのに……", "text": "어라？평소 같으면//여기서 오빠가//말을 걸어올 텐데…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0023"}]}
-{"id": "dialogue:3e59344500d9bc94", "source": "でも……//戦闘中の私語をしないのは、//隊長としては正しい。", "text": "하지만…//전투 중에 잡담하지 않는 건，//대장으로서는 옳아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0024"}]}
-{"id": "dialogue:066cc6f37c35bfc6", "source": "そっか……//じゃ、アイリスも//お口にチャックする！", "text": "그렇구나…//그럼，아이리스도//입 꾹 다물게∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0025"}]}
-{"id": "dialogue:50d11a4c96891582", "source": "そうだね。//隊長を見習って、//がんばろう。", "text": "그래．//대장을 본받아서，//힘내자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0026"}]}
+{"id": "dialogue:3e59344500d9bc94", "source": "でも……//戦闘中の私語をしないのは、//隊長としては正しい。", "text": "하지만…전투 중에 잡담하지//않는 건，대장으로서는 옳아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0024"}]}
+{"id": "dialogue:066cc6f37c35bfc6", "source": "そっか……//じゃ、アイリスも//お口にチャックする！", "text": "그렇구나…그럼，//아이리스도 입 꾹 다물게∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0025"}]}
+{"id": "dialogue:50d11a4c96891582", "source": "そうだね。//隊長を見習って、//がんばろう。", "text": "그래．대장을 본받아서，힘내자．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0026"}]}
 {"id": "dialogue:5cc139a49e5728e9", "source": "（さすがはレニだな。//　俺の気持ちを、//　わかってくれたか……）", "text": "（역시 레니로군．//내 마음을，//알아준 건가…）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0027"}]}
-{"id": "dialogue:4446729f32721778", "source": "よ～し、アイリスたちも//負けずにがんばろう！", "text": "좋아～，우리도//지지 말고 힘내자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0028"}]}
-{"id": "dialogue:b63d8f094fcf1ce0", "source": "うん……//がんばろう。", "text": "응…//힘내자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0029"}]}
+{"id": "dialogue:4446729f32721778", "source": "よ～し、アイリスたちも//負けずにがんばろう！", "text": "좋아～，우리도 지지 말고 힘내자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0028"}]}
+{"id": "dialogue:b63d8f094fcf1ce0", "source": "うん……//がんばろう。", "text": "응…힘내자．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02014.SBN#0029"}]}

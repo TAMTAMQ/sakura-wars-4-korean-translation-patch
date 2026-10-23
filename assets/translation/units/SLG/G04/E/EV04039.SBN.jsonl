@@ -1,10 +1,10 @@
-{"id": "dialogue:1a35d4cad8a7b549", "source": "ここまで大規模な作戦だと、//情報をいかに早く伝えられるかが//ポイントになる……", "text": "이 정도로 대규모 작전이라면，//정보를 얼마나 빨리 전달할 수 있는가가 관건이다…", "review": "띄어쓰기", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0001"}]}
+{"id": "dialogue:1a35d4cad8a7b549", "source": "ここまで大規模な作戦だと、//情報をいかに早く伝えられるかが//ポイントになる……", "text": "대규모 작전이라면 정보를 얼마나//빨리 전달하느냐가 관건이다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0001"}]}
 {"id": "dialogue:52951dcd0fa73348", "source": "se_ev_402b.snd", "text": "se_ev_402b.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0002"}]}
-{"id": "dialogue:554d4bf5f9ad8b48", "source": "椿ちゃんたちだけで……//帝都中の情報を管理するのは、//難しいかもしれない……", "text": "츠바키 양 일행만으로…//제도 전역의 모든 정보를 관리하는 건，어려울지도 몰라…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0003"}]}
+{"id": "dialogue:554d4bf5f9ad8b48", "source": "椿ちゃんたちだけで……//帝都中の情報を管理するのは、//難しいかもしれない……", "text": "츠바키 양 일행만으로…//제도 전역의 정보를 관리하는//건 어려울지도 몰라…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0003"}]}
 {"id": "dialogue:4f4f683b895f0de6", "source": "ev04039eff00.be1", "text": "ev04039eff00.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0004"}]}
 {"id": "dialogue:0ac32020120e518d", "source": "ev04039eff00.bt1", "text": "ev04039eff00.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0005"}]}
 {"id": "dialogue:6648ebcf229daa5a", "source": "ev04039eff01.be1", "text": "ev04039eff01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0006"}]}
 {"id": "dialogue:395ef3b38383900d", "source": "ev04039eff01.bt1", "text": "ev04039eff01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0007"}]}
 {"id": "dialogue:5bd9e4a7a4b9207e", "source": "……ミカサ強襲部隊、地上部隊、//ともに魔操機兵と接触∈//戦闘開始を確認！", "text": "…미카사 강습부대，지상 부대，//모두 마조기병과 접촉∈//전투 개시를 확인∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0008"}]}
-{"id": "dialogue:1c357f5441baa825", "source": "あ～ん……//いっぺんに言われても、//そんなにできないですよ～∈", "text": "아앙…//한꺼번에 말씀하셔도，//그렇게는 못 해요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0012"}]}
-{"id": "dialogue:bac3e5df49d8669d", "source": "巴里華撃団、メルレゾンです。//トーキョー上空の//霊力の増大をキャッチしました∈", "text": "파리화격단，멜 레종입니다．//도쿄 상공의//영력 증대를 포착했습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0013"}]}
+{"id": "dialogue:1c357f5441baa825", "source": "あ～ん……//いっぺんに言われても、//そんなにできないですよ～∈", "text": "아앙…한꺼번에 말씀하셔도，//그렇게는 못 해요～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0012"}]}
+{"id": "dialogue:bac3e5df49d8669d", "source": "巴里華撃団、メルレゾンです。//トーキョー上空の//霊力の増大をキャッチしました∈", "text": "파리화격단，멜 레종입니다．도쿄//상공의 영력 증대를 포착했습니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04039.SBN#0013"}]}

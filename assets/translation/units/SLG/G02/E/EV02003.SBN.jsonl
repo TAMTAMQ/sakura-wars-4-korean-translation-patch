@@ -7,10 +7,10 @@
 {"id": "dialogue:a30b08840bac69af", "source": "se_ev_203.snd", "text": "se_ev_203.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0020"}]}
 {"id": "dialogue:c9e910628179bb9a", "source": "ev02003SKam00.mbo", "text": "ev02003SKam00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0021"}]}
 {"id": "dialogue:d11824df0b84468b", "source": "ev02003kb2og01.mbo", "text": "ev02003kb2og01.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0025"}]}
-{"id": "dialogue:7ebb4090c88e8439", "source": "こんなことあるはずない。//ウチらの霊力が//ゼロになるなんて……", "text": "이런 일이 있을 리 없다．//우리 영력이//제로가 되다니…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0029"}]}
+{"id": "dialogue:7ebb4090c88e8439", "source": "こんなことあるはずない。//ウチらの霊力が//ゼロになるなんて……", "text": "이런 일이 있을 리 없다．//우리 영력이 제로가 되다니…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0029"}]}
 {"id": "dialogue:ad2208632d8669e3", "source": "ev02003mr00.go2", "text": "ev02003mr00.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0031"}]}
 {"id": "dialogue:9bfee4877369dccd", "source": "ev02003mr00.grt", "text": "ev02003mr00.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0032"}]}
-{"id": "dialogue:fa2388a8609aebfc", "source": "くそっ！//光武が動かない∈//どうすれば……", "text": "젠장∈//광무가 움직이지 않아∈//어떡해야…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0033"}]}
-{"id": "dialogue:6b19643390d1bb02", "source": "マリア……助かったよ、//ありがとう。", "text": "마리아…덕분에 살았어．//고마워．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0035"}]}
+{"id": "dialogue:fa2388a8609aebfc", "source": "くそっ！//光武が動かない∈//どうすれば……", "text": "젠장∈광무가 움직이지 않아∈//어떡해야…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0033"}]}
+{"id": "dialogue:6b19643390d1bb02", "source": "マリア……助かったよ、//ありがとう。", "text": "마리아…덕분에 살았어．고마워．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0035"}]}
 {"id": "dialogue:a9c45e8135495bb5", "source": "（光武が動かなくなるなんて……//　どういうことなんだ？）", "text": "（광무가 움직이지 않다니…//대체 어떻게 된 거지？）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0040"}]}
-{"id": "dialogue:322efd966cb8cb53", "source": "いったん、帝劇に戻ろう。//今回のことは……//俺が調査しておく。", "text": "일단 제국극장으로 돌아가자．//이번 일은…//내가 조사해 둘게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0041"}]}
+{"id": "dialogue:322efd966cb8cb53", "source": "いったん、帝劇に戻ろう。//今回のことは……//俺が調査しておく。", "text": "일단 제국극장으로 돌아가자．//이번 일은…내가 조사해 둘게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02003.SBN#0041"}]}

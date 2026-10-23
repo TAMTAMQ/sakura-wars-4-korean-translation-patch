@@ -18,7 +18,7 @@
 {"id": "dialogue:5c63084a5d9a039d", "source": "ev05001eff00.bt1", "text": "ev05001eff00.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0025"}]}
 {"id": "dialogue:cefd53951a1c5913", "source": "se_ev_501.snd", "text": "se_ev_501.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0026"}]}
 {"id": "dialogue:619520dea2f6467b", "source": "こ……ここは一体？", "text": "여…여기는 대체？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0027"}]}
-{"id": "dialogue:871894e73d9e1545", "source": "清な我が魂を……闇でまとえ……//深に神……鳴れ……//真の体を……示せ……", "text": "맑고 순수한 나의 영혼을…어둠으로//휘감아라…깊은 곳의 신이여…울려//퍼져라…진정한 모습을…드러내라…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0029"}]}
+{"id": "dialogue:871894e73d9e1545", "source": "清な我が魂を……闇でまとえ……//深に神……鳴れ……//真の体を……示せ……", "text": "맑고 순수한 내 영혼을…어둠으로//휘감아라…깊은 곳의 신이여…울려//퍼져라…참모습을…드러내라…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0029"}]}
 {"id": "dialogue:b829a7efe99b82ae", "source": "こ、これが……//長安の本当の闇か……", "text": "이것이…//나가야스의 진짜 어둠인가…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0030"}]}
-{"id": "dialogue:389c44e24dddae8b", "source": "だが……//帝都の平和のためにも……//負けるわけにはいかない∈", "text": "하지만…//제도의 평화를 위해서라도…//질 수는 없다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0031"}]}
+{"id": "dialogue:389c44e24dddae8b", "source": "だが……//帝都の平和のためにも……//負けるわけにはいかない∈", "text": "하지만…제도의 평화를//위해서라도…질 수는 없다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0031"}]}
 {"id": "dialogue:8c7ab3eb7708706d", "source": "これが最後の戦いだ∈//大神華撃団、出撃せよ！", "text": "마지막 전투다∈//오오가미 화격단，출격하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G05/E/EV05001.SBN#0032"}]}

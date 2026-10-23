@@ -1,31 +1,31 @@
-{"id": "dialogue:4fdd299b41650f1b", "source": "あ、扉が開いたで～す！//アイリスも、//なかなかやりますね～。", "text": "아，문이 열렸어～요∈//아이리스도，//제법이네요～．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0001"}]}
+{"id": "dialogue:4fdd299b41650f1b", "source": "あ、扉が開いたで～す！//アイリスも、//なかなかやりますね～。", "text": "아，문이 열렸어～요∈//아이리스도，제법이네요～．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0001"}]}
 {"id": "dialogue:97017d61ee495a84", "source": "えらいぞ、アイリス。//一人で大変だったろう？", "text": "기특하구나，아이리스．//혼자서 고생 많았지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0002"}]}
-{"id": "dialogue:ab658859f5c9a2c4", "source": "えへへ……//お役にたったでしょ！", "text": "에헤헤…//도움이 됐지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0003"}, {"id": "SLG/G02/E/EV02012.SBN#0035"}]}
-{"id": "dialogue:a0ebe36a237da49e", "source": "みんなみたいにたたかうのは//とくいじゃないけど……//こういうのはとくいなの∈", "text": "모두들처럼 싸우는 건//잘 못하지만…//이런 건 자신 있다구∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0004"}, {"id": "SLG/G02/E/EV02012.SBN#0036"}]}
-{"id": "dialogue:c3286caea78ee321", "source": "だから、お兄ちゃん//なんでもめいれいしてね。", "text": "그러니까，오빠//뭐든지 명령해 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0005"}, {"id": "SLG/G02/E/EV02012.SBN#0037"}]}
+{"id": "dialogue:ab658859f5c9a2c4", "source": "えへへ……//お役にたったでしょ！", "text": "에헤헤…도움이 됐지∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0003"}, {"id": "SLG/G02/E/EV02012.SBN#0035"}]}
+{"id": "dialogue:a0ebe36a237da49e", "source": "みんなみたいにたたかうのは//とくいじゃないけど……//こういうのはとくいなの∈", "text": "모두들처럼 싸우는 건 잘 못하지만…//이런 건 자신 있다구∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0004"}, {"id": "SLG/G02/E/EV02012.SBN#0036"}]}
+{"id": "dialogue:c3286caea78ee321", "source": "だから、お兄ちゃん//なんでもめいれいしてね。", "text": "그러니까，오빠 뭐든지 명령해 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0005"}, {"id": "SLG/G02/E/EV02012.SBN#0037"}]}
 {"id": "dialogue:3cfcc6ee3225494b", "source": "頼りになる隊員になったね。", "text": "든든한 대원이 되었구나．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0007"}]}
 {"id": "dialogue:110c6d7182bd0a8f", "source": "まだまだ子どもだね。", "text": "아직 애라니까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0008"}]}
 {"id": "dialogue:bfccd4e08b478b46", "source": "アイリス……//頼りになる隊員になったね。", "text": "아이리스…//든든한 대원이 되었구나．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0009"}]}
-{"id": "dialogue:65e4095ab1c19c58", "source": "そ……そう？//アイリス、//よくわかんないよ。", "text": "그…그래？//아이리스，//잘 모르겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0010"}]}
-{"id": "dialogue:78822b5642cd0835", "source": "でも、//もっともっとつよくなって……", "text": "하지만，//더욱더 강해져서…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0011"}]}
-{"id": "dialogue:e849b571a5228298", "source": "もっともっと、//みんなをたすけてあげたいな。", "text": "좀 더，좀 더//모두를 도와주고 싶어．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0012"}]}
-{"id": "dialogue:8e3a33a9842f653a", "source": "だって……それが、//「てーこくかげきだん」//なんだよね？", "text": "그치만…그게，//「제국화격단」//인 거지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0014"}]}
-{"id": "dialogue:7e6f29100f39d15f", "source": "ああ、その通りだ。//はやく花やしきを解放して、//紅蘭を安心させてやろうな！", "text": "아아，맞아．//빨리 하나야시키를 해방해서，//홍란을 안심시켜 주자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0015"}]}
+{"id": "dialogue:65e4095ab1c19c58", "source": "そ……そう？//アイリス、//よくわかんないよ。", "text": "그…그래？//아이리스，잘 모르겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0010"}]}
+{"id": "dialogue:78822b5642cd0835", "source": "でも、//もっともっとつよくなって……", "text": "하지만，더욱더 강해져서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0011"}]}
+{"id": "dialogue:e849b571a5228298", "source": "もっともっと、//みんなをたすけてあげたいな。", "text": "좀 더，좀 더 모두를 도와주고 싶어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0012"}]}
+{"id": "dialogue:8e3a33a9842f653a", "source": "だって……それが、//「てーこくかげきだん」//なんだよね？", "text": "그치만…그게，//「제국화격단」인 거지？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0014"}]}
+{"id": "dialogue:7e6f29100f39d15f", "source": "ああ、その通りだ。//はやく花やしきを解放して、//紅蘭を安心させてやろうな！", "text": "아아，맞아．빨리 하나야시키를//해방해서，홍란을 안심시켜 주자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0015"}]}
 {"id": "dialogue:c7a8478e6df82d65", "source": "りょーかいっ！", "text": "알았어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0016"}]}
 {"id": "dialogue:84cbd4d591bf2815", "source": "その程度でよろこぶなんて……//やっぱりまだまだ子どもだね。", "text": "그 정도로 기뻐하다니…//역시 아직 애네．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0017"}]}
-{"id": "dialogue:ab62e9fce3ffc16a", "source": "ひ、ひどいよ……//アイリスだって、//がんばったのに……", "text": "너무해…//아이리스도，//열심히 했는데…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0018"}]}
-{"id": "dialogue:eac1ee37dd50b298", "source": "ア、アイリス……//泣かないでくれ……//冗談だよ、冗談。", "text": "아，아이리스…//울지 마…//농담이야，농담．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0019"}]}
-{"id": "dialogue:5c71302b6425b7ab", "source": "中尉さん、//冗談にしては……//ちょっとヒドすぎませんか？", "text": "중위님，//농담치고는…//좀 너무하신 거 아닌가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0020"}]}
-{"id": "dialogue:2a0d8eed0b79b645", "source": "そんな冗談をいう//隊長のほうが、//よっぽど子どもだ……", "text": "그런 농담을 하는//대장이//훨씬 더 어린애 같아…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0022"}]}
-{"id": "dialogue:782d275f6077ae28", "source": "そやそや、//こんなお子さま隊長は//ほっとくのが一番や！", "text": "맞다，맞다．//이런 어린애 대장은//내버려 두는 기 제일이다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0023"}]}
-{"id": "dialogue:4511d89808b0cce4", "source": "いきましょ、アイリス。//大神さんも……//反省してくださいね！", "text": "가요，아이리스．//오오가미 씨도…//반성하세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0024"}]}
-{"id": "dialogue:2acccb943bb47c3d", "source": "お兄ちゃんなんて、//だ～いきらい！//べーっだ∈", "text": "오빠 같은 건，//정말 싫어∈//메롱∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0025"}]}
-{"id": "dialogue:b423a0cdaa60952a", "source": "みんなの前だと//へたな冗談もいえないな……//トホホ……", "text": "모두의 앞이라//서툰 농담조차 못 하겠네…//에휴…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0026"}]}
-{"id": "dialogue:6894ccff7380039f", "source": "お兄ちゃん？//そんな目で見つめられると、//アイリス、テレちゃうよ。", "text": "오빠？//그런 눈으로 쳐다보면，//아이리스，부끄러워진다구．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0028"}]}
-{"id": "dialogue:ac8adee4e78a2bc1", "source": "アイリスも、//大人になったなって……//感心してたんだ。", "text": "아이리스도，//어른이 되었구나 하고…//감탄하고 있었어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0029"}]}
-{"id": "dialogue:8e21edfeecae84f0", "source": "え？//そ、そうかな？", "text": "어？//그，그런가？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0030"}]}
-{"id": "dialogue:feed7a3d33032714", "source": "そうよ、アイリス。//誰かのためにがんばるのは、//すばらしいことなのよ。", "text": "맞아，아이리스．//누군가를 위해 노력한다는 건，//정말 멋진 일이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0031"}]}
-{"id": "dialogue:a354f9e9045682c3", "source": "よし、みんなも//アイリスに負けるなよ！//戦闘再開だ！", "text": "좋아，모두들//아이리스에게 지지 마∈//전투 재개다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0032"}]}
+{"id": "dialogue:ab62e9fce3ffc16a", "source": "ひ、ひどいよ……//アイリスだって、//がんばったのに……", "text": "너무해…아이리스도，//열심히 했는데…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0018"}]}
+{"id": "dialogue:eac1ee37dd50b298", "source": "ア、アイリス……//泣かないでくれ……//冗談だよ、冗談。", "text": "아，아이리스…울지 마…//농담이야，농담．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0019"}]}
+{"id": "dialogue:5c71302b6425b7ab", "source": "中尉さん、//冗談にしては……//ちょっとヒドすぎませんか？", "text": "중위님，농담치고는…//좀 너무하신 거 아닌가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0020"}]}
+{"id": "dialogue:2a0d8eed0b79b645", "source": "そんな冗談をいう//隊長のほうが、//よっぽど子どもだ……", "text": "그런 농담을 하는 대장이//훨씬 더 어린애 같아…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0022"}]}
+{"id": "dialogue:782d275f6077ae28", "source": "そやそや、//こんなお子さま隊長は//ほっとくのが一番や！", "text": "맞다，맞다．이런 어린애//대장은 내버려 두는 기 제일이다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0023"}]}
+{"id": "dialogue:4511d89808b0cce4", "source": "いきましょ、アイリス。//大神さんも……//反省してくださいね！", "text": "가요，아이리스．//오오가미 씨도…반성하세요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0024"}]}
+{"id": "dialogue:2acccb943bb47c3d", "source": "お兄ちゃんなんて、//だ～いきらい！//べーっだ∈", "text": "오빠 같은 건，정말 싫어∈메롱∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0025"}]}
+{"id": "dialogue:b423a0cdaa60952a", "source": "みんなの前だと//へたな冗談もいえないな……//トホホ……", "text": "모두의 앞이라 서툰//농담조차 못 하겠네…에휴…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0026"}]}
+{"id": "dialogue:6894ccff7380039f", "source": "お兄ちゃん？//そんな目で見つめられると、//アイリス、テレちゃうよ。", "text": "오빠？그런 눈으로 쳐다보면，//아이리스，부끄러워진다구．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0028"}]}
+{"id": "dialogue:ac8adee4e78a2bc1", "source": "アイリスも、//大人になったなって……//感心してたんだ。", "text": "아이리스도，어른이 되었구나//하고…감탄하고 있었어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0029"}]}
+{"id": "dialogue:8e21edfeecae84f0", "source": "え？//そ、そうかな？", "text": "어？그，그런가？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0030"}]}
+{"id": "dialogue:feed7a3d33032714", "source": "そうよ、アイリス。//誰かのためにがんばるのは、//すばらしいことなのよ。", "text": "맞아，아이리스．누군가를 위해//노력한다는 건，정말 멋진 일이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0031"}]}
+{"id": "dialogue:a354f9e9045682c3", "source": "よし、みんなも//アイリスに負けるなよ！//戦闘再開だ！", "text": "좋아，모두들 아이리스에게//지지 마∈전투 재개다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0032"}]}
 {"id": "dialogue:5420798aa99149b9", "source": "……ゲートが開いた！//ありがとう、アイリス。//一人で、よくがんばったね。", "text": "…게이트가 열렸다∈//고마워，아이리스．//혼자서，정말 잘했구나．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0034"}]}
-{"id": "dialogue:f128dd01b69d9ac7", "source": "よし……//この調子で、//敵を全滅させるぞ∈", "text": "좋아…//이 기세로，//적을 전멸시키자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0038"}]}
+{"id": "dialogue:f128dd01b69d9ac7", "source": "よし……//この調子で、//敵を全滅させるぞ∈", "text": "좋아…이 기세로，//적을 전멸시키자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0038"}]}
 {"id": "dialogue:511c9d4e5b8b511e", "source": "りょーかい！", "text": "알았어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02012.SBN#0039"}, {"id": "SLG/G02/E/EV02023.SBN#0016"}, {"id": "SLG/G04/E/EV04010.SBN#0014"}]}

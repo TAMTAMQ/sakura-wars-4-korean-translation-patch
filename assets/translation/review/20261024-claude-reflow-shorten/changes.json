@@ -1,0 +1,5084 @@
+[
+  {
+    "unit": "dialogue:6ebbae9ac2d4382a",
+    "source": "この一年で急速に//帝都が発展できたのよ。",
+    "before": {
+      "id": "dialogue:6ebbae9ac2d4382a",
+      "source": "この一年で急速に//帝都が発展できたのよ。",
+      "text": "그래서 지난 한 해 제도가 급속도로 발전한 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0075"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0242"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6ebbae9ac2d4382a",
+      "source": "この一年で急速に//帝都が発展できたのよ。",
+      "text": "그래서 지난 한 해 제도가//급속히 발전한 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0075"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0242"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:fa5a37be7995dd35",
+    "source": "今月に入ってから、//大小あわせて//２７件も起きています。",
+    "before": {
+      "id": "dialogue:fa5a37be7995dd35",
+      "source": "今月に入ってから、//大小あわせて//２７件も起きています。",
+      "text": "이번 달 들어서만 크고 작은 사고가 무려 ２７건이나 발생했습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0251"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fa5a37be7995dd35",
+      "source": "今月に入ってから、//大小あわせて//２７件も起きています。",
+      "text": "이번 달 들어서만 크고 작은 사고가//무려 ２７건이나 났습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0251"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:8537d42d6d8e5b80",
+    "source": "建物や蒸気機械の被害は、//総額７５０万４３００円。//今の帝都には相当な痛手です。",
+    "before": {
+      "id": "dialogue:8537d42d6d8e5b80",
+      "source": "建物や蒸気機械の被害は、//総額７５０万４３００円。//今の帝都には相当な痛手です。",
+      "text": "건물과 증기기계의 피해액은，총액 ７５０만 ４３００엔．지금 제도에는 상당한 타격입니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0257"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8537d42d6d8e5b80",
+      "source": "建物や蒸気機械の被害は、//総額７５０万４３００円。//今の帝都には相当な痛手です。",
+      "text": "건물과 증기기계 피해액은 총//７５０만 ４３００엔．//지금 제도에는 큰 타격입니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0257"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d4cd2a7bdf815b0b",
+    "source": "よぉ、待ってたぞ。//早く入ってこい。",
+    "before": {
+      "id": "dialogue:d4cd2a7bdf815b0b",
+      "source": "よぉ、待ってたぞ。//早く入ってこい。",
+      "text": "여어，기다리고 있었다．얼른 들어와라．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0101"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d4cd2a7bdf815b0b",
+      "source": "よぉ、待ってたぞ。//早く入ってこい。",
+      "text": "여어，기다렸다．얼른 들어와라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0101"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:75b72f1a5e2b9b7b",
+    "source": "だけどよ……報告書で読んだが、//グリシーヌには、お前もけっこう//苦労したみたいだな。",
+    "before": {
+      "id": "dialogue:75b72f1a5e2b9b7b",
+      "source": "だけどよ……報告書で読んだが、//グリシーヌには、お前もけっこう//苦労したみたいだな。",
+      "text": "하지만 말이야…보고서에서//읽었는데，글리신 때문에 자네도 꽤나 고생한 모양이더군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0119"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0322"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:75b72f1a5e2b9b7b",
+      "source": "だけどよ……報告書で読んだが、//グリシーヌには、お前もけっこう//苦労したみたいだな。",
+      "text": "하지만 말이야…보고서에서//읽었는데，글리신 때문에//자네도 꽤 고생한 모양이더군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0119"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0322"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:5021a403f16baaf3",
+    "source": "ロベリアか……//こりゃまた思い切ったな。",
+    "before": {
+      "id": "dialogue:5021a403f16baaf3",
+      "source": "ロベリアか……//こりゃまた思い切ったな。",
+      "text": "로벨리아인가…이거 정말 과감한 선택을 했군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0123"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0342"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5021a403f16baaf3",
+      "source": "ロベリアか……//こりゃまた思い切ったな。",
+      "text": "로벨리아인가…정말//과감한 선택을 했군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0123"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0342"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e1bc27b43b96634a",
+    "source": "支配人！//この話はここでおしまい。//よろしくて∈",
+    "before": {
+      "id": "dialogue:e1bc27b43b96634a",
+      "source": "支配人！//この話はここでおしまい。//よろしくて∈",
+      "text": "지배인님∈이 이야기는 여기서 끝이에요．아시겠어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0189"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0498"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e1bc27b43b96634a",
+      "source": "支配人！//この話はここでおしまい。//よろしくて∈",
+      "text": "지배인님∈이 얘기는 여기서//끝이에요．아시겠어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0189"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0498"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:03c9bc7a6e035de7",
+    "source": "離れてからわかる愛もあれば、//ずっとそばにいるからこそ、//わかる愛もありまーす。",
+    "before": {
+      "id": "dialogue:03c9bc7a6e035de7",
+      "source": "離れてからわかる愛もあれば、//ずっとそばにいるからこそ、//わかる愛もありまーす。",
+      "text": "떨어져서야 알 수 있는 사랑도 있지만，늘 곁에 있기에//알 수 있는 사랑도 있어요～．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0406"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0905"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:03c9bc7a6e035de7",
+      "source": "離れてからわかる愛もあれば、//ずっとそばにいるからこそ、//わかる愛もありまーす。",
+      "text": "떨어져서야 아는 사랑도 있지만，//늘 곁에 있기에 아는 사랑도 있어요～．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0406"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0905"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:79c049844473a008",
+    "source": "愛と美の秘密部隊∈//帝国華撃団・薔薇組、参上！",
+    "before": {
+      "id": "dialogue:79c049844473a008",
+      "source": "愛と美の秘密部隊∈//帝国華撃団・薔薇組、参上！",
+      "text": "사랑과 미의 비밀부대∈제국화격단・장미조，등장∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0641"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:79c049844473a008",
+      "source": "愛と美の秘密部隊∈//帝国華撃団・薔薇組、参上！",
+      "text": "사랑과 미의 비밀부대∈//제국화격단・장미조 등장∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0641"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e1a6033170b49f20",
+    "source": "さすがは大神さん。//モギリに人生かけてますね。",
+    "before": {
+      "id": "dialogue:e1a6033170b49f20",
+      "source": "さすがは大神さん。//モギリに人生かけてますね。",
+      "text": "역시 오오가미 씨네요．검표 업무에 인생을 걸었네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0707"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e1a6033170b49f20",
+      "source": "さすがは大神さん。//モギリに人生かけてますね。",
+      "text": "역시 오오가미 씨네요．//검표에 인생을 걸었네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0707"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:c792dfb87512d9e0",
+    "source": "……それと、大神くん。//米田司令がお話があるそうよ。//指令室に寄ってくれる？",
+    "before": {
+      "id": "dialogue:c792dfb87512d9e0",
+      "source": "……それと、大神くん。//米田司令がお話があるそうよ。//指令室に寄ってくれる？",
+      "text": "…그리고，오오가미 군．//요네다 사령관님이 할 말이 있으시대．지령실에 들러 줄래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1147"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0204"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c792dfb87512d9e0",
+      "source": "……それと、大神くん。//米田司令がお話があるそうよ。//指令室に寄ってくれる？",
+      "text": "…그리고 오오가미 군．//요네다 사령관님이 할 말이//있으시대．지령실에 들러 줄래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1147"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0204"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:52b6806cce5505a7",
+    "source": "大神隊長、敵を撃破……と、//日記につけとかなきゃ！",
+    "before": {
+      "id": "dialogue:52b6806cce5505a7",
+      "source": "大神隊長、敵を撃破……と、//日記につけとかなきゃ！",
+      "text": "오오가미 대장님，적을 격파…라고，일기에 써 둬야겠어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1325"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2268"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1983"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1560"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:52b6806cce5505a7",
+      "source": "大神隊長、敵を撃破……と、//日記につけとかなきゃ！",
+      "text": "오오가미 대장님，적을 격파…//라고 일기에 써 둬야겠어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1325"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2268"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1983"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1560"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:4486a468bd14cda0",
+    "source": "あ、ああ……そうか。//遠いところ、よく来たな。//で、俺になにか用か？",
+    "before": {
+      "id": "dialogue:4486a468bd14cda0",
+      "source": "あ、ああ……そうか。//遠いところ、よく来たな。//で、俺になにか用か？",
+      "text": "아，아아…그렇군．멀리서 오느라 고생했다．그래서，나한테 무슨 용건이냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0311"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0597"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4486a468bd14cda0",
+      "source": "あ、ああ……そうか。//遠いところ、よく来たな。//で、俺になにか用か？",
+      "text": "아，아아…그렇군．멀리서 오느라//고생했다．나한테 무슨 용건이냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0311"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0597"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7b5879e9e26c6c13",
+    "source": "半年もの時間があったのに、//まだ考えると言うのか。",
+    "before": {
+      "id": "dialogue:7b5879e9e26c6c13",
+      "source": "半年もの時間があったのに、//まだ考えると言うのか。",
+      "text": "반년이나 시간이 있었는데도，아직도 생각하겠다는 건가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0353"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0668"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7b5879e9e26c6c13",
+      "source": "半年もの時間があったのに、//まだ考えると言うのか。",
+      "text": "반년이나 시간이 있었는데//아직도 생각하겠다는 건가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0353"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0668"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7cb19fac60aecdc6",
+    "source": "ま、時間はある。//それまで考えればいいさ。",
+    "before": {
+      "id": "dialogue:7cb19fac60aecdc6",
+      "source": "ま、時間はある。//それまで考えればいいさ。",
+      "text": "뭐，시간은 있어．그때까지 생각하면 그만이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0610"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1074"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7cb19fac60aecdc6",
+      "source": "ま、時間はある。//それまで考えればいいさ。",
+      "text": "뭐，시간은 있어．//그때까지 생각하면 돼．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0610"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1074"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a3f38d755f1d0e7b",
+    "source": "大神さん、おひさしぶりです。//北大路花火です。",
+    "before": {
+      "id": "dialogue:a3f38d755f1d0e7b",
+      "source": "大神さん、おひさしぶりです。//北大路花火です。",
+      "text": "오오가미 씨，오랜만이에요．키타오지 하나비예요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0624"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1118"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a3f38d755f1d0e7b",
+      "source": "大神さん、おひさしぶりです。//北大路花火です。",
+      "text": "오오가미 씨 오랜만이에요．//키타오지 하나비예요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0624"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1118"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:c928dfce0996b9db",
+    "source": "隊長がおっしゃってくれるまで、//あえて、何も言いません。",
+    "before": {
+      "id": "dialogue:c928dfce0996b9db",
+      "source": "隊長がおっしゃってくれるまで、//あえて、何も言いません。",
+      "text": "대장님께서 말씀해 주실 때까지，굳이 아무 말도 하지 않겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0697"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1225"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c928dfce0996b9db",
+      "source": "隊長がおっしゃってくれるまで、//あえて、何も言いません。",
+      "text": "대장님께서 말씀해 주실 때까지//굳이 아무 말도 하지 않겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0697"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1225"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:30bfe4ba3dc18dd4",
+    "source": "でもさ……レディに対して、//平和ですか？　はないだろう。//もっと気の利いたことを言いな。",
+    "before": {
+      "id": "dialogue:30bfe4ba3dc18dd4",
+      "source": "でもさ……レディに対して、//平和ですか？　はないだろう。//もっと気の利いたことを言いな。",
+      "text": "그런데 말이야…레이디한테//「평화롭습니까？」라니，너무하잖아．좀 더 센스 있게 말해 봐．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0750"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:30bfe4ba3dc18dd4",
+      "source": "でもさ……レディに対して、//平和ですか？　はないだろう。//もっと気の利いたことを言いな。",
+      "text": "그런데 말이야…//레이디한테「평화롭습니까？」라니//너무하잖아．좀 더 센스 있게 말해 봐．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0750"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b20536b7a10bb99b",
+    "source": "私もいつまでも、//貴公にブルーメール家に//ムコ入りしろと言うのはやめた。",
+    "before": {
+      "id": "dialogue:b20536b7a10bb99b",
+      "source": "私もいつまでも、//貴公にブルーメール家に//ムコ入りしろと言うのはやめた。",
+      "text": "나도 이제，귀공에게 블뢰메르 가문의 데릴사위가 되라고//계속 말하는 건 그만뒀다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2500"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b20536b7a10bb99b",
+      "source": "私もいつまでも、//貴公にブルーメール家に//ムコ入りしろと言うのはやめた。",
+      "text": "나도 이제 귀공에게 블뢰메르//가문의 데릴사위가 되라고//계속 말하는 건 그만뒀다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0978"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2500"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:008239bf2c126081",
+    "source": "「あぁ、無情」か……//正直者がいい目を見るっていう//バカげた話だよな。",
+    "before": {
+      "id": "dialogue:008239bf2c126081",
+      "source": "「あぁ、無情」か……//正直者がいい目を見るっていう//バカげた話だよな。",
+      "text": "「레 미제라블」이라니…정직한 사람이 복을 받는다는 건//말도 안 되는 이야기지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3233"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:008239bf2c126081",
+      "source": "「あぁ、無情」か……//正直者がいい目を見るっていう//バカげた話だよな。",
+      "text": "「레 미제라블」이라니…//정직한 사람이 복을 받는다는//건 말도 안 되는 얘기지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3233"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:30b271c96aedb279",
+    "source": "お金も大事だし……//ママが生きているだけで//幸せだと思うし……",
+    "before": {
+      "id": "dialogue:30b271c96aedb279",
+      "source": "お金も大事だし……//ママが生きているだけで//幸せだと思うし……",
+      "text": "돈도 중요하지만…엄마가 살아 있는 것만으로도 행복하다고 생각하니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1388"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3275"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:30b271c96aedb279",
+      "source": "お金も大事だし……//ママが生きているだけで//幸せだと思うし……",
+      "text": "돈도 중요하지만…엄마가 살아 있는//것만으로 행복하다고 생각하니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1388"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3275"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e2e4134b9629fb39",
+    "source": "銀座一帯に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+    "before": {
+      "id": "dialogue:e2e4134b9629fb39",
+      "source": "銀座一帯に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+      "text": "긴자 일대에 금빛 증기가 충만∈//증기 기계가 폭주하기 시작했습니다∈피해…막대∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1410"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e2e4134b9629fb39",
+      "source": "銀座一帯に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+      "text": "긴자 일대에 금빛 증기 충만∈//증기 기계가 폭주하기//시작했습니다∈피해…막대∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1410"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d3d9b55d10802e07",
+    "source": "息子の始末は親がつけるのさ。//そのためだったら、//どうなったってかまやしねぇよ。",
+    "before": {
+      "id": "dialogue:d3d9b55d10802e07",
+      "source": "息子の始末は親がつけるのさ。//そのためだったら、//どうなったってかまやしねぇよ。",
+      "text": "자식의 뒤처리는 부모가 하는 법이야．그걸 위해서라면，//어떻게 되든 상관없어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1425"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3348"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d3d9b55d10802e07",
+      "source": "息子の始末は親がつけるのさ。//そのためだったら、//どうなったってかまやしねぇよ。",
+      "text": "자식 뒤처리는 부모가 하는//법이야．그걸 위해서라면//어떻게 되든 상관없어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1425"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3348"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:792d1cdec94d9be5",
+    "source": "ですから……//紅蘭、アイリス、織姫、レニを//護衛につけます。",
+    "before": {
+      "id": "dialogue:792d1cdec94d9be5",
+      "source": "ですから……//紅蘭、アイリス、織姫、レニを//護衛につけます。",
+      "text": "홍란，아이리스，오리히메，레니를 호위로 붙이겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1437"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3370"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:792d1cdec94d9be5",
+      "source": "ですから……//紅蘭、アイリス、織姫、レニを//護衛につけます。",
+      "text": "홍란，아이리스，오리히메，//레니를 호위로 붙입니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1437"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3370"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:43bcfc19699f6e7e",
+    "source": "帝劇防御壁、展開∈//これより、大帝国劇場は//絶対防衛形態に移行します！",
+    "before": {
+      "id": "dialogue:43bcfc19699f6e7e",
+      "source": "帝劇防御壁、展開∈//これより、大帝国劇場は//絶対防衛形態に移行します！",
+      "text": "제국극장 방어벽，전개∈이제부터，대제국극장은 절대 방위 형태로 전환합니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1476"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0027"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:43bcfc19699f6e7e",
+      "source": "帝劇防御壁、展開∈//これより、大帝国劇場は//絶対防衛形態に移行します！",
+      "text": "제국극장 방어벽 전개∈//지금부터 대제국극장은 절대//방위 형태로 전환합니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1476"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0027"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a82694d40825ef77",
+    "source": "この名前を聞いて、//生きて帰れると思うなよ。",
+    "before": {
+      "id": "dialogue:a82694d40825ef77",
+      "source": "この名前を聞いて、//生きて帰れると思うなよ。",
+      "text": "이 이름을 듣고，살아 돌아가리라고 기대하지 마라．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1497"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a82694d40825ef77",
+      "source": "この名前を聞いて、//生きて帰れると思うなよ。",
+      "text": "이 이름을 듣고 살아//돌아가리라 생각하지 마라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1497"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:bcd3bf65f17cf918",
+    "source": "トーキョーにいても、//大神さんが巴里華撃団の一員で//あることに変わりはないんです。",
+    "before": {
+      "id": "dialogue:bcd3bf65f17cf918",
+      "source": "トーキョーにいても、//大神さんが巴里華撃団の一員で//あることに変わりはないんです。",
+      "text": "도쿄에 있어도，오오가미 씨가 파리화격단의 일원이라는//사실은 변하지 않아요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1593"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bcd3bf65f17cf918",
+      "source": "トーキョーにいても、//大神さんが巴里華撃団の一員で//あることに変わりはないんです。",
+      "text": "도쿄에 있어도 오오가미 씨가//파리화격단의 일원이라는//사실은 변하지 않아요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1593"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:36d68a9bd051f45c",
+    "source": "それと……そろそろ、//パーティも、おひらきの時間よ。//みんなに伝えておいてね。",
+    "before": {
+      "id": "dialogue:36d68a9bd051f45c",
+      "source": "それと……そろそろ、//パーティも、おひらきの時間よ。//みんなに伝えておいてね。",
+      "text": "그리고…슬슬 파티도 끝낼 시간이야．모두에게 전해 둬．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1727"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0263"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:36d68a9bd051f45c",
+      "source": "それと……そろそろ、//パーティも、おひらきの時間よ。//みんなに伝えておいてね。",
+      "text": "그리고…슬슬 파티도 끝낼//때야．모두에게 전해 둬．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1727"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0083"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0263"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:290612a592f20668",
+    "source": "ロベリアさん大変ですね〜！//ふふん、いい気味でーす∈",
+    "before": {
+      "id": "dialogue:290612a592f20668",
+      "source": "ロベリアさん大変ですね〜！//ふふん、いい気味でーす∈",
+      "text": "로벨리아 씨，고생이 많으시네요～∈후훗，꼴좋네요∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0126"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:290612a592f20668",
+      "source": "ロベリアさん大変ですね〜！//ふふん、いい気味でーす∈",
+      "text": "로벨리아 씨 고생이//많으시네요～∈후훗，꼴좋네요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0126"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:68b26517b72cb28d",
+    "source": "うむ……雑だな。//ただ、刺したようにしか見えん。",
+    "before": {
+      "id": "dialogue:68b26517b72cb28d",
+      "source": "うむ……雑だな。//ただ、刺したようにしか見えん。",
+      "text": "음…조잡하군．그저 꽂아 놓은 것처럼밖에 보이지 않아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0224"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:68b26517b72cb28d",
+      "source": "うむ……雑だな。//ただ、刺したようにしか見えん。",
+      "text": "음…조잡하군．그저 꽂아//놓은 것으로밖에 안 보여．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0224"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:5ce1468054c15d57",
+    "source": "さ、さくらさん……//花火さんのお花の真似などせず、//わたくしをなんとかしなさい∈",
+    "before": {
+      "id": "dialogue:5ce1468054c15d57",
+      "source": "さ、さくらさん……//花火さんのお花の真似などせず、//わたくしをなんとかしなさい∈",
+      "text": "사，사쿠라 씨…//하나비 씨의 꽃 흉내 같은 건 내지 말고，저를 어떻게 좀 해 보세요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0262"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5ce1468054c15d57",
+      "source": "さ、さくらさん……//花火さんのお花の真似などせず、//わたくしをなんとかしなさい∈",
+      "text": "사，사쿠라 씨…하나비 씨//꽃 흉내 같은 건 내지 말고//저를 어떻게 좀 해 보세요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0262"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:107f8bff06b54777",
+    "source": "ロベリアも、織姫も、レニも……//真っ直ぐに生きてると思うわ。//だから……あとはやさしさね。",
+    "before": {
+      "id": "dialogue:107f8bff06b54777",
+      "source": "ロベリアも、織姫も、レニも……//真っ直ぐに生きてると思うわ。//だから……あとはやさしさね。",
+      "text": "로벨리아도，오리히메도，레니도…곧게 살고 있다고 생각해．//그러니까…남은 건 다정함이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0287"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:107f8bff06b54777",
+      "source": "ロベリアも、織姫も、レニも……//真っ直ぐに生きてると思うわ。//だから……あとはやさしさね。",
+      "text": "로벨리아도 오리히메도 레니도…//곧게 살고 있다고 생각해．//그러니까…남은 건 다정함이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0287"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a5fd1578a15b8db2",
+    "source": "反魂の術を知った江戸幕府は//長安の霊力の強さを恐れ、//天海に命じて暗殺させた……",
+    "before": {
+      "id": "dialogue:a5fd1578a15b8db2",
+      "source": "反魂の術を知った江戸幕府は//長安の霊力の強さを恐れ、//天海に命じて暗殺させた……",
+      "text": "에도 막부는 반혼술을 알고，나가야스의 강한 영력을 두려워해 텐카이에게 명해 암살하게 했다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0438"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0301"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a5fd1578a15b8db2",
+      "source": "反魂の術を知った江戸幕府は//長安の霊力の強さを恐れ、//天海に命じて暗殺させた……",
+      "text": "에도 막부는 반혼술을 알고//나가야스의 강한 영력을 두려워해//텐카이를 시켜 암살했다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0438"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0301"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:93740265a3821ff2",
+    "source": "帝都各地で蒸気機械が暴走∈//魔操機兵の残骸も再起動、//破壊活動を開始！",
+    "before": {
+      "id": "dialogue:93740265a3821ff2",
+      "source": "帝都各地で蒸気機械が暴走∈//魔操機兵の残骸も再起動、//破壊活動を開始！",
+      "text": "제도 곳곳에서 증기기계가 폭주∈마조기병의 잔해도 재가동，//파괴 활동을 개시∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0471"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0363"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:93740265a3821ff2",
+      "source": "帝都各地で蒸気機械が暴走∈//魔操機兵の残骸も再起動、//破壊活動を開始！",
+      "text": "제도 곳곳에서 증기기계가//폭주∈마조기병 잔해도//재가동해 파괴 활동을 개시∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0471"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0363"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:82b9fb6a262fc4fb",
+    "source": "隊長の言う通りだ。//敵と戦う前に、//己に負けてどうする？",
+    "before": {
+      "id": "dialogue:82b9fb6a262fc4fb",
+      "source": "隊長の言う通りだ。//敵と戦う前に、//己に負けてどうする？",
+      "text": "대장 말이 맞다．적과 싸우기도 전에，자신에게 지면 어쩌겠나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0582"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1809"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:82b9fb6a262fc4fb",
+      "source": "隊長の言う通りだ。//敵と戦う前に、//己に負けてどうする？",
+      "text": "대장 말이 맞다．적과 싸우기도//전에 자신에게 지면 어쩌겠나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0582"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1809"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:555bd4450355522d",
+    "source": "大神さんと一緒なら、//百人力ですよ∈",
+    "before": {
+      "id": "dialogue:555bd4450355522d",
+      "source": "大神さんと一緒なら、//百人力ですよ∈",
+      "text": "오오가미 씨와 함께라면，백 명 몫은 해요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0622"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1883"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:555bd4450355522d",
+      "source": "大神さんと一緒なら、//百人力ですよ∈",
+      "text": "오오가미 씨와 함께라면//백 명 몫은 해요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0622"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1883"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e40fe825a9d65634",
+    "source": "了解しました。//全員、生きて戻ります！",
+    "before": {
+      "id": "dialogue:e40fe825a9d65634",
+      "source": "了解しました。//全員、生きて戻ります！",
+      "text": "알겠습니다．전원，살아 돌아오겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0638"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1909"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e40fe825a9d65634",
+      "source": "了解しました。//全員、生きて戻ります！",
+      "text": "알겠습니다．전원//살아 돌아오겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0638"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1909"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:2c5b0e99cfedbf6a",
+    "source": "はい、もちろんです！//必ず……生きて帰りましょう。//では、大神華撃団、出撃です∈",
+    "before": {
+      "id": "dialogue:2c5b0e99cfedbf6a",
+      "source": "はい、もちろんです！//必ず……生きて帰りましょう。//では、大神華撃団、出撃です∈",
+      "text": "네，물론입니다∈//반드시…살아서 돌아갑시다．그럼，오오가미 화격단，출격입니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0653"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1944"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2c5b0e99cfedbf6a",
+      "source": "はい、もちろんです！//必ず……生きて帰りましょう。//では、大神華撃団、出撃です∈",
+      "text": "네，물론입니다∈반드시…//살아서 돌아갑시다．그럼//오오가미 화격단，출격입니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0653"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1944"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d5eb677d2484ac85",
+    "source": "はい、了解です！//エリカに頼ってくださいね∈//では、大神華撃団、出撃です！",
+    "before": {
+      "id": "dialogue:d5eb677d2484ac85",
+      "source": "はい、了解です！//エリカに頼ってくださいね∈//では、大神華撃団、出撃です！",
+      "text": "네，알겠습니다∈//에리카를 믿어 주세요∈그럼，오오가미 화격단，출격입니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0661"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1960"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d5eb677d2484ac85",
+      "source": "はい、了解です！//エリカに頼ってくださいね∈//では、大神華撃団、出撃です！",
+      "text": "네，알겠습니다∈에리카를//믿어 주세요∈그럼 오오가미//화격단，출격입니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0661"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1960"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:32249a35f0b68150",
+    "source": "はい……かしこまりました。//みなさん、がんばりましょう。//大神華撃団、出撃です……ぽっ。",
+    "before": {
+      "id": "dialogue:32249a35f0b68150",
+      "source": "はい……かしこまりました。//みなさん、がんばりましょう。//大神華撃団、出撃です……ぽっ。",
+      "text": "네…알겠습니다．//여러분，힘냅시다．오오가미 화격단，출격입니다…（발그레）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0665"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1968"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:32249a35f0b68150",
+      "source": "はい……かしこまりました。//みなさん、がんばりましょう。//大神華撃団、出撃です……ぽっ。",
+      "text": "네…알겠습니다．여러분//힘냅시다．오오가미 화격단，//출격입니다…（발그레）",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0665"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1968"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:431a7a4ad9d98e98",
+    "source": "中尉！//こちら地上部隊・隊長、//神崎すみれです。",
+    "before": {
+      "id": "dialogue:431a7a4ad9d98e98",
+      "source": "中尉！//こちら地上部隊・隊長、//神崎すみれです。",
+      "text": "중위님∈여기는 지상 부대 대장，칸자키 스미레입니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0675"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:431a7a4ad9d98e98",
+      "source": "中尉！//こちら地上部隊・隊長、//神崎すみれです。",
+      "text": "중위님∈여기는 지상 부대//대장 칸자키 스미레입니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0675"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:ee37c7c4bade1d97",
+    "source": "大神はん！//こちら地上部隊・隊長、//李紅蘭や∈",
+    "before": {
+      "id": "dialogue:ee37c7c4bade1d97",
+      "source": "大神はん！//こちら地上部隊・隊長、//李紅蘭や∈",
+      "text": "오오가미 씨∈여긴 지상 부대 대장，이 홍란이다∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0683"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ee37c7c4bade1d97",
+      "source": "大神はん！//こちら地上部隊・隊長、//李紅蘭や∈",
+      "text": "오오가미 씨∈지상 부대//대장，이 홍란이다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0683"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b68e7c66fbeff3f9",
+    "source": "はい……みんなの命は、//私が必ず守ります。",
+    "before": {
+      "id": "dialogue:b68e7c66fbeff3f9",
+      "source": "はい……みんなの命は、//私が必ず守ります。",
+      "text": "네…모두의 목숨은，제가 반드시 지키겠습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0748"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b68e7c66fbeff3f9",
+      "source": "はい……みんなの命は、//私が必ず守ります。",
+      "text": "네…모두의 목숨은 제가//반드시 지키겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0748"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:9a6cbe50e5d8629c",
+    "source": "アンタの声が聞けてよかったよ。//じゃあな……",
+    "before": {
+      "id": "dialogue:9a6cbe50e5d8629c",
+      "source": "アンタの声が聞けてよかったよ。//じゃあな……",
+      "text": "네 목소리를 들을 수 있어서 다행이야．그럼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0821"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9a6cbe50e5d8629c",
+      "source": "アンタの声が聞けてよかったよ。//じゃあな……",
+      "text": "네 목소리를 들어서 다행이야．그럼…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0821"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:c4abe1c787eff92b",
+    "source": "それは……私がします。//先ほど、大神さんと//地上部隊との交信のあと……",
+    "before": {
+      "id": "dialogue:c4abe1c787eff92b",
+      "source": "それは……私がします。//先ほど、大神さんと//地上部隊との交信のあと……",
+      "text": "그건…제가 말씀드릴게요．방금 전，오오가미 씨와//지상 부대의 교신이 끝난 뒤…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0858"
+        },
+        {
+          "id": "SLG/G04/E/EV04038.SBN#0005"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c4abe1c787eff92b",
+      "source": "それは……私がします。//先ほど、大神さんと//地上部隊との交信のあと……",
+      "text": "그건…제가 말씀드릴게요．//방금 전 오오가미 씨와 지상//부대의 교신이 끝난 뒤…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0858"
+        },
+        {
+          "id": "SLG/G04/E/EV04038.SBN#0005"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:baa2ed8e9c758298",
+    "source": "大神さん……//長安さんのお願い、//かなえてあげましょうね。",
+    "before": {
+      "id": "dialogue:baa2ed8e9c758298",
+      "source": "大神さん……//長安さんのお願い、//かなえてあげましょうね。",
+      "text": "오오가미 씨…나가야스 씨의 소원，들어 드려요．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1042"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0157"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:baa2ed8e9c758298",
+      "source": "大神さん……//長安さんのお願い、//かなえてあげましょうね。",
+      "text": "오오가미 씨…나가야스 씨//소원，들어 드려요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1042"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0157"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:8188e0a88adbc8bb",
+    "source": "中尉もご存知でしょうが、//わたくし、ワガママですの。",
+    "before": {
+      "id": "dialogue:8188e0a88adbc8bb",
+      "source": "中尉もご存知でしょうが、//わたくし、ワガママですの。",
+      "text": "중위님도 알고 계시겠지만，저，제멋대로인 사람이랍니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1050"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0173"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8188e0a88adbc8bb",
+      "source": "中尉もご存知でしょうが、//わたくし、ワガママですの。",
+      "text": "중위님도 아시겠지만，저，//제멋대로인 사람이랍니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1050"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0173"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:027542831d7949e8",
+    "source": "私一人生き残って……//それでどうするのです∈//隊長、生きて帰るのでしょう∈",
+    "before": {
+      "id": "dialogue:027542831d7949e8",
+      "source": "私一人生き残って……//それでどうするのです∈//隊長、生きて帰るのでしょう∈",
+      "text": "저 혼자 살아남아서…그게 무슨 의미가 있습니까∈대장님，살아서 돌아가실 거잖아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0224"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:027542831d7949e8",
+      "source": "私一人生き残って……//それでどうするのです∈//隊長、生きて帰るのでしょう∈",
+      "text": "저 혼자 살아남아서…무슨//의미가 있습니까∈대장님，//살아서 돌아가실 거잖아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1085"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0224"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b53910243985d40e",
+    "source": "道具も……町もな……//使うてる人のためにあるんや∈",
+    "before": {
+      "id": "dialogue:b53910243985d40e",
+      "source": "道具も……町もな……//使うてる人のためにあるんや∈",
+      "text": "도구도…도시도 말이다…쓰는 사람을 위해 있는 기다∈",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1211"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b53910243985d40e",
+      "source": "道具も……町もな……//使うてる人のためにあるんや∈",
+      "text": "도구도…도시도…쓰는//사람을 위해 있는 기다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1211"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:3dc8a94727983069",
+    "source": "もし、過ちがあるとしたら……//失敗を恐れてなにもせず、//すぐにあきらめることです！",
+    "before": {
+      "id": "dialogue:3dc8a94727983069",
+      "source": "もし、過ちがあるとしたら……//失敗を恐れてなにもせず、//すぐにあきらめることです！",
+      "text": "만약 잘못이 있다면…//실패를 두려워해 아무것도 하지 않고，금세 포기하는 거예요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1253"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0490"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3dc8a94727983069",
+      "source": "もし、過ちがあるとしたら……//失敗を恐れてなにもせず、//すぐにあきらめることです！",
+      "text": "만약 잘못이 있다면…//실패를 두려워해 아무것도 안//하고 금세 포기하는 거예요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1253"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0490"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:8e46c0ca84c4b4a0",
+    "source": "誇りを持つ者が、//過ちを繰り返し、//自らその誇りを汚すと思うか？",
+    "before": {
+      "id": "dialogue:8e46c0ca84c4b4a0",
+      "source": "誇りを持つ者が、//過ちを繰り返し、//自らその誇りを汚すと思うか？",
+      "text": "긍지를 품은 자들이，잘못을 되풀이하고，스스로 그 긍지를 더럽힐 것 같나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1369"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0662"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8e46c0ca84c4b4a0",
+      "source": "誇りを持つ者が、//過ちを繰り返し、//自らその誇りを汚すと思うか？",
+      "text": "긍지를 품은 자들이 잘못을 되풀이해//스스로 그 긍지를 더럽힐 것 같나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1369"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0662"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f020fdb7ba88e7cc",
+    "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引き継ぎ、//守っているのだ∈",
+    "before": {
+      "id": "dialogue:f020fdb7ba88e7cc",
+      "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引き継ぎ、//守っているのだ∈",
+      "text": "네놈이 이 도시를 만들 때 품었던 긍지를 지금 제도의 시민들이 이어받아，지키고 있는 것이다∈",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1371"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f020fdb7ba88e7cc",
+      "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引き継ぎ、//守っているのだ∈",
+      "text": "네놈이 이 도시를 만들 때 품었던//긍지를 지금 제도 시민들이//이어받아 지키고 있는 것이다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1371"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f3d3f0cd005a829d",
+    "source": "私はもう、いやなんです。//好きな人と別れるのは……//だから……どこまでも一緒です。",
+    "before": {
+      "id": "dialogue:f3d3f0cd005a829d",
+      "source": "私はもう、いやなんです。//好きな人と別れるのは……//だから……どこまでも一緒です。",
+      "text": "저는 이제 싫어요．//사랑하는 사람과 헤어지는 건…그러니까…어디까지든 함께할 거예요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1459"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0806"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f3d3f0cd005a829d",
+      "source": "私はもう、いやなんです。//好きな人と別れるのは……//だから……どこまでも一緒です。",
+      "text": "저는 이제 싫어요．사랑하는//사람과 헤어지는 건…그러니까…//어디든 함께할 거예요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1459"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0806"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:674ddbe2fe36988a",
+    "source": "……はい。//これで心の整理がつきました。//新しい一歩がふみだせそうです。",
+    "before": {
+      "id": "dialogue:674ddbe2fe36988a",
+      "source": "……はい。//これで心の整理がつきました。//新しい一歩がふみだせそうです。",
+      "text": "…네．이걸로 마음이 정리됐어요．//새로운 한 걸음을 내디딜 수 있을 것 같아요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0012"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:674ddbe2fe36988a",
+      "source": "……はい。//これで心の整理がつきました。//新しい一歩がふみだせそうです。",
+      "text": "…네．이걸로 마음이 정리됐어요．새//한 걸음을 내디딜 수 있을 것 같아요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0012"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:94cb96a6ab64e25e",
+    "source": "大神中尉の胸の鼓動を感じるわ。//あぁ……君の体は、//なんてかぐわしいんだ。",
+    "before": {
+      "id": "dialogue:94cb96a6ab64e25e",
+      "source": "大神中尉の胸の鼓動を感じるわ。//あぁ……君の体は、//なんてかぐわしいんだ。",
+      "text": "오오가미 중위의 심장 박동이 느껴져．아아…당신의 몸은，//어쩜 이리 향긋한지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0060"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1401"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:94cb96a6ab64e25e",
+      "source": "大神中尉の胸の鼓動を感じるわ。//あぁ……君の体は、//なんてかぐわしいんだ。",
+      "text": "오오가미 중위의 심장 박동이//느껴져．아아…당신의//몸은 어쩜 이리 향긋한지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0060"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1401"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:86e1c37408e0220d",
+    "source": "もう、大神さんのいじわる。//そんな心配いりません。//ちゃんとおぼえましたから。",
+    "before": {
+      "id": "dialogue:86e1c37408e0220d",
+      "source": "もう、大神さんのいじわる。//そんな心配いりません。//ちゃんとおぼえましたから。",
+      "text": "정말，오오가미 씨도 짓궂다니까요．그런 걱정은 안 하셔도 돼요．//제대로 외웠으니까요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1870"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:86e1c37408e0220d",
+      "source": "もう、大神さんのいじわる。//そんな心配いりません。//ちゃんとおぼえましたから。",
+      "text": "정말，오오가미 씨도 짓궂다니까요．//그런 걱정 안 하셔도 돼요．//제대로 외웠으니까요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1870"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d6d1f0f5bcf22995",
+    "source": "わかっていたつもりですが、//改めて隊長を見ていると、//まだまだだと思いました。",
+    "before": {
+      "id": "dialogue:d6d1f0f5bcf22995",
+      "source": "わかっていたつもりですが、//改めて隊長を見ていると、//まだまだだと思いました。",
+      "text": "안다고 생각했습니다만，다시 대장님을 보고 있자니，//아직 멀었다는 생각이 들었습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0117"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1690"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d6d1f0f5bcf22995",
+      "source": "わかっていたつもりですが、//改めて隊長を見ていると、//まだまだだと思いました。",
+      "text": "안다고 생각했습니다만 다시//대장님을 보고 있자니，아직//멀었다는 생각이 들었습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0117"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1690"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:18b906684b2aef78",
+    "source": "はい……わかりました。//隊長がそうおっしゃるなら、//精一杯、演じます。",
+    "before": {
+      "id": "dialogue:18b906684b2aef78",
+      "source": "はい……わかりました。//隊長がそうおっしゃるなら、//精一杯、演じます。",
+      "text": "네…알겠습니다．대장님이 그렇게 말씀하신다면，최선을 다해 연기하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0118"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1692"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:18b906684b2aef78",
+      "source": "はい……わかりました。//隊長がそうおっしゃるなら、//精一杯、演じます。",
+      "text": "네…알겠습니다．대장님이 그렇게//말씀하신다면 힘껏 연기하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0118"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1692"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:03f0a21926364d99",
+    "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+    "before": {
+      "id": "dialogue:03f0a21926364d99",
+      "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+      "text": "그래…도쿄에서 귀공이 싸우는 모습…찬찬히 지켜보았다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0240"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1633"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:03f0a21926364d99",
+      "source": "そうだ……トーキョーでの//貴公の戦い……//じっくりと見させてもらった。",
+      "text": "그래…도쿄에서 귀공이 싸우는//모습…찬찬히 지켜봤다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0240"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1633"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:988904657cbb4cee",
+    "source": "さくらのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:988904657cbb4cee",
+      "source": "さくらのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "사쿠라 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0442"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0169"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:988904657cbb4cee",
+      "source": "さくらのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "사쿠라 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0442"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0169"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:c1ed43c0d4f52520",
+    "source": "すみれのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:c1ed43c0d4f52520",
+      "source": "すみれのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "스미레 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0444"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0171"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c1ed43c0d4f52520",
+      "source": "すみれのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "스미레 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0444"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0171"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:9b9113128ad114ff",
+    "source": "マリアのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:9b9113128ad114ff",
+      "source": "マリアのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "마리아 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0173"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9b9113128ad114ff",
+      "source": "マリアのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "마리아 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0173"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:932ca4f758df1fe7",
+    "source": "紅蘭のことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:932ca4f758df1fe7",
+      "source": "紅蘭のことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "홍란 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0452"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0179"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:932ca4f758df1fe7",
+      "source": "紅蘭のことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "홍란 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0452"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0179"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:cd05efce936aa96a",
+    "source": "レニのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:cd05efce936aa96a",
+      "source": "レニのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "레니 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0456"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0183"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cd05efce936aa96a",
+      "source": "レニのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "레니 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0456"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0183"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:078ace5eeeed0640",
+    "source": "エリカのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+    "before": {
+      "id": "dialogue:078ace5eeeed0640",
+      "source": "エリカのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "에리카 말이다…어떠냐，오오가미．슬슬 가정을 꾸릴 생각은 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0458"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0185"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:078ace5eeeed0640",
+      "source": "エリカのことだ……//どうだ、大神。//そろそろ身を固めんか？",
+      "text": "에리카 말이다…어떠냐，오오가미．//슬슬 가정을 꾸릴 생각 없나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0458"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0185"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b78e59e3033062bf",
+    "source": "大神よ……俺は幸せ者だ。//かわいい娘たちに囲まれて、//お前っていう跡取りもできた。",
+    "before": {
+      "id": "dialogue:b78e59e3033062bf",
+      "source": "大神よ……俺は幸せ者だ。//かわいい娘たちに囲まれて、//お前っていう跡取りもできた。",
+      "text": "오오가미…나는 행복한 사람이야．귀여운 딸들에게 둘러싸이고，//너라는 후계자도 생겼으니．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0226"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b78e59e3033062bf",
+      "source": "大神よ……俺は幸せ者だ。//かわいい娘たちに囲まれて、//お前っていう跡取りもできた。",
+      "text": "오오가미…나는 행복한 사람이야．//귀여운 딸들에게 둘러싸이고//너라는 후계자도 생겼으니．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0226"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:78189fc128abea9d",
+    "source": "役者とお客さまが作り出す//一体感こそ……//米田支配人の願いだと思うわ。",
+    "before": {
+      "id": "dialogue:78189fc128abea9d",
+      "source": "役者とお客さまが作り出す//一体感こそ……//米田支配人の願いだと思うわ。",
+      "text": "배우와 관객이 만들어 내는 일체감이야말로…요네다 지배인의 바람이라고 생각해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0566"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1312"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:78189fc128abea9d",
+      "source": "役者とお客さまが作り出す//一体感こそ……//米田支配人の願いだと思うわ。",
+      "text": "배우와 관객이 만드는 일체감이야말로…//요네다 지배인의 바람이라고 생각해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0566"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1312"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:ca1208352464e903",
+    "source": "このままずっと……//二人きりでいられると//いいのですが……",
+    "before": {
+      "id": "dialogue:ca1208352464e903",
+      "source": "このままずっと……//二人きりでいられると//いいのですが……",
+      "text": "이대로 계속…둘이서만 있을 수 있다면 좋으련만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0634"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0481"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ca1208352464e903",
+      "source": "このままずっと……//二人きりでいられると//いいのですが……",
+      "text": "이대로 계속…단둘이 있을//수 있다면 좋으련만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0634"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0481"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:4f73bdcdf27528d8",
+    "source": "なら、それまでは……//二人で幸せに生きろ。//米田支配人もそれが望みだ。",
+    "before": {
+      "id": "dialogue:4f73bdcdf27528d8",
+      "source": "なら、それまでは……//二人で幸せに生きろ。//米田支配人もそれが望みだ。",
+      "text": "그렇다면 그때까지는…둘이 행복하게 살아라．요네다 지배인도 그걸 바라고 있다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0774"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0751"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4f73bdcdf27528d8",
+      "source": "なら、それまでは……//二人で幸せに生きろ。//米田支配人もそれが望みだ。",
+      "text": "그렇다면 그때까지는…//둘이 행복하게 살아라．//요네다 지배인도 그걸 바란다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0774"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0751"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:452ae823c982ffdf",
+    "source": "初めて隊長と会った時の私は、//自分ひとりの力で生きようと……//誰にも頼ろうとしませんでした。",
+    "before": {
+      "id": "dialogue:452ae823c982ffdf",
+      "source": "初めて隊長と会った時の私は、//自分ひとりの力で生きようと……//誰にも頼ろうとしませんでした。",
+      "text": "처음 대장님을 만났을 때 저는，//제 힘만으로 살아가려고…누구에게도 의지하려 하지 않았습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0800"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:452ae823c982ffdf",
+      "source": "初めて隊長と会った時の私は、//自分ひとりの力で生きようと……//誰にも頼ろうとしませんでした。",
+      "text": "처음 대장님을 만났을 때 저는 제//힘만으로 살아가려고…누구에게도//의지하려 하지 않았습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0800"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:61f3f97c5c72a301",
+    "source": "ウナイ神てのは……//沖縄に伝わる、男を守る//女の神さまのことでさ……",
+    "before": {
+      "id": "dialogue:61f3f97c5c72a301",
+      "source": "ウナイ神てのは……//沖縄に伝わる、男を守る//女の神さまのことでさ……",
+      "text": "우나이 신이라는 건…오키나와에 전해지는，남자를 지키는 여신을 말하는 거야…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0808"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:61f3f97c5c72a301",
+      "source": "ウナイ神てのは……//沖縄に伝わる、男を守る//女の神さまのことでさ……",
+      "text": "우나이 신이라는 건…오키나와에//전해지는 남자를 지키는 여신이야…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0808"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:c6ea43bb55ebfe7d",
+    "source": "それは……幼い頃より……//殿方と歩く時は、三歩下がって//歩くものだと教えられて……",
+    "before": {
+      "id": "dialogue:c6ea43bb55ebfe7d",
+      "source": "それは……幼い頃より……//殿方と歩く時は、三歩下がって//歩くものだと教えられて……",
+      "text": "그건…어릴 적부터…//남성분과 걸을 때는，세 걸음 물러나서 걷는 것이라고 배워서…",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0993"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1173"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c6ea43bb55ebfe7d",
+      "source": "それは……幼い頃より……//殿方と歩く時は、三歩下がって//歩くものだと教えられて……",
+      "text": "그건…어릴 적부터…남성분과 걸을 때는//세 걸음 물러나서 걷는 거라고 배워서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0993"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1173"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a2ad8e872287a4c0",
+    "source": "でも……やはり、//親の教えには逆らえなくて……",
+    "before": {
+      "id": "dialogue:a2ad8e872287a4c0",
+      "source": "でも……やはり、//親の教えには逆らえなくて……",
+      "text": "하지만…역시，부모님의 가르침을 거스를 수 없어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0995"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1175"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a2ad8e872287a4c0",
+      "source": "でも……やはり、//親の教えには逆らえなくて……",
+      "text": "하지만…역시 부모님의//가르침을 거스를 수 없어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0995"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1175"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d19f95753496b9c6",
+    "source": "降魔戦争の時、//銀座に出現した謎の能楽師。//大久保長安だと思われる。",
+    "before": {
+      "id": "dialogue:d19f95753496b9c6",
+      "source": "降魔戦争の時、//銀座に出現した謎の能楽師。//大久保長安だと思われる。",
+      "text": "강마전쟁 때 긴자에 나타난 수수께끼의 노 배우．오오쿠보 나가야스로 추정된다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0107"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d19f95753496b9c6",
+      "source": "降魔戦争の時、//銀座に出現した謎の能楽師。//大久保長安だと思われる。",
+      "text": "강마전쟁 때 긴자에 나타난 의문의 노//배우．오오쿠보 나가야스로 보인다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0107"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0107"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:06edca1a0eb28f06",
+    "source": "闇夜に踊る大久保長安の亡霊。//今は、大神たちに説得され、//帝都の守護神となっている。",
+    "before": {
+      "id": "dialogue:06edca1a0eb28f06",
+      "source": "闇夜に踊る大久保長安の亡霊。//今は、大神たちに説得され、//帝都の守護神となっている。",
+      "text": "어둠 속에서 춤추는 오오쿠보 나가야스 망령．지금은 오오가미 일행이 설득해 제도 수호신이 됐다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0108"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:06edca1a0eb28f06",
+      "source": "闇夜に踊る大久保長安の亡霊。//今は、大神たちに説得され、//帝都の守護神となっている。",
+      "text": "어둠에서 춤추는 오오쿠보 나가야스//망령．지금은 오오가미 일행이//설득해 제도 수호신이 됐다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0108"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0108"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d2e9dab3bd902a3b",
+    "source": "この帝都で育んだ二人の愛は、//なにものにも代えがたき物。",
+    "before": {
+      "id": "dialogue:d2e9dab3bd902a3b",
+      "source": "この帝都で育んだ二人の愛は、//なにものにも代えがたき物。",
+      "text": "이 제도에서 키워 온 두 사람의 사랑은，무엇과도 바꿀 수 없는 것．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0533"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d2e9dab3bd902a3b",
+      "source": "この帝都で育んだ二人の愛は、//なにものにも代えがたき物。",
+      "text": "이 제도에서 키운 두 사람의 사랑은，//무엇과도 바꿀 수 없는 것．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0533"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1f4f50cbc54df831",
+    "source": "そうなんだよな……//理屈じゃないんだよな。",
+    "before": {
+      "id": "dialogue:1f4f50cbc54df831",
+      "source": "そうなんだよな……//理屈じゃないんだよな。",
+      "text": "그렇단 말이지…논리로 따질 일이 아니란 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0669"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1f4f50cbc54df831",
+      "source": "そうなんだよな……//理屈じゃないんだよな。",
+      "text": "그렇단 말이지…논리로//따질 일이 아니야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0669"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e121ea8af8d2f3e8",
+    "source": "ミリエル司教の救済の話ですか？//ジャン・バルジャンの心の//支えのようですし……",
+    "before": {
+      "id": "dialogue:e121ea8af8d2f3e8",
+      "source": "ミリエル司教の救済の話ですか？//ジャン・バルジャンの心の//支えのようですし……",
+      "text": "미리엘 주교님의 구원 이야기인가요？장 발장의 마음을//지탱해 주는 분이기도 하고…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0136"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e121ea8af8d2f3e8",
+      "source": "ミリエル司教の救済の話ですか？//ジャン・バルジャンの心の//支えのようですし……",
+      "text": "미리엘 주교님의 구원//얘기인가요？장 발장의 마음을//지탱해 주는 분이기도 하고…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0136"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:9455e3041d1d68d6",
+    "source": "それで……帝劇内だけで使える//携帯キネマトロンを//用意いたしました……はい。",
+    "before": {
+      "id": "dialogue:9455e3041d1d68d6",
+      "source": "それで……帝劇内だけで使える//携帯キネマトロンを//用意いたしました……はい。",
+      "text": "그래서…제국극장 안에서만 쓸 수 있는 휴대용 키네마트론을//준비했습니다…네．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0169"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9455e3041d1d68d6",
+      "source": "それで……帝劇内だけで使える//携帯キネマトロンを//用意いたしました……はい。",
+      "text": "그래서…제국극장 안에서만 쓰는 휴대용//키네마트론을 준비했습니다…네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0169"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:43c6146473407546",
+    "source": "でも……あたしには、//結婚は早いかな？",
+    "before": {
+      "id": "dialogue:43c6146473407546",
+      "source": "でも……あたしには、//結婚は早いかな？",
+      "text": "하지만…저한테 결혼은 아직 좀 이른 걸까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0239"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:43c6146473407546",
+      "source": "でも……あたしには、//結婚は早いかな？",
+      "text": "하지만…저한테 결혼은//아직 이른 걸까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0239"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:9647399079c244d0",
+    "source": "マリアやすみれは肌が弱いから、//「ゆず水」とか肌に優しいのを//用意しないといけないんだ。",
+    "before": {
+      "id": "dialogue:9647399079c244d0",
+      "source": "マリアやすみれは肌が弱いから、//「ゆず水」とか肌に優しいのを//用意しないといけないんだ。",
+      "text": "마리아와 스미레는 피부가 약하니까，「유자수」처럼 피부에 순한 걸//준비해야 해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0668"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9647399079c244d0",
+      "source": "マリアやすみれは肌が弱いから、//「ゆず水」とか肌に優しいのを//用意しないといけないんだ。",
+      "text": "마리아와 스미레는 피부가//약하니까「유자수」처럼//피부에 순한 걸 준비해야 해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0668"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:08b9bc81f478d987",
+    "source": "いえ……見ていただけです。//この帝都を……",
+    "before": {
+      "id": "dialogue:08b9bc81f478d987",
+      "source": "いえ……見ていただけです。//この帝都を……",
+      "text": "아니요…그냥 보고 있었을 뿐이에요．이 제도를…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1032"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:08b9bc81f478d987",
+      "source": "いえ……見ていただけです。//この帝都を……",
+      "text": "아니요…그냥 보고//있었어요．이 제도를…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1032"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1da6f8921b8155a2",
+    "source": "色々ともらったんだけど、//どれもしっくりこなくて……",
+    "before": {
+      "id": "dialogue:1da6f8921b8155a2",
+      "source": "色々ともらったんだけど、//どれもしっくりこなくて……",
+      "text": "여러 가지를 받아 봤지만，어느 것도 딱 맞는 느낌이 아니라서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1507"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1da6f8921b8155a2",
+      "source": "色々ともらったんだけど、//どれもしっくりこなくて……",
+      "text": "여러 가지를 받아 봤지만 어느//것도 딱 맞는 느낌이 아니라서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1507"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:788d3ba9b46e556d",
+    "source": "ああ、さくらくんの部屋に//問題がないかね。",
+    "before": {
+      "id": "dialogue:788d3ba9b46e556d",
+      "source": "ああ、さくらくんの部屋に//問題がないかね。",
+      "text": "아아，사쿠라 군의 방에 문제가 없는지 보러 왔어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1593"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:788d3ba9b46e556d",
+      "source": "ああ、さくらくんの部屋に//問題がないかね。",
+      "text": "아아，사쿠라 군 방에//문제가 없는지 보러 왔어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1593"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7c8c9fb13a42060f",
+    "source": "俺なら熱い魂で改心させるな。//物で改心させようなんて//良くないと思うよ。",
+    "before": {
+      "id": "dialogue:7c8c9fb13a42060f",
+      "source": "俺なら熱い魂で改心させるな。//物で改心させようなんて//良くないと思うよ。",
+      "text": "나라면 뜨거운 영혼으로//개심시키겠어．물건으로 마음을 돌리려는 건 좋지 않다고 봐．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0222"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7c8c9fb13a42060f",
+      "source": "俺なら熱い魂で改心させるな。//物で改心させようなんて//良くないと思うよ。",
+      "text": "나라면 뜨거운 영혼으로//개심시키겠어．물건으로 마음을//돌리려는 건 좋지 않아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0222"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:06ecd7f9ce44b2ad",
+    "source": "マリアさ～ん、織姫さ～ん！//大神さんがこれから、//能を見に行きませんかって～∈",
+    "before": {
+      "id": "dialogue:06ecd7f9ce44b2ad",
+      "source": "マリアさ～ん、織姫さ～ん！//大神さんがこれから、//能を見に行きませんかって～∈",
+      "text": "마리아 씨～，오리히메 씨～∈오오가미 씨가 지금부터，//노를 보러 가지 않겠냐고 하셨어요～∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0243"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:06ecd7f9ce44b2ad",
+      "source": "マリアさ～ん、織姫さ～ん！//大神さんがこれから、//能を見に行きませんかって～∈",
+      "text": "마리아 씨～，오리히메 씨～∈//오오가미 씨가 지금 노를 보러//가지 않겠냐고 하셨어요～∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0243"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:4317fb0168500f67",
+    "source": "そうか、興味を持ってくれると、//俺も助かるよ。//今度、くわしい話をしようね。",
+    "before": {
+      "id": "dialogue:4317fb0168500f67",
+      "source": "そうか、興味を持ってくれると、//俺も助かるよ。//今度、くわしい話をしようね。",
+      "text": "그렇구나，관심을 가져 준다면 나한테도 도움이 되겠어．//다음에 자세히 이야기해 보자．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0296"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0299"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0305"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0308"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0311"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0314"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0317"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4317fb0168500f67",
+      "source": "そうか、興味を持ってくれると、//俺も助かるよ。//今度、くわしい話をしようね。",
+      "text": "그렇구나，관심을 가져//준다면 나도 도움이 되겠어．//다음에 자세히 이야기해 보자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0296"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0299"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0305"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0308"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0311"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0314"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0317"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:eeaaea11f935dab3",
+    "source": "能楽師が被ることで、//能面の命が能楽師に伝わり、//幽玄の世界が広がる……",
+    "before": {
+      "id": "dialogue:eeaaea11f935dab3",
+      "source": "能楽師が被ることで、//能面の命が能楽師に伝わり、//幽玄の世界が広がる……",
+      "text": "노 배우가 가면을 쓰면，//노 가면의 생명이 배우에게 전해지고，유현의 세계가 펼쳐진다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0387"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:eeaaea11f935dab3",
+      "source": "能楽師が被ることで、//能面の命が能楽師に伝わり、//幽玄の世界が広がる……",
+      "text": "노 배우가 가면을 쓰면 노 가면의//생명이 배우에게 전해지고，//유현의 세계가 펼쳐진다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0387"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:ceb08181e0c734c6",
+    "source": "もう、貴公のことなど知らん！//好きにするがよい∈",
+    "before": {
+      "id": "dialogue:ceb08181e0c734c6",
+      "source": "もう、貴公のことなど知らん！//好きにするがよい∈",
+      "text": "정말이지，귀공 따위는 이제 모른다∈마음대로 해라∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0551"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ceb08181e0c734c6",
+      "source": "もう、貴公のことなど知らん！//好きにするがよい∈",
+      "text": "정말이지 귀공 따위는 이제//모른다∈마음대로 해라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0551"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a81b84b28903b23b",
+    "source": "……いいだろう。//だが……そう素直に言われると、//誘いたくなくなるな。",
+    "before": {
+      "id": "dialogue:a81b84b28903b23b",
+      "source": "……いいだろう。//だが……そう素直に言われると、//誘いたくなくなるな。",
+      "text": "…좋아．하지만…그렇게 솔직하게 나오면，오히려 놀러 가자고 하기 싫어지는데．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0660"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a81b84b28903b23b",
+      "source": "……いいだろう。//だが……そう素直に言われると、//誘いたくなくなるな。",
+      "text": "…좋아．하지만…그렇게 솔직하면//오히려 같이 가자고 하기 싫어지는데．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0660"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:cad02fa7e5a96a25",
+    "source": "人が集まる場所をめぐって、//困っている人がいたら、//助けるっていうのはどうです？",
+    "before": {
+      "id": "dialogue:cad02fa7e5a96a25",
+      "source": "人が集まる場所をめぐって、//困っている人がいたら、//助けるっていうのはどうです？",
+      "text": "사람들이 모이는 곳을 돌아다니면서，곤란해하는 사람이 있으면，//도와주는 건 어때요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0770"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cad02fa7e5a96a25",
+      "source": "人が集まる場所をめぐって、//困っている人がいたら、//助けるっていうのはどうです？",
+      "text": "사람들이 모이는 곳을//돌아다니면서 곤란해하는 사람이//있으면 도와주는 건 어때요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0770"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f29e1ef4c8804ea4",
+    "source": "ま……そんときゃ、//さくらに頼めばいいか。//あいつなら教えられるだろ。",
+    "before": {
+      "id": "dialogue:f29e1ef4c8804ea4",
+      "source": "ま……そんときゃ、//さくらに頼めばいいか。//あいつなら教えられるだろ。",
+      "text": "뭐…그때는，사쿠라에게 부탁하면 되겠지．//그 녀석이라면 가르칠 수 있을 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1246"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f29e1ef4c8804ea4",
+      "source": "ま……そんときゃ、//さくらに頼めばいいか。//あいつなら教えられるだろ。",
+      "text": "뭐…그때는 사쿠라에게 부탁하면//되겠지．그 녀석이라면//가르칠 수 있을 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1246"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:3eac2806e6414c9f",
+    "source": "それじゃ……//わたしはそろそろ寝ま～す。//夜ふかしは美容の大敵ですから。",
+    "before": {
+      "id": "dialogue:3eac2806e6414c9f",
+      "source": "それじゃ……//わたしはそろそろ寝ま～す。//夜ふかしは美容の大敵ですから。",
+      "text": "그럼…//전 이제 슬슬 자러 갈게요～．밤늦게까지 깨어 있는 건 미용의 적이니까요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1349"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3eac2806e6414c9f",
+      "source": "それじゃ……//わたしはそろそろ寝ま～す。//夜ふかしは美容の大敵ですから。",
+      "text": "그럼…전 이제 슬슬 자러 갈게요～．//밤샘은 미용의 적이니까요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1349"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:2d2682e54b826d7c",
+    "source": "すぐに返事しないと、ダメか？//少し考えたいんだけど……",
+    "before": {
+      "id": "dialogue:2d2682e54b826d7c",
+      "source": "すぐに返事しないと、ダメか？//少し考えたいんだけど……",
+      "text": "금방 대답하지 않으면，안 되는 거야？조금 생각하고 싶은데…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2747"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2d2682e54b826d7c",
+      "source": "すぐに返事しないと、ダメか？//少し考えたいんだけど……",
+      "text": "금방 대답하지 않으면 안 되는//거야？조금 생각하고 싶은데…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#2747"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:efe08b270ae3bf49",
+    "source": "ダメだ、親の愛はこうだと思う。",
+    "before": {
+      "id": "dialogue:efe08b270ae3bf49",
+      "source": "ダメだ、親の愛はこうだと思う。",
+      "text": "안 돼，부모의 사랑이란 건 이런 거라고 생각해．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3253"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:efe08b270ae3bf49",
+      "source": "ダメだ、親の愛はこうだと思う。",
+      "text": "안 돼，부모의 사랑은//이런 거라고 생각해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3253"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:3f1d7f8174418d79",
+    "source": "銀座一体に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+    "before": {
+      "id": "dialogue:3f1d7f8174418d79",
+      "source": "銀座一体に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+      "text": "긴자 일대에 금빛 증기가 충만∈//증기기계가 폭주하기 시작했습니다∈피해…막대함∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3316"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3f1d7f8174418d79",
+      "source": "銀座一体に金色の蒸気が充満！//蒸気機械が暴走をはじめました∈//被害……甚大！",
+      "text": "긴자 일대에 금빛 증기 충만∈//증기기계가 폭주하기//시작했습니다∈피해…막대함∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3316"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:3d6fe50ebd36db42",
+    "source": "ああ、まあね。//ウロウロとしていた//だけなんだけどさ。",
+    "before": {
+      "id": "dialogue:3d6fe50ebd36db42",
+      "source": "ああ、まあね。//ウロウロとしていた//だけなんだけどさ。",
+      "text": "아아，뭐 그렇지．그냥 어슬렁거리고 있었을 뿐이지만 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0166"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2413"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3d6fe50ebd36db42",
+      "source": "ああ、まあね。//ウロウロとしていた//だけなんだけどさ。",
+      "text": "아아，뭐 그렇지．그냥//어슬렁거렸을 뿐이지만 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0166"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2413"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0366ec6c78274656",
+    "source": "隊長！//その言い方……//誤解があります∈",
+    "before": {
+      "id": "dialogue:0366ec6c78274656",
+      "source": "隊長！//その言い方……//誤解があります∈",
+      "text": "대장님∈그 말씀에는 오해의 소지가 있습니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0505"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0366ec6c78274656",
+      "source": "隊長！//その言い方……//誤解があります∈",
+      "text": "대장님∈그 말씀은//오해의 소지가 있습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0505"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:33c485e2eb874c43",
+    "source": "え……あらやだ！//これ、「愛ゆえに」の時のよ。",
+    "before": {
+      "id": "dialogue:33c485e2eb874c43",
+      "source": "え……あらやだ！//これ、「愛ゆえに」の時のよ。",
+      "text": "어머나，세상에∈이거 「사랑하기 때문에」때 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0680"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:33c485e2eb874c43",
+      "source": "え……あらやだ！//これ、「愛ゆえに」の時のよ。",
+      "text": "어머나∈이거//「사랑하기 때문에」때 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0680"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7f9059bd8e0c26bc",
+    "source": "きゃっ！　大神さん∈//いつからそこに？",
+    "before": {
+      "id": "dialogue:7f9059bd8e0c26bc",
+      "source": "きゃっ！　大神さん∈//いつからそこに？",
+      "text": "앗∈오오가미 씨∈언제부터 거기 계셨어요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0686"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7f9059bd8e0c26bc",
+      "source": "きゃっ！　大神さん∈//いつからそこに？",
+      "text": "앗∈오오가미 씨∈언제부터 계셨어요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0686"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0a5825ecc5b30dd1",
+    "source": "いや……支配人が//俺に話をしてくれるまで待とう。",
+    "before": {
+      "id": "dialogue:0a5825ecc5b30dd1",
+      "source": "いや……支配人が//俺に話をしてくれるまで待とう。",
+      "text": "아니…지배인님이 나한테 말씀해 주실 때까지 기다리자．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0804"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0a5825ecc5b30dd1",
+      "source": "いや……支配人が//俺に話をしてくれるまで待とう。",
+      "text": "아니…지배인님이 말씀해//주실 때까지 기다리자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0804"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:bd6c094bb9d01ed5",
+    "source": "別に日本で買わなくても、//イタリアにいるママに//送ってもらうからいいんで～す！",
+    "before": {
+      "id": "dialogue:bd6c094bb9d01ed5",
+      "source": "別に日本で買わなくても、//イタリアにいるママに//送ってもらうからいいんで～す！",
+      "text": "굳이 일본에서 사지 않아도 이탈리아에 계신 엄마한테//보내 달라고 하면 되니까 괜찮아～요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0833"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bd6c094bb9d01ed5",
+      "source": "別に日本で買わなくても、//イタリアにいるママに//送ってもらうからいいんで～す！",
+      "text": "굳이 일본에서 안 사도 이탈리아에//계신 엄마한테 보내 달라고//하면 되니까 괜찮아～요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0833"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:12171f62a355971c",
+    "source": "しつこいですわね。//銀座の亜米利加屋さんです！",
+    "before": {
+      "id": "dialogue:12171f62a355971c",
+      "source": "しつこいですわね。//銀座の亜米利加屋さんです！",
+      "text": "정말 끈질기네요．긴자의 아메리카야예요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0850"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:12171f62a355971c",
+      "source": "しつこいですわね。//銀座の亜米利加屋さんです！",
+      "text": "정말 끈질기네요．//긴자 아메리카야예요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0850"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0ae90c4253c78a62",
+    "source": "それじゃ、次は//針を上に動かすんだな。",
+    "before": {
+      "id": "dialogue:0ae90c4253c78a62",
+      "source": "それじゃ、次は//針を上に動かすんだな。",
+      "text": "그럼，다음은 바늘을 위로 움직이면 되는군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1042"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0ae90c4253c78a62",
+      "source": "それじゃ、次は//針を上に動かすんだな。",
+      "text": "그럼 다음은 바늘을//위로 움직이면 되는군．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1042"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b1c09c263b6dcf16",
+    "source": "おーっほっほっ！//カンナさんには負けましたが、//ビリッケツはまぬがれましたわ。",
+    "before": {
+      "id": "dialogue:b1c09c263b6dcf16",
+      "source": "おーっほっほっ！//カンナさんには負けましたが、//ビリッケツはまぬがれましたわ。",
+      "text": "오홋홋홋∈칸나 씨에게는 졌지만 꼴찌는 면했답니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1095"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b1c09c263b6dcf16",
+      "source": "おーっほっほっ！//カンナさんには負けましたが、//ビリッケツはまぬがれましたわ。",
+      "text": "오홋홋홋∈칸나 씨에겐//졌지만 꼴찌는 면했답니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1095"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:35eb5dbfc9555a3e",
+    "source": "はぁ……もうすこし使えるかと//思ったのに……",
+    "before": {
+      "id": "dialogue:35eb5dbfc9555a3e",
+      "source": "はぁ……もうすこし使えるかと//思ったのに……",
+      "text": "하아…조금 더 쓸 수 있을 줄 알았는데…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1234"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:35eb5dbfc9555a3e",
+      "source": "はぁ……もうすこし使えるかと//思ったのに……",
+      "text": "하아…좀 더 쓸 수 있을 줄 알았는데…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1234"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:ad2137da6019ab84",
+    "source": "あ、大神さん……〓//いえ、さくらさんと菊之丞さんに//お化粧を教えてもらっていて……",
+    "before": {
+      "id": "dialogue:ad2137da6019ab84",
+      "source": "あ、大神さん……〓//いえ、さくらさんと菊之丞さんに//お化粧を教えてもらっていて……",
+      "text": "아，오오가미 씨…〓//아니요，사쿠라 씨와 키쿠노조 씨에게 화장을 배우고 있어서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1245"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ad2137da6019ab84",
+      "source": "あ、大神さん……〓//いえ、さくらさんと菊之丞さんに//お化粧を教えてもらっていて……",
+      "text": "아，오오가미 씨…〓아뇨，//사쿠라 씨와 키쿠노조 씨에게//화장을 배우고 있어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1245"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:567480df312fbec6",
+    "source": "どうしたんだい？//私の瞳の奥にある……//君への想いに気づいたのかい？",
+    "before": {
+      "id": "dialogue:567480df312fbec6",
+      "source": "どうしたんだい？//私の瞳の奥にある……//君への想いに気づいたのかい？",
+      "text": "왜 그러시나요？내 눈동자 깊은 곳에 있는…//당신을 향한 마음을 알아챈 건가요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1396"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:567480df312fbec6",
+      "source": "どうしたんだい？//私の瞳の奥にある……//君への想いに気づいたのかい？",
+      "text": "왜 그러시나요？내 눈동자 깊은 곳의…//당신을 향한 마음을 알아챈 건가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1396"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f026f2d88c27e3fb",
+    "source": "私と君の間に……//言葉はいらない。//ただ、求め合うだけで……",
+    "before": {
+      "id": "dialogue:f026f2d88c27e3fb",
+      "source": "私と君の間に……//言葉はいらない。//ただ、求め合うだけで……",
+      "text": "나와 당신 사이에는…말은 필요 없어．그저 서로를 원하기만 하면 돼…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1402"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f026f2d88c27e3fb",
+      "source": "私と君の間に……//言葉はいらない。//ただ、求め合うだけで……",
+      "text": "나와 당신 사이엔…말은 필요 없어．//그저 서로를 원하기만 하면 돼…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1402"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:71d76c454b78e631",
+    "source": "うむ……街を見ていた。//私が守ったこの街をな……",
+    "before": {
+      "id": "dialogue:71d76c454b78e631",
+      "source": "うむ……街を見ていた。//私が守ったこの街をな……",
+      "text": "음…거리를 보고 있었다．내가 지켜 낸 이 거리를 말이다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1666"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:71d76c454b78e631",
+      "source": "うむ……街を見ていた。//私が守ったこの街をな……",
+      "text": "음…거리를 보고 있었다．//내가 지킨 이 거리를 말이다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1666"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0a55dd91a641c598",
+    "source": "貴公は意地が悪いな。//この街に貴族は似合わぬ。",
+    "before": {
+      "id": "dialogue:0a55dd91a641c598",
+      "source": "貴公は意地が悪いな。//この街に貴族は似合わぬ。",
+      "text": "귀공은 짓궂군．이 거리에는 귀족이 어울리지 않는다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1717"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0a55dd91a641c598",
+      "source": "貴公は意地が悪いな。//この街に貴族は似合わぬ。",
+      "text": "귀공은 짓궂군．이 거리엔//귀족이 어울리지 않는다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1717"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:ac39916e1769135f",
+    "source": "そうか……礼を言う。//だが、私はニッポンジンの//黒髪の方が美しいと思うのだ。",
+    "before": {
+      "id": "dialogue:ac39916e1769135f",
+      "source": "そうか……礼を言う。//だが、私はニッポンジンの//黒髪の方が美しいと思うのだ。",
+      "text": "그렇군…고맙다．//하지만 나는 일본인의 검은 머리카락이 더 아름답다고 생각한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1742"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ac39916e1769135f",
+      "source": "そうか……礼を言う。//だが、私はニッポンジンの//黒髪の方が美しいと思うのだ。",
+      "text": "그렇군…고맙다．하지만 나는 일본인의//검은 머리가 더 아름답다고 생각한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1742"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d9425efe276e436e",
+    "source": "うむ……ルールは簡単だが//奥は深そうだ。//今度は私も遊ばせてもらおう。",
+    "before": {
+      "id": "dialogue:d9425efe276e436e",
+      "source": "うむ……ルールは簡単だが//奥は深そうだ。//今度は私も遊ばせてもらおう。",
+      "text": "음…규칙은 간단하지만 파고들수록 깊이가 있겠군．//다음엔 나도 해 보도록 하지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1813"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d9425efe276e436e",
+      "source": "うむ……ルールは簡単だが//奥は深そうだ。//今度は私も遊ばせてもらおう。",
+      "text": "음…규칙은 간단하지만 파고들수록//깊겠군．다음엔 나도 해 보도록 하지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1813"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f89b8c1466ec8c6a",
+    "source": "そうですね～。//色白の花火さんには、//派手な服が似合うと思いま～す。",
+    "before": {
+      "id": "dialogue:f89b8c1466ec8c6a",
+      "source": "そうですね～。//色白の花火さんには、//派手な服が似合うと思いま～す。",
+      "text": "그렇네요～．피부가 하얀 하나비 씨에게는，화려한 옷이 잘 어울릴 것 같아요～．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1937"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f89b8c1466ec8c6a",
+      "source": "そうですね～。//色白の花火さんには、//派手な服が似合うと思いま～す。",
+      "text": "그렇네요～．피부가 하얀//하나비 씨에겐 화려한 옷이//잘 어울릴 거예요～．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1937"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0b3d8f88b717644e",
+    "source": "花火くんのドレス姿を見たいな。//すごくきれいだと思うよ。",
+    "before": {
+      "id": "dialogue:0b3d8f88b717644e",
+      "source": "花火くんのドレス姿を見たいな。//すごくきれいだと思うよ。",
+      "text": "하나비 군의 드레스 차림을 보고 싶어．정말 예쁠 것 같아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1953"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0b3d8f88b717644e",
+      "source": "花火くんのドレス姿を見たいな。//すごくきれいだと思うよ。",
+      "text": "하나비 군의 드레스 차림이//보고 싶어．정말 예쁠 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1953"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:51e403e34b98b355",
+    "source": "大神さん、これで失礼します。//あの……また、あとで。",
+    "before": {
+      "id": "dialogue:51e403e34b98b355",
+      "source": "大神さん、これで失礼します。//あの……また、あとで。",
+      "text": "오오가미 씨，그럼 이만 실례할게요．저기…나중에 또 봐요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2031"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:51e403e34b98b355",
+      "source": "大神さん、これで失礼します。//あの……また、あとで。",
+      "text": "오오가미 씨，이만 실례할게요．//저기…나중에 또 봐요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2031"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:52f0784d39380316",
+    "source": "銀座の魔を鎮めていた//金春流の能楽師ですか？",
+    "before": {
+      "id": "dialogue:52f0784d39380316",
+      "source": "銀座の魔を鎮めていた//金春流の能楽師ですか？",
+      "text": "긴자의 마를 잠재우던 곤파루류의 노 배우입니까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2117"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:52f0784d39380316",
+      "source": "銀座の魔を鎮めていた//金春流の能楽師ですか？",
+      "text": "긴자의 마를 잠재우던//곤파루류 노 배우입니까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2117"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:3abb8dd0742dcb59",
+    "source": "ね、大神さん。//ニッポンって……//いいところですね。",
+    "before": {
+      "id": "dialogue:3abb8dd0742dcb59",
+      "source": "ね、大神さん。//ニッポンって……//いいところですね。",
+      "text": "있잖아요，오오가미 씨．일본이란 곳은…참 좋은 곳이네요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2163"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3abb8dd0742dcb59",
+      "source": "ね、大神さん。//ニッポンって……//いいところですね。",
+      "text": "있잖아요，오오가미 씨．//일본은…참 좋은 곳이네요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2163"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:43a00c8d48c2fbbc",
+    "source": "外国人も日本人も関係ないよ。//困っている人がいて、//助けようと思う人がいる。",
+    "before": {
+      "id": "dialogue:43a00c8d48c2fbbc",
+      "source": "外国人も日本人も関係ないよ。//困っている人がいて、//助けようと思う人がいる。",
+      "text": "외국인이든 일본인이든 상관없어．곤경에 처한 사람이 있고，//도와주려는 사람이 있어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2178"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:43a00c8d48c2fbbc",
+      "source": "外国人も日本人も関係ないよ。//困っている人がいて、//助けようと思う人がいる。",
+      "text": "외국인이든 일본인이든 상관없어．//곤경에 처한 사람이 있고//도와주려는 사람이 있어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2178"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a32946f66358a067",
+    "source": "確かに……そう言えば、//大神さんも言ってましたね。",
+    "before": {
+      "id": "dialogue:a32946f66358a067",
+      "source": "確かに……そう言えば、//大神さんも言ってましたね。",
+      "text": "확실히…그러고 보니，오오가미 씨도 그렇게 말씀하셨죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2180"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a32946f66358a067",
+      "source": "確かに……そう言えば、//大神さんも言ってましたね。",
+      "text": "듣고 보니…오오가미 씨도//그렇게 말씀하셨죠．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2180"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:0fc86ecee549abd7",
+    "source": "なぁ、花火くん。//どうだい、日本の感想は？",
+    "before": {
+      "id": "dialogue:0fc86ecee549abd7",
+      "source": "なぁ、花火くん。//どうだい、日本の感想は？",
+      "text": "있잖아，하나비 군．어때，일본에 와 본 소감은？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2285"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0fc86ecee549abd7",
+      "source": "なぁ、花火くん。//どうだい、日本の感想は？",
+      "text": "있잖아，하나비 군．//어때，일본 소감은？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2285"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:2fc6574b229dd9e8",
+    "source": "ははは……そうだね。//俺も日本だと、//この髪は目立たないもんね。",
+    "before": {
+      "id": "dialogue:2fc6574b229dd9e8",
+      "source": "ははは……そうだね。//俺も日本だと、//この髪は目立たないもんね。",
+      "text": "하하하…그렇네．나도 일본에서는，이 머리카락이 눈에 띄지 않으니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2344"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2fc6574b229dd9e8",
+      "source": "ははは……そうだね。//俺も日本だと、//この髪は目立たないもんね。",
+      "text": "하하하…그렇네．나도 일본에서는//이 머리가 눈에 띄지 않으니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2344"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:d31f5c893e19d736",
+    "source": "ちがうよ、コクリコ。//隊長はコクリコの好きな人として//手紙に書いて欲しいんだよ。",
+    "before": {
+      "id": "dialogue:d31f5c893e19d736",
+      "source": "ちがうよ、コクリコ。//隊長はコクリコの好きな人として//手紙に書いて欲しいんだよ。",
+      "text": "아냐，코쿠리코．대장은 코쿠리코가 좋아하는 사람으로//자기 이야기를 써 줬으면 하는 거야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2466"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d31f5c893e19d736",
+      "source": "ちがうよ、コクリコ。//隊長はコクリコの好きな人として//手紙に書いて欲しいんだよ。",
+      "text": "아냐，코쿠리코．대장은//코쿠리코가 좋아하는 사람으로 자기//얘기를 써 줬으면 하는 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2466"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:af9694edec9ca887",
+    "source": "……なんでもない。//隊長のことが、//わからなくなっただけ。",
+    "before": {
+      "id": "dialogue:af9694edec9ca887",
+      "source": "……なんでもない。//隊長のことが、//わからなくなっただけ。",
+      "text": "…아무것도 아니야．대장이 어떤 사람인지 잘 모르겠게 됐을 뿐이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2475"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:af9694edec9ca887",
+      "source": "……なんでもない。//隊長のことが、//わからなくなっただけ。",
+      "text": "…아무것도 아니야．대장이 어떤//사람인지 잘 모르게 됐을 뿐．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2475"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:fbf65ef3c0753253",
+    "source": "バカとしか思えないよ。//危機感ってものがないのか。",
+    "before": {
+      "id": "dialogue:fbf65ef3c0753253",
+      "source": "バカとしか思えないよ。//危機感ってものがないのか。",
+      "text": "바보라고밖에 생각할 수 없어．위기감이라는 게 없는 건가？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2618"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fbf65ef3c0753253",
+      "source": "バカとしか思えないよ。//危機感ってものがないのか。",
+      "text": "바보라고밖에 생각 안 돼．//위기감이라는 게 없는 건가？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2618"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:445ffa76ddd4e693",
+    "source": "ま……ここが夜景の見える丘で、//アンタと二人きりだったら、//あぶなかったかもね……",
+    "before": {
+      "id": "dialogue:445ffa76ddd4e693",
+      "source": "ま……ここが夜景の見える丘で、//アンタと二人きりだったら、//あぶなかったかもね……",
+      "text": "뭐…여기가 야경이 보이는 언덕이고，너랑 둘뿐이었다면，//위험했을지도 모르겠네…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2662"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:445ffa76ddd4e693",
+      "source": "ま……ここが夜景の見える丘で、//アンタと二人きりだったら、//あぶなかったかもね……",
+      "text": "뭐…여기가 야경이 보이는//언덕이고 너랑 둘뿐이었다면，//위험했을지도 모르겠네…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2662"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:4cfe019c1eb7f92d",
+    "source": "大神さん、なにしてるんです〓//ほら、行きますよ！",
+    "before": {
+      "id": "dialogue:4cfe019c1eb7f92d",
+      "source": "大神さん、なにしてるんです〓//ほら、行きますよ！",
+      "text": "오오가미 씨，뭐 하고 계시는 거예요〓자，가요！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2829"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4cfe019c1eb7f92d",
+      "source": "大神さん、なにしてるんです〓//ほら、行きますよ！",
+      "text": "오오가미 씨，뭐 하세요〓자，가요！",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2829"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:19fc643657381b7f",
+    "source": "あのロベリアが人助けか……//かすみくん、サイフを//スられてなければいいけど。",
+    "before": {
+      "id": "dialogue:19fc643657381b7f",
+      "source": "あのロベリアが人助けか……//かすみくん、サイフを//スられてなければいいけど。",
+      "text": "저 로벨리아가 사람을 돕다니…카스미 군，지갑을 소매치기당하지만 않았으면 좋겠는데．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3444"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:19fc643657381b7f",
+      "source": "あのロベリアが人助けか……//かすみくん、サイフを//スられてなければいいけど。",
+      "text": "저 로벨리아가 사람을 돕다니…//카스미 군，지갑을 털리지만//않았으면 좋겠는데．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3444"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:8de9b5739fdd3936",
+    "source": "大神さん、責任重大ですよ。//この舞台で、帝国歌劇団の//今年の評判が決まりますからね！",
+    "before": {
+      "id": "dialogue:8de9b5739fdd3936",
+      "source": "大神さん、責任重大ですよ。//この舞台で、帝国歌劇団の//今年の評判が決まりますからね！",
+      "text": "오오가미 씨，책임이 막중하다고요．이 무대로 제국가극단의//올해 평판이 결정되니까요！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3472"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8de9b5739fdd3936",
+      "source": "大神さん、責任重大ですよ。//この舞台で、帝国歌劇団の//今年の評判が決まりますからね！",
+      "text": "오오가미 씨，책임이 막중해요．//이 무대로 제국가극단의//올해 평판이 결정되니까요！",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3472"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1381db976ca676fa",
+    "source": "こ、ここは……//じっとして、//しびれが直るのを待つか。",
+    "before": {
+      "id": "dialogue:1381db976ca676fa",
+      "source": "こ、ここは……//じっとして、//しびれが直るのを待つか。",
+      "text": "여，여기서는…가만히 있으면서 저림이 가라앉기를 기다릴까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3655"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1381db976ca676fa",
+      "source": "こ、ここは……//じっとして、//しびれが直るのを待つか。",
+      "text": "여，여기서는…가만히 저림이//가라앉기를 기다릴까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#3655"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:2dcc7a3925a6c4bd",
+    "source": "では……わたくしは、//時間までここにいます。//舞台にいると落ちつきますので。",
+    "before": {
+      "id": "dialogue:2dcc7a3925a6c4bd",
+      "source": "では……わたくしは、//時間までここにいます。//舞台にいると落ちつきますので。",
+      "text": "그럼…저는 시간이 될 때까지 여기 있을게요．무대에 있으면 마음이//편안해지니까요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0677"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2dcc7a3925a6c4bd",
+      "source": "では……わたくしは、//時間までここにいます。//舞台にいると落ちつきますので。",
+      "text": "그럼…저는 시간이 될 때까지//여기 있을게요．무대에//있으면 마음이 편해지니까요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0677"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:48961fbf9b6ddf5c",
+    "source": "……貴公と話せてよかった。//では、次に会うときは、//作戦指令室でだな。",
+    "before": {
+      "id": "dialogue:48961fbf9b6ddf5c",
+      "source": "……貴公と話せてよかった。//では、次に会うときは、//作戦指令室でだな。",
+      "text": "…귀공과 이야기할 수 있어서 다행이었다．그럼，다음에 만날 때는，//작전 지령실에서 보자．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0852"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:48961fbf9b6ddf5c",
+      "source": "……貴公と話せてよかった。//では、次に会うときは、//作戦指令室でだな。",
+      "text": "…귀공과 이야기해서 다행이었다．//그럼，다음에 만날 때는//작전 지령실에서 보자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0852"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:75a81fc51a56a86f",
+    "source": "ああ、みんなの様子を見にね。//ところで、花火くんは//図書室でなにをしていたんだい？",
+    "before": {
+      "id": "dialogue:75a81fc51a56a86f",
+      "source": "ああ、みんなの様子を見にね。//ところで、花火くんは//図書室でなにをしていたんだい？",
+      "text": "아아，다들 어떻게 지내나 보러 왔어．그나저나，하나비 군은//도서실에서 뭘 하고 있었어？",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0898"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:75a81fc51a56a86f",
+      "source": "ああ、みんなの様子を見にね。//ところで、花火くんは//図書室でなにをしていたんだい？",
+      "text": "아아，다들 어떻게 지내나 보러//왔어．그나저나 하나비 군은//도서실에서 뭘 하고 있었어？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0898"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:9541d7ae02d3191e",
+    "source": "勝てるとお思いですか∈//あの……ミカサに∈",
+    "before": {
+      "id": "dialogue:9541d7ae02d3191e",
+      "source": "勝てるとお思いですか∈//あの……ミカサに∈",
+      "text": "이길 수 있다고 생각하시나요∈저…미카사를 상대로∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1274"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9541d7ae02d3191e",
+      "source": "勝てるとお思いですか∈//あの……ミカサに∈",
+      "text": "이길 수 있다고 생각하세요∈//저…미카사를 상대로∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1274"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:58593dbb081d23de",
+    "source": "そうですね。//私も……みんなに//助けられていたんですね。",
+    "before": {
+      "id": "dialogue:58593dbb081d23de",
+      "source": "そうですね。//私も……みんなに//助けられていたんですね。",
+      "text": "그렇네요．저도…모두에게 도움을 받고 있었던 거군요．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1288"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:58593dbb081d23de",
+      "source": "そうですね。//私も……みんなに//助けられていたんですね。",
+      "text": "그렇네요．저도…모두에게//도움을 받고 있었군요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1288"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:dc5a93031734171e",
+    "source": "花火くん、きびしい戦いだが、//俺たちと一緒に来てくれるか？",
+    "before": {
+      "id": "dialogue:dc5a93031734171e",
+      "source": "花火くん、きびしい戦いだが、//俺たちと一緒に来てくれるか？",
+      "text": "하나비 군，험난한 싸움이 되겠지만，우리와 함께 가 줄래？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1897"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dc5a93031734171e",
+      "source": "花火くん、きびしい戦いだが、//俺たちと一緒に来てくれるか？",
+      "text": "하나비 군，험난한 싸움이//되겠지만 우리와 함께 가 줄래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1897"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:04457e9967ade97d",
+    "source": "米田司令、行ってまいります！//ミカサは俺たちが必ず、//取り返してきます∈",
+    "before": {
+      "id": "dialogue:04457e9967ade97d",
+      "source": "米田司令、行ってまいります！//ミカサは俺たちが必ず、//取り返してきます∈",
+      "text": "요네다 사령관님，다녀오겠습니다∈미카사는 저희가 반드시//되찾아 오겠습니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1971"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:04457e9967ade97d",
+      "source": "米田司令、行ってまいります！//ミカサは俺たちが必ず、//取り返してきます∈",
+      "text": "요네다 사령관님，다녀오겠습니다∈//미카사는 저희가 반드시 되찾겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1971"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7841e32e064be2d6",
+    "source": "中尉……//長安さんの最後の望み……//かなえてさしあげましょうね。",
+    "before": {
+      "id": "dialogue:7841e32e064be2d6",
+      "source": "中尉……//長安さんの最後の望み……//かなえてさしあげましょうね。",
+      "text": "중위님…나가야스 씨의 마지막 소원…들어 드려요．",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0215"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7841e32e064be2d6",
+      "source": "中尉……//長安さんの最後の望み……//かなえてさしあげましょうね。",
+      "text": "중위님…나가야스 씨 마지막//소원…들어 드려요．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0215"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:35f431f7ba339af5",
+    "source": "生きて帰れと……命の尊さを//私たちに教えてくださったのは//隊長でしょう∈",
+    "before": {
+      "id": "dialogue:35f431f7ba339af5",
+      "source": "生きて帰れと……命の尊さを//私たちに教えてくださったのは//隊長でしょう∈",
+      "text": "살아서 돌아가라고…생명의 소중함을 저희에게 가르쳐 주신 분은 대장님이시잖아요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0231"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:35f431f7ba339af5",
+      "source": "生きて帰れと……命の尊さを//私たちに教えてくださったのは//隊長でしょう∈",
+      "text": "살아서 돌아가라고…생명의 소중함을//가르쳐 주신 분은 대장님이시잖아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0231"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:889feec8a137b2f6",
+    "source": "ああ……大丈夫だ。//長安が……最後に//助けてくれたのかもしれないな。",
+    "before": {
+      "id": "dialogue:889feec8a137b2f6",
+      "source": "ああ……大丈夫だ。//長安が……最後に//助けてくれたのかもしれないな。",
+      "text": "아아…괜찮아．나가야스가 마지막에 구해 준 걸지도 모르겠군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0382"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:889feec8a137b2f6",
+      "source": "ああ……大丈夫だ。//長安が……最後に//助けてくれたのかもしれないな。",
+      "text": "아아…괜찮아．나가야스가//마지막에 구해 준 걸지도 모르지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0382"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e24df936ee316a11",
+    "source": "織姫くん、大丈夫だ……//最後に……長安が//助けてくれたのかもしれないな。",
+    "before": {
+      "id": "dialogue:e24df936ee316a11",
+      "source": "織姫くん、大丈夫だ……//最後に……長安が//助けてくれたのかもしれないな。",
+      "text": "오리히메 군，괜찮아…마지막에 나가야스가 구해 준 걸지도 모르겠군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0498"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e24df936ee316a11",
+      "source": "織姫くん、大丈夫だ……//最後に……長安が//助けてくれたのかもしれないな。",
+      "text": "오리히메 군，괜찮아…마지막에//나가야스가 구해 준 걸지도 모르지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0498"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:51bed7f6b3cb85c6",
+    "source": "大丈夫だ……ありがとう。//最後に……長安が//助けてくれたのかもしれないな。",
+    "before": {
+      "id": "dialogue:51bed7f6b3cb85c6",
+      "source": "大丈夫だ……ありがとう。//最後に……長安が//助けてくれたのかもしれないな。",
+      "text": "괜찮아…고마워．마지막에 나가야스가 구해 준 걸지도 모르겠군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0556"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:51bed7f6b3cb85c6",
+      "source": "大丈夫だ……ありがとう。//最後に……長安が//助けてくれたのかもしれないな。",
+      "text": "괜찮아…고마워．마지막에//나가야스가 구해 준 걸지도 모르지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0556"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:6fee04afdbe6a08b",
+    "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引継ぎ、//守っているのだ∈",
+    "before": {
+      "id": "dialogue:6fee04afdbe6a08b",
+      "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引継ぎ、//守っているのだ∈",
+      "text": "네놈이 이 도시를 만들었을 때의 긍지를 지금 제도의 백성들이 이어받아，//지키고 있는 것이다∈",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0664"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6fee04afdbe6a08b",
+      "source": "貴様がこの町を作った時の誇りを//今の帝都の民たちが引継ぎ、//守っているのだ∈",
+      "text": "네놈이 이 도시를 만들었을 때의//긍지를 지금 제도의 백성들이//이어받아 지키고 있는 것이다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0664"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:8d96a9161e3382f3",
+    "source": "グリシーヌ……君も無事か。//長安が……最後に//助けてくれたのかもしれないな。",
+    "before": {
+      "id": "dialogue:8d96a9161e3382f3",
+      "source": "グリシーヌ……君も無事か。//長安が……最後に//助けてくれたのかもしれないな。",
+      "text": "글리신…너도 무사하구나．나가야스가 마지막에 구해 준 걸지도 모르겠어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0668"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8d96a9161e3382f3",
+      "source": "グリシーヌ……君も無事か。//長安が……最後に//助けてくれたのかもしれないな。",
+      "text": "글리신…너도 무사하구나．나가야스가//마지막에 구해 준 걸지도 모르지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0668"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:45ebc3078f811b18",
+    "source": "ああ、大丈夫だ……//長安が、最後に俺たちのことを//助けてくれたのかもしれないな。",
+    "before": {
+      "id": "dialogue:45ebc3078f811b18",
+      "source": "ああ、大丈夫だ……//長安が、最後に俺たちのことを//助けてくれたのかもしれないな。",
+      "text": "아아，괜찮아…나가야스가 마지막에 우리를 구해 준 걸지도 모르겠군．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0777"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:45ebc3078f811b18",
+      "source": "ああ、大丈夫だ……//長安が、最後に俺たちのことを//助けてくれたのかもしれないな。",
+      "text": "아아，괜찮아…나가야스가 마지막에//우리를 구해 준 걸지도 모르지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0777"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:87acb38871c99d0e",
+    "source": "……まだ、大帝国劇場の修復は//終わっていなかったが、//「あぁ、無情」は初日を迎えた。",
+    "before": {
+      "id": "dialogue:87acb38871c99d0e",
+      "source": "……まだ、大帝国劇場の修復は//終わっていなかったが、//「あぁ、無情」は初日を迎えた。",
+      "text": "…아직 대제국극장의 복구는//끝나지 않았지만，「레 미제라블」은 첫 공연을 맞이했다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0122"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:87acb38871c99d0e",
+      "source": "……まだ、大帝国劇場の修復は//終わっていなかったが、//「あぁ、無情」は初日を迎えた。",
+      "text": "…아직 대제국극장의 복구는 끝나지//않았지만 「레 미제라블」은//첫 공연을 맞이했다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0122"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:bbf24229fe95fd30",
+    "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+    "before": {
+      "id": "dialogue:bbf24229fe95fd30",
+      "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+      "text": "…모여 준 사람들의//웃는 얼굴을 보고 있으면，제도의 복구도 머지않았다고 생각한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0126"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bbf24229fe95fd30",
+      "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+      "text": "…모여 준 사람들의 웃는 얼굴을//보고 있으면 제도의 복구도//머지않았다고 생각한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0126"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:40d6e331814f3b14",
+    "source": "それは罪か〓//人は法律の前に生きている！//正義は法律の前に絶対のはすだ∈",
+    "before": {
+      "id": "dialogue:40d6e331814f3b14",
+      "source": "それは罪か〓//人は法律の前に生きている！//正義は法律の前に絶対のはすだ∈",
+      "text": "그것이 죄인가〓인간은 법보다 먼저 존재한다∈정의는 법보다 앞서는 절대적인 거야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0131"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:40d6e331814f3b14",
+      "source": "それは罪か〓//人は法律の前に生きている！//正義は法律の前に絶対のはすだ∈",
+      "text": "그게 죄인가〓인간은 법보다//먼저 존재한다∈정의는//법보다 앞서는 절대적인 것∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0131"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:45c7a2f0626c6d30",
+    "source": "アイリスなら、きっとなれるよ。//かわいいおヨメさんにさ。",
+    "before": {
+      "id": "dialogue:45c7a2f0626c6d30",
+      "source": "アイリスなら、きっとなれるよ。//かわいいおヨメさんにさ。",
+      "text": "아이리스라면，분명 될 수 있을 거야．귀여운 신부로 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0569"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:45c7a2f0626c6d30",
+      "source": "アイリスなら、きっとなれるよ。//かわいいおヨメさんにさ。",
+      "text": "아이리스라면 분명 될 수 있을//거야．귀여운 신부로 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0569"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:46a72cbe3f25eac3",
+    "source": "花やしき遊園地も再開か……//紅蘭、本当にうれしそうだな。//さて……俺も行くか。",
+    "before": {
+      "id": "dialogue:46a72cbe3f25eac3",
+      "source": "花やしき遊園地も再開か……//紅蘭、本当にうれしそうだな。//さて……俺も行くか。",
+      "text": "하나야시키 놀이공원도 재개장인가…홍란，정말 기뻐 보이네．//자…나도 가 볼까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1801"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:46a72cbe3f25eac3",
+      "source": "花やしき遊園地も再開か……//紅蘭、本当にうれしそうだな。//さて……俺も行くか。",
+      "text": "하나야시키 유원지도 재개장인가…//홍란，정말 기뻐 보이네．//자…나도 가 볼까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1801"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:85a97008af5a050f",
+    "source": "今日の初舞台……//すごいものにして、//驚かしてやるからな。",
+    "before": {
+      "id": "dialogue:85a97008af5a050f",
+      "source": "今日の初舞台……//すごいものにして、//驚かしてやるからな。",
+      "text": "오늘의 첫 무대…굉장한 무대로 만들어서，깜짝 놀라게 해 줄 테니까．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1941"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:85a97008af5a050f",
+      "source": "今日の初舞台……//すごいものにして、//驚かしてやるからな。",
+      "text": "오늘의 첫 무대…굉장한 무대로//만들어서 깜짝 놀라게 해 줄 테니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1941"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:476c2ca7f03af981",
+    "source": "地下のミカサ機関部の//暴走を止めるために//命をかけた米田支配人とか……",
+    "before": {
+      "id": "dialogue:476c2ca7f03af981",
+      "source": "地下のミカサ機関部の//暴走を止めるために//命をかけた米田支配人とか……",
+      "text": "지하의 미카사 기관부의//폭주를 막기 위해 목숨을 걸었던 요네다 지배인이라든가…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2060"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:476c2ca7f03af981",
+      "source": "地下のミカサ機関部の//暴走を止めるために//命をかけた米田支配人とか……",
+      "text": "지하 미카사 기관부의 폭주를 막기 위해//목숨을 걸었던 요네다 지배인이라든가…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2060"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a92724da4e70d3e6",
+    "source": "それとね、天海から長安までの//すべての戦いを通じての//テストを作ってみたの。",
+    "before": {
+      "id": "dialogue:a92724da4e70d3e6",
+      "source": "それとね、天海から長安までの//すべての戦いを通じての//テストを作ってみたの。",
+      "text": "그리고 말이야，텐카이부터 나가야스까지의 모든 싸움을 아우르는 테스트를 만들어 봤어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0379"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a92724da4e70d3e6",
+      "source": "それとね、天海から長安までの//すべての戦いを通じての//テストを作ってみたの。",
+      "text": "그리고 말이야，텐카이부터//나가야스까지 모든 싸움을//아우르는 테스트를 만들었어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0379"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:28457bc422a7de75",
+    "source": "そうですね……//でも、俺はまだまだですから。//すみません、これで失礼します。",
+    "before": {
+      "id": "dialogue:28457bc422a7de75",
+      "source": "そうですね……//でも、俺はまだまだですから。//すみません、これで失礼します。",
+      "text": "그렇네요…//하지만，저는 아직 멀었습니다．죄송합니다，그럼 이만 실례하겠습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0529"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:28457bc422a7de75",
+      "source": "そうですね……//でも、俺はまだまだですから。//すみません、これで失礼します。",
+      "text": "그렇네요…하지만 저는 아직//멀었습니다．죄송합니다，//그럼 이만 실례하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0529"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b4321c5d515149da",
+    "source": "さくらさんたちが見に行った//能の演目は何？",
+    "before": {
+      "id": "dialogue:b4321c5d515149da",
+      "source": "さくらさんたちが見に行った//能の演目は何？",
+      "text": "사쿠라 씨 일행이 보러 갔던 노 공연의 제목은 뭐야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1307"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b4321c5d515149da",
+      "source": "さくらさんたちが見に行った//能の演目は何？",
+      "text": "사쿠라 씨 일행이 보러 갔던//노 공연 제목은 뭐야？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1307"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:45393e7a53c3d3dc",
+    "source": "頭や髪に飾りなどをつけている//花組隊員の数は何名？",
+    "before": {
+      "id": "dialogue:45393e7a53c3d3dc",
+      "source": "頭や髪に飾りなどをつけている//花組隊員の数は何名？",
+      "text": "머리나 머리카락에 장식 등을 달고 있는 화조 대원의 수는 몇 명이지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1414"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:45393e7a53c3d3dc",
+      "source": "頭や髪に飾りなどをつけている//花組隊員の数は何名？",
+      "text": "머리나 머리카락에 장식 등을//단 화조 대원은 몇 명이지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1414"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:5f30c4285cf94cd3",
+    "source": "「命短し、恋せよ乙女」で始まる//有名な詩がありますが、その詩の//タイトルはどれでしょうか？",
+    "before": {
+      "id": "dialogue:5f30c4285cf94cd3",
+      "source": "「命短し、恋せよ乙女」で始まる//有名な詩がありますが、その詩の//タイトルはどれでしょうか？",
+      "text": "「인생은 짧고，사랑하라 소녀여」로 시작하는 유명한 시가 있습니다만，그 시의 제목은 무엇일까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1429"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5f30c4285cf94cd3",
+      "source": "「命短し、恋せよ乙女」で始まる//有名な詩がありますが、その詩の//タイトルはどれでしょうか？",
+      "text": "「인생은 짧고，사랑하라 소녀여」로//시작하는 유명한 시가 있는데，//그 시의 제목은 뭘까요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1429"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:e36994d4056fb3c2",
+    "source": "エリカさんが、金色の蒸気で//制御不能になった大神さんたちを//助けるために叫んだ言葉は？",
+    "before": {
+      "id": "dialogue:e36994d4056fb3c2",
+      "source": "エリカさんが、金色の蒸気で//制御不能になった大神さんたちを//助けるために叫んだ言葉は？",
+      "text": "에리카 씨가，금빛 증기로 인해//제어 불능 상태가 된 오오가미 씨 일행을 구하기 위해 외친 말은？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1574"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e36994d4056fb3c2",
+      "source": "エリカさんが、金色の蒸気で//制御不能になった大神さんたちを//助けるために叫んだ言葉は？",
+      "text": "에리카 씨가 금빛 증기로 인해 제어//불능 상태가 된 오오가미 씨 일행을//구하려고 외친 말은？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1574"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:7cdca75edaf91814",
+    "source": "コンコルド広場の戦いで、//コクリコは「赤い少女の涙」を//何に変えた？",
+    "before": {
+      "id": "dialogue:7cdca75edaf91814",
+      "source": "コンコルド広場の戦いで、//コクリコは「赤い少女の涙」を//何に変えた？",
+      "text": "콩코르드 광장의 전투에서，코쿠리코는 「붉은 소녀의 눈물」을//무엇으로 바꿨지？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1737"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7cdca75edaf91814",
+      "source": "コンコルド広場の戦いで、//コクリコは「赤い少女の涙」を//何に変えた？",
+      "text": "콩코르드 광장 전투에서 코쿠리코는//「붉은 소녀의 눈물」을//무엇으로 바꿨지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#1737"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:86412b6088f7945f",
+    "source": "山崎真之介の乗る「闇神威」//機体は何色だったでしょう？",
+    "before": {
+      "id": "dialogue:86412b6088f7945f",
+      "source": "山崎真之介の乗る「闇神威」//機体は何色だったでしょう？",
+      "text": "야마자키 신노스케가 탄 「암신위」는 무슨 색이었을까요？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2022"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:86412b6088f7945f",
+      "source": "山崎真之介の乗る「闇神威」//機体は何色だったでしょう？",
+      "text": "야마자키 신노스케가 탄//「암신위」는 무슨 색이었죠？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#2022"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f93e4d589a740581",
+    "source": "……わかりました。//なら俺たちは、すぐに敵を倒して//金色の蒸気を止めます。",
+    "before": {
+      "id": "dialogue:f93e4d589a740581",
+      "source": "……わかりました。//なら俺たちは、すぐに敵を倒して//金色の蒸気を止めます。",
+      "text": "…알겠습니다．//그렇다면 저희는，곧바로 적을 쓰러뜨리고 금빛 증기를 멈추겠습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0071"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f93e4d589a740581",
+      "source": "……わかりました。//なら俺たちは、すぐに敵を倒して//金色の蒸気を止めます。",
+      "text": "…알겠습니다．그렇다면//저희는 곧바로 적을 쓰러뜨리고//금빛 증기를 멈추겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0071"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:b71f6b354ad8aa81",
+    "source": "いや……まだいけます！//米田司令を救うためにも//ここで退くわけには……",
+    "before": {
+      "id": "dialogue:b71f6b354ad8aa81",
+      "source": "いや……まだいけます！//米田司令を救うためにも//ここで退くわけには……",
+      "text": "아니…아직 할 수 있습니다∈//요네다 사령관님을 구하기 위해서라도 여기서 물러설 수는…",
+      "review": "띄어쓰기",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03004.SBN#0068"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b71f6b354ad8aa81",
+      "source": "いや……まだいけます！//米田司令を救うためにも//ここで退くわけには……",
+      "text": "아니…아직 할 수 있습니다∈//요네다 사령관님을 구하려면//여기서 물러설 수는…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03004.SBN#0068"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:2d7ef67ff518af71",
+    "source": "い、いや大丈夫。//少し考えていただけだよ。",
+    "before": {
+      "id": "dialogue:2d7ef67ff518af71",
+      "source": "い、いや大丈夫。//少し考えていただけだよ。",
+      "text": "아，아니，괜찮아．잠시 생각 좀 해 본 것뿐이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03013.SBN#0030"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2d7ef67ff518af71",
+      "source": "い、いや大丈夫。//少し考えていただけだよ。",
+      "text": "아，아니，괜찮아．//잠시 생각해 본 것뿐이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03013.SBN#0030"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:cbac747ef7371cd5",
+    "source": "一度しか言わぬから、よく聞け。//貴公は風だ……//風がなくば、船は動かん……",
+    "before": {
+      "id": "dialogue:cbac747ef7371cd5",
+      "source": "一度しか言わぬから、よく聞け。//貴公は風だ……//風がなくば、船は動かん……",
+      "text": "한 번밖에 말하지 않겠다，잘 들어라．귀공은 바람이다…//바람이 없으면 배는 움직이지 않는다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04015.SBN#0004"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cbac747ef7371cd5",
+      "source": "一度しか言わぬから、よく聞け。//貴公は風だ……//風がなくば、船は動かん……",
+      "text": "한 번만 말하겠다，잘 들어라．//귀공은 바람이다…바람이//없으면 배는 움직이지 않는다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04015.SBN#0004"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1371786295ab3b43",
+    "source": "だから、強くなれる気がします。//大神さんのそばにいれば……//強くなれる気がします！",
+    "before": {
+      "id": "dialogue:1371786295ab3b43",
+      "source": "だから、強くなれる気がします。//大神さんのそばにいれば……//強くなれる気がします！",
+      "text": "그래서，강해질 수 있을 것만 같아요．오오가미 씨 곁에 있으면…//강해질 수 있을 것만 같아요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04018.SBN#0036"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1371786295ab3b43",
+      "source": "だから、強くなれる気がします。//大神さんのそばにいれば……//強くなれる気がします！",
+      "text": "그래서 강해질 수 있을 것만 같아요．//오오가미 씨 곁에 있으면…//강해질 수 있을 것만 같아요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04018.SBN#0036"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1cc86a12b717386b",
+    "source": "巴里を離れて、わずかな間しか//たっておらぬというのに……",
+    "before": {
+      "id": "dialogue:1cc86a12b717386b",
+      "source": "巴里を離れて、わずかな間しか//たっておらぬというのに……",
+      "text": "파리를 떠난 지，얼마 되지 않았을 뿐인데…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04032.SBN#0008"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1cc86a12b717386b",
+      "source": "巴里を離れて、わずかな間しか//たっておらぬというのに……",
+      "text": "파리를 떠난 지 얼마//되지 않았을 뿐인데…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04032.SBN#0008"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:a4d6fab1719a926a",
+    "source": "人々の平和がなくなるなんて……//絶対にないんだ！",
+    "before": {
+      "id": "dialogue:a4d6fab1719a926a",
+      "source": "人々の平和がなくなるなんて……//絶対にないんだ！",
+      "text": "사람들의 평화가 사라지는 일 따위는…절대로 없을 거야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0059"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a4d6fab1719a926a",
+      "source": "人々の平和がなくなるなんて……//絶対にないんだ！",
+      "text": "사람들의 평화가 사라지는//일은…절대로 없을 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0059"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:f5fe58a7011e0346",
+    "source": "人々の平和が乱されることは、//絶対に……ないのです∈",
+    "before": {
+      "id": "dialogue:f5fe58a7011e0346",
+      "source": "人々の平和が乱されることは、//絶対に……ないのです∈",
+      "text": "사람들의 평화가 어지럽혀지는 일은，절대로…없을 겁니다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0077"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f5fe58a7011e0346",
+      "source": "人々の平和が乱されることは、//絶対に……ないのです∈",
+      "text": "사람들의 평화가 어지럽혀지는//일은 절대로…없을 겁니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0077"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:1a35d4cad8a7b549",
+    "source": "ここまで大規模な作戦だと、//情報をいかに早く伝えられるかが//ポイントになる……",
+    "before": {
+      "id": "dialogue:1a35d4cad8a7b549",
+      "source": "ここまで大規模な作戦だと、//情報をいかに早く伝えられるかが//ポイントになる……",
+      "text": "이 정도로 대규모 작전이라면，//정보를 얼마나 빨리 전달할 수 있는가가 관건이다…",
+      "review": "띄어쓰기",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0001"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1a35d4cad8a7b549",
+      "source": "ここまで大規模な作戦だと、//情報をいかに早く伝えられるかが//ポイントになる……",
+      "text": "이 정도 대규모 작전이라면 정보를//얼마나 빨리 전달하느냐가 관건이다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0001"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  },
+  {
+    "unit": "dialogue:554d4bf5f9ad8b48",
+    "source": "椿ちゃんたちだけで……//帝都中の情報を管理するのは、//難しいかもしれない……",
+    "before": {
+      "id": "dialogue:554d4bf5f9ad8b48",
+      "source": "椿ちゃんたちだけで……//帝都中の情報を管理するのは、//難しいかもしれない……",
+      "text": "츠바키 양 일행만으로…//제도 전역의 모든 정보를 관리하는 건，어려울지도 몰라…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0003"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:554d4bf5f9ad8b48",
+      "source": "椿ちゃんたちだけで……//帝都中の情報を管理するのは、//難しいかもしれない……",
+      "text": "츠바키 양 일행만으로…제도 전역의//정보를 관리하는 건 어려울지도 몰라…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0003"
+        }
+      ]
+    },
+    "reason": "대사창 폭을 넘던 대사를 직접 다듬어 줄이고 최대 3줄로 다시 배치."
+  }
+]

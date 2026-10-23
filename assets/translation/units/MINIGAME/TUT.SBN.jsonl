@@ -108,7 +108,7 @@
 {"id": "dialogue:f50430b7d987c3dd", "source": "むずかしいルールも//ありましたが、//よく覚えておいてくださいね。", "text": "어려운 규칙도//있었지만，//잘 기억해 두세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0132"}]}
 {"id": "dialogue:485224b1b6c0bb5f", "source": "では、おつかれさまでした。", "text": "그럼，수고하셨습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0133"}]}
 {"id": "dialogue:680c97f943b4e5fa", "source": "さぁ、これから、//@c9必殺攻撃@c0の説明を//行いますよ！", "text": "자，이제부터，//@c9필살 공격@c0에 대한//설명을 시작하겠습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0136"}]}
-{"id": "dialogue:d273c9881b9894c8", "source": "このゲームでは、//パイを@c9１組（３枚）@c0そろえると、//必殺攻撃が使えるんです∈", "text": "이 게임에선，//패를 @c9１세트（３장）@c0모으면，필살 공격을 쓸 수 있습니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0137"}]}
+{"id": "dialogue:d273c9881b9894c8", "source": "このゲームでは、//パイを@c9１組（３枚）@c0そろえると、//必殺攻撃が使えるんです∈", "text": "이 게임에선//패를 @c9１세트（３장）@c0모으면//필살 공격을 쓸 수 있습니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/TUT.SBN#0137"}]}
 {"id": "dialogue:0c4e7e9ab0d00648", "source": "必殺攻撃が発動可能になると、//@c10○マーク@c0がつきますから……", "text": "필살 공격을 사용할 수 있게 되면，//@c10○표시@c0가 붙습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0138"}]}
 {"id": "dialogue:50450cdf156ccbd4", "source": "@c14Ｘボタン@c0で//ウインドウを開き、//必殺攻撃を選択してください！", "text": "@c14Ｘ버튼@c0을 눌러//창을 열고，//필살 공격을 선택해 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0140"}]}
 {"id": "dialogue:9c73097693f9c2fc", "source": "ウインドウには、//発動可能な必殺攻撃が、//明るく表示されています。", "text": "창에는，//발동 가능한 필살 공격이//밝게 표시됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0141"}]}
@@ -152,7 +152,7 @@
 {"id": "dialogue:562b816be5daa82c", "source": "こちらは、//交換用の対戦パイです。", "text": "이쪽은//교환용 대전 패입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0185"}]}
 {"id": "dialogue:458be352d2a16a7b", "source": "表になっているパイの上で、//Ａボタンを押すと、//選択したパイと入れ替わります。", "text": "목록의 패에서//Ａ버튼을 누르면，//선택한 패와 교체됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0186"}]}
 {"id": "dialogue:d1f18b0f8c8a5793", "source": "これで、//@c9アイリス@c0と@c9エリカさん@c0が//入れ替わりました。", "text": "이제，//@c9아이리스@c0와 @c9에리카 씨@c0의 패가//서로 바뀌었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0187"}]}
-{"id": "dialogue:4f355db67be1af3b", "source": "@c9カンナさん@c0と@c9エリカさん@c0で、//帝都のセットと巴里のセットの//混合役……", "text": "@c9칸나 씨@c0와 @c9에리카 씨@c0로，제도와 파리 세트를 섞은//혼합 역…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0188"}]}
+{"id": "dialogue:4f355db67be1af3b", "source": "@c9カンナさん@c0と@c9エリカさん@c0で、//帝都のセットと巴里のセットの//混合役……", "text": "@c9칸나 씨@c0와 @c9에리카 씨@c0로//제도와 파리 세트를 섞은//혼합 역…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/TUT.SBN#0188"}]}
 {"id": "dialogue:01aa36016ab72883", "source": "@c9同色２組@c0の@c10レッド@c0が//作れるようになりました。", "text": "@c9동색 ２세트@c0의 @c10레드@c0를//만들 수 있게 되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0189"}]}
 {"id": "dialogue:14575819794f4e94", "source": "あ、そういえば……//大神さんのパイは//ここにありませんが……", "text": "아，그러고 보니…//오오가미 씨의 패는//여기에 없습니다만…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0190"}]}
 {"id": "dialogue:8f8646f48bc82eae", "source": "@c9大神さんパイ@c0は、//必ず使用されますから//安心してくださいね。", "text": "@c9오오가미 씨의 패@c0는，//반드시 쓰이니//안심하세요．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/TUT.SBN#0191"}]}

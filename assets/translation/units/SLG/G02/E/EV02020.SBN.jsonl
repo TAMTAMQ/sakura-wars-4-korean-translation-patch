@@ -1,26 +1,26 @@
-{"id": "dialogue:b0686ae7f7a5479e", "source": "どうしたんだい？//さくらくん。", "text": "왜 그래？//사쿠라 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0002"}]}
-{"id": "dialogue:59fedd2b10d39346", "source": "巴里から、//帝都に帰ってきて、//しばらくたちますけど……", "text": "파리에서//제도로 돌아오신 지도//꽤 됐는데…", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0003"}]}
-{"id": "dialogue:a2f7a100a0e9fc85", "source": "そろそろ、巴里が//恋しくなったんじゃ//ありませんか？", "text": "슬슬 파리가//그리워진 건//아닌가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0004"}]}
+{"id": "dialogue:b0686ae7f7a5479e", "source": "どうしたんだい？//さくらくん。", "text": "왜 그래？사쿠라 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0002"}]}
+{"id": "dialogue:59fedd2b10d39346", "source": "巴里から、//帝都に帰ってきて、//しばらくたちますけど……", "text": "파리에서 제도로//돌아오신 지도 꽤 됐는데…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0003"}]}
+{"id": "dialogue:a2f7a100a0e9fc85", "source": "そろそろ、巴里が//恋しくなったんじゃ//ありませんか？", "text": "슬슬 파리가 그리워진 건 아닌가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0004"}]}
 {"id": "dialogue:70e8245ef70bce98", "source": "巴里がなつかしいな……", "text": "파리가 그립네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0006"}]}
 {"id": "dialogue:6b1cb33ad6f78c77", "source": "帝都のほうが落ち着くよ。", "text": "제도가 더 마음이 편해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0007"}]}
 {"id": "dialogue:6f477516f4a2f1e0", "source": "キミがいるところなら……", "text": "네가 있는 곳이라면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0008"}]}
-{"id": "dialogue:4653d033ca61762c", "source": "確かに、//巴里がなつかしいな……", "text": "확실히，//파리가 그립네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0009"}]}
-{"id": "dialogue:b88c29a0cae46ad4", "source": "やっぱり、そうですか……//巴里のほうが、何かと//華やかですしね……", "text": "역시，그렇군요…//파리 쪽이，여러모로//화려하니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0010"}]}
+{"id": "dialogue:4653d033ca61762c", "source": "確かに、//巴里がなつかしいな……", "text": "확실히，파리가 그립네…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0009"}]}
+{"id": "dialogue:b88c29a0cae46ad4", "source": "やっぱり、そうですか……//巴里のほうが、何かと//華やかですしね……", "text": "역시，그렇군요…파리 쪽이，//여러모로 화려하니까요…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0010"}]}
 {"id": "dialogue:a8c6a7ee48ada11e", "source": "いや……華やかとか、//かわいいとかじゃなくて……", "text": "아니…화려하다거나，//귀엽다거나 하는 게 아니라…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0011"}]}
-{"id": "dialogue:8b1a42cea6d22ab5", "source": "あたし……//かわいいなんて、//言ってないんですけど……", "text": "저…//귀엽다는 말은//안 했는데요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0012"}]}
+{"id": "dialogue:8b1a42cea6d22ab5", "source": "あたし……//かわいいなんて、//言ってないんですけど……", "text": "저…귀엽다는 말은 안 했는데요…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0012"}]}
 {"id": "dialogue:1835ea6067515bd4", "source": "大神さんのことなんか//もう、しりません！", "text": "오오가미 씨 같은 사람//이제，몰라요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0014"}]}
-{"id": "dialogue:7920ae2d8248a971", "source": "いや……//帝都のほうが落ち着くよ。//やっぱり日本人だからかな？", "text": "아니…//제도가 더 마음이 편해．//역시 일본인이라서 그런 걸까？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0015"}]}
-{"id": "dialogue:c012118b2258dfb8", "source": "あたし……//ちょっと心配してたんです。", "text": "저…//조금 걱정했어요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0016"}]}
-{"id": "dialogue:0bc5771b6d6d42e3", "source": "大神さん……//巴里に戻りたいって、//思っちゃうんじゃないかって……", "text": "오오가미 씨…//파리로 돌아가고 싶다고//생각하실까 봐…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0017"}]}
+{"id": "dialogue:7920ae2d8248a971", "source": "いや……//帝都のほうが落ち着くよ。//やっぱり日本人だからかな？", "text": "아니…제도가 더 마음이 편해．//역시 일본인이라서 그런 걸까？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0015"}]}
+{"id": "dialogue:c012118b2258dfb8", "source": "あたし……//ちょっと心配してたんです。", "text": "저…조금 걱정했어요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0016"}]}
+{"id": "dialogue:0bc5771b6d6d42e3", "source": "大神さん……//巴里に戻りたいって、//思っちゃうんじゃないかって……", "text": "오오가미 씨…파리로 돌아가고//싶다고 생각하실까 봐…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0017"}]}
 {"id": "dialogue:56081077db520839", "source": "でも、今の言葉を聞いて//安心しました。", "text": "하지만，방금 그 말을 듣고//안심했어요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0019"}]}
-{"id": "dialogue:4a8a546bac23c3de", "source": "……そうか。//それじゃ、帝都のために、//一緒に戦おう∈", "text": "…그렇군．//그럼，제도를 위해서，//함께 싸우자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0020"}]}
-{"id": "dialogue:46fb2d76f54d2686", "source": "キミがいるところなら……//帝都でも、巴里でも//どこだってかまわないよ。", "text": "네가 있는 곳이라면…//제도든，파리든//어디라도 상관없어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0022"}]}
-{"id": "dialogue:a9d68eb391a0e07a", "source": "お、大神さん……//あたし……", "text": "오，오오가미 씨…//저기…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0023"}]}
-{"id": "dialogue:d2adedaca4c6a709", "source": "さあ、さくらくん。//一緒に来てくれるか！", "text": "자，사쿠라 군．//함께 가 줄래？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0024"}]}
+{"id": "dialogue:4a8a546bac23c3de", "source": "……そうか。//それじゃ、帝都のために、//一緒に戦おう∈", "text": "…그렇군．그럼，//제도를 위해서，함께 싸우자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0020"}]}
+{"id": "dialogue:46fb2d76f54d2686", "source": "キミがいるところなら……//帝都でも、巴里でも//どこだってかまわないよ。", "text": "네가 있는 곳이라면…제도든，//파리든 어디라도 상관없어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0022"}]}
+{"id": "dialogue:a9d68eb391a0e07a", "source": "お、大神さん……//あたし……", "text": "오，오오가미 씨…저기…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0023"}]}
+{"id": "dialogue:d2adedaca4c6a709", "source": "さあ、さくらくん。//一緒に来てくれるか！", "text": "자，사쿠라 군．함께 가 줄래？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0024"}]}
 {"id": "dialogue:d1995090b6cf1e54", "source": "はい……//どこまでもお供します。", "text": "네…//어디까지라도 함께하겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0025"}]}
-{"id": "dialogue:fdd9ad99e3d04223", "source": "そうだな……//巴里か帝都かなんて、//答えられないよ。", "text": "그렇지…//파리냐 제도냐를//고를 수는 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0026"}]}
-{"id": "dialogue:dc5fb51c58584693", "source": "みんなと出会えた、//大切な街だからね。", "text": "모두와 만난，//소중한 도시니까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0028"}]}
+{"id": "dialogue:fdd9ad99e3d04223", "source": "そうだな……//巴里か帝都かなんて、//答えられないよ。", "text": "그렇지…파리냐//제도냐를 고를 수는 없어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0026"}]}
+{"id": "dialogue:dc5fb51c58584693", "source": "みんなと出会えた、//大切な街だからね。", "text": "모두와 만난，소중한 도시니까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0028"}]}
 {"id": "dialogue:2f6607e8bc8b1cf0", "source": "うふふ……そうでしたね。//大神さんらしい答えで……//あたし、安心しました。", "text": "우후후…그랬었죠．//오오가미 씨다운 대답이라…//저，안심했어요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0029"}]}
-{"id": "dialogue:2c484557cb869c8d", "source": "あたし……//どっちを言われても……//困っちゃったと思いますから。", "text": "저…//어느 쪽이라고 하셔도…//곤란했을 것 같으니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0030"}]}
-{"id": "dialogue:32463395eec87ca8", "source": "ちょっと照れるけど、//俺の正直な気持ちだよ……//さ、戦闘にもどろうか。", "text": "조금 쑥스럽지만，//내 솔직한 마음이야…//자，전투로 돌아갈까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0031"}]}
-{"id": "dialogue:214faec7c2940e8f", "source": "了解です！//がんばりましょうね、//大神さん！", "text": "알겠습니다∈//힘내서 싸워요，//오오가미 씨∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0032"}]}
+{"id": "dialogue:2c484557cb869c8d", "source": "あたし……//どっちを言われても……//困っちゃったと思いますから。", "text": "저…어느 쪽이라고 하셔도…//곤란했을 것 같으니까요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0030"}]}
+{"id": "dialogue:32463395eec87ca8", "source": "ちょっと照れるけど、//俺の正直な気持ちだよ……//さ、戦闘にもどろうか。", "text": "조금 쑥스럽지만，내 솔직한//마음이야…자，전투로 돌아갈까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0031"}]}
+{"id": "dialogue:214faec7c2940e8f", "source": "了解です！//がんばりましょうね、//大神さん！", "text": "알겠습니다∈//힘내서 싸워요，오오가미 씨∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0032"}]}

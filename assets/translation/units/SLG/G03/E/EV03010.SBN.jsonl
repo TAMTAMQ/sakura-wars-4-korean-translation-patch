@@ -1,30 +1,30 @@
-{"id": "dialogue:66649e650c85151f", "source": "グリシーヌ……//帝都での戦いは初めてだろ？//緊張してないか？", "text": "글리신…//제도에서의 전투는 처음이지？//긴장하진 않았어？", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0001"}]}
+{"id": "dialogue:66649e650c85151f", "source": "グリシーヌ……//帝都での戦いは初めてだろ？//緊張してないか？", "text": "글리신…제도에서의 전투는//처음이지？긴장하진 않았어？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0001"}]}
 {"id": "dialogue:eb3df7373aabe01d", "source": "フ……いらぬ心配だ。//どのような土地であろうと//戦場に変わりはない。", "text": "후…쓸데없는 걱정이다．//어떠한 땅이라 할지라도//전장인 것은 변함없다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0002"}]}
 {"id": "dialogue:b13723cc3c789302", "source": "貴公の方こそ、//的確な指示を頼むぞ！", "text": "귀공이야말로，//정확한 지시 부탁한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0003"}]}
 {"id": "dialogue:3dc9a46e73a59f58", "source": "それじゃあ……", "text": "그럼…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0004"}]}
 {"id": "dialogue:5e0d235e7f89f630", "source": "後方支援を頼む！", "text": "후방 지원을 부탁한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0006"}]}
 {"id": "dialogue:9b504196358b9f3e", "source": "巴里華撃団の力、見せてやれ！", "text": "파리화격단의 힘，보여 줘라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0007"}]}
-{"id": "dialogue:7f4379026f75eb6b", "source": "よし、グリシーヌ、//前に出て戦ってくれ！//先陣はまかせたぞ！", "text": "좋아，글리신，//앞장서서 싸워 줘∈//선봉은 네게 맡길게∈", "review": "재검수2", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0008"}]}
+{"id": "dialogue:7f4379026f75eb6b", "source": "よし、グリシーヌ、//前に出て戦ってくれ！//先陣はまかせたぞ！", "text": "좋아，글리신，앞장서서 싸워 줘∈//선봉은 네게 맡길게∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0008"}]}
 {"id": "dialogue:deefb601dc65ae9c", "source": "ああ、わかった。//敵に第一撃を加えるのは//貴族の義務だからな。", "text": "아아，알았다．//적에게 선제공격을 가하는 것은//귀족의 의무니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0009"}]}
-{"id": "dialogue:0cc01570850f2cbb", "source": "貴公たちは、//この私が守ってやるゆえ、//安心してついて来い∈", "text": "귀공들은，//이 내가 지켜 줄 테니，//안심하고 따라와라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0010"}]}
-{"id": "dialogue:ca1ad2d94eb5ac98", "source": "ははは……//グリシーヌらしいな。//頼りにしてるぞ。", "text": "하하하…//글리신답군．//믿고 있을게．", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0011"}]}
-{"id": "dialogue:4b9156d213b20565", "source": "まかせておけ！//この戦い、//貴公にささげる∈", "text": "맡겨 둬라∈//이 싸움，//귀공에게 바치겠다∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0012"}]}
-{"id": "dialogue:b5b8252cdda5ccfa", "source": "グリシーヌ……//後方支援を頼む！//援護してくれ！", "text": "글리신…//후방 지원을 부탁한다∈//엄호해 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0013"}]}
+{"id": "dialogue:0cc01570850f2cbb", "source": "貴公たちは、//この私が守ってやるゆえ、//安心してついて来い∈", "text": "귀공들은，이 내가 지켜 줄 테니，//안심하고 따라와라∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0010"}]}
+{"id": "dialogue:ca1ad2d94eb5ac98", "source": "ははは……//グリシーヌらしいな。//頼りにしてるぞ。", "text": "하하하…글리신답군．//믿고 있을게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0011"}]}
+{"id": "dialogue:4b9156d213b20565", "source": "まかせておけ！//この戦い、//貴公にささげる∈", "text": "맡겨 둬라∈이 싸움，//귀공에게 바치겠다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0012"}]}
+{"id": "dialogue:b5b8252cdda5ccfa", "source": "グリシーヌ……//後方支援を頼む！//援護してくれ！", "text": "글리신…후방 지원을//부탁한다∈엄호해 줘∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0013"}]}
 {"id": "dialogue:8101f75886f6aec1", "source": "この……おろか者が∈//私を後方にまわすとは、//何を考えておるのだ！", "text": "이…어리석은 놈이∈//나를 후방으로 배치하다니，//무슨 생각을 하고 있는 것이냐∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0014"}]}
 {"id": "dialogue:fb266d1f30a8bd93", "source": "いいっ∈", "text": "으앗∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0015"}]}
-{"id": "dialogue:71f3d564da79baa6", "source": "先陣に立ち……//敵を撃破することこそが//ブルーメール家の誇り！", "text": "선봉에 서서…//적을 격파하는 것이야말로//블뢰메르 가문의 긍지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0016"}]}
+{"id": "dialogue:71f3d564da79baa6", "source": "先陣に立ち……//敵を撃破することこそが//ブルーメール家の誇り！", "text": "선봉에 서서…적을 격파하는//것이야말로 블뢰메르 가문의 긍지∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0016"}]}
 {"id": "dialogue:7986fa20f8c9eb17", "source": "貴公の命令であろうと//聞くわけにはいかぬ！", "text": "귀공의 명령이라 할지라도//들을 수는 없다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0017"}]}
 {"id": "dialogue:79c7b811b8e66cd6", "source": "これ以上、話すことはない！//通信を切る∈", "text": "이 이상，할 말은 없다∈//통신을 끊겠다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0018"}]}
-{"id": "dialogue:bfaca7d3ca5a5aa3", "source": "トホホ……//後方で戦えってのが//ムチャだったかな……", "text": "에휴…//후방에서 싸우라는 건//무리였던 걸까…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0019"}]}
-{"id": "dialogue:b096b4b724bc6891", "source": "グリシーヌ！//巴里華撃団の力……//存分に見せてやれ∈", "text": "글리신∈//파리화격단의 힘을…//마음껏 보여 줘라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0020"}]}
+{"id": "dialogue:bfaca7d3ca5a5aa3", "source": "トホホ……//後方で戦えってのが//ムチャだったかな……", "text": "에휴…후방에서 싸우라는//건 무리였던 걸까…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0019"}]}
+{"id": "dialogue:b096b4b724bc6891", "source": "グリシーヌ！//巴里華撃団の力……//存分に見せてやれ∈", "text": "글리신∈파리화격단의 힘을…//마음껏 보여 줘라∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0020"}]}
 {"id": "dialogue:ec4f3d5839f11d77", "source": "言われるまでもない！//もとより、そのつもりだ！", "text": "말할 것도 없다∈//애초에 그럴 생각이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0021"}]}
-{"id": "dialogue:ce5d782a00739508", "source": "帝国華撃団に、//我々の成長した姿を//見せてくれようぞ！", "text": "제국화격단에게，//우리의 성장한 모습을//보여 주도록 하지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0022"}]}
-{"id": "dialogue:b1e7c276b51ea643", "source": "それが……//彼女たちに対する、//恩返しと言うもの∈", "text": "그것이…//그녀들에 대한//보답이라는 것이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0023"}]}
-{"id": "dialogue:8bccdbc88327f024", "source": "なるほど……//こういう形で恩返しとは、//グリシーヌらしいね。", "text": "그렇구나…//이런 식으로 은혜를 갚다니，//글리신답네．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0024"}]}
-{"id": "dialogue:01d0fa978c69bc29", "source": "バカモノ！//茶化すでない……//早く、戦闘に戻れ！", "text": "이 바보가∈//놀리지 마라…//어서 전투로 돌아가∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0025"}]}
-{"id": "dialogue:e8a8ad69c58c568f", "source": "すぐに黙り込む……//まったく、//貴公は変わらんな。", "text": "금세 입을 다물다니…//정말이지，//귀공은 변함이 없군．", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0027"}]}
+{"id": "dialogue:ce5d782a00739508", "source": "帝国華撃団に、//我々の成長した姿を//見せてくれようぞ！", "text": "제국화격단에게，우리의//성장한 모습을 보여 주도록 하지∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0022"}]}
+{"id": "dialogue:b1e7c276b51ea643", "source": "それが……//彼女たちに対する、//恩返しと言うもの∈", "text": "그것이…그녀들에 대한//보답이라는 것이다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0023"}]}
+{"id": "dialogue:8bccdbc88327f024", "source": "なるほど……//こういう形で恩返しとは、//グリシーヌらしいね。", "text": "그렇구나…이런 식으로//은혜를 갚다니，글리신답네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0024"}]}
+{"id": "dialogue:01d0fa978c69bc29", "source": "バカモノ！//茶化すでない……//早く、戦闘に戻れ！", "text": "이 바보가∈놀리지 마라…//어서 전투로 돌아가∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0025"}]}
+{"id": "dialogue:e8a8ad69c58c568f", "source": "すぐに黙り込む……//まったく、//貴公は変わらんな。", "text": "금세 입을 다물다니…//정말이지，귀공은 변함이 없군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0027"}]}
 {"id": "dialogue:d3b85261959b8e46", "source": "あやまることはない。//変わっていないからこそ……//安心できることもあるのだ。", "text": "사과할 필요는 없다．//변하지 않았기에…//안심되는 경우도 있는 법이다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0029"}]}
 {"id": "dialogue:093fdbb3047e7c84", "source": "あ、ありがとう、グリシーヌ。//なんだか、優しくなったね……", "text": "아，고마워，글리신．//왠지，상냥해졌네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0030"}]}
-{"id": "dialogue:147b85eb10cb225e", "source": "それは……//貴公に出会えたからかも//しれぬな……", "text": "그것은…//귀공을 만났기//때문일지도 모르겠군…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0031"}]}
-{"id": "dialogue:18965103f4e89c7f", "source": "フ……隊長、//このことについては、//今宵ゆっくりと語り合おう。", "text": "후…대장．//이 일에 대해서는，//오늘 밤 천천히 이야기하도록 하지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0033"}]}
-{"id": "dialogue:1714842b256c9d1f", "source": "今は……目の前の敵を//片づけるのが先だ！//ゆくぞ∈", "text": "지금은…눈앞의 적을//처리하는 게 우선이다∈//가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0034"}]}
+{"id": "dialogue:147b85eb10cb225e", "source": "それは……//貴公に出会えたからかも//しれぬな……", "text": "그것은…귀공을//만났기 때문일지도 모르겠군…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0031"}]}
+{"id": "dialogue:18965103f4e89c7f", "source": "フ……隊長、//このことについては、//今宵ゆっくりと語り合おう。", "text": "후…대장．이 일에 대해서는，//오늘 밤 천천히 이야기하도록 하지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0033"}]}
+{"id": "dialogue:1714842b256c9d1f", "source": "今は……目の前の敵を//片づけるのが先だ！//ゆくぞ∈", "text": "지금은…눈앞의 적을//처리하는 게 우선이다∈가자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03010.SBN#0034"}]}

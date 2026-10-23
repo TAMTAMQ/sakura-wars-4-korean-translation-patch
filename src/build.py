@@ -49,7 +49,45 @@ def align_lip(text,codes,orig,pad):
             slots.append(min(width,max(n,nxt-round(seen*nJ/nK)))); seen+=n
     return b'//'.join(encode(l,codes)+pad*max(0,s-n) for l,n,s in zip(lines,glyphs,slots))
 
-def build(root=ROOT,output=None,lip_align=False):
+def retime_lipsync(root,rows,result,baseline,codes,pad,write):
+    """LIP 입 모양 스트림의 글자 표시(7)를 한글 문장 구성에 맞게 옮긴다(src/lip_timing.py)."""
+    from lipsync_format import parse,split_pre
+    from lip_timing import retime
+    rev={bytes.fromhex(v):k for k,v in codes.items()}
+    at={(r['file'],r['offset']):r for r in rows.values() if r['file'].endswith('.LIP')}
+    done=0
+    for rel in sorted({f for f,_ in at}):
+        disc=safe(root/'originals/disc',rel).read_bytes(); p=parse(disc); E=p['entries']; base=baseline[rel]; cur=result[rel]
+        fs=[]
+        for k,(pre,t,post) in enumerate(E):
+            _,pt=split_pre(pre); tst=p['off_b'][k]-1
+            fs.append(tst-len(pt.encode('cp932',errors='replace')) if pt else tst)
+        for k in range(len(E)-1):
+            if (rel,fs[k]) not in at: continue
+            te=disc.find(b'\0',p['off_b'][k]-1); s0,s1=te+1,fs[k+1]-1
+            if disc[s0:s1]!=base[s0:s1] or s1<=s0: continue
+            if any(f==rel and o<=s1 and s0<=o+r['capacity'] for (f,o),r in at.items()): continue
+            jp=disc[fs[k]:te].replace(b'//',b'').decode('cp932',errors='replace')
+            ko=[]; spaces=[]; i=fs[k]; end=cur.index(0,fs[k])
+            if end>=s0: continue
+            while i<end:
+                b=cur[i]
+                if b==0x2f and cur[i+1]==0x2f:
+                    if ko: spaces.append(len(ko)-1)   # 줄바꿈도 낱말 경계
+                    i+=2; continue
+                if 0x81<=b<=0x9f or b>=0xe0:
+                    g=bytes(cur[i:i+2]); i+=2
+                    ch=rev.get(g)
+                    if ch is None and bytes([g[0]&~8,g[1]]) in rev: ch=rev[bytes([g[0]&~8,g[1]])]; spaces.append(len(ko))
+                    if ch is None: ch=g.decode('cp932',errors='replace')
+                else: ch=chr(b); i+=1
+                ko.append(ch)
+            new=retime(bytes(base[s0:s1]),jp,ko,spaces)
+            if new is None or new==base[s0:s1]: continue
+            write(rel,s0,base[s0:s1],new,'lip-timing:'+rel+f'#{k}'); done+=1
+    return done
+
+def build(root=ROOT,output=None,lip_align=False,lip_retime=True):
     manifest=readjson(root/'config/baseline.json')
     bindings=readjson(root/'config/text-bindings.json')
     index=readjson(root/'assets/translation/index.json')
@@ -143,6 +181,9 @@ def build(root=ROOT,output=None,lip_align=False):
             while len(encoded)<need: encoded+=pad
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)
         changed.append(key)
+    if lip_retime:
+        retimed=retime_lipsync(root,rows,result,baseline,codes,pad,write)
+        print('LIPSYNC 타이핑 시점 재배치',retimed,'항목')
     # 기계어·포인터 패치: config/code-patches*.json (src/make_bracket_patch.py, make_slot_fix_patch.py가 생성)
     for p in [p for cp in sorted((root/'config').glob('code-patches*.json')) for p in readjson(cp)['patches']]:
         orig=bytes.fromhex(p['original_hex']); new=bytes.fromhex(p['new_hex'])
@@ -206,5 +247,6 @@ def build(root=ROOT,output=None,lip_align=False):
 if __name__=='__main__':
     parser=argparse.ArgumentParser(); parser.add_argument('--output',type=Path)
     parser.add_argument('--lip-align',action='store_true',help='시험: LIPSYNC 한글을 일본어 글자 칸 위치에 맞춤')
+    parser.add_argument('--no-lip-retime',action='store_true',help='LIPSYNC 글자 표시 시점을 일본어 원본 그대로 둠')
     args=parser.parse_args()
-    build(output=args.output,lip_align=args.lip_align)
+    build(output=args.output,lip_align=args.lip_align,lip_retime=not args.no_lip_retime)

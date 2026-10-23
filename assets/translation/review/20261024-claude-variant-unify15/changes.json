@@ -1,0 +1,291 @@
+[
+  {
+    "unit": "dialogue:7e3189e9b10aea10",
+    "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。",
+    "before": {
+      "id": "dialogue:7e3189e9b10aea10",
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。",
+      "text": "요네다가 맡긴 신도멸각．//이검이도를 구성하는 한 자루．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0081",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0081",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0081",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 신도멸각．//이검이도를 이루는//네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "f42ad7a5520599c973c4121e4fe116cf667934e8a19e15d943cb1357e0282ecd",
+          "text": "요네다가 맡긴 「신도멸각」．이검이도를 이루는 네 자루 검 중 하나．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:7e3189e9b10aea10",
+      "source": "米田から託された「神刀滅却」。//ニ剣ニ刀を構成する一振り。",
+      "text": "요네다가 맡긴 신도멸각．//이검이도를 구성하는 한 자루．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0081"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0081"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸에 맞춰 배치."
+  },
+  {
+    "unit": "dialogue:d024cabf61a2d875",
+    "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。",
+    "before": {
+      "id": "dialogue:d024cabf61a2d875",
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。",
+      "text": "카야마에게 받은//「노 관람」티켓．//작품은 「타카사고」．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0089",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0089"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e2a8b15626d2eb7abfd552016469af66dab2758037db99fa5728f4ded573eda9",
+          "text": "카야마에게 받은//「노 공연 관람」티켓．작품은 「타카사고」．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:d024cabf61a2d875",
+      "source": "加山にもらった//「能観劇」のチケット。//演目は「高砂」。",
+      "text": "카야마에게 받은「노 관람」티켓．//작품은 「타카사고」．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0089"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0089"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸에 맞춰 배치."
+  },
+  {
+    "unit": "dialogue:5ecff895c9d63244",
+    "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。",
+    "before": {
+      "id": "dialogue:5ecff895c9d63244",
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。",
+      "text": "로벨리아의 브로마이드．//사케를 마시고//기분이 한껏 좋아져 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0101",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0101",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0101",
+          "form": "v001"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "ec9b87725853e4d2ce4920a365cb7eff834451cca0fb02cd9d2d9f96a94a609d",
+          "text": "로벨리아의 브로마이드．일본 술을 마시고//기분이 한껏 좋아져 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5ecff895c9d63244",
+      "source": "ロベリアのブロマイド。//日本酒を飲んで//上機嫌になっている。",
+      "text": "로벨리아의 브로마이드．사케를//마시고 기분이 한껏 좋아져 있다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0101"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0101"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸에 맞춰 배치."
+  }
+]

@@ -1,24 +1,24 @@
-{"id": "dialogue:49ef8afd89397e0b", "source": "レニ……//機体の損傷がひどいようだけど、//大丈夫かい？", "text": "레니…//기체 손상이 심한 것 같은데，//괜찮아？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0001"}]}
+{"id": "dialogue:49ef8afd89397e0b", "source": "レニ……//機体の損傷がひどいようだけど、//大丈夫かい？", "text": "레니…기체 손상이//심한 것 같은데，괜찮아？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0001"}]}
 {"id": "dialogue:c09c7bb5496c25a0", "source": "心配ない……まだ戦える。//はやく命令を。", "text": "걱정 마…아직 싸울 수 있어．//어서 명령해 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0002"}]}
 {"id": "dialogue:424150b417c33c35", "source": "め、命令か……", "text": "명，명령인가…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0003"}]}
 {"id": "dialogue:0c0c5da3339ad6cb", "source": "よし、攻撃だ！", "text": "좋아，공격이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0004"}]}
 {"id": "dialogue:7cb6ce36e13bbfc9", "source": "よし、回復するんだ。", "text": "좋아，회복해．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0005"}]}
 {"id": "dialogue:bbf793931f66f5c0", "source": "よし、攻撃だ！//「攻撃は最大の防御」とも//言うしね。", "text": "좋아，공격이다∈//「공격이 최선의 방어」라고도//하니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0006"}]}
-{"id": "dialogue:34f2173a9d56cea7", "source": "……了解。//敵を撃破する。", "text": "…알겠어．//적을 격파할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0007"}]}
-{"id": "dialogue:eafef54c4e0771c5", "source": "お兄ちゃん∈//レニが強いからって、//こーげきばかりさせちゃダメ！", "text": "오빠∈//레니가 강하다고 해서，//공격만 시키면 안 돼∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0008"}]}
-{"id": "dialogue:d43ea7c390080159", "source": "いいっ〓//ア、アイリス？", "text": "으앗〓//아，아이리스？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0009"}]}
-{"id": "dialogue:d3fc6b2ad5b044bf", "source": "それに……レニもだよ！//ムチャばっかりしてたら、//シャンプーしてあげないからね∈", "text": "게다가…레니도 말이야∈//무리만 계속하면，//샴푸 안 해 줄 거니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0010"}]}
+{"id": "dialogue:34f2173a9d56cea7", "source": "……了解。//敵を撃破する。", "text": "…알겠어．적을 격파할게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0007"}]}
+{"id": "dialogue:eafef54c4e0771c5", "source": "お兄ちゃん∈//レニが強いからって、//こーげきばかりさせちゃダメ！", "text": "오빠∈레니가 강하다고 해서，//공격만 시키면 안 돼∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0008"}]}
+{"id": "dialogue:d43ea7c390080159", "source": "いいっ〓//ア、アイリス？", "text": "으앗〓아，아이리스？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0009"}]}
+{"id": "dialogue:d3fc6b2ad5b044bf", "source": "それに……レニもだよ！//ムチャばっかりしてたら、//シャンプーしてあげないからね∈", "text": "게다가…레니도 말이야∈무리만//계속하면，샴푸 안 해 줄 거니까∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0010"}]}
 {"id": "dialogue:86fd6454b49a19fb", "source": "う、うん……わかった。//もう無茶はしないよ。", "text": "으，응…알았어．//이제 무리하지 않을게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0011"}]}
-{"id": "dialogue:6c20ad3b402587a9", "source": "わかればよろしい！//ふたりとも、//ちゃんと回復するんだよ∈", "text": "알았다면 됐어∈//둘 다，//제대로 회복해야 해∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0012"}]}
+{"id": "dialogue:6c20ad3b402587a9", "source": "わかればよろしい！//ふたりとも、//ちゃんと回復するんだよ∈", "text": "알았다면 됐어∈//둘 다，제대로 회복해야 해∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0012"}]}
 {"id": "dialogue:26163d66a3800ef4", "source": "ふぅ……まいったな。//アイリスにはかなわないよ。", "text": "후우…두 손 들었어．//아이리스에게는 못 당한다니까．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0013"}]}
-{"id": "dialogue:4e1f5f83d922b3a6", "source": "でも……//あまり、無理は//するんじゃないぞ。", "text": "하지만…//너무 무리하지는//마．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0014"}]}
+{"id": "dialogue:4e1f5f83d922b3a6", "source": "でも……//あまり、無理は//するんじゃないぞ。", "text": "하지만…너무 무리하지는 마．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0014"}]}
 {"id": "dialogue:c6456f0b38481453", "source": "自分のことは、//自分が一番知っている。", "text": "나 자신에 대해서는，//내가 가장 잘 알고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0015"}, {"id": "SLG/G02/E/EV02016.SBN#0027"}]}
-{"id": "dialogue:f4da15637003ca6c", "source": "まだ戦える……//心配はいらない。", "text": "아직 싸울 수 있어…//걱정 마．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0016"}, {"id": "SLG/G02/E/EV02016.SBN#0028"}]}
-{"id": "dialogue:a9c045996d52f717", "source": "そうか……//よし、いくぞ！//攻撃目標、敵魔操機兵！", "text": "그렇구나…//좋아，간다∈//공격 목표，적 마조기병∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0017"}, {"id": "SLG/G02/E/EV02016.SBN#0029"}]}
+{"id": "dialogue:f4da15637003ca6c", "source": "まだ戦える……//心配はいらない。", "text": "아직 싸울 수 있어…걱정 마．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0016"}, {"id": "SLG/G02/E/EV02016.SBN#0028"}]}
+{"id": "dialogue:a9c045996d52f717", "source": "そうか……//よし、いくぞ！//攻撃目標、敵魔操機兵！", "text": "그렇구나…좋아，간다∈//공격 목표，적 마조기병∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0017"}, {"id": "SLG/G02/E/EV02016.SBN#0029"}]}
 {"id": "dialogue:d589352ee91385c3", "source": "よし、回復するんだ。//時には休むことも大切だよ。", "text": "좋아，회복해．//때로는 쉬는 것도 중요해．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0019"}]}
-{"id": "dialogue:6edba19407036e82", "source": "……ありがとう、隊長。//でも、ボクの限界は……//ボク自身が一番知っている。", "text": "…고마워，대장．//하지만，내 한계는…//내가 가장 잘 알고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0020"}]}
-{"id": "dialogue:bc23661a53d7a8b5", "source": "足手まといになるような//無茶はしないから……//安心して。", "text": "짐이 될 정도로//무리하지는 않을 테니까…//안심해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0021"}]}
+{"id": "dialogue:6edba19407036e82", "source": "……ありがとう、隊長。//でも、ボクの限界は……//ボク自身が一番知っている。", "text": "…고마워，대장．하지만，//내 한계는…내가 가장 잘 알고 있어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0020"}]}
+{"id": "dialogue:bc23661a53d7a8b5", "source": "足手まといになるような//無茶はしないから……//安心して。", "text": "짐이 될 정도로 무리하지는//않을 테니까…안심해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0021"}]}
 {"id": "dialogue:308242e176f238d1", "source": "そうか……//でも、無理はするんじゃないぞ。", "text": "그렇구나…//하지만，무리하지는 마．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0022"}]}
-{"id": "dialogue:37257449e9b27ae0", "source": "うん、わかった。//隊長……心配してくれて、//ありがとう。", "text": "응，알았어．//대장…걱정해 줘서，//고마워．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0023"}]}
-{"id": "dialogue:9da0e6c07b150e17", "source": "……隊長。//判断は一瞬でしないと、//敗北することになるよ。", "text": "…대장．//판단은 한순간에 내리지 않으면，//패배하게 될 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0025"}]}
+{"id": "dialogue:37257449e9b27ae0", "source": "うん、わかった。//隊長……心配してくれて、//ありがとう。", "text": "응，알았어．대장…//걱정해 줘서，고마워．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0023"}]}
+{"id": "dialogue:9da0e6c07b150e17", "source": "……隊長。//判断は一瞬でしないと、//敗北することになるよ。", "text": "…대장．판단은 한순간에 내리지//않으면，패배하게 될 거야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0025"}]}
 {"id": "dialogue:9d826c82dc0b598c", "source": "す、すまない……//考えがまとまらなくて……", "text": "미，미안해…//생각이 정리되지 않아서…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02016.SBN#0026"}]}

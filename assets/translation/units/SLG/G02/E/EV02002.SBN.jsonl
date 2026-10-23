@@ -49,40 +49,40 @@
 {"id": "dialogue:c8e25c7e510def53", "source": "ev02002eff01.bt1", "text": "ev02002eff01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0060"}]}
 {"id": "dialogue:5b454fa642ad2f15", "source": "se_ev_202a.snd", "text": "se_ev_202a.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0061"}]}
 {"id": "dialogue:aac7de5c570bbe94", "source": "よし……これで、//魔操機兵はすべて撃破したな。", "text": "좋아…이걸로，//마조기병은 모두 격파했군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0062"}]}
-{"id": "dialogue:725514f6707e3aef", "source": "な、なんだ……//この金色の蒸気は……", "text": "뭐，뭐야…//이 금빛 증기는…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0063"}]}
+{"id": "dialogue:725514f6707e3aef", "source": "な、なんだ……//この金色の蒸気は……", "text": "뭐，뭐야…이 금빛 증기는…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0063"}]}
 {"id": "dialogue:e95ab00403e634c5", "source": "ev02002kanran01.go2", "text": "ev02002kanran01.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0064"}]}
 {"id": "dialogue:82ee1a2e29a78208", "source": "ev02002kb2kr00.mbo", "text": "ev02002kb2kr00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0066"}]}
 {"id": "dialogue:dcb12a394d66676d", "source": "s04c01_motion", "text": "s04c01_motion", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0067"}, {"id": "SLG/G02/E/EV02002.SBN#0168"}]}
-{"id": "dialogue:ca25500dd1151042", "source": "紅蘭∈//大丈夫か〓", "text": "홍란∈//괜찮아〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0069"}]}
-{"id": "dialogue:d92b54e5269e505e", "source": "へ、平気や……//ヘマしてもうただけや。", "text": "괘，괜찮다…//실수 좀 했을 뿐이다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0070"}]}
+{"id": "dialogue:ca25500dd1151042", "source": "紅蘭∈//大丈夫か〓", "text": "홍란∈괜찮아〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0069"}]}
+{"id": "dialogue:d92b54e5269e505e", "source": "へ、平気や……//ヘマしてもうただけや。", "text": "괘，괜찮다…실수 좀 했을 뿐이다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0070"}]}
 {"id": "dialogue:3cc0f65711ac1cd6", "source": "ev02002eff02.be1", "text": "ev02002eff02.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0072"}]}
 {"id": "dialogue:8177ec48939eacfc", "source": "ev02002eff02.bt1", "text": "ev02002eff02.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0073"}]}
-{"id": "dialogue:fa927fe168dc69bd", "source": "こ、紅蘭∈//どうしたんだ〓", "text": "호，홍란∈//왜 그래〓", "review": "재검수2", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0074"}]}
+{"id": "dialogue:fa927fe168dc69bd", "source": "こ、紅蘭∈//どうしたんだ〓", "text": "호，홍란∈왜 그래〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0074"}]}
 {"id": "dialogue:50b16ad36d34e6cf", "source": "ev02002eff03.be1", "text": "ev02002eff03.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0075"}]}
 {"id": "dialogue:398d275517e30221", "source": "ev02002eff03.bt1", "text": "ev02002eff03.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0076"}]}
-{"id": "dialogue:cfb6417a6f4aeef4", "source": "ウ……ウチにもわからへん∈//言うことをきかへんのや∈//どないしたんや！", "text": "우…내도 모르겠다∈//말을 안 듣는다∈//와 이라노∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0077"}]}
-{"id": "dialogue:403b6529591a6eb7", "source": "こ、こうらん、//どうしちゃったの……？", "text": "호，홍란，//어떻게 된 거야…？", "review": "재검수2", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0078"}]}
+{"id": "dialogue:cfb6417a6f4aeef4", "source": "ウ……ウチにもわからへん∈//言うことをきかへんのや∈//どないしたんや！", "text": "우…내도 모르겠다∈//말을 안 듣는다∈와 이라노∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0077"}]}
+{"id": "dialogue:403b6529591a6eb7", "source": "こ、こうらん、//どうしちゃったの……？", "text": "호，홍란，어떻게 된 거야…？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0078"}]}
 {"id": "dialogue:b54a398dff2a53dd", "source": "ev02002eff06.be1", "text": "ev02002eff06.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0079"}]}
 {"id": "dialogue:bbcc9aca6e847bcc", "source": "ev02002eff06.bt1", "text": "ev02002eff06.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0080"}]}
-{"id": "dialogue:36fa43d388d2effd", "source": "なにしてんねん！//ウチの言うこときくんや、光武∈", "text": "뭐 하노∈//내 말 좀 들어라，광무∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0081"}]}
+{"id": "dialogue:36fa43d388d2effd", "source": "なにしてんねん！//ウチの言うこときくんや、光武∈", "text": "뭐 하노∈내 말 좀 들어라，광무∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0081"}]}
 {"id": "dialogue:b3a3befa4b1ed8e1", "source": "_bg_alpha_in", "text": "_bg_alpha_in", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0083"}, {"id": "SLG/G02/E/EV02002.SBN#0097"}, {"id": "SLG/G02/E/EV02002.SBN#0106"}, {"id": "SLG/G02/E/EV02002.SBN#0115"}, {"id": "SLG/G02/E/EV02002.SBN#0138"}, {"id": "SLG/G02/E/EV02002.SBN#0207"}, {"id": "SLG/G03/E/EV03003.SBN#0092"}, {"id": "SLG/G03/E/EV03004.SBN#0150"}, {"id": "SLG/G03/E/EV03004.SBN#0304"}]}
-{"id": "dialogue:7e466f8dac30e0db", "source": "ごめんやで……//もう、こうするしか、//方法はあらへんのや……", "text": "미안타…//이제，이렇게 하는 수밖에//방법이 없다…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0085"}]}
+{"id": "dialogue:7e466f8dac30e0db", "source": "ごめんやで……//もう、こうするしか、//方法はあらへんのや……", "text": "미안타…이제，이렇게//하는 수밖에 방법이 없다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0085"}]}
 {"id": "dialogue:c1c93f3c74e25339", "source": "ev02002kb2og03.mbo", "text": "ev02002kb2og03.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0086"}]}
 {"id": "dialogue:a3ba7e76b0937c70", "source": "なにっ〓", "text": "뭐라고〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0088"}]}
 {"id": "dialogue:a6ddc6dd3600a987", "source": "紅蘭を止める！", "text": "홍란을 막아야 해∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0089"}]}
-{"id": "dialogue:2b957be2ae88af85", "source": "くっ……//ど、どうしたら……", "text": "큭…//어，어떡하면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0090"}]}
+{"id": "dialogue:2b957be2ae88af85", "source": "くっ……//ど、どうしたら……", "text": "큭…어，어떡하면…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0090"}]}
 {"id": "dialogue:cbe31b37671d66af", "source": "_bg_alpha_out", "text": "_bg_alpha_out", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0091"}, {"id": "SLG/G02/E/EV02002.SBN#0100"}, {"id": "SLG/G02/E/EV02002.SBN#0209"}, {"id": "SLG/G03/E/EV03004.SBN#0151"}, {"id": "SLG/G03/E/EV03004.SBN#0305"}]}
 {"id": "dialogue:248d1dad894e2028", "source": "待つんだ、紅蘭∈//自爆なんかやめろ！", "text": "기다려，홍란∈//자폭 같은 건 그만둬！", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0092"}]}
 {"id": "dialogue:1ab3f40094f34246", "source": "ぐわぁっ∈", "text": "으아악∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0094"}]}
-{"id": "dialogue:30e548db160de924", "source": "もうええんや、大神はん∈//ウチが自爆すれば、//それで解決するんや！", "text": "이제 됐다，오오가미 씨∈//내가 자폭하면，//그걸로 해결된다！", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0098"}]}
-{"id": "dialogue:973bd234876a23b3", "source": "さくらはん、やめるんや！//ウチが自爆すれば、//それで解決するんや！", "text": "사쿠라 씨，그만해라∈//내가 자폭하면，//그걸로 해결된다！", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0099"}]}
-{"id": "dialogue:142e6200974364ac", "source": "こ、紅蘭……それはちがう。//俺たちは全員そろって花組だ！//誰が欠けても花組じゃない∈", "text": "호，홍란…그건 아니야．//우린 모두 함께여야 화조야∈//누구 하나라도 빠지면 화조가 아니야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0101"}]}
+{"id": "dialogue:30e548db160de924", "source": "もうええんや、大神はん∈//ウチが自爆すれば、//それで解決するんや！", "text": "이제 됐다，오오가미 씨∈//내가 자폭하면，그걸로 해결된다！", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0098"}]}
+{"id": "dialogue:973bd234876a23b3", "source": "さくらはん、やめるんや！//ウチが自爆すれば、//それで解決するんや！", "text": "사쿠라 씨，그만해라∈//내가 자폭하면，그걸로 해결된다！", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0099"}]}
+{"id": "dialogue:142e6200974364ac", "source": "こ、紅蘭……それはちがう。//俺たちは全員そろって花組だ！//誰が欠けても花組じゃない∈", "text": "호，홍란…그건 아니야．//우린 모두 함께여야 화조야∈누구//하나라도 빠지면 화조가 아니야∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0101"}]}
 {"id": "dialogue:eb945d1070623bfd", "source": "じばくなんかしたらダメだよ！//紅蘭なら、ぼうそうのとめ方、//考えられるはずだよ∈", "text": "자폭 같은 건 하면 안 돼∈//홍란이라면，폭주를 멈출 방법을//생각해 낼 수 있을 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0107"}]}
 {"id": "dialogue:5dadc022c7a76a56", "source": "自分を……俺たちを信じろ！//必ず暴走は止められるはずだ！", "text": "자신을…우리를 믿어∈//반드시 폭주를 멈출 수 있을 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0108"}]}
 {"id": "dialogue:9aff8b039b8eae8c", "source": "ev02002kb2or00.mbo", "text": "ev02002kb2or00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0117"}]}
 {"id": "dialogue:982f643b9865d530", "source": "ev02002eff04.be1", "text": "ev02002eff04.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0122"}]}
 {"id": "dialogue:8a45bdc6db59298e", "source": "ev02002eff04.bt1", "text": "ev02002eff04.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0123"}]}
-{"id": "dialogue:de54359698cfa38b", "source": "そうだよ、紅蘭。//今、俺たちにできることから、//やっていこう∈", "text": "맞아，홍란．//지금 우리가 할 수 있는 일부터，//해 나가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0124"}]}
+{"id": "dialogue:de54359698cfa38b", "source": "そうだよ、紅蘭。//今、俺たちにできることから、//やっていこう∈", "text": "맞아，홍란．지금 우리가//할 수 있는 일부터，해 나가자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0124"}]}
 {"id": "dialogue:f465dd286f818690", "source": "よし……みんな！//紅蘭が原因を見つけるまで、//花やしきを守るぞ！", "text": "좋아…모두들∈//홍란이 원인을 찾아낼 때까지，//하나야시키를 지키는 거다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0126"}]}
 {"id": "dialogue:f1f9298e271ac437", "source": "_bg_alpha_out_fast", "text": "_bg_alpha_out_fast", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0128"}, {"id": "SLG/G02/E/EV02002.SBN#0132"}, {"id": "SLG/G02/E/EV02002.SBN#0210"}]}
 {"id": "dialogue:c037504b8cc2975f", "source": "_bg_alpha_in_fast", "text": "_bg_alpha_in_fast", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0130"}, {"id": "SLG/G02/E/EV02002.SBN#0208"}]}
@@ -91,9 +91,9 @@
 {"id": "dialogue:4cfd082550fda5d2", "source": "わかった∈//レニ！　紅蘭の機体から……//蒸気機関を引きはがせ！", "text": "알았어∈//레니∈홍란의 기체에서…//증기기관을 떼어 내∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0136"}]}
 {"id": "dialogue:072878be6ab8cd01", "source": "ev02002eff05.be1", "text": "ev02002eff05.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0140"}]}
 {"id": "dialogue:31f4bd6c759cc69c", "source": "ev02002eff05.bt1", "text": "ev02002eff05.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0141"}]}
-{"id": "dialogue:46cecf30ed63f205", "source": "よかったぁ……//光武がウチの言うこと、//きいてくれてる。", "text": "다행이다…//광무가 내 말을，//들어 주고 있다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0142"}]}
+{"id": "dialogue:46cecf30ed63f205", "source": "よかったぁ……//光武がウチの言うこと、//きいてくれてる。", "text": "다행이다…광무가 내 말을，//들어 주고 있다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0142"}]}
 {"id": "dialogue:b1ba0f48299561a5", "source": "se_ev_202b.snd", "text": "se_ev_202b.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0144"}]}
-{"id": "dialogue:cc4568217494d538", "source": "みんな、油断するな！//周囲の妖力が上昇している……//何か、来るぞ！", "text": "모두，방심하지 마∈//주위의 요력이 상승하고 있어…//뭔가 온다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0145"}]}
-{"id": "dialogue:a91f1dfbb6f42020", "source": "目標、巨大魔操機兵の撃破∈//いくぞ∈", "text": "목표，거대 마조기병 격파∈//간다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0149"}]}
+{"id": "dialogue:cc4568217494d538", "source": "みんな、油断するな！//周囲の妖力が上昇している……//何か、来るぞ！", "text": "모두，방심하지 마∈주위의//요력이 상승하고 있어…뭔가 온다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0145"}]}
+{"id": "dialogue:a91f1dfbb6f42020", "source": "目標、巨大魔操機兵の撃破∈//いくぞ∈", "text": "목표，거대 마조기병 격파∈간다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0149"}]}
 {"id": "dialogue:12d6fdd1406d9def", "source": "s06c05", "text": "s06c05", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0174"}]}
 {"id": "dialogue:f8dde7b86c7adc9c", "source": "s08c05", "text": "s08c05", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02002.SBN#0181"}]}

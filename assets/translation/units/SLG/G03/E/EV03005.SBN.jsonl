@@ -21,21 +21,21 @@
 {"id": "dialogue:af5240ff71037868", "source": "fxi3c00_05.bt1", "text": "fxi3c00_05.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0039"}]}
 {"id": "dialogue:957d21b88fa0acd6", "source": "_BG_BLINK_1", "text": "_BG_BLINK_1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0040"}, {"id": "SLG/G03/E/EV03005.SBN#0046"}, {"id": "SLG/G03/E/EV03005.SBN#0128"}]}
 {"id": "dialogue:29080bebf7ff613f", "source": "wait_s02c01", "text": "wait_s02c01", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0041"}, {"id": "SLG/G03/E/EV03005.SBN#0132"}]}
-{"id": "dialogue:8a6a57980248e1e8", "source": "ま、また金色の蒸気が〓//蒸気フィルターも、//もう、限界だぞ！", "text": "또，또 금빛 증기가〓//증기 필터도，//이제 한계라고∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0042"}]}
+{"id": "dialogue:8a6a57980248e1e8", "source": "ま、また金色の蒸気が〓//蒸気フィルターも、//もう、限界だぞ！", "text": "또，또 금빛 증기가〓//증기 필터도，이제 한계라고∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0042"}]}
 {"id": "dialogue:d0e33a7a93ad86a6", "source": "ぜ、全員の霊力がゼロに……〓//このままでは、俺の光武も//動かなくなってしまう！", "text": "전，전원의 영력이 제로로…〓//이대로라면，내 광무도//움직이지 않게 돼∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0043"}]}
-{"id": "dialogue:5dd4ad0c477a38bd", "source": "この足さえ動けば……//くそっ！//何か、何かないのか〓", "text": "이 다리만 움직일 수 있다면…//젠장∈//뭐，뭐라도 없는 거냐〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0044"}]}
+{"id": "dialogue:5dd4ad0c477a38bd", "source": "この足さえ動けば……//くそっ！//何か、何かないのか〓", "text": "이 다리만 움직일 수 있다면…//젠장∈뭐，뭐라도 없는 거냐〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0044"}]}
 {"id": "dialogue:ac6116dd15d581b8", "source": "_CURSOL_OPEN", "text": "_CURSOL_OPEN", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0045"}, {"id": "SLG/G03/E/EV03005.SBN#0134"}]}
 {"id": "dialogue:c16d1d379cffc3bc", "source": "_move_cursol", "text": "_move_cursol", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0047"}, {"id": "SLG/G03/E/EV03005.SBN#0133"}]}
 {"id": "dialogue:314f2a4d172bf7f0", "source": "ev03005_boost.go2", "text": "ev03005_boost.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0048"}]}
 {"id": "dialogue:7c240083d9efedb2", "source": "ev03005_boost.grt", "text": "ev03005_boost.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0049"}]}
-{"id": "dialogue:41f2ed9d06b15de9", "source": "時間がない……//いや、まだだ！//あきらめるものか∈", "text": "시간이 없어…//아니，아직이야∈//포기할 수 없어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0050"}]}
+{"id": "dialogue:41f2ed9d06b15de9", "source": "時間がない……//いや、まだだ！//あきらめるものか∈", "text": "시간이 없어…아니，//아직이야∈포기할 수 없어∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0050"}]}
 {"id": "dialogue:a4088dd2a857944e", "source": "ev03005_oogami.go2", "text": "ev03005_oogami.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0051"}]}
 {"id": "dialogue:f3a8beea4d5088c7", "source": "ev03005_oogami.grt", "text": "ev03005_oogami.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0052"}]}
 {"id": "dialogue:661395be61efa170", "source": "_BG_BLINK_2", "text": "_BG_BLINK_2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0053"}, {"id": "SLG/G03/E/EV03005.SBN#0129"}]}
-{"id": "dialogue:0233314184bbd964", "source": "これは……//ブースターが残っていた〓//これなら、いけるぞ！", "text": "이건…//부스터가 남아 있었어〓//이거라면，할 수 있겠어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0054"}]}
+{"id": "dialogue:0233314184bbd964", "source": "これは……//ブースターが残っていた〓//これなら、いけるぞ！", "text": "이건…부스터가 남아 있었어〓//이거라면，할 수 있겠어∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0054"}]}
 {"id": "dialogue:ecc732989e5eddef", "source": "fxe3c06_01.be1", "text": "fxe3c06_01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0055"}]}
 {"id": "dialogue:ff7218e1ff652675", "source": "fxe3c06_01.bt1", "text": "fxe3c06_01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0056"}]}
-{"id": "dialogue:b309340a1bd22496", "source": "光武が停止するまでの//この、わずかな時間が//最後のチャンスだ……", "text": "광무가 정지할 때까지의//이 짧은 시간이//마지막 기회다…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0057"}]}
+{"id": "dialogue:b309340a1bd22496", "source": "光武が停止するまでの//この、わずかな時間が//最後のチャンスだ……", "text": "광무가 정지할 때까지의//이 짧은 시간이 마지막 기회다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0057"}]}
 {"id": "dialogue:c0056a9b54d7956f", "source": "米田司令のためにも、//みんなのためにも、//俺が、止めてみせる！", "text": "요네다 사령관님을 위해서도，//모두를 위해서도，//내가 막아 보이겠어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0058"}]}
 {"id": "dialogue:cac63347f53f12ff", "source": "fxe3c07_30.be1", "text": "fxe3c07_30.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0059"}]}
 {"id": "dialogue:363d52999e29e740", "source": "fxe3c07_30.bt1", "text": "fxe3c07_30.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0060"}]}
@@ -48,9 +48,9 @@
 {"id": "dialogue:ac18d324a2975fb0", "source": "大神さーん∈", "text": "오오가미 씨～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0070"}]}
 {"id": "dialogue:f0bd711613c89717", "source": "終わった……//帝都は……俺たちが守ったぞ∈", "text": "끝났다…//제도는…우리가 지켜 냈어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0071"}]}
 {"id": "dialogue:9f4d9e52f883ae00", "source": "米田司令……//約束は守りましたよ。", "text": "요네다 사령관님…//약속은 지켰습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0076"}]}
-{"id": "dialogue:c5e8b4945f746d2e", "source": "ああ、わかったよ。//すみれくんたちが言うなら、//そうしよう。", "text": "아아，알았어．//스미레 군 일행이 그렇게 말한다면，//그렇게 하자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0089"}]}
-{"id": "dialogue:c6031a1e21b68af7", "source": "お待たせしましたでーす∈//さぁ、勝利のポーズを//するでーす∈", "text": "오래 기다리셨습니다∈//자，승리의 포즈를//취해요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0090"}]}
-{"id": "dialogue:b0538f32fd32fafd", "source": "ちょ、ちょっと待ちぃや∈//まだアイリスとレニが//来てへんって∈", "text": "잠，잠깐 기다리라∈//아직 아이리스랑 레니가//안 왔다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0091"}]}
+{"id": "dialogue:c5e8b4945f746d2e", "source": "ああ、わかったよ。//すみれくんたちが言うなら、//そうしよう。", "text": "아아，알았어．스미레 군 일행이//그렇게 말한다면，그렇게 하자．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0089"}]}
+{"id": "dialogue:c6031a1e21b68af7", "source": "お待たせしましたでーす∈//さぁ、勝利のポーズを//するでーす∈", "text": "오래 기다리셨습니다∈//자，승리의 포즈를 취해요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0090"}]}
+{"id": "dialogue:b0538f32fd32fafd", "source": "ちょ、ちょっと待ちぃや∈//まだアイリスとレニが//来てへんって∈", "text": "잠，잠깐 기다리라∈//아직 아이리스랑 레니가 안 왔다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0091"}]}
 {"id": "dialogue:577bcf61895b69b2", "source": "ev03005_gr.mbo", "text": "ev03005_gr.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0097"}]}
 {"id": "dialogue:950341aab64d86f2", "source": "ev03005_cq.mbo", "text": "ev03005_cq.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0098"}]}
 {"id": "dialogue:889ea175506bf877", "source": "ev03005_lb.mbo", "text": "ev03005_lb.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03005.SBN#0099"}]}

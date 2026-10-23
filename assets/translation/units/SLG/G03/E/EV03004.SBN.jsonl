@@ -21,7 +21,7 @@
 {"id": "dialogue:5e04db4a2cbe7fef", "source": "ev03004eff00b.be1", "text": "ev03004eff00b.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0057"}]}
 {"id": "dialogue:dc0ee059ccd0451f", "source": "ev03004eff00b.bt1", "text": "ev03004eff00b.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0058"}]}
 {"id": "dialogue:fb0bd9524eb3ba67", "source": "se_ev_302b.snd", "text": "se_ev_302b.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0059"}, {"id": "SLG/G03/E/EV03004.SBN#0127"}]}
-{"id": "dialogue:5c3d1201489113c0", "source": "よし……//やったか〓", "text": "좋아…//해냈나〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0060"}, {"id": "SLG/G04/E/EV04003.SBN#0027"}]}
+{"id": "dialogue:5c3d1201489113c0", "source": "よし……//やったか〓", "text": "좋아…해냈나〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0060"}, {"id": "SLG/G04/E/EV04003.SBN#0027"}]}
 {"id": "dialogue:5a8633def2da655e", "source": "ev03004hk00.mbo", "text": "ev03004hk00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0061"}]}
 {"id": "dialogue:23759997b3c59884", "source": "UNKNOWN", "text": "UNKNOWN", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0062"}, {"id": "SLG/G03/E/EV03004.SBN#0069"}, {"id": "SLG/G03/E/EV03004.SBN#0306"}]}
 {"id": "dialogue:edec52afd0f068a4", "source": "な、なに〓//もう光武が停止したのか∈", "text": "뭐，뭐야〓//벌써 광무가 정지한 건가∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0063"}]}
@@ -29,18 +29,18 @@
 {"id": "dialogue:7d4ca7f48effd602", "source": "大", "text": "대", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0065"}, {"id": "SLG/G03/E/EV03004.SBN#0081"}, {"id": "SLG/G03/E/EV03004.SBN#0082"}, {"id": "SLG/G03/E/EV03004.SBN#0099"}, {"id": "SLG/G03/E/EV03004.SBN#0101"}, {"id": "SLG/G03/E/EV03004.SBN#0106"}, {"id": "SLG/G03/E/EV03004.SBN#0119"}, {"id": "SLG/G03/E/EV03004.SBN#0175"}, {"id": "SLG/G03/E/EV03004.SBN#0179"}, {"id": "SLG/G03/E/EV03004.SBN#0180"}, {"id": "SLG/G05/E/EV05002.SBN#0140"}, {"id": "SLG/G05/E/EV05002.SBN#0145"}, {"id": "SLG/G05/E/EV05002.SBN#0148"}, {"id": "SLG/G05/E/EV05002.SBN#0152"}, {"id": "SLG/G05/E/EV05002.SBN#0244"}, {"id": "SLG/G05/E/EV05002.SBN#0249"}, {"id": "SLG/G05/E/EV05002.SBN#0252"}, {"id": "SLG/G05/E/EV05002.SBN#0256"}]}
 {"id": "dialogue:cab110ff3fe98480", "source": "ev03004sm00.go2", "text": "ev03004sm00.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0066"}]}
 {"id": "dialogue:9a7e24a8e181e672", "source": "ev03004sm00.grt", "text": "ev03004sm00.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0067"}]}
-{"id": "dialogue:b71f6b354ad8aa81", "source": "いや……まだいけます！//米田司令を救うためにも//ここで退くわけには……", "text": "아니…아직 할 수 있습니다∈//요네다 사령관님을 구하기 위해서라도 여기서 물러설 수는…", "review": "띄어쓰기", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0068"}]}
-{"id": "dialogue:e9b120984a3e598c", "source": "敵の攻撃が……//頼む、動いてくれ！", "text": "적의 공격이…//제발，움직여 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0071"}]}
+{"id": "dialogue:b71f6b354ad8aa81", "source": "いや……まだいけます！//米田司令を救うためにも//ここで退くわけには……", "text": "아니…아직 할 수 있습니다∈//요네다 사령관님을 구하려면//여기서 물러설 수는…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0068"}]}
+{"id": "dialogue:e9b120984a3e598c", "source": "敵の攻撃が……//頼む、動いてくれ！", "text": "적의 공격이…제발，움직여 줘∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0071"}]}
 {"id": "dialogue:86f56fe8221f029d", "source": "WARNING", "text": "WARNING", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0072"}, {"id": "SLG/G03/E/EV03004.SBN#0307"}]}
 {"id": "dialogue:bf728630db0bf67c", "source": "光", "text": "빛", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0073"}]}
-{"id": "dialogue:679c4565b9d92388", "source": "くそっ……//どうしてもだめなのか∈", "text": "젠장…//아무리 해도 안 되는 건가∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0074"}]}
+{"id": "dialogue:679c4565b9d92388", "source": "くそっ……//どうしてもだめなのか∈", "text": "젠장…아무리 해도 안 되는 건가∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0074"}]}
 {"id": "dialogue:c70977189df332e2", "source": "ev03004eff05.be1", "text": "ev03004eff05.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0075"}]}
 {"id": "dialogue:04f7f7762c431f1c", "source": "ev03004eff05.bt1", "text": "ev03004eff05.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0076"}]}
 {"id": "dialogue:dc5a4d3d82f7e157", "source": "あ", "text": "아", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0078"}, {"id": "SLG/G03/E/EV03004.SBN#0079"}, {"id": "SLG/G03/E/EV03004.SBN#0183"}, {"id": "SLG/G03/E/EV03004.SBN#0184"}, {"id": "SLG/G03/E/EV03004.SBN#0216"}, {"id": "SLG/G04/E/EV04001.SBN#0047"}]}
 {"id": "dialogue:30decdf427451393", "source": "な", "text": "나", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0080"}, {"id": "SLG/G03/E/EV03004.SBN#0162"}, {"id": "SLG/G03/E/EV03004.SBN#0163"}, {"id": "SLG/G05/E/EV05002.SBN#0099"}, {"id": "SLG/G05/E/EV05002.SBN#0113"}, {"id": "SLG/G05/E/EV05002.SBN#0214"}]}
 {"id": "dialogue:af3a65ebb7b919bb", "source": "_mono_eye_se_loop", "text": "_mono_eye_se_loop", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0083"}, {"id": "SLG/G03/E/EV03004.SBN#0269"}]}
 {"id": "dialogue:4bcf9c9df8c017d2", "source": "貴", "text": "귀하", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0084"}]}
-{"id": "dialogue:9b903b692bd249f3", "source": "パ、巴里華撃団？//みんなは今……//巴里にいるんだぞ〓", "text": "파，파리화격단？//모두 지금…//파리에 있다고〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0085"}, {"id": "SLG/G03/E/EV03004.SBN#0090"}, {"id": "SLG/G03/E/EV03004.SBN#0095"}, {"id": "SLG/G03/E/EV03004.SBN#0100"}, {"id": "SLG/G03/E/EV03004.SBN#0105"}]}
+{"id": "dialogue:9b903b692bd249f3", "source": "パ、巴里華撃団？//みんなは今……//巴里にいるんだぞ〓", "text": "파，파리화격단？//모두 지금…파리에 있다고〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0085"}, {"id": "SLG/G03/E/EV03004.SBN#0090"}, {"id": "SLG/G03/E/EV03004.SBN#0095"}, {"id": "SLG/G03/E/EV03004.SBN#0100"}, {"id": "SLG/G03/E/EV03004.SBN#0105"}]}
 {"id": "dialogue:21172d5282e8fc9a", "source": "隊", "text": "대", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0086"}, {"id": "SLG/G03/E/EV03004.SBN#0195"}, {"id": "SLG/G03/E/EV03004.SBN#0219"}, {"id": "SLG/G05/E/EV05002.SBN#0142"}, {"id": "SLG/G05/E/EV05002.SBN#0143"}, {"id": "SLG/G05/E/EV05002.SBN#0149"}, {"id": "SLG/G05/E/EV05002.SBN#0246"}, {"id": "SLG/G05/E/EV05002.SBN#0247"}, {"id": "SLG/G05/E/EV05002.SBN#0251"}, {"id": "SLG/G05/E/EV05002.SBN#0253"}, {"id": "SLG/G05/E/EV05002.SBN#0255"}]}
 {"id": "dialogue:f1a24522ae116315", "source": "し、しかし……", "text": "하，하지만…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0087"}, {"id": "SLG/G03/E/EV03004.SBN#0092"}, {"id": "SLG/G03/E/EV03004.SBN#0097"}, {"id": "SLG/G03/E/EV03004.SBN#0102"}, {"id": "SLG/G03/E/EV03004.SBN#0107"}]}
 {"id": "dialogue:598e6dcaa5412a9a", "source": "さ", "text": "사", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0088"}, {"id": "SLG/G03/E/EV03004.SBN#0103"}, {"id": "SLG/G03/E/EV03004.SBN#0108"}, {"id": "SLG/G03/E/EV03004.SBN#0228"}]}
@@ -49,11 +49,11 @@
 {"id": "dialogue:f466e5f296542629", "source": "わ", "text": "와", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0104"}, {"id": "SLG/G05/E/EV05002.SBN#0154"}]}
 {"id": "dialogue:2fd46be2fb369de8", "source": "巴里華撃団、出撃せよ！", "text": "파리화격단，출격하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0110"}]}
 {"id": "dialogue:dee2e1f70b858f92", "source": "（……こうなったら、//　呼んでみるしかない∈）", "text": "（…이렇게 된 이상，//불러 보는 수밖에 없어∈）", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0111"}]}
-{"id": "dialogue:28ff88a3fe2c9f29", "source": "巴里華撃団、出撃せよ∈//目標、帝都……//帝国華撃団のサポートだ∈", "text": "파리화격단，출격하라∈//목표，제도…//제국화격단을 지원한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0112"}]}
+{"id": "dialogue:28ff88a3fe2c9f29", "source": "巴里華撃団、出撃せよ∈//目標、帝都……//帝国華撃団のサポートだ∈", "text": "파리화격단，출격하라∈목표，//제도…제국화격단을 지원한다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0112"}]}
 {"id": "dialogue:2cf481d11f70ae7a", "source": "巴里華撃団、出撃せよ∈//みんな、頼む∈", "text": "파리화격단，출격하라∈//모두，부탁한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0113"}]}
 {"id": "dialogue:1f00965e065179e6", "source": "巴里華撃団、出撃せよ！//みんな、来てくれ∈", "text": "파리화격단，출격하라∈//모두，와 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0114"}]}
 {"id": "dialogue:9da4f6de9a498708", "source": "巴里華撃団、出撃せよ！//俺たちを助けてくれ∈", "text": "파리화격단，출격하라∈//우리들을 도와줘∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0115"}]}
-{"id": "dialogue:7ce3fb87d1736262", "source": "巴里華撃団、出撃せよ！//どうやってくるのか、//わからないけど……", "text": "파리화격단，출격하라∈//어떻게 오는지，//모르겠지만…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0116"}]}
+{"id": "dialogue:7ce3fb87d1736262", "source": "巴里華撃団、出撃せよ！//どうやってくるのか、//わからないけど……", "text": "파리화격단，출격하라∈//어떻게 오는지，모르겠지만…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0116"}]}
 {"id": "dialogue:b2dd27e84f07f49b", "source": "了", "text": "알겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0117"}, {"id": "SLG/G03/E/EV03004.SBN#0118"}, {"id": "SLG/G03/E/EV03004.SBN#0214"}, {"id": "SLG/G03/E/EV03004.SBN#0232"}]}
 {"id": "dialogue:a9a502d0d0ceeb03", "source": "ev03004pr00.mbo", "text": "ev03004pr00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0120"}]}
 {"id": "dialogue:14b9c3492157eccb", "source": "リ", "text": "리", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0121"}]}
@@ -78,13 +78,13 @@
 {"id": "dialogue:0c5996c6e0ceef96", "source": "ev03004og01c.mbo", "text": "ev03004og01c.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0161"}]}
 {"id": "dialogue:dba6c1f9001ee705", "source": "ev03004eff02a.be1", "text": "ev03004eff02a.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0164"}]}
 {"id": "dialogue:7b6447fcf7716a34", "source": "ev03004eff02a.bt1", "text": "ev03004eff02a.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0165"}]}
-{"id": "dialogue:0a434130cfec3e06", "source": "みんな……//本当に来てくれたのか？", "text": "모두들…//정말로 와 준 건가？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0166"}]}
+{"id": "dialogue:0a434130cfec3e06", "source": "みんな……//本当に来てくれたのか？", "text": "모두들…정말로 와 준 건가？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0166"}]}
 {"id": "dialogue:90c867e95e4e5c28", "source": "ev03004eff02b.be1", "text": "ev03004eff02b.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0167"}]}
 {"id": "dialogue:18c8a54c4d62fb9f", "source": "ev03004eff02b.bt1", "text": "ev03004eff02b.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0168"}]}
 {"id": "dialogue:85d438c97d451ae3", "source": "coquelicot_heroine", "text": "coquelicot_heroine", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0169"}, {"id": "SLG/G03/E/EV03004.SBN#0171"}, {"id": "SLG/G03/E/EV03004.SBN#0173"}, {"id": "SLG/G03/E/EV03004.SBN#0310"}]}
 {"id": "dialogue:0b40b78e469932c3", "source": "hanabi_heroine_1", "text": "hanabi_heroine_1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0170"}, {"id": "SLG/G03/E/EV03004.SBN#0172"}, {"id": "SLG/G03/E/EV03004.SBN#0174"}, {"id": "SLG/G03/E/EV03004.SBN#0311"}]}
 {"id": "dialogue:5a742a1142b8ad7c", "source": "ほ", "text": "후", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0176"}]}
-{"id": "dialogue:f036025e0b1bfe49", "source": "ああ、俺は大丈夫だ。//あとは、この蒸気さえ……//なんとかできれば！", "text": "아아，난 괜찮아．//남은 건，이 증기만…//어떻게든 할 수 있다면∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0177"}]}
+{"id": "dialogue:f036025e0b1bfe49", "source": "ああ、俺は大丈夫だ。//あとは、この蒸気さえ……//なんとかできれば！", "text": "아아，난 괜찮아．남은 건，//이 증기만…어떻게든 할 수 있다면∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0177"}]}
 {"id": "dialogue:61d2798b40713174", "source": "ev03004pr03.mbo", "text": "ev03004pr03.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0178"}]}
 {"id": "dialogue:dea1469bf392516c", "source": "ev03004eff03.be1", "text": "ev03004eff03.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0181"}]}
 {"id": "dialogue:9f14c02de18d8229", "source": "ev03004eff03.bt1", "text": "ev03004eff03.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0182"}]}
@@ -92,11 +92,11 @@
 {"id": "dialogue:622c1084e6e52d5a", "source": "s13c01_motion", "text": "s13c01_motion", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0187"}, {"id": "SLG/G03/E/EV03004.SBN#0297"}]}
 {"id": "dialogue:142d843e71639506", "source": "当", "text": "당", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0188"}, {"id": "SLG/G03/E/EV03004.SBN#0191"}]}
 {"id": "dialogue:06ccdf06d7529eb8", "source": "も", "text": "모", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0189"}, {"id": "SLG/G03/E/EV03004.SBN#0222"}, {"id": "SLG/G05/E/EV05002.SBN#0151"}, {"id": "SLG/G05/E/EV05002.SBN#0203"}]}
-{"id": "dialogue:66dcafae7ec24b69", "source": "ははは……//みんな、ありがとう。//助かったよ。", "text": "하하하…//모두，고마워．//덕분에 살았어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0190"}]}
+{"id": "dialogue:66dcafae7ec24b69", "source": "ははは……//みんな、ありがとう。//助かったよ。", "text": "하하하…모두，고마워．//덕분에 살았어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0190"}]}
 {"id": "dialogue:b26a2d796c27bc7b", "source": "ト", "text": "토", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0192"}, {"id": "SLG/G03/E/EV03004.SBN#0194"}]}
 {"id": "dialogue:543e16964d384f61", "source": "気", "text": "기운", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0193"}, {"id": "SLG/G03/E/EV03004.SBN#0230", "form": "v001"}, {"id": "SLG/G05/E/EV05002.SBN#0156", "form": "v001"}], "variants": {"v001": {"review": "교차 검토 필요", "base_text_sha256": "f4dbd5949553c62639c73607618edcb7b334d0d7bad9e18f7a88f382a99d8204", "text": "기", "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."}}}
 {"id": "dialogue:6996e231e4987897", "source": "ev03004og02.mbo", "text": "ev03004og02.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0196"}]}
-{"id": "dialogue:0504f5f2ccf523df", "source": "なに……//囲まれたのか〓", "text": "뭐라고…//포위당한 건가〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0197"}]}
+{"id": "dialogue:0504f5f2ccf523df", "source": "なに……//囲まれたのか〓", "text": "뭐라고…포위당한 건가〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0197"}]}
 {"id": "dialogue:ee84cff607134549", "source": "ザ", "text": "자", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0198"}, {"id": "SLG/G03/E/EV03004.SBN#0199"}, {"id": "SLG/G03/E/EV03004.SBN#0221"}]}
 {"id": "dialogue:1aa847afc0b66b70", "source": "ev03004pr04.go2", "text": "ev03004pr04.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0200"}]}
 {"id": "dialogue:ec5a454a861852fa", "source": "ev03004pr04.grt", "text": "ev03004pr04.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0201"}]}
@@ -107,8 +107,8 @@
 {"id": "dialogue:d29d5e22f47fe513", "source": "時差ボケは大丈夫か〓", "text": "시차 적응은 괜찮나〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0206"}]}
 {"id": "dialogue:07e8f79a4cd87205", "source": "ev03004eff04.be1", "text": "ev03004eff04.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0207"}]}
 {"id": "dialogue:8a00937673961d5c", "source": "ev03004eff04.bt1", "text": "ev03004eff04.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0208"}]}
-{"id": "dialogue:c8c9e6bac49b80ed", "source": "よし∈//巴里華撃団、出撃だ！//敵を撃破せよ∈", "text": "좋아∈//파리화격단，출격이다∈//적을 격파하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0209"}]}
-{"id": "dialogue:d5d3a3b287315c92", "source": "みんな、頼むぞ！//しっかりとやってくれ∈", "text": "모두，부탁한다∈//제대로 해 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0210"}]}
+{"id": "dialogue:c8c9e6bac49b80ed", "source": "よし∈//巴里華撃団、出撃だ！//敵を撃破せよ∈", "text": "좋아∈파리화격단，//출격이다∈적을 격파하라∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0209"}]}
+{"id": "dialogue:d5d3a3b287315c92", "source": "みんな、頼むぞ！//しっかりとやってくれ∈", "text": "모두，부탁한다∈제대로 해 줘∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0210"}]}
 {"id": "dialogue:361456f97c664c1d", "source": "時差ボケは大丈夫か〓//巴里は夜だったんだろう！", "text": "시차 적응은 괜찮아〓//파리는 밤이었을 거 아냐∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0211"}]}
 {"id": "dialogue:bfb06973c3079797", "source": "じ", "text": "지", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0215"}]}
 {"id": "dialogue:ac2c2fe2a77e427f", "source": "ひ", "text": "히", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0217"}]}
@@ -118,8 +118,8 @@
 {"id": "dialogue:05493030fbfdb7ba", "source": "バ", "text": "바", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0225"}, {"id": "SLG/G05/E/EV05002.SBN#0229"}]}
 {"id": "dialogue:83e3e6bb20d612f7", "source": "ど", "text": "도", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0226"}]}
 {"id": "dialogue:1bb602cd1cb01953", "source": "し", "text": "시", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0227"}]}
-{"id": "dialogue:06e3454704a0ea97", "source": "あ、あぁ……//じゃあ、よろしく頼む。", "text": "아，아아…//그럼，잘 부탁해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0229"}]}
-{"id": "dialogue:8a39cdf33a9365fe", "source": "よし、俺たちは、//金色の魔操機兵を叩くぞ∈//いいな！", "text": "좋아，우리는//금빛 마조기병을 쓰러뜨린다∈//알겠지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0231"}]}
+{"id": "dialogue:06e3454704a0ea97", "source": "あ、あぁ……//じゃあ、よろしく頼む。", "text": "아，아아…그럼，잘 부탁해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0229"}]}
+{"id": "dialogue:8a39cdf33a9365fe", "source": "よし、俺たちは、//金色の魔操機兵を叩くぞ∈//いいな！", "text": "좋아，우리는 금빛 마조기병을//쓰러뜨린다∈알겠지∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0231"}]}
 {"id": "dialogue:144475b7ea3fe5ae", "source": "（帝国華撃団のみんなと、//　巴里華撃団のみんなが//　いてくれる……）", "text": "（제국화격단 모두와，//파리화격단 모두가//함께 있어 준다…）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0233"}]}
 {"id": "dialogue:7ecdef1d46c56896", "source": "（ここで勝てないようじゃ……//　隊長失格だぞ！）", "text": "（여기서 이기지 못한다면…//대장 실격이다∈）", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0234"}]}
 {"id": "dialogue:b9257d46a0caf40e", "source": "ev03004gl00.mbo", "text": "ev03004gl00.mbo", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03004.SBN#0235"}]}

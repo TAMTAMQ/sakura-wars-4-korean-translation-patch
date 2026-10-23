@@ -1,9 +1,9 @@
-{"id": "dialogue:5a4f8e0e406db507", "source": "それにしても……//レニって、ホントに//明るくなりましたねー。", "text": "그건 그렇고…//레니는 정말로//밝아졌네요．", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0001"}]}
-{"id": "dialogue:0fca58e52fe3cbeb", "source": "そうかな……//でも、そういう織姫も、//ずいぶん変わった。", "text": "그럴까…//하지만，그런 오리히메도，//상당히 변했어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0002"}]}
-{"id": "dialogue:c1cae60b76341df2", "source": "まあ、//星組のころとは、//ぜんぜんちがいますからね～。", "text": "뭐，//성조 시절과는//전혀 다르니까요～．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0003"}]}
+{"id": "dialogue:5a4f8e0e406db507", "source": "それにしても……//レニって、ホントに//明るくなりましたねー。", "text": "그건 그렇고…//레니는 정말로 밝아졌네요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0001"}]}
+{"id": "dialogue:0fca58e52fe3cbeb", "source": "そうかな……//でも、そういう織姫も、//ずいぶん変わった。", "text": "그럴까…하지만，//그런 오리히메도，상당히 변했어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0002"}]}
+{"id": "dialogue:c1cae60b76341df2", "source": "まあ、//星組のころとは、//ぜんぜんちがいますからね～。", "text": "뭐，성조 시절과는//전혀 다르니까요～．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0003"}]}
 {"id": "dialogue:cff5b91db8f7fe00", "source": "みんなを守りたい気持ち……//あのころにはなかった。", "text": "모두를 지키고 싶다는 마음…//그 시절에는 없었어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0004"}]}
-{"id": "dialogue:f04355d2dff2cb52", "source": "帝劇が……みんなが、//ボクたちを変えてくれたのかも//しれないね……", "text": "제국극장이…모두가，//우리를 바꿔 준 것일지도//모르겠네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0005"}]}
-{"id": "dialogue:9ccf6a958c94ce9a", "source": "うふふ……//レニは帝劇のことが//かなり気に入ってますね！", "text": "우후후…//레니는 제국극장이//꽤 마음에 드나 보네요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0006"}]}
-{"id": "dialogue:c9fce09aea7adae7", "source": "……織姫だって、//そうだろう？", "text": "…오리히메도，//그렇잖아？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0007"}]}
-{"id": "dialogue:4e42c8da445a67ed", "source": "もちのろんでーす！//この場所を守るためなら、//長安だろうと倒してみせま～す∈", "text": "당연하죠～∈//이곳을 지키기 위해서라면，//나가야스라도 쓰러뜨려 보이겠어요～∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0008"}]}
-{"id": "dialogue:cbc92d05fde2a127", "source": "ボクも、//守ってみせるよ……//このかけがえのない場所を！", "text": "나도，//지켜 낼 거야…//무엇과도 바꿀 수 없는 이곳을∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0009"}]}
+{"id": "dialogue:f04355d2dff2cb52", "source": "帝劇が……みんなが、//ボクたちを変えてくれたのかも//しれないね……", "text": "제국극장이…모두가，//우리를 바꿔 준 것일지도 모르겠네…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0005"}]}
+{"id": "dialogue:9ccf6a958c94ce9a", "source": "うふふ……//レニは帝劇のことが//かなり気に入ってますね！", "text": "우후후…레니는 제국극장이//꽤 마음에 드나 보네요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0006"}]}
+{"id": "dialogue:c9fce09aea7adae7", "source": "……織姫だって、//そうだろう？", "text": "…오리히메도，그렇잖아？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0007"}]}
+{"id": "dialogue:4e42c8da445a67ed", "source": "もちのろんでーす！//この場所を守るためなら、//長安だろうと倒してみせま～す∈", "text": "당연하죠～∈이곳을 지키기//위해서라면，나가야스라도//쓰러뜨려 보이겠어요～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0008"}]}
+{"id": "dialogue:cbc92d05fde2a127", "source": "ボクも、//守ってみせるよ……//このかけがえのない場所を！", "text": "나도，지켜 낼 거야…//무엇과도 바꿀 수 없는 이곳을∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04031.SBN#0009"}]}

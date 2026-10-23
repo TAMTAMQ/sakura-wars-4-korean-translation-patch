@@ -1,14 +1,14 @@
-{"id": "dialogue:4d8f62b1bf2427b1", "source": "この程度の敵なら//負けることはないだろうが、//油断はできないな……", "text": "이 정도 적이라면//지는 일은 없겠지만，//방심할 수는 없겠군…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0001"}]}
+{"id": "dialogue:4d8f62b1bf2427b1", "source": "この程度の敵なら//負けることはないだろうが、//油断はできないな……", "text": "이 정도 적이라면 지는 일은//없겠지만，방심할 수는 없겠군…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0001"}]}
 {"id": "dialogue:d4c1e79705fa5765", "source": "おいおい大神……//そんなに緊張してると、//逆に調子がでねぇってもんだぜ。", "text": "어이어이，오오가미…//그렇게 긴장하면，//오히려 제 실력이 안 나온다고．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0002"}]}
-{"id": "dialogue:29ec641ab9423687", "source": "たまには、//気分を変えて//戦ってみたらどうだ？", "text": "가끔은，//기분 전환 삼아//싸워 보는 게 어때？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0003"}]}
-{"id": "dialogue:0c1de91963997396", "source": "き、気分ですか〓//そうですね……", "text": "기，기분 말입니까〓//글쎄요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0004"}]}
+{"id": "dialogue:29ec641ab9423687", "source": "たまには、//気分を変えて//戦ってみたらどうだ？", "text": "가끔은，기분 전환//삼아 싸워 보는 게 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0003"}]}
+{"id": "dialogue:0c1de91963997396", "source": "き、気分ですか〓//そうですね……", "text": "기，기분 말입니까〓글쎄요…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0004"}]}
 {"id": "dialogue:baad394b58ea369f", "source": "さわやか気分でいこう！", "text": "상쾌한 기분으로 가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0005"}]}
 {"id": "dialogue:8ce4c9a67c08f7ff", "source": "気を引きしめていこう！", "text": "마음을 다잡고 나아가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0006"}]}
 {"id": "dialogue:3bc1eeb9827c4afd", "source": "お笑いムードでいこう！", "text": "유쾌한 분위기로 가자∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0007"}]}
-{"id": "dialogue:c596b17ecdcf3c75", "source": "そうだな……//さわやかな気分で//戦ってみることにするか。", "text": "그렇지…//상쾌한 기분으로//싸워 보기로 할까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0008"}]}
+{"id": "dialogue:c596b17ecdcf3c75", "source": "そうだな……//さわやかな気分で//戦ってみることにするか。", "text": "그렇지…상쾌한 기분으로//싸워 보기로 할까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0008"}]}
 {"id": "dialogue:d5c98d124c6f1d2f", "source": "_bgmcahnge", "text": "_bgmcahnge", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0009"}, {"id": "SLG/G02/E/EV02024.SBN#0011"}, {"id": "SLG/G02/E/EV02024.SBN#0013"}, {"id": "SLG/G02/E/EV02024.SBN#0016"}, {"id": "SLG/G02/E/EV02024.SBN#0026"}]}
-{"id": "dialogue:d9231daaeb8fea50", "source": "いや……//今よりも、気を引きしめて//戦わないと危険だ！", "text": "아니…//지금보다 더 정신을 바짝 차리고//싸우지 않으면 위험해∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0010"}]}
-{"id": "dialogue:a8b4b7672f94c4a4", "source": "よし……//お笑いムードで、//敵を油断させるか。", "text": "좋아…//유쾌한 분위기로，//적을 방심하게 만들까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0012"}]}
+{"id": "dialogue:d9231daaeb8fea50", "source": "いや……//今よりも、気を引きしめて//戦わないと危険だ！", "text": "아니…지금보다 더 정신을 바짝//차리고 싸우지 않으면 위험해∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0010"}]}
+{"id": "dialogue:a8b4b7672f94c4a4", "source": "よし……//お笑いムードで、//敵を油断させるか。", "text": "좋아…유쾌한 분위기로，//적을 방심하게 만들까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0012"}]}
 {"id": "dialogue:b51ad60dc32df786", "source": "米田司令の言うとおり、//気分を変えるのも//いいかもしれないけど……", "text": "요네다 사령관의 말씀대로，//기분을 전환하는 것도//좋을지도 모르겠지만…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0015"}]}
 {"id": "dialogue:bd3febd10e3c5a29", "source": "やっぱり、//今は、この気分で//戦うことにしよう……", "text": "역시，지금은 이 기분으로//싸우기로 하자…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0017"}]}
 {"id": "dialogue:6ee24dfd9aee0e3f", "source": "こんな感じか……", "text": "이런 느낌인가…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02024.SBN#0018"}]}

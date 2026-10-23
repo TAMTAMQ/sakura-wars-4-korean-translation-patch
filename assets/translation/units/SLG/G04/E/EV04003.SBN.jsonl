@@ -4,4 +4,4 @@
 {"id": "dialogue:f378b594c8c3edab", "source": "ev04003eff00.be1", "text": "ev04003eff00.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04003.SBN#0024"}]}
 {"id": "dialogue:05a1ede70ed5055b", "source": "ev04003eff00.bt1", "text": "ev04003eff00.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04003.SBN#0025"}]}
 {"id": "dialogue:9d7d976c2c558c4d", "source": "se_ev_403.snd", "text": "se_ev_403.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04003.SBN#0026"}]}
-{"id": "dialogue:ae78a33346de6f9c", "source": "な、なんだ〓//どうしたと言うんだ∈", "text": "뭐，뭐야〓//어떻게 된 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04003.SBN#0029"}]}
+{"id": "dialogue:ae78a33346de6f9c", "source": "な、なんだ〓//どうしたと言うんだ∈", "text": "뭐，뭐야〓어떻게 된 거야∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04003.SBN#0029"}]}

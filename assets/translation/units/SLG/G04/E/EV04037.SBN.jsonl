@@ -1,15 +1,15 @@
 {"id": "dialogue:04518566db8126bf", "source": "get_OTHER_UNIT", "text": "get_OTHER_UNIT", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0003"}, {"id": "SLG/G04/E/EV04037.SBN#0277"}, {"id": "SLG/G05/E/EV05002.SBN#0004"}, {"id": "SLG/G05/E/EV05002.SBN#0400"}]}
 {"id": "dialogue:129bd88f49d1d077", "source": "ev04037init", "text": "ev04037init", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0004"}, {"id": "SLG/G04/E/EV04037.SBN#0267"}]}
-{"id": "dialogue:4d4b441b31879417", "source": "さすがに、敵の攻撃が//はげしいな……", "text": "역시 적의 공격이//격렬하네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0014"}]}
+{"id": "dialogue:4d4b441b31879417", "source": "さすがに、敵の攻撃が//はげしいな……", "text": "역시 적의 공격이 격렬하네…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0014"}]}
 {"id": "dialogue:da1bffeb1a7887a2", "source": "ev04037_cam.go2", "text": "ev04037_cam.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0015"}]}
 {"id": "dialogue:167cf0fe1ebe89ed", "source": "ヒ", "text": "히", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0016"}]}
 {"id": "dialogue:8bdacae543759e72", "source": "se_ev_402a.snd", "text": "se_ev_402a.snd", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0017"}]}
-{"id": "dialogue:bbc22ef201d3ee1c", "source": "そうだな……//連絡してみるか……", "text": "그렇지…//연락해 볼까…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0018"}]}
+{"id": "dialogue:bbc22ef201d3ee1c", "source": "そうだな……//連絡してみるか……", "text": "그렇지…연락해 볼까…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0018"}]}
 {"id": "dialogue:8f13424d47c281ec", "source": "fxe4c13_50.be1", "text": "fxe4c13_50.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0024"}]}
 {"id": "dialogue:1a646af954901774", "source": "fxe4c13_50.bt1", "text": "fxe4c13_50.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0025"}]}
 {"id": "dialogue:c749e94cdb1bdc1c", "source": "……無理はするなよ。", "text": "…무리하지 마．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0028"}]}
 {"id": "dialogue:fd8cbc9c3f359189", "source": "……よろしく頼む。", "text": "…잘 부탁해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0029"}]}
-{"id": "dialogue:446f8e32b380dc4e", "source": "……無理はするなよ。//生きて帰ることを//絶対の目標にするんだ。", "text": "…무리하지 마．//살아서 돌아오는 걸//최우선 목표로 삼아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0030"}]}
+{"id": "dialogue:446f8e32b380dc4e", "source": "……無理はするなよ。//生きて帰ることを//絶対の目標にするんだ。", "text": "…무리하지 마．살아서//돌아오는 걸 최우선 목표로 삼아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0030"}]}
 {"id": "dialogue:ded89b73f778f10d", "source": "よし……頼んだぞ。", "text": "좋아…잘 부탁해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0034"}]}
 {"id": "dialogue:40e32d5df394d934", "source": "fxi4c01_01.be1", "text": "fxi4c01_01.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0035"}]}
 {"id": "dialogue:31ceef59fc0ffca1", "source": "fxi4c01_01.bt1", "text": "fxi4c01_01.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0036"}]}
@@ -37,128 +37,128 @@
 {"id": "dialogue:58edb05e36296ab8", "source": "fx_GL_sk.be1", "text": "fx_GL_sk.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0061"}]}
 {"id": "dialogue:41fdb0f51f385b17", "source": "fx_GL_sk.bt1", "text": "fx_GL_sk.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0062"}]}
 {"id": "dialogue:f04dc6704ecff8dd", "source": "こちら大神一郎∈//さくらくん、応答せよ！", "text": "여기는 오오가미 이치로∈//사쿠라 군，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0063"}]}
-{"id": "dialogue:3dfbd9fbd040de3c", "source": "いや……さくらくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…사쿠라 군 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0064"}]}
-{"id": "dialogue:1148fefd9cfc6faa", "source": "……よろしく頼む。//地上のことは、//さくらくんにまかせた。", "text": "…잘 부탁해．//지상은，//사쿠라 군에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0065"}]}
-{"id": "dialogue:2874939705ab3843", "source": "もう、なにも言うことはない。//さくらくん……//わかっているな。", "text": "이제，더 할 말은 없어．//사쿠라 군…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0066"}]}
-{"id": "dialogue:9422cd1a3949b2f2", "source": "あ、ああ……//それじゃ、さくらくん。", "text": "아，아아…//그럼，사쿠라 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0067"}]}
+{"id": "dialogue:3dfbd9fbd040de3c", "source": "いや……さくらくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…사쿠라 군 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0064"}]}
+{"id": "dialogue:1148fefd9cfc6faa", "source": "……よろしく頼む。//地上のことは、//さくらくんにまかせた。", "text": "…잘 부탁해．지상은，//사쿠라 군에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0065"}]}
+{"id": "dialogue:2874939705ab3843", "source": "もう、なにも言うことはない。//さくらくん……//わかっているな。", "text": "이제，더 할 말은 없어．//사쿠라 군…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0066"}]}
+{"id": "dialogue:9422cd1a3949b2f2", "source": "あ、ああ……//それじゃ、さくらくん。", "text": "아，아아…그럼，사쿠라 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0067"}]}
 {"id": "dialogue:5269e1c8b415e51e", "source": "ev04037_Sumire.go2", "text": "ev04037_Sumire.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0068"}, {"id": "SLG/G04/E/EV04037.SBN#0190"}, {"id": "SLG/G04/E/EV04037.SBN#0216"}, {"id": "SLG/G04/E/EV04037.SBN#0242"}]}
 {"id": "dialogue:b46187a8eb085c02", "source": "ev04037_Sumire.grt", "text": "ev04037_Sumire.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0069"}, {"id": "SLG/G04/E/EV04037.SBN#0191"}, {"id": "SLG/G04/E/EV04037.SBN#0217"}, {"id": "SLG/G04/E/EV04037.SBN#0243"}]}
 {"id": "dialogue:e473396803884042", "source": "ev04037_GL_sm.go2", "text": "ev04037_GL_sm.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0070"}]}
 {"id": "dialogue:6ae6216899a1412e", "source": "fx_GL_sm.be1", "text": "fx_GL_sm.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0071"}]}
 {"id": "dialogue:557be510dabf4bd8", "source": "fx_GL_sm.bt1", "text": "fx_GL_sm.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0072"}]}
 {"id": "dialogue:b92186d37cbbc0ec", "source": "こちら大神一郎∈//すみれくん、応答せよ！", "text": "여기는 오오가미 이치로∈//스미레 군，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0073"}]}
-{"id": "dialogue:fe0a6bad4046017c", "source": "いや……すみれくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…스미레 군 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0074"}]}
-{"id": "dialogue:25e1f8c7583770bb", "source": "……よろしく頼む。//地上のことは、//すみれくんにまかせた。", "text": "…잘 부탁해．//지상은，//스미레 군에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0075"}]}
-{"id": "dialogue:31163e6ab8890217", "source": "もう、なにも言うことはない。//すみれくん……//わかっているな。", "text": "이제，더 할 말은 없어．//스미레 군…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0076"}]}
-{"id": "dialogue:edb66b5b9aa3aa3b", "source": "あ、ああ……//それじゃ、すみれくん。", "text": "아，아아…//그럼，스미레 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0077"}]}
+{"id": "dialogue:fe0a6bad4046017c", "source": "いや……すみれくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…스미레 군 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0074"}]}
+{"id": "dialogue:25e1f8c7583770bb", "source": "……よろしく頼む。//地上のことは、//すみれくんにまかせた。", "text": "…잘 부탁해．지상은，//스미레 군에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0075"}]}
+{"id": "dialogue:31163e6ab8890217", "source": "もう、なにも言うことはない。//すみれくん……//わかっているな。", "text": "이제，더 할 말은 없어．//스미레 군…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0076"}]}
+{"id": "dialogue:edb66b5b9aa3aa3b", "source": "あ、ああ……//それじゃ、すみれくん。", "text": "아，아아…그럼，스미레 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0077"}]}
 {"id": "dialogue:7a1d8f15b0a1a382", "source": "ev04037_Maria.go2", "text": "ev04037_Maria.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0078"}, {"id": "SLG/G04/E/EV04037.SBN#0192"}, {"id": "SLG/G04/E/EV04037.SBN#0218"}, {"id": "SLG/G04/E/EV04037.SBN#0244"}]}
 {"id": "dialogue:678885a688df6791", "source": "ev04037_Maria.grt", "text": "ev04037_Maria.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0079"}, {"id": "SLG/G04/E/EV04037.SBN#0193"}, {"id": "SLG/G04/E/EV04037.SBN#0219"}, {"id": "SLG/G04/E/EV04037.SBN#0245"}]}
 {"id": "dialogue:efe9e40437d61bbb", "source": "ev04037_GL_mr.go2", "text": "ev04037_GL_mr.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0080"}]}
 {"id": "dialogue:46621d809e217f28", "source": "fx_GL_mr.be1", "text": "fx_GL_mr.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0081"}]}
 {"id": "dialogue:08c12dc0666e24d7", "source": "fx_GL_mr.bt1", "text": "fx_GL_mr.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0082"}]}
 {"id": "dialogue:80c3201b5c987b8a", "source": "こちら大神一郎∈//マリア、応答せよ！", "text": "여기는 오오가미 이치로∈//마리아，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0083"}]}
-{"id": "dialogue:889488cdbb2f134f", "source": "いや……マリアたちから//連絡がないから、//心配になったんだ。", "text": "아니…마리아 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0084"}]}
-{"id": "dialogue:3280bcb7d1ea1c3d", "source": "……よろしく頼む。//地上のことは、//マリアにまかせた。", "text": "…잘 부탁해．//지상은，//마리아에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0085"}]}
-{"id": "dialogue:58eccbcaddc58a3c", "source": "もう、なにも言うことはない。//マリア……//わかっているな。", "text": "이제，더 할 말은 없어．//마리아…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0086"}]}
-{"id": "dialogue:9eba5e01d8bf8e01", "source": "あ、ああ……//それじゃ、マリア。", "text": "아，아아…//그럼，마리아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0087"}]}
+{"id": "dialogue:889488cdbb2f134f", "source": "いや……マリアたちから//連絡がないから、//心配になったんだ。", "text": "아니…마리아 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0084"}]}
+{"id": "dialogue:3280bcb7d1ea1c3d", "source": "……よろしく頼む。//地上のことは、//マリアにまかせた。", "text": "…잘 부탁해．지상은，//마리아에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0085"}]}
+{"id": "dialogue:58eccbcaddc58a3c", "source": "もう、なにも言うことはない。//マリア……//わかっているな。", "text": "이제，더 할 말은 없어．//마리아…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0086"}]}
+{"id": "dialogue:9eba5e01d8bf8e01", "source": "あ、ああ……//それじゃ、マリア。", "text": "아，아아…그럼，마리아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0087"}]}
 {"id": "dialogue:88a41f856b2ad033", "source": "ev04037_Kanna.go2", "text": "ev04037_Kanna.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0088"}, {"id": "SLG/G04/E/EV04037.SBN#0194"}, {"id": "SLG/G04/E/EV04037.SBN#0220"}, {"id": "SLG/G04/E/EV04037.SBN#0246"}]}
 {"id": "dialogue:364373595cbdb70a", "source": "ev04037_Kanna.grt", "text": "ev04037_Kanna.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0089"}, {"id": "SLG/G04/E/EV04037.SBN#0195"}, {"id": "SLG/G04/E/EV04037.SBN#0221"}, {"id": "SLG/G04/E/EV04037.SBN#0247"}]}
 {"id": "dialogue:e8cde54d1bf92e9b", "source": "ev04037_GL_kn.go2", "text": "ev04037_GL_kn.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0090"}]}
 {"id": "dialogue:c6dbc357e646adcf", "source": "fx_GL_kn.be1", "text": "fx_GL_kn.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0091"}]}
 {"id": "dialogue:93fff79bc00ef4bc", "source": "fx_GL_kn.bt1", "text": "fx_GL_kn.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0092"}]}
 {"id": "dialogue:395a522b3a1457f4", "source": "こちら大神一郎∈//カンナ、応答せよ！", "text": "여기는 오오가미 이치로∈//칸나，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0093"}]}
-{"id": "dialogue:cc70a4e2f619aa70", "source": "いや……カンナたちから//連絡がないから、//心配になったんだ。", "text": "아니…칸나 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0094"}]}
-{"id": "dialogue:15349dd270a50fcf", "source": "……よろしく頼む。//地上のことは、//カンナにまかせた。", "text": "…잘 부탁해．//지상은，//칸나에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0095"}]}
-{"id": "dialogue:19dde760d89d5091", "source": "もう、なにも言うことはない。//カンナ……//わかっているな。", "text": "이제，더 할 말은 없어．//칸나…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0096"}]}
-{"id": "dialogue:b1b83e2d4be2ecf7", "source": "あ、ああ……//それじゃ、カンナ。", "text": "아，아아…//그럼，칸나．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0097"}]}
+{"id": "dialogue:cc70a4e2f619aa70", "source": "いや……カンナたちから//連絡がないから、//心配になったんだ。", "text": "아니…칸나 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0094"}]}
+{"id": "dialogue:15349dd270a50fcf", "source": "……よろしく頼む。//地上のことは、//カンナにまかせた。", "text": "…잘 부탁해．지상은，//칸나에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0095"}]}
+{"id": "dialogue:19dde760d89d5091", "source": "もう、なにも言うことはない。//カンナ……//わかっているな。", "text": "이제，더 할 말은 없어．//칸나…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0096"}]}
+{"id": "dialogue:b1b83e2d4be2ecf7", "source": "あ、ああ……//それじゃ、カンナ。", "text": "아，아아…그럼，칸나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0097"}]}
 {"id": "dialogue:3b1c3d70f3ea117d", "source": "ev04037_Iris.go2", "text": "ev04037_Iris.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0098"}, {"id": "SLG/G04/E/EV04037.SBN#0196"}, {"id": "SLG/G04/E/EV04037.SBN#0222"}, {"id": "SLG/G04/E/EV04037.SBN#0248"}]}
 {"id": "dialogue:d3e49786623a05b5", "source": "ev04037_Iris.grt", "text": "ev04037_Iris.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0099"}, {"id": "SLG/G04/E/EV04037.SBN#0197"}, {"id": "SLG/G04/E/EV04037.SBN#0223"}, {"id": "SLG/G04/E/EV04037.SBN#0249"}]}
 {"id": "dialogue:6a66c93881660acf", "source": "ev04037_GL_ir.go2", "text": "ev04037_GL_ir.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0100"}]}
 {"id": "dialogue:b7db9fb164bb3263", "source": "fx_GL_ir.be1", "text": "fx_GL_ir.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0101"}]}
 {"id": "dialogue:3c15d5fa59138939", "source": "fx_GL_ir.bt1", "text": "fx_GL_ir.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0102"}]}
 {"id": "dialogue:544744e6bae25b3c", "source": "こちら大神一郎∈//アイリス、応答せよ！", "text": "여기는 오오가미 이치로∈//아이리스，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0103"}]}
-{"id": "dialogue:f06cddd7473b90b4", "source": "いや……アイリスたちから//連絡がないから、//心配になったんだ。", "text": "아니…아이리스 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0104"}]}
-{"id": "dialogue:958e7fa6d535a89f", "source": "……よろしく頼む。//地上のことは、//アイリスにまかせた。", "text": "…잘 부탁해．//지상은，//아이리스에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0105"}]}
-{"id": "dialogue:09e380ae5acd85dc", "source": "もう、なにも言うことはない。//アイリス……//わかっているな。", "text": "이제，더 할 말은 없어．//아이리스…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0106"}]}
-{"id": "dialogue:fbea81bf2a74fa52", "source": "あ、ああ……//それじゃ、アイリス。", "text": "아，아아…//그럼，아이리스．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0107"}]}
+{"id": "dialogue:f06cddd7473b90b4", "source": "いや……アイリスたちから//連絡がないから、//心配になったんだ。", "text": "아니…아이리스 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0104"}]}
+{"id": "dialogue:958e7fa6d535a89f", "source": "……よろしく頼む。//地上のことは、//アイリスにまかせた。", "text": "…잘 부탁해．지상은，//아이리스에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0105"}]}
+{"id": "dialogue:09e380ae5acd85dc", "source": "もう、なにも言うことはない。//アイリス……//わかっているな。", "text": "이제，더 할 말은 없어．//아이리스…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0106"}]}
+{"id": "dialogue:fbea81bf2a74fa52", "source": "あ、ああ……//それじゃ、アイリス。", "text": "아，아아…그럼，아이리스．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0107"}]}
 {"id": "dialogue:43aa64d90587ba88", "source": "ev04037_Kohran.go2", "text": "ev04037_Kohran.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0108"}, {"id": "SLG/G04/E/EV04037.SBN#0198"}, {"id": "SLG/G04/E/EV04037.SBN#0224"}, {"id": "SLG/G04/E/EV04037.SBN#0250"}]}
 {"id": "dialogue:6e33044b430dd3b9", "source": "ev04037_Kohran.grt", "text": "ev04037_Kohran.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0109"}, {"id": "SLG/G04/E/EV04037.SBN#0199"}, {"id": "SLG/G04/E/EV04037.SBN#0225"}, {"id": "SLG/G04/E/EV04037.SBN#0251"}]}
 {"id": "dialogue:56a06b508b8850cb", "source": "ev04037_GL_kr.go2", "text": "ev04037_GL_kr.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0110"}]}
 {"id": "dialogue:d8c78260ad5ed53b", "source": "fx_GL_kr.be1", "text": "fx_GL_kr.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0111"}]}
 {"id": "dialogue:d3540c7ae1a9a48a", "source": "fx_GL_kr.bt1", "text": "fx_GL_kr.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0112"}]}
 {"id": "dialogue:1ff72e289d661bff", "source": "こちら大神一郎∈//紅蘭、応答せよ！", "text": "여기는 오오가미 이치로∈//홍란，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0113"}]}
-{"id": "dialogue:50a0832b0e10cc0c", "source": "いや……紅蘭たちから//連絡がないから、//心配になったんだ。", "text": "아니…홍란 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0114"}]}
-{"id": "dialogue:dab56f4040347086", "source": "……よろしく頼む。//地上のことは、//紅蘭にまかせた。", "text": "…잘 부탁해．//지상은，//홍란에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0115"}]}
-{"id": "dialogue:a3fcc959baaf3650", "source": "もう、なにも言うことはない。//紅蘭……//わかっているな。", "text": "이제，더 할 말은 없어．//홍란…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0116"}]}
-{"id": "dialogue:2d1e0ec06e48f7f3", "source": "あ、ああ……//それじゃ、紅蘭。", "text": "아，아아…//그럼，홍란．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0117"}]}
+{"id": "dialogue:50a0832b0e10cc0c", "source": "いや……紅蘭たちから//連絡がないから、//心配になったんだ。", "text": "아니…홍란 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0114"}]}
+{"id": "dialogue:dab56f4040347086", "source": "……よろしく頼む。//地上のことは、//紅蘭にまかせた。", "text": "…잘 부탁해．지상은，//홍란에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0115"}]}
+{"id": "dialogue:a3fcc959baaf3650", "source": "もう、なにも言うことはない。//紅蘭……//わかっているな。", "text": "이제，더 할 말은 없어．//홍란…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0116"}]}
+{"id": "dialogue:2d1e0ec06e48f7f3", "source": "あ、ああ……//それじゃ、紅蘭。", "text": "아，아아…그럼，홍란．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0117"}]}
 {"id": "dialogue:a759930e7af271f1", "source": "ev04037_Orihime.go2", "text": "ev04037_Orihime.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0118"}, {"id": "SLG/G04/E/EV04037.SBN#0200"}, {"id": "SLG/G04/E/EV04037.SBN#0226"}, {"id": "SLG/G04/E/EV04037.SBN#0252"}]}
 {"id": "dialogue:01878068fc799d98", "source": "ev04037_Orihime.grt", "text": "ev04037_Orihime.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0119"}, {"id": "SLG/G04/E/EV04037.SBN#0201"}, {"id": "SLG/G04/E/EV04037.SBN#0227"}, {"id": "SLG/G04/E/EV04037.SBN#0253"}]}
 {"id": "dialogue:093cdcce90623b7e", "source": "ev04037_GL_or.go2", "text": "ev04037_GL_or.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0120"}]}
 {"id": "dialogue:1e7782adac64e6d9", "source": "fx_GL_or.be1", "text": "fx_GL_or.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0121"}]}
 {"id": "dialogue:ded819e74df68661", "source": "fx_GL_or.bt1", "text": "fx_GL_or.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0122"}]}
 {"id": "dialogue:ff7c3cf0119718fd", "source": "こちら大神一郎∈//織姫くん、応答せよ！", "text": "여기는 오오가미 이치로∈//오리히메 군，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0123"}]}
-{"id": "dialogue:dfed2e38d97375d4", "source": "いや……織姫くんたちから//連絡がないから、//心配になったんだ。", "text": "아니…오리히메 군 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0124"}]}
-{"id": "dialogue:27792d1e817ac3fb", "source": "……よろしく頼む。//地上のことは、//織姫くんにまかせた。", "text": "…잘 부탁해．//지상은，//오리히메 군에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0125"}]}
-{"id": "dialogue:04c08a1ce96fbf73", "source": "もう、なにも言うことはない。//織姫くん……//わかっているな。", "text": "이제，더 할 말은 없어．//오리히메 군…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0126"}]}
-{"id": "dialogue:edf5700f93e86ae5", "source": "あ、ああ……//それじゃ、織姫くん。", "text": "아，아아…//그럼，오리히메 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0127"}]}
+{"id": "dialogue:dfed2e38d97375d4", "source": "いや……織姫くんたちから//連絡がないから、//心配になったんだ。", "text": "아니…오리히메 군 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0124"}]}
+{"id": "dialogue:27792d1e817ac3fb", "source": "……よろしく頼む。//地上のことは、//織姫くんにまかせた。", "text": "…잘 부탁해．지상은，//오리히메 군에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0125"}]}
+{"id": "dialogue:04c08a1ce96fbf73", "source": "もう、なにも言うことはない。//織姫くん……//わかっているな。", "text": "이제，더 할 말은 없어．//오리히메 군…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0126"}]}
+{"id": "dialogue:edf5700f93e86ae5", "source": "あ、ああ……//それじゃ、織姫くん。", "text": "아，아아…그럼，오리히메 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0127"}]}
 {"id": "dialogue:303a706e9a30322c", "source": "ev04037_Reni.go2", "text": "ev04037_Reni.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0128"}, {"id": "SLG/G04/E/EV04037.SBN#0202"}, {"id": "SLG/G04/E/EV04037.SBN#0228"}, {"id": "SLG/G04/E/EV04037.SBN#0254"}]}
 {"id": "dialogue:10bfeeacac9fe84e", "source": "ev04037_Reni.grt", "text": "ev04037_Reni.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0129"}, {"id": "SLG/G04/E/EV04037.SBN#0203"}, {"id": "SLG/G04/E/EV04037.SBN#0229"}, {"id": "SLG/G04/E/EV04037.SBN#0255"}]}
 {"id": "dialogue:6f58961944abc7c6", "source": "ev04037_GL_rn.go2", "text": "ev04037_GL_rn.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0130"}]}
 {"id": "dialogue:cc98f4abdcb40b96", "source": "fx_GL_rn.be1", "text": "fx_GL_rn.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0131"}]}
 {"id": "dialogue:87bc833bbb76d401", "source": "fx_GL_rn.bt1", "text": "fx_GL_rn.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0132"}]}
 {"id": "dialogue:fe6c164dd7ff1272", "source": "こちら大神一郎∈//レニ、応答せよ！", "text": "여기는 오오가미 이치로∈//레니，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0133"}]}
-{"id": "dialogue:d0518f1298f200a8", "source": "いや……レニたちから//連絡がないから、//心配になったんだ。", "text": "아니…레니 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0134"}]}
-{"id": "dialogue:0621fdf2c12a0d12", "source": "……よろしく頼む。//地上のことは、//レニにまかせた。", "text": "…잘 부탁해．//지상은，//레니에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0135"}]}
-{"id": "dialogue:80d04723fca4a041", "source": "もう、なにも言うことはない。//レニ……//わかっているな。", "text": "이제，더 할 말은 없어．//레니…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0136"}]}
-{"id": "dialogue:e272d741fa587764", "source": "あ、ああ……//それじゃ、レニ。", "text": "아，아아…//그럼，레니．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0137"}]}
+{"id": "dialogue:d0518f1298f200a8", "source": "いや……レニたちから//連絡がないから、//心配になったんだ。", "text": "아니…레니 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0134"}]}
+{"id": "dialogue:0621fdf2c12a0d12", "source": "……よろしく頼む。//地上のことは、//レニにまかせた。", "text": "…잘 부탁해．지상은，//레니에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0135"}]}
+{"id": "dialogue:80d04723fca4a041", "source": "もう、なにも言うことはない。//レニ……//わかっているな。", "text": "이제，더 할 말은 없어．//레니…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0136"}]}
+{"id": "dialogue:e272d741fa587764", "source": "あ、ああ……//それじゃ、レニ。", "text": "아，아아…그럼，레니．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0137"}]}
 {"id": "dialogue:2d0dbe88d9ca8779", "source": "ev04037_Glycine.go2", "text": "ev04037_Glycine.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0138"}, {"id": "SLG/G04/E/EV04037.SBN#0204"}, {"id": "SLG/G04/E/EV04037.SBN#0230"}, {"id": "SLG/G04/E/EV04037.SBN#0256"}]}
 {"id": "dialogue:4b2368efd3dcca80", "source": "ev04037_Glycine.grt", "text": "ev04037_Glycine.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0139"}, {"id": "SLG/G04/E/EV04037.SBN#0205"}, {"id": "SLG/G04/E/EV04037.SBN#0231"}, {"id": "SLG/G04/E/EV04037.SBN#0257"}]}
 {"id": "dialogue:49600586600ced26", "source": "ev04037_GL_gr.go2", "text": "ev04037_GL_gr.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0140"}]}
 {"id": "dialogue:fcc8e55734e9a840", "source": "fx_GL_gr.be1", "text": "fx_GL_gr.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0141"}]}
 {"id": "dialogue:768fa55990ca5889", "source": "fx_GL_gr.bt1", "text": "fx_GL_gr.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0142"}]}
 {"id": "dialogue:1b0dfd0d3f5ae2fb", "source": "こちら大神一郎∈//グリシーヌ、応答せよ！", "text": "여기는 오오가미 이치로∈//글리신，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0143"}]}
-{"id": "dialogue:cadd2e417ea45d91", "source": "いや……グリシーヌたちから//連絡がないから、//心配になったんだ。", "text": "아니…글리신 일행에게서//연락이 없어서，//걱정됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0144"}]}
-{"id": "dialogue:ced0041bb23dc7e1", "source": "……よろしく頼む。//地上のことは、//グリシーヌにまかせた。", "text": "…잘 부탁해．//지상은，//글리신에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0145"}]}
-{"id": "dialogue:3d1ea0855e9571b8", "source": "もう、なにも言うことはない。//グリシーヌ……//わかっているな。", "text": "이제，더 할 말은 없어．//글리신…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0146"}]}
-{"id": "dialogue:35d21437f3e778b9", "source": "あ、ああ……//それじゃ、グリシーヌ。", "text": "아，아아…//그럼，글리신．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0147"}]}
+{"id": "dialogue:cadd2e417ea45d91", "source": "いや……グリシーヌたちから//連絡がないから、//心配になったんだ。", "text": "아니…글리신 일행에게서//연락이 없어서，걱정됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0144"}]}
+{"id": "dialogue:ced0041bb23dc7e1", "source": "……よろしく頼む。//地上のことは、//グリシーヌにまかせた。", "text": "…잘 부탁해．지상은，//글리신에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0145"}]}
+{"id": "dialogue:3d1ea0855e9571b8", "source": "もう、なにも言うことはない。//グリシーヌ……//わかっているな。", "text": "이제，더 할 말은 없어．//글리신…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0146"}]}
+{"id": "dialogue:35d21437f3e778b9", "source": "あ、ああ……//それじゃ、グリシーヌ。", "text": "아，아아…그럼，글리신．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0147"}]}
 {"id": "dialogue:9b51f0b6bd9e8b1b", "source": "ev04037_Coquelicot.go2", "text": "ev04037_Coquelicot.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0148"}, {"id": "SLG/G04/E/EV04037.SBN#0206"}, {"id": "SLG/G04/E/EV04037.SBN#0232"}, {"id": "SLG/G04/E/EV04037.SBN#0258"}]}
 {"id": "dialogue:f2d02e72f41a62b0", "source": "ev04037_Coquelicot.grt", "text": "ev04037_Coquelicot.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0149"}, {"id": "SLG/G04/E/EV04037.SBN#0207"}, {"id": "SLG/G04/E/EV04037.SBN#0233"}, {"id": "SLG/G04/E/EV04037.SBN#0259"}]}
 {"id": "dialogue:c698e7da1bb1c84f", "source": "ev04037_GL_cq.go2", "text": "ev04037_GL_cq.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0150"}]}
 {"id": "dialogue:31014009230eac47", "source": "fx_GL_cq.be1", "text": "fx_GL_cq.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0151"}]}
 {"id": "dialogue:04d74980300a7398", "source": "fx_GL_cq.bt1", "text": "fx_GL_cq.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0152"}]}
 {"id": "dialogue:1263e680e611facd", "source": "こちら大神一郎∈//コクリコ、応答せよ！", "text": "여기는 오오가미 이치로∈//코쿠리코，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0153"}]}
-{"id": "dialogue:7bb03b699c383346", "source": "いや……コクリコたちから//連絡がないから、//心配になったんだ。", "text": "아니…코쿠리코 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0154"}]}
-{"id": "dialogue:b94eb45ab7cfa1e1", "source": "……よろしく頼む。//地上のことは、//コクリコにまかせた。", "text": "…잘 부탁해．//지상은，//코쿠리코에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0155"}]}
-{"id": "dialogue:a38c27efd5953be7", "source": "もう、なにも言うことはない。//コクリコ……//わかっているな。", "text": "이제，더 할 말은 없어．//코쿠리코…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0156"}]}
-{"id": "dialogue:d9a261281ebbc835", "source": "あ、ああ……//それじゃ、コクリコ。", "text": "아，아아…//그럼，코쿠리코．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0157"}]}
+{"id": "dialogue:7bb03b699c383346", "source": "いや……コクリコたちから//連絡がないから、//心配になったんだ。", "text": "아니…코쿠리코 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0154"}]}
+{"id": "dialogue:b94eb45ab7cfa1e1", "source": "……よろしく頼む。//地上のことは、//コクリコにまかせた。", "text": "…잘 부탁해．지상은，//코쿠리코에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0155"}]}
+{"id": "dialogue:a38c27efd5953be7", "source": "もう、なにも言うことはない。//コクリコ……//わかっているな。", "text": "이제，더 할 말은 없어．//코쿠리코…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0156"}]}
+{"id": "dialogue:d9a261281ebbc835", "source": "あ、ああ……//それじゃ、コクリコ。", "text": "아，아아…그럼，코쿠리코．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0157"}]}
 {"id": "dialogue:3549c5a0b5adad47", "source": "ev04037_Lobelia.go2", "text": "ev04037_Lobelia.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0158"}, {"id": "SLG/G04/E/EV04037.SBN#0208"}, {"id": "SLG/G04/E/EV04037.SBN#0234"}, {"id": "SLG/G04/E/EV04037.SBN#0260"}]}
 {"id": "dialogue:ecaaeb5cdc6c0de5", "source": "ev04037_Lobelia.grt", "text": "ev04037_Lobelia.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0159"}, {"id": "SLG/G04/E/EV04037.SBN#0209"}, {"id": "SLG/G04/E/EV04037.SBN#0235"}, {"id": "SLG/G04/E/EV04037.SBN#0261"}]}
 {"id": "dialogue:4db2d2d7a4462192", "source": "ev04037_GL_lb.go2", "text": "ev04037_GL_lb.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0160"}]}
 {"id": "dialogue:b13fc38a70ef4664", "source": "fx_GL_lb.be1", "text": "fx_GL_lb.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0161"}]}
 {"id": "dialogue:d4267f1a81942ec9", "source": "fx_GL_lb.bt1", "text": "fx_GL_lb.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0162"}]}
 {"id": "dialogue:179042fd43092be3", "source": "こちら大神一郎∈//ロベリア、応答せよ！", "text": "여기는 오오가미 이치로∈//로벨리아，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0163"}]}
-{"id": "dialogue:398e3dac9cfd14fc", "source": "いや……ロベリアたちから//連絡がないから、//心配になったんだ。", "text": "아니…로벨리아 일행에게서//연락이 없어서，//걱정됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0164"}]}
-{"id": "dialogue:cda74a2aeb2bb891", "source": "……よろしく頼む。//地上のことは、//ロベリアにまかせた。", "text": "…잘 부탁해．//지상은，//로벨리아에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0165"}]}
-{"id": "dialogue:0e90b68ff80742e9", "source": "もう、なにも言うことはない。//ロベリア……//わかっているな。", "text": "이제，더 할 말은 없어．//로벨리아…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0166"}]}
-{"id": "dialogue:5e30f96b115a781b", "source": "あ、ああ……//それじゃ、ロベリア。", "text": "아，아아…//그럼，로벨리아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0167"}]}
+{"id": "dialogue:398e3dac9cfd14fc", "source": "いや……ロベリアたちから//連絡がないから、//心配になったんだ。", "text": "아니…로벨리아 일행에게서//연락이 없어서，걱정됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0164"}]}
+{"id": "dialogue:cda74a2aeb2bb891", "source": "……よろしく頼む。//地上のことは、//ロベリアにまかせた。", "text": "…잘 부탁해．지상은，//로벨리아에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0165"}]}
+{"id": "dialogue:0e90b68ff80742e9", "source": "もう、なにも言うことはない。//ロベリア……//わかっているな。", "text": "이제，더 할 말은 없어．//로벨리아…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0166"}]}
+{"id": "dialogue:5e30f96b115a781b", "source": "あ、ああ……//それじゃ、ロベリア。", "text": "아，아아…그럼，로벨리아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0167"}]}
 {"id": "dialogue:df4c257ff3cfb028", "source": "ev04037_Hanabi.go2", "text": "ev04037_Hanabi.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0168"}, {"id": "SLG/G04/E/EV04037.SBN#0210"}, {"id": "SLG/G04/E/EV04037.SBN#0236"}, {"id": "SLG/G04/E/EV04037.SBN#0262"}]}
 {"id": "dialogue:229f1849a5d1483e", "source": "ev04037_Hanabi.grt", "text": "ev04037_Hanabi.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0169"}, {"id": "SLG/G04/E/EV04037.SBN#0211"}, {"id": "SLG/G04/E/EV04037.SBN#0237"}, {"id": "SLG/G04/E/EV04037.SBN#0263"}]}
 {"id": "dialogue:911fcdfa6dfd4aae", "source": "ev04037_GL_hn.go2", "text": "ev04037_GL_hn.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0170"}]}
 {"id": "dialogue:314f8f418f6bfc08", "source": "fx_GL_hn.be1", "text": "fx_GL_hn.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0171"}]}
 {"id": "dialogue:fb144c05c9a8cd6c", "source": "fx_GL_hn.bt1", "text": "fx_GL_hn.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0172"}]}
 {"id": "dialogue:4717580e467693de", "source": "こちら大神一郎∈//花火くん、応答せよ！", "text": "여기는 오오가미 이치로∈//하나비 군，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0173"}]}
-{"id": "dialogue:3ee1fbae4826115a", "source": "いや……花火くんたちから//連絡がないから、//心配になったんだ。", "text": "아니…하나비 군 일행에게서//연락이 없어서，//걱정이 됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0174"}]}
-{"id": "dialogue:a03c813051dd1c62", "source": "……よろしく頼む。//地上のことは、//花火くんにまかせた。", "text": "…잘 부탁해．//지상은，//하나비 군에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0175"}]}
-{"id": "dialogue:f87ef53c336942ef", "source": "もう、なにも言うことはない。//花火くん……//わかっているな。", "text": "이제，더 할 말은 없어．//하나비 군…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0176"}]}
-{"id": "dialogue:8f10424168768742", "source": "あ、ああ……//それじゃ、花火くん。", "text": "아，아아…//그럼，하나비 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0177"}]}
+{"id": "dialogue:3ee1fbae4826115a", "source": "いや……花火くんたちから//連絡がないから、//心配になったんだ。", "text": "아니…하나비 군 일행에게서//연락이 없어서，걱정이 됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0174"}]}
+{"id": "dialogue:a03c813051dd1c62", "source": "……よろしく頼む。//地上のことは、//花火くんにまかせた。", "text": "…잘 부탁해．지상은，//하나비 군에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0175"}]}
+{"id": "dialogue:f87ef53c336942ef", "source": "もう、なにも言うことはない。//花火くん……//わかっているな。", "text": "이제，더 할 말은 없어．//하나비 군…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0176"}]}
+{"id": "dialogue:8f10424168768742", "source": "あ、ああ……//それじゃ、花火くん。", "text": "아，아아…그럼，하나비 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0177"}]}
 {"id": "dialogue:a5033f143585e697", "source": "ev04037_Erica.go2", "text": "ev04037_Erica.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0178"}, {"id": "SLG/G04/E/EV04037.SBN#0212"}, {"id": "SLG/G04/E/EV04037.SBN#0238"}, {"id": "SLG/G04/E/EV04037.SBN#0264"}]}
 {"id": "dialogue:430334db271a3369", "source": "ev04037_Erica.grt", "text": "ev04037_Erica.grt", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0179"}, {"id": "SLG/G04/E/EV04037.SBN#0213"}, {"id": "SLG/G04/E/EV04037.SBN#0239"}, {"id": "SLG/G04/E/EV04037.SBN#0265"}]}
 {"id": "dialogue:4a46e685079d6dd7", "source": "ev04037_GL_er.go2", "text": "ev04037_GL_er.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0180"}]}
 {"id": "dialogue:1bc85f36fe9f873d", "source": "fx_GL_er.be1", "text": "fx_GL_er.be1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0181"}]}
 {"id": "dialogue:06f9398508304054", "source": "fx_GL_er.bt1", "text": "fx_GL_er.bt1", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0182"}]}
 {"id": "dialogue:14861121afadaf8d", "source": "こちら大神一郎∈//エリカくん、応答せよ！", "text": "여기는 오오가미 이치로∈//에리카 군，응답하라∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0183"}]}
-{"id": "dialogue:30d3179d5b0b8c7a", "source": "いや……エリカくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…에리카 군 일행에게서//연락이 없어서，//걱정됐어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0184"}]}
-{"id": "dialogue:5854257d90d36d41", "source": "……よろしく頼む。//地上のことは、//エリカくんにまかせた。", "text": "…잘 부탁해．//지상은，//에리카 군에게 맡길게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0185"}]}
-{"id": "dialogue:dcdd199cf5c9c855", "source": "もう、なにも言うことはない。//エリカくん……//わかっているな。", "text": "이제，더 할 말은 없어．//에리카 군…//알고 있겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0186"}]}
-{"id": "dialogue:638d32e820d65029", "source": "あ、ああ……//それじゃ、エリカくん。", "text": "아，아아…//그럼，에리카 군．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0187"}]}
+{"id": "dialogue:30d3179d5b0b8c7a", "source": "いや……エリカくんたちから//連絡がないから、//心配になったんだ。", "text": "아니…에리카 군 일행에게서//연락이 없어서，걱정됐어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0184"}]}
+{"id": "dialogue:5854257d90d36d41", "source": "……よろしく頼む。//地上のことは、//エリカくんにまかせた。", "text": "…잘 부탁해．지상은，//에리카 군에게 맡길게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0185"}]}
+{"id": "dialogue:dcdd199cf5c9c855", "source": "もう、なにも言うことはない。//エリカくん……//わかっているな。", "text": "이제，더 할 말은 없어．//에리카 군…알고 있겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0186"}]}
+{"id": "dialogue:638d32e820d65029", "source": "あ、ああ……//それじゃ、エリカくん。", "text": "아，아아…그럼，에리카 군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0187"}]}
 {"id": "dialogue:f1a4bd3ead4c88d7", "source": "set_GM_work", "text": "set_GM_work", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04037.SBN#0278"}]}

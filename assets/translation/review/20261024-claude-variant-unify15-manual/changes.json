@@ -1,0 +1,478 @@
+[
+  {
+    "unit": "dialogue:92f3128a4d98ae35",
+    "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。",
+    "before": {
+      "id": "dialogue:92f3128a4d98ae35",
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。",
+      "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0084",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0084",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0084"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속에서 춤추는 수수께끼의 남자．제국화격단 월조가 조사 중이다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "e91271b59d869231157cc705fb848eed59239da9d21c940478c45756ab229ac8",
+          "text": "어둠 속 수수께끼의 남자．//제국화격단 월조 조사 중．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:92f3128a4d98ae35",
+      "source": "闇夜に踊る謎の男。//帝国華撃団・月組が調査中。",
+      "text": "어둠 속에 춤추는 의문의 남자．//월조가 조사 중．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0084"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0084"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸·가장 작은 용량에 맞춰 다듬음."
+  },
+  {
+    "unit": "dialogue:e2eadcb79c0e9610",
+    "source": "光武二式の//足元についていた謎の金粉。",
+    "before": {
+      "id": "dialogue:e2eadcb79c0e9610",
+      "source": "光武二式の//足元についていた謎の金粉。",
+      "text": "광무 ２식의//발밑에 붙어 있던 수수께끼의 금가루．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0088",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0088"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "4270c66ccaf0e6c3d61a16dc24ea12cea4f6ab362e6498bf0da95f619a4c3ffc",
+          "text": "광무 ２식의//발에 묻은 의문의 금가루．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:e2eadcb79c0e9610",
+      "source": "光武二式の//足元についていた謎の金粉。",
+      "text": "광무 ２식 발밑의//의문의 금가루．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0088"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0088"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸·가장 작은 용량에 맞춰 다듬음."
+  },
+  {
+    "unit": "dialogue:f3f170dc8eba545b",
+    "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。",
+    "before": {
+      "id": "dialogue:f3f170dc8eba545b",
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。",
+      "text": "칸나의 브로마이드．//하이비스커스 꽃다발을 어깨에 메고//당당하게 포즈를 취하고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0093",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0093"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "0c4e7d74b143e3708f5f53492a9adf06c47a1484e33c30d361d7486e2591033d",
+          "text": "칸나의 브로마이드．하이비스커스 꽃다발을 어깨에 메고 당당하게 포즈를 취하고 있다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f3f170dc8eba545b",
+      "source": "カンナのブロマイド。//ハイビスカスの花束を肩にかつぎ//勇ましく決めている。",
+      "text": "칸나의 브로마이드．//하이비스커스 꽃다발을 메고//당당하게 포즈를 취했다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0093"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0093"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸·가장 작은 용량에 맞춰 다듬음."
+  },
+  {
+    "unit": "dialogue:5f7b356e82910aba",
+    "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。",
+    "before": {
+      "id": "dialogue:5f7b356e82910aba",
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。",
+      "text": "홍란이 특별 제작한 휴대용//키네마트론．기능을 문자 수신으로만 한정해 소형・경량화했다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0105",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0105"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "6ca1df0cd117e624c0f31117fe6dfd6d5538385e491ae94f24e65a8d5c162826",
+          "text": "홍란 특제 휴대용 키네마트론．//기능을 문자 수신으로만 한정해，//소형・경량화했다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:5f7b356e82910aba",
+      "source": "紅蘭特製の携帯キネマトロン。//機能を文字受信のみにしぼり、//小型軽量化した。",
+      "text": "홍란이 특별 제작한 휴대용//키네마트론．문자 수신 전용으로//작고 가볍게 만들었다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0105"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0105"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸·가장 작은 용량에 맞춰 다듬음."
+  },
+  {
+    "unit": "dialogue:f79e38bc4b058c6e",
+    "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。",
+    "before": {
+      "id": "dialogue:f79e38bc4b058c6e",
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。",
+      "text": "오오가미가 만들어 받은 사탕 공예．//늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0106",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0106",
+          "form": "v002"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0106",
+          "form": "v003"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0106"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 받은 사탕 세공．늑대를 본떠 만들었지만，//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v002": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미가 만들어 달라 한 사탕 공예．늑대를 본떴지만，//개로밖에 안 보인다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        },
+        "v003": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "9bb98dcedef60a3276602fcb05e88fea04b911113e26a3a60cedc27f07cfa1fe",
+          "text": "오오가미를 위해 만들어 준 사탕 공예．늑대를 본떠 만들었지만//개로밖에 보이지 않는다．",
+          "reason": "기존 번역 차이를 보존하여 이관. 화자·문맥·용량에 따른 차이인지 추가 검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:f79e38bc4b058c6e",
+      "source": "大神が作ってもらったアメ細工。//狼をモデルにしているが、//犬にしか見えない。",
+      "text": "오오가미가 부탁한 사탕 공예．//늑대를 본떴지만//개로밖에 안 보인다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0106"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0106"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안 하나로 통일하고 한 줄 15칸·가장 작은 용량에 맞춰 다듬음."
+  }
+]

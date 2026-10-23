@@ -66,7 +66,7 @@
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0130.SBX.jsonl",
       "rows": 3172,
-      "sha256": "ca6deccd6d1561a20a4a32a4dcb4ee02572373c82d91041971a437d3085afa6f"
+      "sha256": "f509baaf4702bf36852b06e67609749ecb2882e98a15acd505af64bcdd0f6d3d"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0140.SBX.jsonl",
@@ -81,7 +81,7 @@
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0220.SBX.jsonl",
       "rows": 3823,
-      "sha256": "c93b9fa6c87e2c3eb3b478e932b27caca3a053123786fdab34efcaca0e0a7a73"
+      "sha256": "96457d35cd6dcc0c2ca3508929d6e283c97b675116acdb95cf25c32934122912"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0230.SBX.jsonl",
@@ -91,17 +91,17 @@
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0240.SBX.jsonl",
       "rows": 376,
-      "sha256": "6dac1752bef4b3e734a8ca102291efb15b61bf2840f2b83e55913d2ab1b8b1a9"
+      "sha256": "4674428559a85c29147cc6c92c0d64bd9c90bffce02641c28c498977fb677406"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0310.SBX.jsonl",
       "rows": 4144,
-      "sha256": "d3cab466d2410458776bc1503bdc1aea3ca1948793f54d81aceeccd8ccdd780b"
+      "sha256": "f09c74d90b0f6f56831cc80256a4e4ae4b85e48452fc9cc69c6b09389d4513f7"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0320.SBX.jsonl",
       "rows": 2223,
-      "sha256": "924a3c6777bc6fe841e7142285e47fdee5ec608329c069241087e6d942e18f0b"
+      "sha256": "766407982d5c7c5072e2d64f80022e1dbc8206da16dea964ec2c043bb582c108"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0330.SBX.jsonl",
@@ -111,17 +111,17 @@
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0340.SBX.jsonl",
       "rows": 1128,
-      "sha256": "8fd4e0cd1ef30c8cdc9b9e3723b0f9f0ad95b964e7488ee2326769aecb8ad0a4"
+      "sha256": "eae032b0283da5e1a7ee4e549b43da3825c2926b414b1e47ab21a70942be2db9"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0410.SBX.jsonl",
       "rows": 3382,
-      "sha256": "8c566ac1ed3871e6e77078ce107c2d003d4c710036a621fd8621535999a0b37d"
+      "sha256": "21c0d94a88076ba1a2819eddbfe368c166dd9dfb26e1d5f17a4115c56f838d11"
     },
     {
       "path": "assets/translation/segments/ADVDATA/SCRIPT/S0510.SBX.jsonl",
       "rows": 2903,
-      "sha256": "eff656dc28a2b8736b191d170ac0a76dfe8efcc4ad0a2820b108a4cd3534af31"
+      "sha256": "8df4587f8f4c414b90972487ca4d629fef9705966ecd7fcb8cb5b79f70c8b042"
     },
     {
       "path": "assets/translation/segments/MINIGAME/ETC.SBN.jsonl",
@@ -311,7 +311,7 @@
     {
       "path": "assets/translation/segments/SLG/G02/E/EV02016.SBN.jsonl",
       "rows": 31,
-      "sha256": "32394d874da55c4f7efa003ccfc1abd6aeeb7de1f262714cf2d8e4b91f7d39df"
+      "sha256": "d88b948e9c334f27ed9b87f2795d3b9c318026aa11d94d77ae95167a34ff41a7"
     },
     {
       "path": "assets/translation/segments/SLG/G02/E/EV02017.SBN.jsonl",
@@ -391,7 +391,7 @@
     {
       "path": "assets/translation/segments/SLG/G03/E/EV03007.SBN.jsonl",
       "rows": 13,
-      "sha256": "683490fa2fbd5395338a45779f1a08fdd78a76ffc0a534cffd1297a40cd728bc"
+      "sha256": "a9f9c98fa3329eb23c0251351eb280d4d9d8dbf7862f38c699bba8d30b8363a8"
     },
     {
       "path": "assets/translation/segments/SLG/G03/E/EV03009.SBN.jsonl",
@@ -626,7 +626,7 @@
     {
       "path": "assets/translation/segments/SLG/G04/E/EV04035.SBN.jsonl",
       "rows": 73,
-      "sha256": "41dccb12b6531ffa725ecdd9c84d49c71f9b7f9e91dadbecaff96fb1051193f4"
+      "sha256": "d574b7a59b61071914e068c16e78a56ebe7830b5226eb681a851cc9d6eb99528"
     },
     {
       "path": "assets/translation/segments/SLG/G04/E/EV04036.SBN.jsonl",

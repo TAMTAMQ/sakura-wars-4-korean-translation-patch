@@ -1,0 +1,148 @@
+[
+  {
+    "unit": "dialogue:6022df1fd5cc364e",
+    "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。",
+    "before": {
+      "id": "dialogue:6022df1fd5cc364e",
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。",
+      "text": "사쿠라의 브로마이드．//벚꽃이 흩날리는 가운데//다정하게 미소 짓고 있다．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0090",
+          "form": "v001"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0090"
+        }
+      ],
+      "variants": {
+        "v001": {
+          "review": "교차 검토 필요",
+          "base_text_sha256": "671dfab5b01373de6d5afa477dc19d74ebc6154cf2c65fc39d19027018b4c537",
+          "breaks": [
+            23
+          ],
+          "reason": "기존 사용처의 줄바꿈만 보존. 대표 문안 수정 시 배치 재검토 필요."
+        }
+      }
+    },
+    "after": {
+      "id": "dialogue:6022df1fd5cc364e",
+      "source": "さくらのブロマイド。//桜吹雪が舞うなか、//優しくほほえんでいる。",
+      "text": "사쿠라의 브로마이드．//벚꽃 흩날리는 가운데//다정히 미소 짓고 있다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0090"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0090"
+        }
+      ]
+    },
+    "reason": "변형 문안을 대표 문안으로 통일하고 한 줄 15칸·가장 작은 용량에 맞춤."
+  },
+  {
+    "unit": "dialogue:3b2d5b1d7d4ab9dd",
+    "source": "%xt1、必ず生きて帰るぞ∈",
+    "before": {
+      "id": "dialogue:3b2d5b1d7d4ab9dd",
+      "source": "%xt1、必ず生きて帰るぞ∈",
+      "text": "%xt1，반드시 살아서 돌아가자∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1936"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3b2d5b1d7d4ab9dd",
+      "source": "%xt1、必ず生きて帰るぞ∈",
+      "text": "%xt1，꼭 살아서 돌아가자∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1936"
+        }
+      ]
+    },
+    "reason": "이름 변수(최대 4칸)를 넣어도 한 줄 15칸 안에 들게 줄임."
+  },
+  {
+    "unit": "dialogue:d74cba318f2d6ac3",
+    "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+    "before": {
+      "id": "dialogue:d74cba318f2d6ac3",
+      "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+      "text": "%xt1，반드시 살아서 돌아가자∈이 제도의 평화를//우리 손으로 되찾는 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1943"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d74cba318f2d6ac3",
+      "source": "%xt1、必ず生きて帰るぞ∈//この帝都の平和を//俺たちの手で取り戻すんだ！",
+      "text": "%xt1，꼭 살아서 돌아가자∈//이 제도의 평화를//우리 손으로 되찾는 거야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1943"
+        }
+      ]
+    },
+    "reason": "이름 변수(최대 4칸)를 넣어도 한 줄 15칸 안에 들게 다시 배치."
+  }
+]

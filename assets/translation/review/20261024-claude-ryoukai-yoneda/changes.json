@@ -1,0 +1,536 @@
+[
+  {
+    "unit": "dialogue:2d80dcf567869b6d",
+    "source": "了解！",
+    "before": {
+      "id": "dialogue:2d80dcf567869b6d",
+      "source": "了解！",
+      "text": "알았어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1877"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3310"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3422"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3423"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3424"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3425"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3432"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3433"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3434"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3435"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3436"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3441"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3451"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3456"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3461"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3465"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3466"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3467"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3468"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1241"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1244"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1261"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1813"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1821"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1828"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1835"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1842"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1934"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1941"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1945"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1947"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1949"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1951"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1953"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1955"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1957"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1959"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1961"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1963"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1965"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1967"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1969"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1974"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1979"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0846"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1285"
+        },
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0223"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0127"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0150"
+        },
+        {
+          "id": "SLG/G02/E/EV02012.SBN#0033"
+        },
+        {
+          "id": "SLG/G02/E/EV02023.SBN#0017"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0063"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0071"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0078"
+        },
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0075"
+        },
+        {
+          "id": "SLG/G04/E/EV04001.SBN#0051"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0056"
+        },
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0024"
+        },
+        {
+          "id": "SLG/G05/E/EV05001.SBN#0033"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2d80dcf567869b6d",
+      "source": "了解！",
+      "text": "네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1877"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3310"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3421"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3422"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3423"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3424"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3425"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3432"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3433"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3434"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3435"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3436"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3441"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3446"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3451"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3456"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3461"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3465"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3466"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3467"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3468"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3469"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1241"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1244"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1261"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1813"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1821"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1828"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1835"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1842"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1934"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1941"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1945"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1947"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1949"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1951"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1953"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1955"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1957"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1959"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1961"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1963"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1965"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1967"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1969"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1974"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1979"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0846"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1285"
+        },
+        {
+          "id": "SLG/G02/E/EV02001.SBN#0223"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0127"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0150"
+        },
+        {
+          "id": "SLG/G02/E/EV02012.SBN#0033"
+        },
+        {
+          "id": "SLG/G02/E/EV02023.SBN#0017"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0063"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0071"
+        },
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0078"
+        },
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0075"
+        },
+        {
+          "id": "SLG/G04/E/EV04001.SBN#0051"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0056"
+        },
+        {
+          "id": "SLG/G04/E/EV04039.SBN#0024"
+        },
+        {
+          "id": "SLG/G05/E/EV05001.SBN#0033"
+        }
+      ]
+    },
+    "reason": "「了解！」: 대원들의 합창 대답은 「네」, 혼자 하는 대답은 캐릭터 말투로(사용자 지시)."
+  },
+  {
+    "unit": "dialogue:e9d17d5f79dc2b3f",
+    "source": "了解！",
+    "before": {
+      "id": "dialogue:e9d17d5f79dc2b3f",
+      "source": "了解！",
+      "text": "알았어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03007.SBN#0012"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e9d17d5f79dc2b3f",
+      "source": "了解！",
+      "text": "알겠어요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03007.SBN#0012"
+        }
+      ]
+    },
+    "reason": "「了解！」: 대원들의 합창 대답은 「네」, 혼자 하는 대답은 캐릭터 말투로(사용자 지시). 스미레."
+  },
+  {
+    "unit": "dialogue:63ce7ba366286aa2",
+    "source": "了解！",
+    "before": {
+      "id": "dialogue:63ce7ba366286aa2",
+      "source": "了解！",
+      "text": "알았어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04035.SBN#0010"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:63ce7ba366286aa2",
+      "source": "了解！",
+      "text": "알겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04035.SBN#0010"
+        }
+      ]
+    },
+    "reason": "「了解！」: 대원들의 합창 대답은 「네」, 혼자 하는 대답은 캐릭터 말투로(사용자 지시). 마리아."
+  },
+  {
+    "unit": "dialogue:4a74e62239df8094",
+    "source": "了解∈",
+    "before": {
+      "id": "dialogue:4a74e62239df8094",
+      "source": "了解∈",
+      "text": "알았어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1153"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4a74e62239df8094",
+      "source": "了解∈",
+      "text": "알겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1153"
+        }
+      ]
+    },
+    "reason": "「了解！」: 대원들의 합창 대답은 「네」, 혼자 하는 대답은 캐릭터 말투로(사용자 지시). 존댓말 화자."
+  },
+  {
+    "unit": "dialogue:dfaaa5c85c86d1c7",
+    "source": "了解！",
+    "before": {
+      "id": "dialogue:dfaaa5c85c86d1c7",
+      "source": "了解！",
+      "text": "알았어∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1312"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dfaaa5c85c86d1c7",
+      "source": "了解！",
+      "text": "알겠습니다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1312"
+        }
+      ]
+    },
+    "reason": "「了解！」: 대원들의 합창 대답은 「네」, 혼자 하는 대답은 캐릭터 말투로(사용자 지시). 존댓말 화자."
+  },
+  {
+    "unit": "dialogue:a3608f3ef85a6d93",
+    "source": "ふっ……//言うようになったな。//お前こそ頼むぞ。",
+    "before": {
+      "id": "dialogue:a3608f3ef85a6d93",
+      "source": "ふっ……//言うようになったな。//お前こそ頼むぞ。",
+      "text": "훗…//제법 말하는구나．//너야말로 잘 부탁한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1505"
+        },
+        {
+          "id": "SLG/G03/E/EV03002.SBN#0008"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a3608f3ef85a6d93",
+      "source": "ふっ……//言うようになったな。//お前こそ頼むぞ。",
+      "text": "훗…//말 한 번 잘하는구나．//너야말로 부탁한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1505"
+        },
+        {
+          "id": "SLG/G03/E/EV03002.SBN#0008"
+        }
+      ]
+    },
+    "reason": "사용자 제안: 요네다 「言うようになったな」를 「말 한 번 잘하는구나」로. 전투 대사 용량 때문에 「잘」 생략."
+  }
+]

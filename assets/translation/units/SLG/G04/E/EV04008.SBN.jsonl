@@ -1,24 +1,24 @@
-{"id": "dialogue:0ea47803a5ced414", "source": "双武を動かすには、//すさまじい霊力が必要だな……//マリア、大丈夫か？", "text": "쌍무를 움직이려면，//엄청난 영력이 필요하겠군…//마리아，괜찮아？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0001"}]}
-{"id": "dialogue:2eee4d59f39ab957", "source": "はい、大丈夫です。//私のことは、//心配ご無用です。", "text": "네，괜찮습니다．//제 걱정은//하지 않으셔도 됩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0002"}]}
-{"id": "dialogue:cfb467b4957a6df9", "source": "隊長にくらべたら……//この程度のことは、//なんでもありません。", "text": "대장님에 비하면…//이 정도는，//아무것도 아닙니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0003"}]}
+{"id": "dialogue:0ea47803a5ced414", "source": "双武を動かすには、//すさまじい霊力が必要だな……//マリア、大丈夫か？", "text": "쌍무를 움직이려면，엄청난 영력이//필요하겠군…마리아，괜찮아？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0001"}]}
+{"id": "dialogue:2eee4d59f39ab957", "source": "はい、大丈夫です。//私のことは、//心配ご無用です。", "text": "네，괜찮습니다．//제 걱정은 하지 않으셔도 됩니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0002"}]}
+{"id": "dialogue:cfb467b4957a6df9", "source": "隊長にくらべたら……//この程度のことは、//なんでもありません。", "text": "대장님에 비하면…이 정도는，//아무것도 아닙니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0003"}]}
 {"id": "dialogue:630be5e89507f038", "source": "私はいつも、//隊長を頼っていました……", "text": "저는 언제나，//대장님을 의지해 왔습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0004"}]}
-{"id": "dialogue:5389ce144a6893cc", "source": "そして、隊長は……//黙って私の力に//なってくれていました……", "text": "그리고 대장님은…//말없이 제 힘이//되어 주셨습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0005"}]}
-{"id": "dialogue:aed9eca1fdb5136c", "source": "その広い背中を……//貸してくれていたんです……", "text": "그 넓은 등을…//내어 주셨습니다…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0006"}]}
-{"id": "dialogue:142aedc6cf2565a8", "source": "だから……今度は私が、//隊長を助けたいと……//そう思います。", "text": "그래서 이번에는 제가，//대장님을 돕고 싶다고…//생각합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0007"}]}
+{"id": "dialogue:5389ce144a6893cc", "source": "そして、隊長は……//黙って私の力に//なってくれていました……", "text": "그리고 대장님은…//말없이 제 힘이 되어 주셨습니다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0005"}]}
+{"id": "dialogue:aed9eca1fdb5136c", "source": "その広い背中を……//貸してくれていたんです……", "text": "그 넓은 등을…내어 주셨습니다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0006"}]}
+{"id": "dialogue:142aedc6cf2565a8", "source": "だから……今度は私が、//隊長を助けたいと……//そう思います。", "text": "그래서 이번에는 제가，대장님을//돕고 싶다고…생각합니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0007"}]}
 {"id": "dialogue:861066d987a2e795", "source": "頼りにしてるよ……マリア。", "text": "믿고 있어，마리아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0009"}, {"id": "SLG/G04/E/EV04008.SBN#0011"}]}
 {"id": "dialogue:df45b9fa8176649e", "source": "俺に、そんな資格はないよ。", "text": "나에게，그럴 자격은 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0010"}]}
-{"id": "dialogue:7f1dc0c430c7fdf3", "source": "それと……//こんな背中でよければ、//いつでも貸すよ。", "text": "그리고…//이런 등이라도 괜찮다면，//언제든 빌려줄게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0013"}]}
-{"id": "dialogue:d29d34b8b19e9d24", "source": "うふふ……では隊長も//つかれたときは、//おっしゃってくださいね。", "text": "우후후…그럼 대장님도//지치셨을 때는，//말씀해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0014"}]}
+{"id": "dialogue:7f1dc0c430c7fdf3", "source": "それと……//こんな背中でよければ、//いつでも貸すよ。", "text": "그리고…이런 등이라도//괜찮다면，언제든 빌려줄게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0013"}]}
+{"id": "dialogue:d29d34b8b19e9d24", "source": "うふふ……では隊長も//つかれたときは、//おっしゃってくださいね。", "text": "우후후…그럼 대장님도//지치셨을 때는，말씀해 주세요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0014"}]}
 {"id": "dialogue:cee1d53a7428e20f", "source": "私の背中でよければ、//いつでもお貸ししますからね。", "text": "제 등이 괜찮다면，//언제든 빌려 드릴 테니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0015"}]}
-{"id": "dialogue:9d3e30785bf0a1ea", "source": "ありがとう。//その時は頼むよ。", "text": "고마워．//그때는 부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0016"}]}
-{"id": "dialogue:803759b0b8cab670", "source": "俺に、そんな資格はないよ……//いつも助けられてばかりだしさ。", "text": "나에게，그럴 자격은 없어…//언제나 도움만 받고 있으니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0017"}]}
-{"id": "dialogue:b4f05e197af1f4d8", "source": "隊長……//そんなことはありませんよ。", "text": "대장님…//그런 건 아닙니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0018"}]}
-{"id": "dialogue:45d9fc0aad124995", "source": "帝国華撃団のみんなも……//巴里華撃団のみんなも……//想いはひとつです。", "text": "제국화격단 여러분도…//파리화격단 여러분도…//마음은 하나입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0019"}]}
+{"id": "dialogue:9d3e30785bf0a1ea", "source": "ありがとう。//その時は頼むよ。", "text": "고마워．그때는 부탁할게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0016"}]}
+{"id": "dialogue:803759b0b8cab670", "source": "俺に、そんな資格はないよ……//いつも助けられてばかりだしさ。", "text": "나에게，그럴 자격은 없어…언제나//도움만 받고 있으니까 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0017"}]}
+{"id": "dialogue:b4f05e197af1f4d8", "source": "隊長……//そんなことはありませんよ。", "text": "대장님…그런 건 아닙니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0018"}]}
+{"id": "dialogue:45d9fc0aad124995", "source": "帝国華撃団のみんなも……//巴里華撃団のみんなも……//想いはひとつです。", "text": "제국화격단 여러분도…파리화격단//여러분도…마음은 하나입니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0019"}]}
 {"id": "dialogue:ca5f8073cdb32b81", "source": "隊長の力になりたいと、//そう思っているんです。", "text": "대장님께 힘이 되고 싶다고//생각하고 있습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0020"}]}
-{"id": "dialogue:5ed4155cec389dc3", "source": "ああ、わかったよ、マリア。//みんなの力……//貸してもらうぞ！", "text": "아아，알았어，마리아．//모두의 힘을…//빌릴게∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0022"}]}
+{"id": "dialogue:5ed4155cec389dc3", "source": "ああ、わかったよ、マリア。//みんなの力……//貸してもらうぞ！", "text": "아아，알았어，마리아．//모두의 힘을…빌릴게∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0022"}]}
 {"id": "dialogue:3922b73353a54de5", "source": "了解です。//さあ、命令をどうぞ！", "text": "알겠습니다．//자，명령을 내려 주십시오∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0023"}]}
 {"id": "dialogue:53b02c44ab50004e", "source": "た、隊長……//こんな時に黙られると、//あの……恥ずかしいんですが……", "text": "대，대장님…//이런 상황에서 침묵하시면，//저기…좀 부끄럽습니다만…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0025"}]}
-{"id": "dialogue:9c9d080adaabbb79", "source": "ははは……ひさしぶりに、//マリアのそういう顔が//見たかったんだ。", "text": "하하하…오랜만에，//마리아의 그런 얼굴을//보고 싶었어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0026"}]}
+{"id": "dialogue:9c9d080adaabbb79", "source": "ははは……ひさしぶりに、//マリアのそういう顔が//見たかったんだ。", "text": "하하하…오랜만에，//마리아의 그런 얼굴을 보고 싶었어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0026"}]}
 {"id": "dialogue:3a2854e172d7e4ea", "source": "隊長、そんなことのために……//わざと黙ってたんですか？", "text": "대장님，그런 일 때문에…//일부러 아무 말도 안 하셨던 건가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0027"}]}
 {"id": "dialogue:05084e0c663d986d", "source": "ごめんごめん。//でも、今ので勇気が出た……//その笑顔を守ってみせるさ！", "text": "미안미안．//하지만 방금 전 일로 용기가 생겼어…//그 미소를 지켜 내고 말겠어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0028"}]}
-{"id": "dialogue:22cf56b28c1750f6", "source": "まったく……//もう、知りません！//か、勝手にしてください！", "text": "정말이지…//이제，몰라요∈//마，마음대로 하세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0029"}]}
+{"id": "dialogue:22cf56b28c1750f6", "source": "まったく……//もう、知りません！//か、勝手にしてください！", "text": "정말이지…이제，몰라요∈//마，마음대로 하세요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04008.SBN#0029"}]}

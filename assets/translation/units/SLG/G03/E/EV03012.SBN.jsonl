@@ -1,35 +1,35 @@
-{"id": "dialogue:657cd7882b421ee0", "source": "ロベリア……//帝都での戦闘は初めてだろ？//調子はどうだ？", "text": "로벨리아…//제도에서의 전투는 처음이지？//상태는 좀 어때？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0001"}]}
-{"id": "dialogue:4a1615e153e18165", "source": "なにくだらないこと//言ってんだよ……//バカだからか？", "text": "무슨 쓸데없는 소리를//하고 있는 거야…//바보라서 그런 거냐？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0002"}]}
-{"id": "dialogue:179e8ba2e52c46ed", "source": "敵は全部、アタシがいただく。//もちろん……//ボーナスもね。", "text": "적은 전부，내가 가져가겠어．//물론…//보너스도 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0003"}]}
-{"id": "dialogue:1e373d96894351e7", "source": "はあ……//それなら……", "text": "하아…//그렇다면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0004"}]}
+{"id": "dialogue:657cd7882b421ee0", "source": "ロベリア……//帝都での戦闘は初めてだろ？//調子はどうだ？", "text": "로벨리아…제도에서의 전투는//처음이지？상태는 좀 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0001"}]}
+{"id": "dialogue:4a1615e153e18165", "source": "なにくだらないこと//言ってんだよ……//バカだからか？", "text": "무슨 쓸데없는 소리를 하고//있는 거야…바보라서 그런 거냐？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0002"}]}
+{"id": "dialogue:179e8ba2e52c46ed", "source": "敵は全部、アタシがいただく。//もちろん……//ボーナスもね。", "text": "적은 전부，내가 가져가겠어．//물론…보너스도 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0003"}]}
+{"id": "dialogue:1e373d96894351e7", "source": "はあ……//それなら……", "text": "하아…그렇다면…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0004"}]}
 {"id": "dialogue:39166381540438f2", "source": "先陣はまかせたぞ。", "text": "선봉은 맡길게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0005"}, {"id": "SLG/G03/E/EV03013.SBN#0005"}]}
 {"id": "dialogue:ce5a7218627eceb4", "source": "後方支援を頼むよ。", "text": "후방 지원을 부탁해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0006"}, {"id": "SLG/G03/E/EV03013.SBN#0006"}]}
 {"id": "dialogue:d2e7521228fb7fa3", "source": "ボーナスの用意をしておくよ。", "text": "보너스를 준비해 두겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0007"}]}
-{"id": "dialogue:ab908367280e200c", "source": "先陣はまかせたぞ！//存分に稼いでくれ。", "text": "선봉은 맡길게∈//마음껏 벌어 줘．", "review": "재검수2", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0008"}]}
-{"id": "dialogue:f0c12fcf984878fb", "source": "ああ、いいぜ。//命令なんかなくても、//好きなようにやらせてもらうさ。", "text": "아아，좋아．//명령 따위 없어도，//내 마음대로 하겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0009"}]}
-{"id": "dialogue:f449e2156b280dd6", "source": "トーキョーまで来たんだ……//このアタシの名前を//忘れられないようにしてやるよ。", "text": "도쿄까지 왔으니까…//이 몸의 이름을//잊지 못하게 해 주겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0010"}]}
+{"id": "dialogue:ab908367280e200c", "source": "先陣はまかせたぞ！//存分に稼いでくれ。", "text": "선봉은 맡길게∈마음껏 벌어 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0008"}]}
+{"id": "dialogue:f0c12fcf984878fb", "source": "ああ、いいぜ。//命令なんかなくても、//好きなようにやらせてもらうさ。", "text": "아아，좋아．명령 따위 없어도，//내 마음대로 하겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0009"}]}
+{"id": "dialogue:f449e2156b280dd6", "source": "トーキョーまで来たんだ……//このアタシの名前を//忘れられないようにしてやるよ。", "text": "도쿄까지 왔으니까…이 몸의//이름을 잊지 못하게 해 주겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0010"}]}
 {"id": "dialogue:268f5adda438afb2", "source": "ロ、ロベリア……//あんまり派手にはするなよ。", "text": "로，로벨리아…//너무 요란하게 굴지는 마라．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0011"}]}
-{"id": "dialogue:906c00633d5888ca", "source": "フッ……心配するな。//アタシは影に隠れて//敵をつぶすまでだ……", "text": "훗…걱정 마．//난 그림자에 숨어//적을 쓰러뜨릴 뿐이야…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0012"}]}
-{"id": "dialogue:c17350a73ebf0363", "source": "神出鬼没が//アタシの信条だからね。//ハーッハッハッハッ∈", "text": "신출귀몰이//내 신조니까 말이야．//하핫핫핫∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0013"}]}
-{"id": "dialogue:a9c5c8a9d7700d72", "source": "……ロベリアのやつ、//本当に大丈夫かなぁ。", "text": "…로벨리아 녀석，//정말 괜찮을까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0014"}]}
-{"id": "dialogue:6393d1f440a7e0e6", "source": "後方支援を頼む。//ロベリアは、//前に出ないほうが……", "text": "후방 지원을 부탁해．//로벨리아는，//앞으로 나서지 않는 편이…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0015"}]}
-{"id": "dialogue:c9f833b5668b4dba", "source": "……ふざけるなよ。//アタシのボーナスを//横取りするつもりか？", "text": "…웃기지 마．//내 보너스를//가로챌 셈이야？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0016"}]}
-{"id": "dialogue:59c05edd7157e1dc", "source": "だいたい、このアタシが//アンタの命令を聞くとでも//思っているのか？", "text": "대체，내가//네 명령을 들을 거라고//생각하는 거냐？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0017"}]}
-{"id": "dialogue:7ae9a6f8d6e55b75", "source": "いいっ〓//そうなのか！", "text": "으앗〓//그런 건가∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0018"}]}
+{"id": "dialogue:906c00633d5888ca", "source": "フッ……心配するな。//アタシは影に隠れて//敵をつぶすまでだ……", "text": "훗…걱정 마．난 그림자에//숨어 적을 쓰러뜨릴 뿐이야…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0012"}]}
+{"id": "dialogue:c17350a73ebf0363", "source": "神出鬼没が//アタシの信条だからね。//ハーッハッハッハッ∈", "text": "신출귀몰이 내 신조니까//말이야．하핫핫핫∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0013"}]}
+{"id": "dialogue:a9c5c8a9d7700d72", "source": "……ロベリアのやつ、//本当に大丈夫かなぁ。", "text": "…로벨리아 녀석，정말 괜찮을까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0014"}]}
+{"id": "dialogue:6393d1f440a7e0e6", "source": "後方支援を頼む。//ロベリアは、//前に出ないほうが……", "text": "후방 지원을 부탁해．로벨리아는，//앞으로 나서지 않는 편이…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0015"}]}
+{"id": "dialogue:c9f833b5668b4dba", "source": "……ふざけるなよ。//アタシのボーナスを//横取りするつもりか？", "text": "…웃기지 마．//내 보너스를 가로챌 셈이야？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0016"}]}
+{"id": "dialogue:59c05edd7157e1dc", "source": "だいたい、このアタシが//アンタの命令を聞くとでも//思っているのか？", "text": "대체，내가 네 명령을//들을 거라고 생각하는 거냐？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0017"}]}
+{"id": "dialogue:7ae9a6f8d6e55b75", "source": "いいっ〓//そうなのか！", "text": "으앗〓그런 건가∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0018"}]}
 {"id": "dialogue:f3f5f394b1dda1d7", "source": "アタシはやりたいようにやる。//くだらないことばかり言うなら、//アンタにも消えてもらうよ。", "text": "난 하고 싶은 대로 할 거야．//쓸데없는 소리만 해댄다면，//너도 사라져 줘야겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0019"}]}
 {"id": "dialogue:c75a633dc7f7672f", "source": "い、いや……わかった。//じゃあ、前衛で戦ってくれ。", "text": "아，아니…알았어．//그럼，전방에서 싸워 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0020"}]}
-{"id": "dialogue:72e465f40b569756", "source": "わかればいいんだよ……//アタシに干渉するな。//いいな。", "text": "알면 됐어…//나한테 간섭하지 마．//알았지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0021"}]}
-{"id": "dialogue:66184fb12df9fc47", "source": "俺……//隊長なんだけどな……", "text": "나…//대장이긴 하지만 말이야…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0022"}]}
-{"id": "dialogue:e42e311ae33b1962", "source": "ボーナスの用意をしておくよ。//その代わり、//ちゃんと戦ってくれよ。", "text": "보너스를 준비해 두겠어．//그 대신，//제대로 싸워 줘야 해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0023"}]}
-{"id": "dialogue:46af311dd5a04c78", "source": "ほぅ……トーキョーにきて、//ものわかりが//よくなったんじゃないか。", "text": "오…도쿄에 오더니，//말귀를 좀 알아듣게//됐잖아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0024"}]}
-{"id": "dialogue:b34987f2b904517f", "source": "アンタはそうでないとね。//このアタシのサポート、//よろしく頼むよ。", "text": "너는 그래야지．//이 몸을 잘 지원해 줘．//부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0025"}]}
+{"id": "dialogue:72e465f40b569756", "source": "わかればいいんだよ……//アタシに干渉するな。//いいな。", "text": "알면 됐어…나한테//간섭하지 마．알았지？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0021"}]}
+{"id": "dialogue:66184fb12df9fc47", "source": "俺……//隊長なんだけどな……", "text": "나…대장이긴 하지만 말이야…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0022"}]}
+{"id": "dialogue:e42e311ae33b1962", "source": "ボーナスの用意をしておくよ。//その代わり、//ちゃんと戦ってくれよ。", "text": "보너스를 준비해 두겠어．//그 대신，제대로 싸워 줘야 해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0023"}]}
+{"id": "dialogue:46af311dd5a04c78", "source": "ほぅ……トーキョーにきて、//ものわかりが//よくなったんじゃないか。", "text": "오…도쿄에 오더니，//말귀를 좀 알아듣게 됐잖아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0024"}]}
+{"id": "dialogue:b34987f2b904517f", "source": "アンタはそうでないとね。//このアタシのサポート、//よろしく頼むよ。", "text": "너는 그래야지．//이 몸을 잘 지원해 줘．부탁할게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0025"}]}
 {"id": "dialogue:744359cc3ca3aef1", "source": "ああ、わかってるよ。//さぁ……稼ぎに行くか！", "text": "아아，알고 있어．//자…돈 벌러 가 볼까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0026"}]}
-{"id": "dialogue:83528b01ba747f95", "source": "了解だ！//ついてきな、隊長∈", "text": "알았어∈//따라와，대장∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0027"}]}
-{"id": "dialogue:c3273e57133476fe", "source": "……じゃ、そういうことで、//アタシはアタシなりに、//好きなようにさせてもらうぜ。", "text": "…그럼，그렇게 된 거니까，//난 나대로，//내 마음대로 하겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0029"}]}
-{"id": "dialogue:8d8b7b5dee01f29d", "source": "え〓//なにがそういうことなんだい？", "text": "뭐〓//그게 대체 무슨 소리야？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0030"}]}
-{"id": "dialogue:58ccac6600d0d61e", "source": "アンタが黙ってるあいだに、//かえでとボーナスの話を//つけたんだよ。", "text": "네가 가만히 있는 사이에，//카에데랑 보너스 이야기를//끝냈다고．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0031"}]}
-{"id": "dialogue:a7d240e367706a91", "source": "巴里の二倍……//これで手を打ったのさ。", "text": "파리의 두 배…//이걸로 타협한 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0032"}]}
-{"id": "dialogue:cb81458600f40097", "source": "かえでさん！//ほ、本当ですか〓", "text": "카에데 씨∈//저，정말인가요〓", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0033"}]}
+{"id": "dialogue:83528b01ba747f95", "source": "了解だ！//ついてきな、隊長∈", "text": "알았어∈따라와，대장∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0027"}]}
+{"id": "dialogue:c3273e57133476fe", "source": "……じゃ、そういうことで、//アタシはアタシなりに、//好きなようにさせてもらうぜ。", "text": "…그럼，그렇게 된 거니까，//난 나대로，내 마음대로 하겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0029"}]}
+{"id": "dialogue:8d8b7b5dee01f29d", "source": "え〓//なにがそういうことなんだい？", "text": "뭐〓그게 대체 무슨 소리야？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0030"}]}
+{"id": "dialogue:58ccac6600d0d61e", "source": "アンタが黙ってるあいだに、//かえでとボーナスの話を//つけたんだよ。", "text": "네가 가만히 있는 사이에，카에데랑//보너스 이야기를 끝냈다고．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0031"}]}
+{"id": "dialogue:a7d240e367706a91", "source": "巴里の二倍……//これで手を打ったのさ。", "text": "파리의 두 배…이걸로 타협한 거야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0032"}]}
+{"id": "dialogue:cb81458600f40097", "source": "かえでさん！//ほ、本当ですか〓", "text": "카에데 씨∈저，정말인가요〓", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0033"}]}
 {"id": "dialogue:e3b12c7ee428c09c", "source": "本当よ……//今は一刻を争うわ。", "text": "정말이야…//지금은 일각을 다투는 상황이라고．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0034"}]}
 {"id": "dialogue:53e5a8a6a00995a8", "source": "ロベリアに払うボーナス程度で//米田司令が助かるなら、//安いものだわ。", "text": "로벨리아에게 줄 보너스 정도로//요네다 사령관님을 구할 수 있다면，//싼값이지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0035"}]}
 {"id": "dialogue:6f75feec149aba11", "source": "ま、そういうことだ。//よろしく頼んだぜ、隊長。", "text": "뭐，그런 셈이지．//잘 부탁해，대장．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0036"}]}
