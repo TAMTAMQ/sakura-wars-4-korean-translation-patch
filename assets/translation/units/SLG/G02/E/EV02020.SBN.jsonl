@@ -2,7 +2,7 @@
 {"id": "dialogue:59fedd2b10d39346", "source": "巴里から、//帝都に帰ってきて、//しばらくたちますけど……", "text": "파리에서//제도로 돌아오신 지도//꽤 됐는데…", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0003"}]}
 {"id": "dialogue:a2f7a100a0e9fc85", "source": "そろそろ、巴里が//恋しくなったんじゃ//ありませんか？", "text": "슬슬 파리가//그리워진 건//아닌가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0004"}]}
 {"id": "dialogue:70e8245ef70bce98", "source": "巴里がなつかしいな……", "text": "파리가 그립네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0006"}]}
-{"id": "dialogue:6b1cb33ad6f78c77", "source": "帝都のほうが落ち着くよ。", "text": "제도가 더 마음이 편해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0007"}]}
+{"id": "dialogue:6b1cb33ad6f78c77", "source": "帝都のほうが落ち着くよ。", "text": "제도가 더 마음이 편해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0007"}]}
 {"id": "dialogue:6f477516f4a2f1e0", "source": "キミがいるところなら……", "text": "네가 있는 곳이라면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0008"}]}
 {"id": "dialogue:4653d033ca61762c", "source": "確かに、//巴里がなつかしいな……", "text": "확실히，//파리가 그립네…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0009"}]}
 {"id": "dialogue:b88c29a0cae46ad4", "source": "やっぱり、そうですか……//巴里のほうが、何かと//華やかですしね……", "text": "역시，그렇군요…//파리 쪽이，여러모로//화려하니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02020.SBN#0010"}]}

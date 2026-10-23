@@ -1,0 +1,56 @@
+[
+  {
+    "unit": "dialogue:9c729b6e838fa62e",
+    "source": "環境設定　　　　　　　　　　　　　　",
+    "before": {
+      "id": "dialogue:9c729b6e838fa62e",
+      "source": "環境設定　　　　　　　　　　　　　　",
+      "text": "환경설정",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0136"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9c729b6e838fa62e",
+      "source": "環境設定　　　　　　　　　　　　　　",
+      "text": "환경설정　　　　　　　　　　　　　　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0136"
+        }
+      ]
+    },
+    "reason": "옵션 화면 3단 탭: 세 문자열을 같은 18칸으로 가운데 정렬해 겹쳐 그린다. 원본 칸 수로 복원."
+  },
+  {
+    "unit": "dialogue:f647153098f2ec66",
+    "source": "　　　　　こだわり設定　　　　　　　",
+    "before": {
+      "id": "dialogue:f647153098f2ec66",
+      "source": "　　　　　こだわり設定　　　　　　　",
+      "text": "　　　　　세부 설정　　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0137"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f647153098f2ec66",
+      "source": "　　　　　こだわり設定　　　　　　　",
+      "text": "　　　　　세부 설정　　　　　　　　　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0137"
+        }
+      ]
+    },
+    "reason": "옵션 화면 3단 탭: 세 문자열을 같은 18칸으로 가운데 정렬해 겹쳐 그린다. 원본 칸 수로 복원."
+  }
+]

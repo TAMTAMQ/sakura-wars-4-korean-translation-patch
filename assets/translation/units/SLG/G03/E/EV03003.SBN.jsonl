@@ -16,9 +16,9 @@
 {"id": "dialogue:46b01f5a0fa433de", "source": "だけどな……お前たちのことは、//命に代えても、//守ってやらなきゃならねぇ。", "text": "하지만 말이야…너희들을，//목숨을 바쳐서라도，//지켜 내야만 해．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0031"}]}
 {"id": "dialogue:28a09b7a56931f46", "source": "俺にとっちゃ……//お前たちは、//息子みたいなもんだからな。", "text": "나한테는…//너희가，//아들 같은 존재니까 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0032"}, {"id": "SLG/G03/E/EV03003.SBN#0034"}]}
 {"id": "dialogue:7e16d08ed19eedad", "source": "米田司令、忘れたんですの？//生きて帰ってこいって、//おっしゃってるではないですか！", "text": "요네다 사령관님，잊으신 건가요？//살아서 돌아오라고，//말씀하시지 않았습니까∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0035"}]}
-{"id": "dialogue:1e4ef241d0d8c9be", "source": "子どもはそんなこと望みません∈", "text": "아이들은 그런 걸 바라지 않아요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0041"}]}
+{"id": "dialogue:1e4ef241d0d8c9be", "source": "子どもはそんなこと望みません∈", "text": "아이들은 그런 걸 안 바라요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0041"}]}
 {"id": "dialogue:42d189cfd2c89904", "source": "司令……死ぬ気ですか？", "text": "사령관님…죽을 생각인가요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0042"}, {"id": "SLG/G03/E/EV03003.SBN#0050"}]}
-{"id": "dialogue:429142ebcbbcd522", "source": "……ミカサを頼みます。", "text": "…미카사를 부탁합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0043"}]}
+{"id": "dialogue:429142ebcbbcd522", "source": "……ミカサを頼みます。", "text": "…미카사를 부탁합니다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0043"}]}
 {"id": "dialogue:7b3cd4d4d5be6054", "source": "子どもはそんなこと望みません∈//自分のために……//親が犠牲になるなんて！", "text": "아이들은 그런 걸 바라지 않아요∈//자신을 위해서…//부모님이 희생되다니∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0044"}]}
 {"id": "dialogue:4f93d11db9e302ae", "source": "支配人は……あたしたちのことを//娘のようだと言ってくれたじゃ//ないですか！", "text": "지배인님은…저희를//딸 같다고 하셨잖아요∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0052"}]}
 {"id": "dialogue:065b4a464132f602", "source": "……ミカサを頼みます。//俺たちは……必ず、//帝劇を守ってみせますから。", "text": "…미카사를 부탁합니다．//저희는…반드시，//제국극장을 지켜 내겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03003.SBN#0056"}]}

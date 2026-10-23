@@ -8,23 +8,23 @@
 {"id": "dialogue:e88bd21f6f12f3d0", "source": "オプション画面呼び出し失敗", "text": "옵션 화면 호출 실패", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0007"}]}
 {"id": "dialogue:84a41aa631466fee", "source": "アイテム表示は１個まで", "text": "아이템 표시는 １개까지", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0008"}]}
 {"id": "dialogue:a1161b452ad94100", "source": "現在位置から再開", "text": "현재 위치에서 재개", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0009"}]}
-{"id": "dialogue:1821baffd12b85b0", "source": "第１幕導入(1)", "text": "제１막 도입（１）", "review": "번역 검수", "occurrences": [{"id": "1ST_READ.BIN#0010"}]}
+{"id": "dialogue:1821baffd12b85b0", "source": "第１幕導入(1)", "text": "제１막 도입(1)", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0010"}]}
 {"id": "dialogue:cfbe3e5efd7dc1fd", "source": "第１幕前半", "text": "제１막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0011"}]}
 {"id": "dialogue:d2d8e354c4374b89", "source": "第１幕後半", "text": "제１막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0012"}]}
-{"id": "dialogue:f9e26397e9359df1", "source": "第１幕戦闘(2)", "text": "제１막 전투（２）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0013"}]}
+{"id": "dialogue:f9e26397e9359df1", "source": "第１幕戦闘(2)", "text": "제１막 전투(2)", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0013"}]}
 {"id": "dialogue:64980a1386d2861e", "source": "第１幕戦闘後", "text": "제１막 전투 후", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0014"}]}
 {"id": "dialogue:ae4f4d415fc98d9c", "source": "第２幕前半", "text": "제２막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0015"}]}
 {"id": "dialogue:606aafd1d669d518", "source": "第２幕中盤", "text": "제２막 중반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0016"}]}
-{"id": "dialogue:419b03ea93983aac", "source": "第２幕戦闘(3)", "text": "제２막 전투（３）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0017"}]}
+{"id": "dialogue:419b03ea93983aac", "source": "第２幕戦闘(3)", "text": "제２막 전투(3)", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0017"}]}
 {"id": "dialogue:049b1145ab321158", "source": "第２幕戦闘後", "text": "제２막 전투 후", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0018"}]}
 {"id": "dialogue:18f929335f0524d4", "source": "第２幕後半", "text": "제２막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0019"}]}
 {"id": "dialogue:98eb4febf144bc1e", "source": "第３幕前半", "text": "제３막 전반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0020"}]}
 {"id": "dialogue:40d00b0302706f16", "source": "第３幕中盤", "text": "제３막 중반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0021"}]}
-{"id": "dialogue:224459fc0c3a0be5", "source": "第３幕戦闘1(4)", "text": "제３막 전투 １（４）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0022"}]}
+{"id": "dialogue:224459fc0c3a0be5", "source": "第３幕戦闘1(4)", "text": "제３막 전투1(4)", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0022"}]}
 {"id": "dialogue:ba847fd36a398484", "source": "第３幕戦闘中", "text": "제３막 전투 중", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0023"}]}
-{"id": "dialogue:f51106e8d7c9c71d", "source": "第３幕戦闘2(5)", "text": "제３막 전투 ２（５）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0024"}]}
+{"id": "dialogue:f51106e8d7c9c71d", "source": "第３幕戦闘2(5)", "text": "제３막 전투2(5)", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0024"}]}
 {"id": "dialogue:1b30ae9c11d2d082", "source": "第３幕後半", "text": "제３막 후반", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0025"}]}
-{"id": "dialogue:02de24601572c223", "source": "最終幕〜Ending", "text": "최종막～Ｅｎｄｉｎｇ", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0026"}]}
+{"id": "dialogue:02de24601572c223", "source": "最終幕〜Ending", "text": "최종막～Ending", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0026"}]}
 {"id": "dialogue:b9205fad7ad8225d", "source": "おまけモード", "text": "보너스 모드", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0027"}]}
 {"id": "dialogue:086317e22e9add20", "source": "ADVチェッカ", "text": "ＡＤＶ체커", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0028"}]}
 {"id": "dialogue:2066d6bf9b2a08cb", "source": "シーケンス", "text": "시퀀스", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0029"}]}
@@ -57,7 +57,7 @@
 {"id": "dialogue:974725a6d9cb410c", "source": "このデータを、選択元の//サクラ大戦４の//システムファイルに//合体させますか？", "text": "이 데이터를 선택한//사쿠라대전４의//시스템 파일에//합칠까요？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0056"}]}
 {"id": "dialogue:196f8dc48605d542", "source": "システムファイルを//合体しています。//電源を切ったり、//メモリーカードの抜きさしを//しないでください。", "text": "시스템 파일을//합치는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0057"}]}
 {"id": "dialogue:a3d6121d300e1eea", "source": "サクラ大戦４との//データの合体に失敗しました。", "text": "사쿠라대전４와//데이터 합체에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0058"}]}
-{"id": "dialogue:0a7492e698edeb44", "source": "データの合体は//正常に終了しました。", "text": "데이터 합체가//정상적으로 완료되었습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0059"}]}
+{"id": "dialogue:0a7492e698edeb44", "source": "データの合体は//正常に終了しました。", "text": "데이터 합체가//정상적으로 끝났습니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0059"}]}
 {"id": "dialogue:4654ea73d8bdd6e3", "source": "このゲームファイルを//削除してよろしいですか？//", "text": "이 게임 파일을//삭제하시겠습니까？//", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0060"}]}
 {"id": "dialogue:806182624d9ebdb2", "source": "ゲームファイルを//削除しています。//電源を切ったり、//メモリーカードを抜きさし//しないでください。", "text": "게임 파일을//삭제하는 중입니다．//전원을 끄거나//메모리 카드를//빼지 마십시오．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0061"}]}
 {"id": "dialogue:147b7dba40b8ec19", "source": "ゲームファイルの//削除に失敗しました。", "text": "게임 파일//삭제에 실패했습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0062"}]}
@@ -85,7 +85,7 @@
 {"id": "dialogue:741aee3f7a360420", "source": "このメモリーカードには、//別のシステムファイルが//すでに存在しています。//上書きしてもよろしいですか？", "text": "이 메모리 카드에는//다른 시스템 파일이//이미 있습니다．//덮어쓰시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0084"}]}
 {"id": "dialogue:e8bd70f77288a958", "source": "このゲームファイルに//保存してよろしいですか？", "text": "이 게임 파일에//저장하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0085"}]}
 {"id": "dialogue:329b1766d4f9fa12", "source": "このゲームファイルに//上書き保存して//よろしいですか？", "text": "이 게임 파일에//덮어써서 저장//하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0086"}]}
-{"id": "dialogue:029034e1a9a955c7", "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）", "text": "전투를 중단하고//게임 진행 상황을 저장하시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0087"}]}
+{"id": "dialogue:029034e1a9a955c7", "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）", "text": "전투를 중단하고//게임 진행 상황을 저장하겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0087"}]}
 {"id": "dialogue:469011472f96dc36", "source": "この戦闘中断ファイルに//上書きしてよろしいですか？//（中断すると//　タイトル画面に戻ります）", "text": "이 전투 중단 파일에//덮어쓰시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0088"}]}
 {"id": "dialogue:1ea7d54f29527dba", "source": "新たにシステムファイルを//読み込みます。//メモリーカードを//選択してください。", "text": "새 시스템 파일을//불러옵니다．//메모리 카드를//선택해 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0089"}]}
 {"id": "dialogue:018077954640b783", "source": "この戦闘中断ファイルを、//削除してよろしいですか？", "text": "이 전투 중단 파일을//삭제하시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0090"}]}
@@ -134,24 +134,30 @@
 {"id": "dialogue:8f90d85ec13a0b1b", "source": "は　い　　　　", "text": "　예　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0133"}]}
 {"id": "dialogue:38630d5c12e17000", "source": "　　　／　　　", "text": "　　　／　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0134"}]}
 {"id": "dialogue:48ef2b674823d03d", "source": "　　　　いいえ", "text": "　　　　아니오", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0135"}]}
-{"id": "dialogue:288fa91473cba572", "source": "環境設定　　　　　　　　　　　　　　", "text": "환경설정", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0136"}, {"id": "1ST_READ.BIN#0139"}, {"id": "1ST_READ.BIN#0142"}]}
-{"id": "dialogue:bbe993452c710c98", "source": "　　　　　こだわり設定　　　　　　　", "text": "　　　　　세부 설정　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0137"}, {"id": "1ST_READ.BIN#0140"}]}
-{"id": "dialogue:8938dbc82ed0f322", "source": "　　　　　　　　　　　　システム選択", "text": "　　　　　시스템 선택　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0138"}, {"id": "1ST_READ.BIN#0141"}]}
+{"id": "dialogue:288fa91473cba572", "source": "環境設定　　　　　　　　　　　　　　", "text": "환경설정", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0142"}]}
+{"id": "dialogue:9c729b6e838fa62e", "source": "環境設定　　　　　　　　　　　　　　", "text": "환경설정　　　　　　　　　　　　　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0136"}]}
+{"id": "dialogue:d402a6c1e25dfec1", "source": "環境設定　　　　　　　", "text": "환경설정　　　　　　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0139"}]}
+{"id": "dialogue:bbe993452c710c98", "source": "　　　　　こだわり設定　　　　　　　", "text": "　　　　　세부 설정　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0140"}]}
+{"id": "dialogue:f647153098f2ec66", "source": "　　　　　こだわり設定　　　　　　　", "text": "　　　　　세부 설정　　　　　　　　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0137"}]}
+{"id": "dialogue:8938dbc82ed0f322", "source": "　　　　　　　　　　　　システム選択", "text": "　　　　　시스템 선택　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0141"}]}
+{"id": "dialogue:3699fade40be0a00", "source": "　　　　　　　　　　　　システム選択", "text": "　　　　　　　　　　　　시스템 선택　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0138"}]}
 {"id": "dialogue:7b69808520a195ca", "source": "カーソル速度", "text": "커서 속도", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0143"}]}
 {"id": "dialogue:be46f415d9de9d38", "source": "「　　／　　／　　」", "text": "「　　／　　／　　」", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0144"}]}
 {"id": "dialogue:ea81ed0bd98557fd", "source": "　遅い　　　　　　　", "text": "　느림　　　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0145"}]}
 {"id": "dialogue:de907d10df98b498", "source": "　　　　普通　　　　", "text": "　　　　보통　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0146"}]}
 {"id": "dialogue:d84aa5fe4b1a2dec", "source": "　　　　　　　速い　", "text": "　　　　　　　빠름　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0147"}]}
 {"id": "dialogue:1fec10d7b07a66bf", "source": "サウンド", "text": "사운드", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0148"}]}
-{"id": "dialogue:9bbfab566934e49c", "source": "「　　　　／　　　　」", "text": "「　　／　　」", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0149"}, {"id": "1ST_READ.BIN#0153"}, {"id": "1ST_READ.BIN#0157"}]}
+{"id": "dialogue:9bbfab566934e49c", "source": "「　　　　／　　　　」", "text": "「　　　　／　　　　」", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0149"}]}
+{"id": "dialogue:bc412f7e1aa1f8c1", "source": "「　　／　　　」", "text": "「　　／　　　」", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0153"}]}
+{"id": "dialogue:151ac42773edd49d", "source": "「　　／　　」", "text": "「　　／　　」", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0157"}]}
 {"id": "dialogue:57e73cd094b85242", "source": "　ステレオ　　　　　　", "text": "　스테레오　　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0150"}]}
 {"id": "dialogue:2e443db623ad8253", "source": "　　　　　　モノラル　", "text": "　　　　　　모노　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0151"}]}
 {"id": "dialogue:9665bddc1a00132f", "source": "ＶＭ呼び出し音", "text": "ＶＭ호출음", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0152"}]}
 {"id": "dialogue:69b80525c5a9382f", "source": "　　　　ＯＦＦ　", "text": "　　　　ＯＦＦ　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0154"}]}
 {"id": "dialogue:3e01fc596e817316", "source": "　ＯＮ　　　　　", "text": "　ＯＮ　　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0155"}]}
 {"id": "dialogue:79d54a871b9f796e", "source": "ぷるぷるぱっく", "text": "진동팩", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0156"}]}
-{"id": "dialogue:383bbb5e8490445a", "source": "　　　　無効　", "text": "　　　　비활성", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0158"}]}
-{"id": "dialogue:3ac909bffc994b06", "source": "　有効　　　　", "text": "　활성　　　　", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0159"}]}
+{"id": "dialogue:383bbb5e8490445a", "source": "　　　　無効　", "text": "　　　　끄기　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0158"}]}
+{"id": "dialogue:3ac909bffc994b06", "source": "　有効　　　　", "text": "　켜기　　　　", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "1ST_READ.BIN#0159"}]}
 {"id": "dialogue:587387139b3dadae", "source": "信頼度ＳＥ", "text": "신뢰도", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0160"}]}
 {"id": "dialogue:69c3bdcd828df526", "source": "改ページＳＥ", "text": "페이지 넘김", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0161"}]}
 {"id": "dialogue:0dd0ab931d24ceb9", "source": "メッセージ表示", "text": "메시지 표시", "review": "교차 검토 필요", "occurrences": [{"id": "1ST_READ.BIN#0162"}]}

@@ -2,9 +2,9 @@
 {"id": "dialogue:59391c185648860f", "source": "そうですわね。//帝都の事件もひと段落//ついたことですしね。", "text": "그렇군요．//제도의 사건도 일단락//되었으니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0110"}]}
 {"id": "dialogue:6a3c22d0fc7a15be", "source": "こっちで、ケーキを焼くのを//手伝ってくださーい∈//人手が足りないでーす！", "text": "여기서 케이크 굽는 걸//도와 주세요～∈//일손이 부족해요～∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0119"}]}
 {"id": "dialogue:9d6165f483567948", "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。", "text": "콜록콜록…오리히메 씨가//무리만 해 쌓으니까…//제대로 안 구워진다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0120"}]}
-{"id": "dialogue:7c3d6c94a3825479", "source": "ロベリアも手伝ったらどうだい？", "text": "로벨리아도 도와주는 게 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0125"}]}
-{"id": "dialogue:f8457404eba4d4d2", "source": "楽しそうでいいじゃないか。", "text": "즐거워 보여서 좋잖아．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0126"}]}
-{"id": "dialogue:de6961616c628f8c", "source": "じゃ、二人で酒でも飲んでるか？", "text": "그럼，둘이서 술이라도 마실까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0127"}]}
+{"id": "dialogue:7c3d6c94a3825479", "source": "ロベリアも手伝ったらどうだい？", "text": "로벨리아도 돕는 게 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0125"}]}
+{"id": "dialogue:f8457404eba4d4d2", "source": "楽しそうでいいじゃないか。", "text": "즐거워 보여서 좋잖아", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0126"}]}
+{"id": "dialogue:de6961616c628f8c", "source": "じゃ、二人で酒でも飲んでるか？", "text": "그럼 둘이서 술이나 마실까？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0127"}]}
 {"id": "dialogue:6b8e77ba1a4c6252", "source": "ロベリアも手伝ったらどうだい？//歓迎される側とか、//関係ないじゃないか。", "text": "로벨리아도 좀 도와 주는 게 어때？//환영받는 쪽이어도//상관없잖아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0128"}]}
 {"id": "dialogue:355c01895bf85bb9", "source": "楽しそうでいいじゃないか。//パーティっていうのは、//準備している時も楽しいからね。", "text": "즐거워 보여서 좋잖아．//파티라는 건//준비할 때도 즐거운 법이니까．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0131"}]}
 {"id": "dialogue:33f6138a21df5588", "source": "じゃ、二人で酒でも飲んでるか？//ロベリアの言うことも、//もっともだしさ。", "text": "그럼，둘이서 술이라도 마실까？//로벨리아가 하는 말도，//일리가 있으니까．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0133"}]}
@@ -14,9 +14,9 @@
 {"id": "dialogue:5337feb20a3bb1ba", "source": "あ〓　米田支配人！//すみません、//騒がしかったですか？", "text": "아，요네다 지배인님∈//죄송합니다，//소란스러웠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0148"}]}
 {"id": "dialogue:479a23e44423c4f9", "source": "かまやしねぇよ。//俺も騒がしいのは//好きだからよ。", "text": "상관없어．//나도 시끌벅적한 건//좋아하니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0149"}]}
 {"id": "dialogue:4756ff59472fee3e", "source": "あ、いえ……", "text": "아，아뇨…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0152"}]}
-{"id": "dialogue:9735fc68ff53885b", "source": "みんなのおかげです。", "text": "모두 덕분입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0153"}]}
-{"id": "dialogue:1f6447d2666217a1", "source": "いやぁ……照れますねぇ。", "text": "이야아…쑥스럽네요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0154"}]}
-{"id": "dialogue:8a6b52d2baae7128", "source": "ただ必死にやっただけです。", "text": "그저 죽을힘을 다했을 뿐입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0155"}]}
+{"id": "dialogue:9735fc68ff53885b", "source": "みんなのおかげです。", "text": "모두 덕분입니다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0153"}]}
+{"id": "dialogue:1f6447d2666217a1", "source": "いやぁ……照れますねぇ。", "text": "이야아…쑥스럽네요", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0154"}]}
+{"id": "dialogue:8a6b52d2baae7128", "source": "ただ必死にやっただけです。", "text": "그저 필사적이었을 뿐입니다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0155"}]}
 {"id": "dialogue:66fd866a30c80e98", "source": "みんなのおかげです。//帝国華撃団と巴里華撃団……//みんながいたからですよ。", "text": "모두 덕분입니다．//제국화격단과 파리화격단…//모두가 있었기 때문입니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0157"}]}
 {"id": "dialogue:af349292ec261e57", "source": "みんなわかってるさ。//お前がいないと、//華撃団じゃないってことはな。", "text": "모두 알고 있어．//네가 없으면，//화격단이 아니라는 사실을 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0159"}]}
 {"id": "dialogue:74e3f358f4c562bc", "source": "いやぁ……照れますねぇ。//米田支配人が、俺のことを//ほめてくれるなんて。", "text": "이야아…쑥스럽네요．//요네다 지배인님께서 저를//칭찬해 주시다니．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0160"}]}
@@ -48,7 +48,7 @@
 {"id": "dialogue:db75b6d2b7afcdc6", "source": "これが迫水大使の言われていた//「銀座文書」か……//ありがとう、加山。", "text": "이것이 사코미즈 대사께서 말씀하신//「긴자 문서」인가…//고맙다，카야마．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0224"}]}
 {"id": "dialogue:bab0ed4c79bcc2ed", "source": "い……いいってことさ。//それじゃあ、//俺は用事かあるから……", "text": "괘，괜찮아．//그럼，//난 볼일이 있어서…", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0226"}]}
 {"id": "dialogue:52927a7ecef211f0", "source": "加山……", "text": "카야마…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0228"}, {"id": "ADVDATA/SCRIPT/S0240.SBX#0246"}, {"id": "ADVDATA/SCRIPT/S0240.SBX#0258"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0749"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1949"}]}
-{"id": "dialogue:5dd0a372d86b91ad", "source": "俺になにか隠してないか？", "text": "나한테 뭐 숨기고 있는 거 아냐？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0230"}]}
+{"id": "dialogue:5dd0a372d86b91ad", "source": "俺になにか隠してないか？", "text": "나한테 뭐 숨기는 거 아냐？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0230"}]}
 {"id": "dialogue:132e08837f5b8b6c", "source": "本当にパーティに出ないのか？", "text": "정말 파티에 안 나와？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0231"}]}
 {"id": "dialogue:6c9ec6d131b05311", "source": "……わかった。//加山、お前もしっかりと頼むぞ。", "text": "…알았어．//카야마，너도 잘 부탁한다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0233"}]}
 {"id": "dialogue:1e7607bd6ff0ec8e", "source": "じゃあな……大神。//パーティを楽しめよ。", "text": "그럼 간다…오오가미．//파티 즐겨．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0236"}]}

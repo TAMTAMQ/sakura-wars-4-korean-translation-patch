@@ -24,7 +24,7 @@
 {"id": "dialogue:1bf97ef8cdcd5770", "source": "その魔操機兵は//銀座の四隅に設置された//「結界」から力を得ているの！", "text": "그 마조기병은//긴자의 네 귀퉁이에 설치된//「결계」에서 힘을 얻고 있어∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0048"}]}
 {"id": "dialogue:bfd81c6c8bcdb963", "source": "結界の力によって、//通常の五倍もの戦闘力を//引き出しているようね！", "text": "결계의 힘으로，//통상의 다섯 배에 달하는 전투력을//끌어내고 있는 모양이네∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0049"}]}
 {"id": "dialogue:dbfd15e1fafa14fd", "source": "なるほど……//と、いうことは……", "text": "과연…//그렇다는 것은…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0050"}]}
-{"id": "dialogue:0ec26662f29ca283", "source": "蒸鬼を倒せばいいんだな！", "text": "증귀를 쓰러뜨리면 되는 거지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0051"}]}
+{"id": "dialogue:0ec26662f29ca283", "source": "蒸鬼を倒せばいいんだな！", "text": "증귀를 쓰러뜨리면 되지∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0051"}]}
 {"id": "dialogue:458afccf27fde679", "source": "結界を壊せばいいんだな！", "text": "결계를 부수면 되는 거지∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0052"}]}
 {"id": "dialogue:e2f142758466400b", "source": "米田司令の手助けをすれば！", "text": "요네다 사령관님을 도우면∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0053"}]}
 {"id": "dialogue:564c67d2cfa75ee3", "source": "そうか……！//全ての魔操機兵を倒せば、//ヤツの力が弱まるんだな！", "text": "그렇군…∈//모든 마조기병을 쓰러뜨리면，//녀석의 힘이 약해지는 거구나∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03001.SBN#0054"}]}

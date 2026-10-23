@@ -1,0 +1,56 @@
+[
+  {
+    "unit": "dialogue:d402a6c1e25dfec1",
+    "source": "環境設定　　　　　　　",
+    "before": {
+      "id": "dialogue:d402a6c1e25dfec1",
+      "source": "環境設定　　　　　　　",
+      "text": "환경설정",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0139"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d402a6c1e25dfec1",
+      "source": "環境設定　　　　　　　",
+      "text": "환경설정　　　　　　　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0139"
+        }
+      ]
+    },
+    "reason": "옵션 화면 상단 탭: 두 문자열을 같은 칸 수로 가운데 정렬해 겹쳐 그린다. v0.5가 「환경설정」 뒤 공백을 지워 「시스템 선택」과 겹쳤다. 원본 칸 수로 복원."
+  },
+  {
+    "unit": "dialogue:3699fade40be0a00",
+    "source": "　　　　　　　　　　　　システム選択",
+    "before": {
+      "id": "dialogue:3699fade40be0a00",
+      "source": "　　　　　　　　　　　　システム選択",
+      "text": "　　　　　시스템 선택　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0138"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3699fade40be0a00",
+      "source": "　　　　　　　　　　　　システム選択",
+      "text": "　　　　　　　　　　　　시스템 선택　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0138"
+        }
+      ]
+    },
+    "reason": "옵션 화면 상단 탭: 두 문자열을 같은 칸 수로 가운데 정렬해 겹쳐 그린다. v0.5가 「환경설정」 뒤 공백을 지워 「시스템 선택」과 겹쳤다. 원본 칸 수로 복원."
+  }
+]

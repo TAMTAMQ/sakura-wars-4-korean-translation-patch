@@ -2,9 +2,9 @@
 {"id": "dialogue:4a1615e153e18165", "source": "なにくだらないこと//言ってんだよ……//バカだからか？", "text": "무슨 쓸데없는 소리를//하고 있는 거야…//바보라서 그런 거냐？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0002"}]}
 {"id": "dialogue:179e8ba2e52c46ed", "source": "敵は全部、アタシがいただく。//もちろん……//ボーナスもね。", "text": "적은 전부，내가 가져가겠어．//물론…//보너스도 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0003"}]}
 {"id": "dialogue:1e373d96894351e7", "source": "はあ……//それなら……", "text": "하아…//그렇다면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0004"}]}
-{"id": "dialogue:39166381540438f2", "source": "先陣はまかせたぞ。", "text": "선봉은 맡길게．", "review": "재검수2", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0005"}, {"id": "SLG/G03/E/EV03013.SBN#0005"}]}
-{"id": "dialogue:ce5a7218627eceb4", "source": "後方支援を頼むよ。", "text": "후방 지원을 부탁해．", "review": "번역 검수", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0006"}, {"id": "SLG/G03/E/EV03013.SBN#0006"}]}
-{"id": "dialogue:d2e7521228fb7fa3", "source": "ボーナスの用意をしておくよ。", "text": "보너스를 준비해 두겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0007"}]}
+{"id": "dialogue:39166381540438f2", "source": "先陣はまかせたぞ。", "text": "선봉은 맡길게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0005"}, {"id": "SLG/G03/E/EV03013.SBN#0005"}]}
+{"id": "dialogue:ce5a7218627eceb4", "source": "後方支援を頼むよ。", "text": "후방 지원을 부탁해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0006"}, {"id": "SLG/G03/E/EV03013.SBN#0006"}]}
+{"id": "dialogue:d2e7521228fb7fa3", "source": "ボーナスの用意をしておくよ。", "text": "보너스를 준비해 두겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0007"}]}
 {"id": "dialogue:ab908367280e200c", "source": "先陣はまかせたぞ！//存分に稼いでくれ。", "text": "선봉은 맡길게∈//마음껏 벌어 줘．", "review": "재검수2", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0008"}]}
 {"id": "dialogue:f0c12fcf984878fb", "source": "ああ、いいぜ。//命令なんかなくても、//好きなようにやらせてもらうさ。", "text": "아아，좋아．//명령 따위 없어도，//내 마음대로 하겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0009"}]}
 {"id": "dialogue:f449e2156b280dd6", "source": "トーキョーまで来たんだ……//このアタシの名前を//忘れられないようにしてやるよ。", "text": "도쿄까지 왔으니까…//이 몸의 이름을//잊지 못하게 해 주겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03012.SBN#0010"}]}

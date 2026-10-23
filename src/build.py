@@ -109,6 +109,7 @@ def build(root=ROOT,output=None,lip_align=False):
         writes.setdefault(rel,[]).append((pos,pos+len(expected),owner))
         result[rel][pos:pos+len(expected)]=new
     disc_lip={rel:safe(root/'originals/disc',rel).read_bytes() for rel in lip_offb} if lip_align else {}
+    disc_text={}
     for key,row in rows.items():
         rel=row['file']; raw=bytes.fromhex(row['raw_hex'])
         if rel in disc_lip:
@@ -131,6 +132,13 @@ def build(root=ROOT,output=None,lip_align=False):
             # 원본은 off_b가 마지막 4글자를 가리킨다. off_b에서 대사가 끝나면 off_b가 NUL을 가리키므로
             # off_b 뒤에도 최대 4칸(용량 안)을 채운다.
             if need: need=min(row['capacity'],need+8)
+            # 빈 타일도 대사창 한 칸을 차지한다. 마지막 줄이 원문의 가장 긴 줄보다 길어지면
+            # 자동 줄바꿈으로 4번째 줄이 생기므로 그 폭까지만 채운다.
+            orig=disc_text.setdefault(rel,safe(root/'originals/disc',rel).read_bytes())
+            width=max(sjis_glyphs(x) for x in orig[start:orig.index(b'\0',start)].split(b'//'))
+            last=row['text'].split('//')[-1]
+            room=width-(len(last)-sum(1 for i,ch in enumerate(last) if ch==' ' and i and last[i-1] in codes))
+            need=min(need,len(encoded)+len(pad)*max(0,room))
             if (need-len(encoded))%len(pad) and need>len(encoded): need-=1
             while len(encoded)<need: encoded+=pad
         write(rel,row['offset'],raw+b'\0',encoded+b'\0'*(len(raw)+1-len(encoded)),key)

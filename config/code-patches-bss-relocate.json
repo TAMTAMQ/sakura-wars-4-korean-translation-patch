@@ -1,0 +1,124 @@
+{
+ "patches": [
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2037948,
+   "original_hex": "6410238c",
+   "new_hex": "8d35228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0010 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2038032,
+   "original_hex": "7510238c",
+   "new_hex": "b135228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0013 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2038144,
+   "original_hex": "8610238c",
+   "new_hex": "e235228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0017 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2038284,
+   "original_hex": "9710238c",
+   "new_hex": "1e36228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0022 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2038340,
+   "original_hex": "aa10238c",
+   "new_hex": "3a36228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0024 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2038396,
+   "original_hex": "bd10238c",
+   "new_hex": "5436228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0026 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2194268,
+   "original_hex": "a811238c",
+   "new_hex": "2888228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0059 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2194492,
+   "original_hex": "f910238c",
+   "new_hex": "ba8f228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0087 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204104,
+   "original_hex": "5211238c",
+   "new_hex": "18a7228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0158 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204200,
+   "original_hex": "6311238c",
+   "new_hex": "41a7228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0161 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204376,
+   "original_hex": "7211238c",
+   "new_hex": "aaa7228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0168 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204408,
+   "original_hex": "7f11238c",
+   "new_hex": "bea7228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0170 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204488,
+   "original_hex": "9011238c",
+   "new_hex": "f5a7228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0175 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2204584,
+   "original_hex": "9d11238c",
+   "new_hex": "3ba8228c",
+   "kind": "pointer",
+   "note": "BSS로 옮겨진 1ST_READ.BIN#0181 포인터를 원본 문자열 자리로 복원"
+  },
+  {
+   "file": "1ST_READ.BIN",
+   "offset": 2232420,
+   "original_hex": "f0df8250f356f0f4f14981698250816a00f0df8250fb56f1f7f2d681698251816a00f0df8251fb56f1f7f2d681698252816a00f0df8252fb56f1f7fad6825081698253816a00f0df8252fb56f1f7fad6825181698254816a00f26ef2d0f35681608264828e82848289828e828700f18df0b2f8ddf0d7f2a42f2ff18ef26af0ecf0a2f8a3f36ef56ef243f1f3f0cef0b8f0cf814400f1f7f2d6f8e7f140f165f0a5f1842f2ff0f1fb81f151f9a7f26af352f8c8f253f0e4f0a5f0bcf29ef0cef0b8f26181482f2f8169f140f165f0a5f1c72f2ff183f0b2fb87f163f1c7f0a2f8a3f0d0f0aff1def0b8f0cf816a008140814081408140f0c0f2d7f192000000f5cdf0b2f8a4f2a1f49c0000000000f0b5f0b5f144f0ab0000000000f0aaf0abf0ac0000000000000000000000f0b5f0aef0b6f0b70000000000f0a5f0b1f0c00000000000f18df0b2f8ddf0d7f2a4f1442f2ff18ef26af0ecf0a2f8a3f36ef56ef243f1f3f0cef0b8f0cf814400",
+   "new_hex": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   "kind": "data",
+   "note": "v0.5가 원본 파일 끝(BSS 시작) 뒤에 덧붙인 문자열 영역을 0으로 비움"
+  }
+ ]
+}

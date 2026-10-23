@@ -9,9 +9,9 @@
 {"id": "dialogue:e750c3916482504c", "source": "法だけを信じて、厳格に生きる//ジャベールの生き方の対立。//これを一本の柱として……", "text": "법만을 믿고 엄격하게 살아가는//자베르의 삶．//두 사람의 대립을 하나의 축으로…", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0120"}]}
 {"id": "dialogue:219cf230ee2cbf52", "source": "もう一本は……そうね、//あの子たちが一番//興味を引かれたものにするのは？", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0121"}], "parts": [{"ref": "dialogue:f1bcbf5733ad1fb0"}]}
 {"id": "dialogue:8624b5733f9b930f", "source": "……そうですね。", "text": "…그렇군요．", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0122"}]}
-{"id": "dialogue:b0cc9c1af212aeb8", "source": "コゼットの結婚の話ですか？", "text": "코제트의 결혼 얘기인가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0123"}]}
-{"id": "dialogue:2abbcd019e1ce1b5", "source": "テナルディエの強欲の話ですか？", "text": "테나르디에의 탐욕 얘기인가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0124"}]}
-{"id": "dialogue:f268682d34ce954f", "source": "ミリエル司教の救済の話ですか？", "text": "미리엘 주교의 구원 얘기인가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0125"}]}
+{"id": "dialogue:b0cc9c1af212aeb8", "source": "コゼットの結婚の話ですか？", "text": "코제트의 결혼 얘기요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0123"}]}
+{"id": "dialogue:2abbcd019e1ce1b5", "source": "テナルディエの強欲の話ですか？", "text": "테나르디에의 탐욕 얘기요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0124"}]}
+{"id": "dialogue:f268682d34ce954f", "source": "ミリエル司教の救済の話ですか？", "text": "미리엘 주교의 구원 얘기요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0125"}]}
 {"id": "dialogue:d8e1bda10c0dd996", "source": "コゼットの結婚の話ですか？//さくらくんたちが、//好きだと言ったシーンですよね。", "text": "코제트의 결혼 이야기인가요？//사쿠라 일행이//좋아한다고 했던 장면이죠．", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0127"}]}
 {"id": "dialogue:a1eab0fe24e3b7b0", "source": "うん……それがいいわね。//コゼットとマリユスの結婚は//希望に満ちた未来ですもの。", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0128"}], "parts": [{"ref": "dialogue:f65022b9011be042"}]}
 {"id": "dialogue:249e35c6df4e326c", "source": "テナルディエの強欲の話ですか？//すみれくんが、//不愉快だと言ってましたけど。", "text": "테나르디에의 탐욕 이야기 말인가요？스미레 군은//불쾌하다고 하던데요．", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0129"}]}
@@ -46,8 +46,8 @@
 {"id": "dialogue:a2d05de0173419b8", "source": "紅蘭が巴里に行った時に、//むこうの整備班からもらったのを//改良したんだって。", "text": "홍란이 파리에 갔을 때，//그쪽 정비반에서 받은 걸//개량했다나 봐．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0172"}]}
 {"id": "dialogue:2593ba452fab1613", "source": "携帯キネマトロンの使い方、//覚えてます？//説明したほうがいいですか？", "text": "휴대용 키네마트론 사용법，//기억하고 계세요？//설명해 드리는 게 좋을까요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0173"}]}
 {"id": "dialogue:87afe6844c91467e", "source": "携帯キネマトロンって//知ってますか？//説明したほうがいいですか？", "text": "휴대용 키네마트론이라고//아시나요？//설명해 드리는 게 좋을까요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0174"}]}
-{"id": "dialogue:5592ec5996c5e867", "source": "ああ、説明してほしいな。", "text": "아아，설명해 줬으면 좋겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0176"}]}
-{"id": "dialogue:a2aed7312db92aff", "source": "いや、大丈夫だよ。", "text": "아니，괜찮아．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0177"}]}
+{"id": "dialogue:5592ec5996c5e867", "source": "ああ、説明してほしいな。", "text": "아아，설명해 줬으면 좋겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0176"}]}
+{"id": "dialogue:a2aed7312db92aff", "source": "いや、大丈夫だよ。", "text": "아니，괜찮아", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0177"}]}
 {"id": "dialogue:8c95883b9a1a901f", "source": "ああ、説明してほしいな。//よろしく頼むよ。", "text": "아아，설명해 줬으면 좋겠어．//잘 부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0178"}]}
 {"id": "dialogue:cae42e548b68debd", "source": "えぇとですね……//携帯キネマトロンというのは、//受信専用の通信機なんです。", "text": "그러니까…//휴대용 키네마트론이라는 건，//수신 전용 통신기예요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0179"}]}
 {"id": "dialogue:da1270587051a9d0", "source": "通信が入ると……//その携帯キネマトロンの//受信音が鳴りますから……", "text": "통신이 들어오면…//그 휴대용 키네마트론의//수신음이 울리니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0180"}]}
@@ -87,9 +87,9 @@
 {"id": "dialogue:e27f0647a415aad3", "source": "あたし、帝劇の売店で//売り子をやれて、//本当によかったです！", "text": "저，제국극장 매점에서//판매원으로 일할 수 있어서，//정말 다행이에요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0224"}]}
 {"id": "dialogue:c0d580c933591b60", "source": "あ、そうだ！//大神さん、ブロマイドどうです？//新作ができてるんですよ∈", "text": "아，맞다∈//오오가미 씨，브로마이드 어떠세요？신작이 나왔답니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0225"}]}
 {"id": "dialogue:14772ee828438ae8", "source": "あ、大神さん。//おつかれさまです。//売店になにかご用ですか？", "text": "아，오오가미 씨．//수고 많으십니다．//매점에 무슨 볼일 있으세요？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0227"}]}
-{"id": "dialogue:77c901da830b6d35", "source": "ブロマイドを買う。", "text": "브로마이드를 산다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0228"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0438"}]}
+{"id": "dialogue:77c901da830b6d35", "source": "ブロマイドを買う。", "text": "브로마이드를 산다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0228"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0438"}]}
 {"id": "dialogue:d38432e49f1b6b3a", "source": "椿と話をする。", "text": "츠바키와 대화", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0229"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0439"}]}
-{"id": "dialogue:a1f4b20a5e484c25", "source": "立ち去る。", "text": "떠난다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0230"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0386"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0440"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0706"}]}
+{"id": "dialogue:a1f4b20a5e484c25", "source": "立ち去る。", "text": "떠난다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0230"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0386"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0440"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0706"}]}
 {"id": "dialogue:ad740057b4bdec12", "source": "すみません……//ブロマイドは、一枚ずつしか//お売りできないんですよ。", "text": "죄송합니다…//브로마이드는 한 장씩밖에//팔 수 없답니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0231"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0441"}]}
 {"id": "dialogue:4bc240557cd4c07b", "source": "お客さまの分もありますから、//がまんしてくださいね。", "text": "손님 몫도 있으니까，//참아 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0232"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0442"}]}
 {"id": "dialogue:4cd98447a74e8b61", "source": "買ってくれるんですか？//へへへ……//ありがとうございま～す！", "text": "사 주시는 건가요？//헤헤헤…//감사합니다～∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0233"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0443"}]}
@@ -139,7 +139,7 @@
 {"id": "dialogue:86d1bf0e3bc06e1d", "source": "それとこれとは話が別や∈//あんなネバネバした食べ物、//ウチにはムリなんやって！", "text": "그거랑 이거는 다른 얘기다∈//그래 끈적끈적한 음식은，//내한테는 무리라 카이∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0288"}]}
 {"id": "dialogue:56ccebd74e4996d7", "source": "ウチは関西育ちなんやさかい、//納豆は苦手でええんや！//大神はんもそう思うやろ？", "text": "내는 간사이에서 컸으니까，//낫토 싫어해도 되는 기다∈//오오가미 씨도 그래 생각하제？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0289"}]}
 {"id": "dialogue:017e2b90c088057d", "source": "そ、そうだな……", "text": "그，그렇네…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0290"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0562"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#0268"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0690"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#1255"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2142"}, {"id": "SLG/G02/E/EV02013.SBN#0006"}]}
-{"id": "dialogue:ebc8f566a42d1970", "source": "好き嫌いはしかたないね。", "text": "좋고 싫은 건 어쩔 수 없지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0291"}]}
+{"id": "dialogue:ebc8f566a42d1970", "source": "好き嫌いはしかたないね。", "text": "좋고 싫은 건 어쩔 수 없지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0291"}]}
 {"id": "dialogue:24fe35b715453050", "source": "関西は関係ないんじゃないか？", "text": "간사이는 상관없지 않아？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0292"}]}
 {"id": "dialogue:fc3937b76bc5e4fa", "source": "ネバーギブアップだ、紅蘭∈", "text": "끈기를 가져라，홍란∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0293"}]}
 {"id": "dialogue:5f505f8afb53324d", "source": "好き嫌いはしかたないね。//俺にだって、どうしても//食べられないものがあるしさ。", "text": "좋고 싫은 건 어쩔 수 없지．//나도 도저히//못 먹는 게 있으니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0294"}]}
@@ -213,8 +213,8 @@
 {"id": "dialogue:4cca1a6675ec2579", "source": "でも、残念だなぁ……//ウワサ話のネタが//つきちゃいましたから。", "text": "하지만，아쉽네요…//소문거리가//다 떨어져 버렸거든요．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0381"}]}
 {"id": "dialogue:f2b129470452c7dd", "source": "明日までに//ネタを集めときますね。//楽しみにしててくださいね。", "text": "내일까지//소문거리 모아 둘게요．//기대하세요．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0382"}]}
 {"id": "dialogue:0c11ce1ad1f78a88", "source": "ああ、楽しみにしてるよ。//それじゃあ……", "text": "아아，기대하고 있을게．//그럼…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0383"}]}
-{"id": "dialogue:49d3bf80b6a3b11c", "source": "二人と話をする。", "text": "둘과 이야기한다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0384"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0704"}]}
-{"id": "dialogue:6d2a4139c8d1aec4", "source": "ウワサ話を聞く。", "text": "소문을 듣는다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0385"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0705"}]}
+{"id": "dialogue:49d3bf80b6a3b11c", "source": "二人と話をする。", "text": "둘과 이야기한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0384"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0704"}]}
+{"id": "dialogue:6d2a4139c8d1aec4", "source": "ウワサ話を聞く。", "text": "소문을 듣는다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0385"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0705"}]}
 {"id": "dialogue:414a02f52eff0b0c", "source": "聞きたいことがあったんだ。//かすみくんと由里くんは//結婚を考えたことあるかい？", "text": "듣고 싶은 게 있었어．//카스미 군이랑 유리 군은//결혼을 생각해 본 적 있어？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0387"}]}
 {"id": "dialogue:7fc3ed9bc71a9c5e", "source": "……結婚？//どうして？", "text": "…결혼이요？어째서요？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0388"}]}
 {"id": "dialogue:41c8c2fdfec70c25", "source": "今度の舞台……//結婚をテーマに//しようかと思ってさ……", "text": "이번 무대 말이야…//결혼을 테마로//해 볼까 해서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0389"}]}
@@ -271,7 +271,7 @@
 {"id": "dialogue:93d96ca20c5023ca", "source": "え……それは……", "text": "어…그건…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0447"}]}
 {"id": "dialogue:f12b9a32b5181c31", "source": "織姫くんに頼もうと思って……", "text": "오리히메 군에게 부탁하려고…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0448"}]}
 {"id": "dialogue:cd55f20b06ffa248", "source": "俺が演奏しようと思って……", "text": "내가 연주할 생각이라…", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0449"}]}
-{"id": "dialogue:a28fbf5822473628", "source": "なんとかなると思って……", "text": "어떻게든 될 거라고 생각해서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0450"}]}
+{"id": "dialogue:a28fbf5822473628", "source": "なんとかなると思って……", "text": "어떻게든 될 것 같아서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0450"}]}
 {"id": "dialogue:819ec5bb1b685f53", "source": "織姫くん、頼んだぞ！", "text": "오리히메 군，부탁할게∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0451"}]}
 {"id": "dialogue:7cda7ce244e1d45c", "source": "俺が演奏するつもりだ！", "text": "내가 연주할게∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0452"}]}
 {"id": "dialogue:026f9261bd1d7976", "source": "きっとなんとかなる！", "text": "분명 어떻게든 될 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0453"}]}
@@ -330,8 +330,32 @@
 {"id": "dialogue:e44e1c6e55a0b36e", "source": "ああ、ありがとう。//織姫くん、夜更かしはダメだぞ。", "text": "아아，고마워．//오리히메 군，너무 늦게까지 깨어 있으면 안 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0515"}]}
 {"id": "dialogue:2701fa2a3f304b2b", "source": "わかってますよ、中尉さん、//それじゃ……チャオ！", "text": "알고 있어요，중위님．//그럼…차오∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0516"}]}
 {"id": "dialogue:84c48b378b5c14c3", "source": "（ちょうどいい機会だし、//　織姫くんに結婚観について//　聞いてみようかな……）", "text": "（마침 좋은 기회니까，//오리히메 군에게 결혼관에 대해//물어볼까…）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0518"}]}
-{"id": "dialogue:a54adeba98aba89d", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0519"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0677"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0898"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0996"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1040"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1261"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1338"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1442"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1902"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1975"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0567"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#1678"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2148"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2269"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2588"}]}
-{"id": "dialogue:2989b3a3b973d516", "source": "今はやめておく。", "text": "지금은 그만둔다．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0520"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0678"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0899"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0997"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1041"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1262"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1339"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1443"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1903"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1976"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0568"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#1679"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2149"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2270"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2589"}]}
+{"id": "dialogue:a54adeba98aba89d", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2148"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2269"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2588"}]}
+{"id": "dialogue:a41742886cae1616", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#1678"}]}
+{"id": "dialogue:a9ca4466dd8054b6", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#0567"}]}
+{"id": "dialogue:c87a462ddcc3e16f", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1975"}]}
+{"id": "dialogue:b18bcae21e6584d3", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1902"}]}
+{"id": "dialogue:26fa2cdeda671646", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1442"}]}
+{"id": "dialogue:7a0b3160bab442d5", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1338"}]}
+{"id": "dialogue:499445f8816ed280", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1261"}]}
+{"id": "dialogue:a09ab689ed6abc70", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1040"}]}
+{"id": "dialogue:f94c5f9d89e3c059", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0996"}]}
+{"id": "dialogue:92014a82c7afe7c1", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0898"}]}
+{"id": "dialogue:4c86892750846f0c", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0677"}]}
+{"id": "dialogue:ce6fc7948c8cf795", "source": "結婚観について聞いてみる。", "text": "결혼관에 대해 물어본다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0519"}]}
+{"id": "dialogue:2989b3a3b973d516", "source": "今はやめておく。", "text": "지금은 그만둔다．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2149"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2270"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2589"}]}
+{"id": "dialogue:129a0054c8c69cc8", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#1679"}]}
+{"id": "dialogue:ef4ff61ae6f46edc", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#0568"}]}
+{"id": "dialogue:99079685ffde730e", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1976"}]}
+{"id": "dialogue:aed461f392580364", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1903"}]}
+{"id": "dialogue:e721b4c50d3ecc7b", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1443"}]}
+{"id": "dialogue:4b5f6e57c8a8ac06", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1339"}]}
+{"id": "dialogue:445349f0bacd6306", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1262"}]}
+{"id": "dialogue:ba9bae473d686449", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1041"}]}
+{"id": "dialogue:29ddf4a058d7e058", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0997"}]}
+{"id": "dialogue:c40f73d3ede4cc5e", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0899"}]}
+{"id": "dialogue:bcec334b549451bb", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0678"}]}
+{"id": "dialogue:764624f8038ab92b", "source": "今はやめておく。", "text": "지금은 그만둔다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0520"}]}
 {"id": "dialogue:d8726b8ccd339e42", "source": "あ、織姫くん……//もうすこし、//話をしてもいいかな？", "text": "아，오리히메 군…//조금만 더，//이야기를 해도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0522"}]}
 {"id": "dialogue:bd16ab5dab48e96b", "source": "はい、いいですけど……//なんのお話ですか？", "text": "네，괜찮은데요…//무슨 이야기인가요？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0523"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2126"}]}
 {"id": "dialogue:f0769bcae87063c9", "source": "いや……今回の舞台で、//コゼットとマリユスの//結婚のシーンがあるだろ。", "text": "아니…이번 무대에서，//코제트와 마리우스의//결혼 장면이 있잖아．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0524"}]}
@@ -365,8 +389,8 @@
 {"id": "dialogue:fa2e258b78dd10aa", "source": "織姫さん！//言っていいことと、//悪いことがありましてよ∈", "text": "오리히메 씨∈//할 말이 있고，//못 할 말이 있답니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0559"}]}
 {"id": "dialogue:5f4e18af2122d024", "source": "あの……すみれさんは//ファンティーヌという//貧しい女性を演じるんですし……", "text": "저기…스미레 씨는//팡틴이라는//가난한 여성을 연기하시니까요…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0560"}]}
 {"id": "dialogue:55aebe70c08f3fe1", "source": "それはわかってますが……//中尉からもなんとか//言ってくださいませんか？", "text": "그건 알고 있습니다만…//중위님께서도 어떻게든//말씀해 주시겠어요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0561"}]}
-{"id": "dialogue:ea8646fd6bec8529", "source": "地味な衣装も似合うと思うよ。", "text": "수수한 의상도 어울릴 것 같아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0563"}]}
-{"id": "dialogue:3bab0bedf180d851", "source": "確かに派手なほうがいいな。", "text": "확실히 화려한 편이 좋겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0564"}]}
+{"id": "dialogue:ea8646fd6bec8529", "source": "地味な衣装も似合うと思うよ。", "text": "수수한 의상도 잘 어울릴 거야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0563"}]}
+{"id": "dialogue:3bab0bedf180d851", "source": "確かに派手なほうがいいな。", "text": "확실히 화려한 편이 좋겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0564"}]}
 {"id": "dialogue:48296611a9eb037c", "source": "たかが、衣装じゃないか……", "text": "고작，의상일 뿐이잖아…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0565"}]}
 {"id": "dialogue:82f6b46ef03e95e0", "source": "地味な衣装も似合うと思うよ。//すみれくんはなにを着ても、//きれいに見えるんだから。", "text": "수수한 의상도 잘 어울릴 것 같아．//스미레 군은 무엇을 입어도，//아름다워 보이니까．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0567"}]}
 {"id": "dialogue:1884b013335a4d1f", "source": "そうですよ！//すみれさんなら、//どんな衣装も似合いますって∈", "text": "맞아요∈//스미레 씨라면，//어떤 의상도 잘 어울릴 거예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0568"}]}
@@ -483,9 +507,9 @@
 {"id": "dialogue:3fcc14286a9d7357", "source": "お兄ちゃん、聞いてよ。//マリア、イジワルなんだよ。", "text": "오빠，내 말 좀 들어 봐．//마리아가 너무 심해．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0727"}]}
 {"id": "dialogue:5fa883b7ebc77cf1", "source": "アイリス、いっぱいおけいこして//いいおしばいにしたいのに……//ねなさいって言うの。", "text": "아이리스，연습 많이 해서//멋진 공연을 만들고 싶은데…//자라고 하는 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0728"}]}
 {"id": "dialogue:d7ee55daa474c259", "source": "ねぇ、お兄ちゃんからも//マリアにおねがいして……//いいでしょう？", "text": "있잖아，오빠도//마리아한테 부탁해 줘…//응？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0729"}]}
-{"id": "dialogue:16b23620c01c5a5e", "source": "アイリス、もう寝ないと。", "text": "아이리스，이제 자야 해．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0731"}]}
-{"id": "dialogue:43532f53744a9c9c", "source": "マリア、俺からもお願いするよ。", "text": "마리아，나도 부탁할게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0732"}]}
-{"id": "dialogue:8ee45964153648ff", "source": "俺がけいこの相手をするよ。", "text": "내가 연습 상대를 해 줄게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0733"}]}
+{"id": "dialogue:16b23620c01c5a5e", "source": "アイリス、もう寝ないと。", "text": "아이리스，이제 자야 해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0731"}]}
+{"id": "dialogue:43532f53744a9c9c", "source": "マリア、俺からもお願いするよ。", "text": "마리아，나도 부탁할게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0732"}]}
+{"id": "dialogue:8ee45964153648ff", "source": "俺がけいこの相手をするよ。", "text": "내가 연습 상대를 해 줄게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0733"}]}
 {"id": "dialogue:c73f2db73c128be5", "source": "アイリス、もう寝ないと。//明日、みんなでけいこをしよう。//な、それでいいだろ。", "text": "아이리스，이제 자야 해．//내일 다 같이 연습하자．//응，그럼 됐지？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0735"}]}
 {"id": "dialogue:8c2bfd3441f3e64f", "source": "ほら、隊長もこう言ってるわ。//ね、アイリス……//今日はもう休みましょう。", "text": "봐，대장님도 이렇게 말씀하시잖아．자，아이리스…//오늘은 이제 쉬자．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0736"}]}
 {"id": "dialogue:63cc410ac163e01c", "source": "やだっ！//アイリス、眠たくないもん∈//おけいこする！", "text": "싫어∈//아이리스，안 졸리단 말이야∈//연습할 거야∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0737"}]}
@@ -535,11 +559,15 @@
 {"id": "dialogue:711bcea3b2405db9", "source": "や、やっと会えたね……", "text": "드，드디어 만났네…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0786"}]}
 {"id": "dialogue:1566480fdc29d19d", "source": "ええ……//会うことすら//許されないなんて……", "text": "네…//만나는 것조차//허락되지 않다니…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0787"}]}
 {"id": "dialogue:47dedbf6021a78be", "source": "だから……誰にも//私たちの邪魔をさせないで……//この夜だけは……", "text": "그러니까…누구도//우리를 방해하지 못하게 해 줘…//이 밤만큼은…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0788"}]}
-{"id": "dialogue:d338b938e2ae1d93", "source": "ああ……わかったよ。", "text": "아아…알았어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0789"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0795"}, {"id": "ADVDATA/SCRIPT/S0210.SBX#0452"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0443"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0550"}]}
-{"id": "dialogue:0e9c7ecbdd9a5b86", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸던가．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0790"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0796"}]}
+{"id": "dialogue:d338b938e2ae1d93", "source": "ああ……わかったよ。", "text": "아아…알았어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0795"}, {"id": "ADVDATA/SCRIPT/S0210.SBX#0452"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0443"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0550"}]}
+{"id": "dialogue:67fe33ee21649416", "source": "ああ……わかったよ。", "text": "아아…알았어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0789"}]}
+{"id": "dialogue:0e9c7ecbdd9a5b86", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸는지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0796"}]}
+{"id": "dialogue:6cc0c3d13bb3aecb", "source": "この時をどれだけ待ったか。", "text": "이 순간을 얼마나 기다렸는지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0790"}]}
 {"id": "dialogue:14d77b50357ee7af", "source": "子どもはもう寝る時間だぞ！", "text": "애들은 이제 잘 시간이야∈", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0791"}]}
-{"id": "dialogue:d2f34d381c083e69", "source": "ああ……もちろんだよ。", "text": "아아…물론이지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0792"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0809"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0685"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0998"}]}
-{"id": "dialogue:c5d49c9b02ccd452", "source": "……この時をどれだけ待ったか。", "text": "…이 순간을 얼마나 기다렸던가．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0793"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0810"}]}
+{"id": "dialogue:d2f34d381c083e69", "source": "ああ……もちろんだよ。", "text": "아아…물론이지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0809"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0685"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0998"}]}
+{"id": "dialogue:d83890a301d4b83d", "source": "ああ……もちろんだよ。", "text": "아아…물론이지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0792"}]}
+{"id": "dialogue:c5d49c9b02ccd452", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸는지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0810"}]}
+{"id": "dialogue:e3e5c15ce28e96ee", "source": "……この時をどれだけ待ったか。", "text": "…이때를 얼마나 기다렸는지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0793"}]}
 {"id": "dialogue:9f67664d45fc27be", "source": "……子どもはもう寝る時間だぞ！", "text": "…애들은 이제 잘 시간이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0794"}]}
 {"id": "dialogue:8ec6c6233ff42699", "source": "子どもはもう寝る時間だぞ！//夜中に待ち合わせなんて、//感心しないな∈", "text": "아이들은 벌써 잘 시간이야∈//한밤중에 만나기로 하다니，//좋지 않아∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0797"}]}
 {"id": "dialogue:0d9bf02148bb60ed", "source": "マリユスのセリフが//「この時をどれだけ待ったか。」//だから……", "text": "마리우스의 대사가 「이 순간을 얼마나 기다렸는지 몰라．」//그러니까…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0799"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0813"}]}
@@ -657,9 +685,12 @@
 {"id": "dialogue:de40d7a18500dd89", "source": "流れ星が見えている間に、//お願いごとを三回唱えると、//願いがかなうんだって……", "text": "별똥별이 보이는 동안，//소원을 세 번 외우면，//소원이 이루어진대…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0951"}]}
 {"id": "dialogue:d577ef24061c9e88", "source": "へぇ、そうなんだ！//じゃあ、みんなで//お願いしようね∈", "text": "오，그렇구나∈//그럼 다 같이//소원을 빌자∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0952"}]}
 {"id": "dialogue:12965c2903ce6f04", "source": "流れ星……//はやく見えないかな……", "text": "별똥별…//빨리 또 안 나타나려나…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0953"}]}
-{"id": "dialogue:b6e361eb483f3831", "source": "世界が平和になりますように。", "text": "세계가 평화로워지기를．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0955"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0958"}]}
-{"id": "dialogue:1493f1560d15c053", "source": "みんなが仲良くなりますように。", "text": "모두가 사이좋게 지낼 수 있기를．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0956"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0959"}]}
-{"id": "dialogue:ef8a6a7fd98f3814", "source": "舞台が成功しますように。", "text": "무대가 성공하기를．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0957"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0960"}]}
+{"id": "dialogue:b6e361eb483f3831", "source": "世界が平和になりますように。", "text": "세계가 평화로워지기를．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0958"}]}
+{"id": "dialogue:430ad792b7c6c94f", "source": "世界が平和になりますように。", "text": "세계가 평화로워지기를", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0955"}]}
+{"id": "dialogue:1493f1560d15c053", "source": "みんなが仲良くなりますように。", "text": "모두가 사이좋게 지내기를．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0959"}]}
+{"id": "dialogue:ecd5e6beff0b006b", "source": "みんなが仲良くなりますように。", "text": "모두가 사이좋게 지내기를", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0956"}]}
+{"id": "dialogue:ef8a6a7fd98f3814", "source": "舞台が成功しますように。", "text": "무대가 성공하기를．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0960"}]}
+{"id": "dialogue:f68bbcbb38c4b086", "source": "舞台が成功しますように。", "text": "무대가 성공하기를", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0957"}]}
 {"id": "dialogue:d937bd192d366573", "source": "（しまった……//　もう消えちゃったか……）", "text": "（아차…//벌써 사라져 버렸나…）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0963"}]}
 {"id": "dialogue:8df3687095a7f90d", "source": "（流れ星が見えている間って……//　けっこう短いものだな）", "text": "（별똥별이 보이는 시간이라는 건…//꽤 짧구나）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0964"}]}
 {"id": "dialogue:5da6357fbe9f1ee9", "source": "（しまった……//　同じお願いを三回だった……//　けっこうむずかしいものだな）", "text": "（아차…//같은 소원을 세 번 빌어야 했는데…//꽤 어렵네．）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0965"}]}
@@ -736,9 +767,9 @@
 {"id": "dialogue:106d71f7d9948dfd", "source": "ああ……そうだね。//いろいろなことがあったね。", "text": "아아…그렇네．//여러 가지 일이 있었지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1058"}]}
 {"id": "dialogue:4ffa9efaed01715c", "source": "あたし……考えるんです。//もし……この帝都に//来ていなかったら……", "text": "저…가끔 생각해요．//만약…이 제도에//오지 않았더라면…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1059"}]}
 {"id": "dialogue:a0aba9bfd7ce4dc9", "source": "もし……みんなに……//大神さんに会ってなかったら……//どうなっていたんだろうって。", "text": "만약…모두와…//오오가미 씨를 만나지 못했더라면…//어떻게 됐을까 하고．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1060"}]}
-{"id": "dialogue:3abeb58a873a10ef", "source": "俺には……考えられないよ。", "text": "나는…상상도 못 하겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1062"}]}
+{"id": "dialogue:3abeb58a873a10ef", "source": "俺には……考えられないよ。", "text": "나는…상상도 못 하겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1062"}]}
 {"id": "dialogue:7e0ba8bc25b91ebd", "source": "それで、どう考えたんだい？", "text": "그래서，어떻게 생각했어？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1063"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1071"}]}
-{"id": "dialogue:f28932dfa3014bea", "source": "俺たちは絶対に出会っていたよ。", "text": "우린 분명히 만났을 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1064"}]}
+{"id": "dialogue:f28932dfa3014bea", "source": "俺たちは絶対に出会っていたよ。", "text": "우린 분명히 만났을 거야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1064"}]}
 {"id": "dialogue:d14a6695552813f6", "source": "俺には……考えられないよ。//みんなと……さくらくんと//出会ってなかったらなんて……", "text": "나는…상상도 못 하겠어．//모두와…사쿠라 군을//만나지 못했더라면…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1065"}]}
 {"id": "dialogue:1ee9a7ecf15a398e", "source": "大神さんなら……//そう言ってくれると//思ってました。", "text": "오오가미 씨라면…//그렇게 말해 줄 거라고//생각했어요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1066"}]}
 {"id": "dialogue:f09fbc9210cf2082", "source": "あたしも考えてみたんですけど、//わかりませんでした。", "text": "저도 생각해 봤지만，//잘 모르겠어요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1067"}]}
@@ -802,9 +833,9 @@
 {"id": "dialogue:a8a56fdc61bd98b9", "source": "（さくらくん……//　成長したみたいだな……）", "text": "（사쿠라 군…//성장한 것 같네…）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1135"}]}
 {"id": "dialogue:532efb450c95da38", "source": "……大神さん。//さっきから、//どこを見てるんですか？", "text": "…오오가미 씨．//아까부터，//어디를 보고 있는 거예요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1137"}]}
 {"id": "dialogue:18e5daddb29c0eca", "source": "いいっ〓//そ、それは……", "text": "뭐〓//그，그건…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1138"}, {"id": "ADVDATA/SCRIPT/S0210.SBX#0533"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0309"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1221"}, {"id": "SLG/G02/E/EV02020.SBN#0013"}]}
-{"id": "dialogue:27deda270a0550d3", "source": "きちんと説明をする。", "text": "제대로 설명한다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1139"}]}
-{"id": "dialogue:8f856236b37508b2", "source": "ほめる。", "text": "칭찬한다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1140"}]}
-{"id": "dialogue:e8112ea345d2e71e", "source": "言い訳をする。", "text": "변명을 한다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1141"}]}
+{"id": "dialogue:27deda270a0550d3", "source": "きちんと説明をする。", "text": "제대로 설명한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1139"}]}
+{"id": "dialogue:8f856236b37508b2", "source": "ほめる。", "text": "칭찬한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1140"}]}
+{"id": "dialogue:e8112ea345d2e71e", "source": "言い訳をする。", "text": "변명을 한다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1141"}]}
 {"id": "dialogue:5937360a4b58ceb4", "source": "いや……さくらくんが//どれくらい//成長したかと思って……", "text": "아니…사쿠라 군이//얼마나//성장했나 싶어서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1142"}]}
 {"id": "dialogue:bd6f279ba7f85aac", "source": "そんなの……//大きなお世話です。", "text": "그런 건…//쓸데없는 참견이에요．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1143"}]}
 {"id": "dialogue:ce9abb5060e43d07", "source": "い、いや……//そこだけじゃなくて……//人間的に……ほら……", "text": "아，아니…//그것뿐만 아니라…//사람으로서도…그러니까…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1144"}]}
@@ -870,7 +901,7 @@
 {"id": "dialogue:58b0d6bb4ae16ac4", "source": "最近……いろいろと//考えなければならないことが//多くて……", "text": "최근…여러 가지로//생각해야 할 일이//많아서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1220"}]}
 {"id": "dialogue:2319d0ed5d916314", "source": "でも……このお茶を//飲むようになってからは、//夜もぐっすりですわ。", "text": "하지만…이 차를//마시게 된 뒤로는，//밤에도 푹 자고 있답니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1221"}]}
 {"id": "dialogue:4794ecba4ee5e78a", "source": "すみれくん……", "text": "스미레 군…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1222"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1230"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#0429"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2889"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2917"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0632"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#0641"}, {"id": "ADVDATA/SCRIPT/S0340.SBX#0167"}, {"id": "ADVDATA/SCRIPT/S0340.SBX#0175"}, {"id": "ADVDATA/SCRIPT/S0340.SBX#0183"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0467"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0801"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1747"}, {"id": "SLG/G03/E/EV03007.SBN#0008"}, {"id": "SLG/G04/E/EV04007.SBN#0006"}]}
-{"id": "dialogue:ff274c1ceef4262a", "source": "俺が力になるよ。", "text": "내가 힘이 되어 줄게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1223"}]}
+{"id": "dialogue:ff274c1ceef4262a", "source": "俺が力になるよ。", "text": "내가 힘이 되어 줄게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1223"}]}
 {"id": "dialogue:9dafb9fda6ccee8e", "source": "考えなければならないことって？", "text": "생각해야 할 일이라니？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1224"}]}
 {"id": "dialogue:589b7281a0647d15", "source": "眠たくなってきたんだけど……", "text": "점점 졸린데…", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1225"}]}
 {"id": "dialogue:a36c2a80c8726383", "source": "俺が力になるよ。//なにかあったら、//相談しにきてくれ。", "text": "내가 힘이 되어 줄게．//무슨 일이 생기면，//상담하러 와 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1227"}]}
@@ -929,8 +960,8 @@
 {"id": "dialogue:ce884ce63bd40f76", "source": "はい……//値段のこともあるのですが……", "text": "네…//가격 문제도 있긴 합니다만…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1294"}]}
 {"id": "dialogue:7efa9f8b842f27de", "source": "指輪は……やはり、//好きな男性以外からは……//受け取りたくなくて……", "text": "반지는…역시，//좋아하는 남자가 아니라면…//받고 싶지 않아서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1295"}]}
 {"id": "dialogue:d3e1d4c6fb086af3", "source": "そうか……", "text": "그렇군…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1296"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#0698"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2562"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1176"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#1550"}, {"id": "SLG/G02/E/EV02023.SBN#0005"}, {"id": "SLG/G04/E/EV04037.SBN#0027"}]}
-{"id": "dialogue:f51999ff9a03ef56", "source": "気持ちだけ受け取ればいいよ。", "text": "마음만 받아 주면 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1297"}]}
-{"id": "dialogue:63c83661421764fc", "source": "今度、俺が返しておくよ。", "text": "내가 대신 돌려줄게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1298"}]}
+{"id": "dialogue:f51999ff9a03ef56", "source": "気持ちだけ受け取ればいいよ。", "text": "마음만 받아 주면 돼", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1297"}]}
+{"id": "dialogue:63c83661421764fc", "source": "今度、俺が返しておくよ。", "text": "내가 대신 돌려줄게", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1298"}]}
 {"id": "dialogue:f2487e75e42daa00", "source": "俺からならもらってくれるかい？", "text": "나에게서라면 받아 주겠어？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1299"}]}
 {"id": "dialogue:6e2b4ec21e7d9766", "source": "気持ちだけ受け取ればいいよ。//指輪はお礼の手紙と一緒に、//返せばいいんじゃないか？", "text": "마음만 받으면 돼．//반지는 감사 편지와 함께//돌려주면 되잖아？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1301"}]}
 {"id": "dialogue:4fb5da9b726d4a8b", "source": "確かに……そうですね。//それなら、贈ってくださった方に//失礼にもなりませんしね。", "text": "확실히…그렇네요．//그렇다면，선물해 주신 분께도//결례가 되지 않을 테니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1302"}]}
@@ -1052,9 +1083,9 @@
 {"id": "dialogue:42a6cf1f07882ed3", "source": "……ありがとう、隊長。", "text": "…고마워，대장．", "review": "이슈 #7: 레니 반말 통일", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1461"}]}
 {"id": "dialogue:69caf060185ec5ea", "source": "でも……不思議だよね。//今まで……たくさんの舞台に//出演してきたのに……", "text": "하지만…신기하네．//지금까지…수많은 무대에//출연해 왔는데 말이야…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1462"}]}
 {"id": "dialogue:7e1cde5737182b65", "source": "記念に置いておきたいと……//そう思ったのは、//「青い鳥」が初めてだった……", "text": "기념으로 간직하고 싶다고…//그렇게 생각한 건，//「파랑새」가 처음이었어…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1463"}]}
-{"id": "dialogue:c405c22152fac690", "source": "それだけいい舞台だったんだよ。", "text": "그만큼 멋진 무대였단 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1465"}]}
-{"id": "dialogue:0d20c9df8c73bb54", "source": "いい思い出ができたね。", "text": "좋은 추억이 생겼네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1466"}]}
-{"id": "dialogue:d9f09141ea8d76c8", "source": "みんなとの￢なんだよ。", "text": "모두와의 인연인 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1467"}]}
+{"id": "dialogue:c405c22152fac690", "source": "それだけいい舞台だったんだよ。", "text": "그만큼 멋진 무대였단 말이야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1465"}]}
+{"id": "dialogue:0d20c9df8c73bb54", "source": "いい思い出ができたね。", "text": "좋은 추억이 생겼네", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1466"}]}
+{"id": "dialogue:d9f09141ea8d76c8", "source": "みんなとの￢なんだよ。", "text": "모두와의 인연인 거야", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1467"}]}
 {"id": "dialogue:2f1aecdbf53a1aef", "source": "それだけいい舞台だったんだよ。//レニの心に残るぐらいの。", "text": "그만큼 멋진 무대였단 말이야．//레니의 마음속에 남을 정도로．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1468"}]}
 {"id": "dialogue:c1e8edf6f848a00c", "source": "そうかな……？//単にいい舞台だけなら、//……ほかにもある。", "text": "그럴까…？//단순히 좋은 무대라면，//…그 밖에도 있어．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1469"}]}
 {"id": "dialogue:07e4ca5a2cd8e2d0", "source": "舞台の評価だけなら……//欧州で踊っていた時の方が//上かもしれない……", "text": "무대 평가만 따진다면…//유럽에서 춤추고 있을 때가//더 나았을지도 몰라…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1470"}]}
@@ -1096,9 +1127,9 @@
 {"id": "dialogue:1fd1a9015654edab", "source": "マリアに聞いたら、//何も着ないで//寝ているって言うし……", "text": "마리아에게 물어보니까，//아무것도 안 입고//잔다고 하고…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1508"}]}
 {"id": "dialogue:23ec130ccfd79fe3", "source": "それで……//どうしようかと思ってるんだ。", "text": "그래서…//어떻게 해야 할지 생각 중이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1509"}]}
 {"id": "dialogue:85b420f232c5dcd7", "source": "じゃあ……", "text": "그럼…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1510"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0624"}]}
-{"id": "dialogue:9f093efe919a6a47", "source": "何も着ないのがいいと思うよ。", "text": "아무것도 안 입는 게 좋겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1511"}]}
-{"id": "dialogue:af1445e8bcbb8add", "source": "ネグリジェを着て欲しいな……", "text": "네글리제를 입어 줬으면 좋겠어…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1512"}]}
-{"id": "dialogue:4eafa15808da0509", "source": "好きな服でいいんじゃないか？", "text": "좋아하는 옷이면 되지 않을까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1513"}]}
+{"id": "dialogue:9f093efe919a6a47", "source": "何も着ないのがいいと思うよ。", "text": "아무것도 안 입는 게 좋겠어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1511"}]}
+{"id": "dialogue:af1445e8bcbb8add", "source": "ネグリジェを着て欲しいな……", "text": "네글리제를 입어 줬으면…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1512"}]}
+{"id": "dialogue:4eafa15808da0509", "source": "好きな服でいいんじゃないか？", "text": "좋아하는 옷이면 되잖아？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1513"}]}
 {"id": "dialogue:554480ae9c77ebde", "source": "何も着ないのがいいと思うよ。//マリアが言うんだから、//一番正しいはずだよ。", "text": "아무것도 안 입고 자는 게 좋겠어．//마리아가 하는 말이니까，//제일 확실하겠지．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1514"}]}
 {"id": "dialogue:9d500443e4509f23", "source": "そうだね……//マリアの言うことには、//まちがいがないから……", "text": "그렇네…//마리아가 하는 말에는，//틀림이 없으니까…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1515"}]}
 {"id": "dialogue:766f7c56d090a911", "source": "今度マリアに言っとくよ。//隊長が何も着ないで寝るのが//正しいと言ってたって。", "text": "다음에 마리아에게 말해 둘게．//대장이 아무것도 안 입고 자는 게//옳다고 했다고．", "review": "이슈 #7: 레니 반말 통일", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1516"}]}
@@ -1330,8 +1361,8 @@
 {"id": "dialogue:cd6249d0d661e37c", "source": "……現場に妖力反応は、//まったくなかった。", "text": "…현장에는 요력 반응이//전혀 없었어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1865"}]}
 {"id": "dialogue:62bc346cb5f23626", "source": "敵がいるかすらも//わからない……//これでは戦いようがないよ。", "text": "적이 있는지조차//모르겠어…//이래서는 싸울 수가 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1866"}]}
 {"id": "dialogue:fcaf590080126908", "source": "隊長……//ボクたちはどうすればいいの？", "text": "대장…//우리는 어떻게 하면 돼？", "review": "이슈 #7: 레니 반말 통일", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1867"}]}
-{"id": "dialogue:e506e0b6a4c55044", "source": "……今は待つしかない。", "text": "…지금은 기다릴 수밖에 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1869"}]}
-{"id": "dialogue:1d9c12b09d1981b2", "source": "加山に調査を頼もう。", "text": "카야마에게 조사를 부탁하자．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1870"}]}
+{"id": "dialogue:e506e0b6a4c55044", "source": "……今は待つしかない。", "text": "…지금은 기다릴 수밖에 없어", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1869"}]}
+{"id": "dialogue:1d9c12b09d1981b2", "source": "加山に調査を頼もう。", "text": "카야마에게 조사를 부탁하자", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1870"}]}
 {"id": "dialogue:c4ebe019279929e1", "source": "こんな金粉があるんだけど……", "text": "이런 금가루가 있는데…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1871"}]}
 {"id": "dialogue:c8417d422c6afcf9", "source": "……今は待つしかない。//由里くんたちも総力をあげて//調査をしている。", "text": "…지금은 기다릴 수밖에 없어．//유리 군 일행도 총력을 다해//조사하고 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1872"}]}
 {"id": "dialogue:04fbfd0f90dad3ce", "source": "今はその調査結果を待とう。//俺たちにとっては、//待つことも戦いだぞ。", "text": "지금은 그 조사 결과를 기다리자．//우리에게는，//기다리는 것 또한 싸움이다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1873"}]}

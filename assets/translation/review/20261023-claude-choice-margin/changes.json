@@ -1,0 +1,1805 @@
+[
+  {
+    "unit": "dialogue:0c77122d90bcd6da",
+    "source": "その小説だと、次はどうなるの？",
+    "before": {
+      "id": "dialogue:0c77122d90bcd6da",
+      "source": "その小説だと、次はどうなるの？",
+      "text": "그 소설에서는，다음엔 어떻게 돼？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2020"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0c77122d90bcd6da",
+      "source": "その小説だと、次はどうなるの？",
+      "text": "그 소설，다음엔 어떻게 돼？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2020"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1e4ef241d0d8c9be",
+    "source": "子どもはそんなこと望みません∈",
+    "before": {
+      "id": "dialogue:1e4ef241d0d8c9be",
+      "source": "子どもはそんなこと望みません∈",
+      "text": "아이들은 그런 걸 바라지 않아요∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0041"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1e4ef241d0d8c9be",
+      "source": "子どもはそんなこと望みません∈",
+      "text": "아이들은 그런 걸 안 바라요∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03003.SBN#0041"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:6bb93bcb1a46eee4",
+    "source": "俺も着物で来ればよかったね。",
+    "before": {
+      "id": "dialogue:6bb93bcb1a46eee4",
+      "source": "俺も着物で来ればよかったね。",
+      "text": "나도 기모노를 입고 올걸 그랬네．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0665"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6bb93bcb1a46eee4",
+      "source": "俺も着物で来ればよかったね。",
+      "text": "나도 기모노 입고 올걸．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0665"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:83d30f0969e4c643",
+    "source": "どのセリフが気になるんだい。",
+    "before": {
+      "id": "dialogue:83d30f0969e4c643",
+      "source": "どのセリフが気になるんだい。",
+      "text": "어떤 대사가 마음에 걸리는 거야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0642"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:83d30f0969e4c643",
+      "source": "どのセリフが気になるんだい。",
+      "text": "어떤 대사가 마음에 걸려？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0642"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:dbd4357211b59a47",
+    "source": "花火くんのドレス姿を見たいな。",
+    "before": {
+      "id": "dialogue:dbd4357211b59a47",
+      "source": "花火くんのドレス姿を見たいな。",
+      "text": "하나비 군의 드레스가 보고 싶어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1944"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dbd4357211b59a47",
+      "source": "花火くんのドレス姿を見たいな。",
+      "text": "하나비 군 드레스 보고 싶어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1944"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:825470bd5f511b23",
+    "source": "貴族としてでなくていいのかい？",
+    "before": {
+      "id": "dialogue:825470bd5f511b23",
+      "source": "貴族としてでなくていいのかい？",
+      "text": "귀족으로서가 아니어도 괜찮겠어？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1704"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:825470bd5f511b23",
+      "source": "貴族としてでなくていいのかい？",
+      "text": "귀족이 아니어도 괜찮겠어？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1704"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1539533dd640906a",
+    "source": "マリアは気にならないのかい？",
+    "before": {
+      "id": "dialogue:1539533dd640906a",
+      "source": "マリアは気にならないのかい？",
+      "text": "마리아는 신경 쓰이지 않는 거야？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1389"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1421"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1539533dd640906a",
+      "source": "マリアは気にならないのかい？",
+      "text": "마리아는 신경 안 쓰여？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1389"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1421"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:7975a8e57448027d",
+    "source": "巴里は平和になったからね。",
+    "before": {
+      "id": "dialogue:7975a8e57448027d",
+      "source": "巴里は平和になったからね。",
+      "text": "파리는 평화로워졌으니까 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1028"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7975a8e57448027d",
+      "source": "巴里は平和になったからね。",
+      "text": "파리는 평화로워졌으니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1028"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:45c8bc6b851bfd40",
+    "source": "もう少し……時間をくれないか。",
+    "before": {
+      "id": "dialogue:45c8bc6b851bfd40",
+      "source": "もう少し……時間をくれないか。",
+      "text": "조금만 더…시간을 줄 수 없을까？",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0649"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:45c8bc6b851bfd40",
+      "source": "もう少し……時間をくれないか。",
+      "text": "조금만 더…시간을 줄래？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0649"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1045370411d78e2c",
+    "source": "敵の落とした能面について話す。",
+    "before": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 흘린 노 가면 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1045370411d78e2c",
+      "source": "敵の落とした能面について話す。",
+      "text": "적이 흘린 가면 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0399"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8c18ae2ac2dcdd60",
+    "source": "帝劇の舞台演出について話す。",
+    "before": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장 무대 연출 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8c18ae2ac2dcdd60",
+      "source": "帝劇の舞台演出について話す。",
+      "text": "제국극장 연출 얘기를 한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0400"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1493f1560d15c053",
+    "source": "みんなが仲良くなりますように。",
+    "before": {
+      "id": "dialogue:1493f1560d15c053",
+      "source": "みんなが仲良くなりますように。",
+      "text": "모두가 사이좋게 지낼 수 있기를．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0956"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0959"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1493f1560d15c053",
+      "source": "みんなが仲良くなりますように。",
+      "text": "모두가 사이좋게 지내기를．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0956"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0959"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:83dd83f3df55b948",
+    "source": "粉骨砕身の覚悟でがんばります。",
+    "before": {
+      "id": "dialogue:83dd83f3df55b948",
+      "source": "粉骨砕身の覚悟でがんばります。",
+      "text": "분골쇄신의 각오로 임하겠습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1201"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1983"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:83dd83f3df55b948",
+      "source": "粉骨砕身の覚悟でがんばります。",
+      "text": "분골쇄신으로 임하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1201"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1983"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5cec6c2a347beca2",
+    "source": "巴里観光がしたかったとか？",
+    "before": {
+      "id": "dialogue:5cec6c2a347beca2",
+      "source": "巴里観光がしたかったとか？",
+      "text": "파리 관광을 하고 싶었다든가？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0803"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5cec6c2a347beca2",
+      "source": "巴里観光がしたかったとか？",
+      "text": "파리 관광을 원했다든가？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0803"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:a37a7367020c3489",
+    "source": "俺に会いたかったんだろ。",
+    "before": {
+      "id": "dialogue:a37a7367020c3489",
+      "source": "俺に会いたかったんだろ。",
+      "text": "나를 만나고 싶었던 거겠지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0805"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a37a7367020c3489",
+      "source": "俺に会いたかったんだろ。",
+      "text": "나를 만나고 싶었겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0805"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:e01407b243985a03",
+    "source": "巴里観光がしたかったんだろ。",
+    "before": {
+      "id": "dialogue:e01407b243985a03",
+      "source": "巴里観光がしたかったんだろ。",
+      "text": "파리 관광을 하고 싶었던 거겠지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0806"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e01407b243985a03",
+      "source": "巴里観光がしたかったんだろ。",
+      "text": "파리 관광이 하고 싶었겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0806"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:59832d9a3532f3f1",
+    "source": "光武Ｆをいじりたかったんだろ。",
+    "before": {
+      "id": "dialogue:59832d9a3532f3f1",
+      "source": "光武Ｆをいじりたかったんだろ。",
+      "text": "광무Ｆ를 손보고 싶었던 거겠지．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0807"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:59832d9a3532f3f1",
+      "source": "光武Ｆをいじりたかったんだろ。",
+      "text": "광무Ｆ를 손보고 싶었겠지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0807"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1dd230320ffe5b2c",
+    "source": "今ごろ言われても……",
+    "before": {
+      "id": "dialogue:1dd230320ffe5b2c",
+      "source": "今ごろ言われても……",
+      "text": "지금 와서 그런 말을 들어 봤자…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04007.SBN#0008"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1dd230320ffe5b2c",
+      "source": "今ごろ言われても……",
+      "text": "이제 와서 그런 말 해 봤자…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04007.SBN#0008"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:b6f96c04a0fb6816",
+    "source": "君と戦えて、俺も幸せだよ。",
+    "before": {
+      "id": "dialogue:b6f96c04a0fb6816",
+      "source": "君と戦えて、俺も幸せだよ。",
+      "text": "함께 싸울 수 있어 나도 행복해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03013.SBN#0007"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b6f96c04a0fb6816",
+      "source": "君と戦えて、俺も幸せだよ。",
+      "text": "함께 싸워서 나도 행복해．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03013.SBN#0007"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:b49f9100466d22fc",
+    "source": "手に入れたものは、何もないよ。",
+    "before": {
+      "id": "dialogue:b49f9100466d22fc",
+      "source": "手に入れたものは、何もないよ。",
+      "text": "손에 넣은 것은，아무것도 없어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1037"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b49f9100466d22fc",
+      "source": "手に入れたものは、何もないよ。",
+      "text": "손에 넣은 건 아무것도 없어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1037"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:0e78ef619687a1bc",
+    "source": "織姫くんは十分、日本人だよ。",
+    "before": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "오리히메 군은 이미 일본인이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e78ef619687a1bc",
+      "source": "織姫くんは十分、日本人だよ。",
+      "text": "오리히메 군은 이미 일본인．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0663"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:6c3707d443d1a00b",
+    "source": "もういいから、がんばるな。",
+    "before": {
+      "id": "dialogue:6c3707d443d1a00b",
+      "source": "もういいから、がんばるな。",
+      "text": "이제 됐으니까，너무 애쓰지 마．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0570"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6c3707d443d1a00b",
+      "source": "もういいから、がんばるな。",
+      "text": "이제 됐으니，애쓰지 마．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0570"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:aeafd52cc848b463",
+    "source": "二人の服を交換してみたら？",
+    "before": {
+      "id": "dialogue:aeafd52cc848b463",
+      "source": "二人の服を交換してみたら？",
+      "text": "둘이 옷을 바꿔 입어 보면 어때？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1945"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:aeafd52cc848b463",
+      "source": "二人の服を交換してみたら？",
+      "text": "둘이 옷을 바꿔 보면 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1945"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:ca606ce8344d2219",
+    "source": "織姫くん、着物を着てみたら？",
+    "before": {
+      "id": "dialogue:ca606ce8344d2219",
+      "source": "織姫くん、着物を着てみたら？",
+      "text": "오리히메 군，기모노 입어 볼래？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1943"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ca606ce8344d2219",
+      "source": "織姫くん、着物を着てみたら？",
+      "text": "오리히메 군，기모노 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1943"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:aa4f8c70776cf6c5",
+    "source": "ロベリアのために言ってるんだ∈",
+    "before": {
+      "id": "dialogue:aa4f8c70776cf6c5",
+      "source": "ロベリアのために言ってるんだ∈",
+      "text": "로벨리아를 위해서 하는 말이야∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1192"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:aa4f8c70776cf6c5",
+      "source": "ロベリアのために言ってるんだ∈",
+      "text": "로벨리아를 위한 말이야∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1192"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:3477591dc967d8b2",
+    "source": "一人暮らしの方が気楽でいいよ。",
+    "before": {
+      "id": "dialogue:3477591dc967d8b2",
+      "source": "一人暮らしの方が気楽でいいよ。",
+      "text": "혼자 사는 게 마음 편하고 좋아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0590"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3477591dc967d8b2",
+      "source": "一人暮らしの方が気楽でいいよ。",
+      "text": "혼자 사는 게 편하고 좋아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0590"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:84db4fae88199558",
+    "source": "みんな一緒だと楽しそうだね。",
+    "before": {
+      "id": "dialogue:84db4fae88199558",
+      "source": "みんな一緒だと楽しそうだね。",
+      "text": "다 같이 살면 즐거울 것 같아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0589"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:84db4fae88199558",
+      "source": "みんな一緒だと楽しそうだね。",
+      "text": "다 같이 살면 즐겁겠다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0589"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:d0469905b75b094f",
+    "source": "グリシーヌたちと華道をする。",
+    "before": {
+      "id": "dialogue:d0469905b75b094f",
+      "source": "グリシーヌたちと華道をする。",
+      "text": "글리신 일행과 꽃꽂이를 한다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d0469905b75b094f",
+      "source": "グリシーヌたちと華道をする。",
+      "text": "글리신 일행과 꽃꽂이",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0125"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5928e589c46284aa",
+    "source": "ロベリアたちと浅草寺に行く。",
+    "before": {
+      "id": "dialogue:5928e589c46284aa",
+      "source": "ロベリアたちと浅草寺に行く。",
+      "text": "로벨리아 일행과 센소지에 간다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0126"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5928e589c46284aa",
+      "source": "ロベリアたちと浅草寺に行く。",
+      "text": "로벨리아 일행과 센소지로",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#0126"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5dd0a372d86b91ad",
+    "source": "俺になにか隠してないか？",
+    "before": {
+      "id": "dialogue:5dd0a372d86b91ad",
+      "source": "俺になにか隠してないか？",
+      "text": "나한테 뭐 숨기고 있는 거 아냐？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0230"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5dd0a372d86b91ad",
+      "source": "俺になにか隠してないか？",
+      "text": "나한테 뭐 숨기는 거 아냐？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0230"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8a6b52d2baae7128",
+    "source": "ただ必死にやっただけです。",
+    "before": {
+      "id": "dialogue:8a6b52d2baae7128",
+      "source": "ただ必死にやっただけです。",
+      "text": "그저 죽을힘을 다했을 뿐입니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0155"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8a6b52d2baae7128",
+      "source": "ただ必死にやっただけです。",
+      "text": "그저 필사적이었을 뿐입니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0155"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:08b955f25185d85c",
+    "source": "やっぱりブロマイドじゃないか？",
+    "before": {
+      "id": "dialogue:08b955f25185d85c",
+      "source": "やっぱりブロマイドじゃないか？",
+      "text": "역시 브로마이드가 낫지 않을까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1601"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:08b955f25185d85c",
+      "source": "やっぱりブロマイドじゃないか？",
+      "text": "역시 브로마이드가 낫겠지？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1601"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f92fc6098ecbf048",
+    "source": "かえでさんと話がしたくて……",
+    "before": {
+      "id": "dialogue:f92fc6098ecbf048",
+      "source": "かえでさんと話がしたくて……",
+      "text": "카에데 씨와 이야기하고 싶어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0854"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0933"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f92fc6098ecbf048",
+      "source": "かえでさんと話がしたくて……",
+      "text": "카에데 씨와 얘기하려고…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0854"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0933"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:c60b974e401f8d44",
+    "source": "俺の好きなところでよければ。",
+    "before": {
+      "id": "dialogue:c60b974e401f8d44",
+      "source": "俺の好きなところでよければ。",
+      "text": "내가 좋아하는 곳이라도 괜찮다면",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0592"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c60b974e401f8d44",
+      "source": "俺の好きなところでよければ。",
+      "text": "내가 좋아하는 곳도 괜찮다면",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0592"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:af1445e8bcbb8add",
+    "source": "ネグリジェを着て欲しいな……",
+    "before": {
+      "id": "dialogue:af1445e8bcbb8add",
+      "source": "ネグリジェを着て欲しいな……",
+      "text": "네글리제를 입어 줬으면 좋겠어…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1512"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:af1445e8bcbb8add",
+      "source": "ネグリジェを着て欲しいな……",
+      "text": "네글리제를 입어 줬으면…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1512"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:0e9c7ecbdd9a5b86",
+    "source": "この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이때를 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0790"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:c5d49c9b02ccd452",
+    "source": "……この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이 순간을 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:b0cc9c1af212aeb8",
+    "source": "コゼットの結婚の話ですか？",
+    "before": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "コゼットの結婚の話ですか？",
+      "text": "코제트의 결혼 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b0cc9c1af212aeb8",
+      "source": "コゼットの結婚の話ですか？",
+      "text": "코제트의 결혼 얘기요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0123"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:2abbcd019e1ce1b5",
+    "source": "テナルディエの強欲の話ですか？",
+    "before": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "テナルディエの強欲の話ですか？",
+      "text": "테나르디에의 탐욕 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2abbcd019e1ce1b5",
+      "source": "テナルディエの強欲の話ですか？",
+      "text": "테나르디에의 탐욕 얘기요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0124"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f268682d34ce954f",
+    "source": "ミリエル司教の救済の話ですか？",
+    "before": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "ミリエル司教の救済の話ですか？",
+      "text": "미리엘 주교의 구원 얘기인가요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f268682d34ce954f",
+      "source": "ミリエル司教の救済の話ですか？",
+      "text": "미리엘 주교의 구원 얘기요？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0125"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:ae97410b23490f1f",
+    "source": "帝都にも苦しんでいる人がいる。",
+    "before": {
+      "id": "dialogue:ae97410b23490f1f",
+      "source": "帝都にも苦しんでいる人がいる。",
+      "text": "제도에도 고통받는 사람이 있어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1168"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ae97410b23490f1f",
+      "source": "帝都にも苦しんでいる人がいる。",
+      "text": "제도에도 힘든 사람이 있어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1168"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f126f16c2a2908fb",
+    "source": "本当は仲良しだから大丈夫だよ。",
+    "before": {
+      "id": "dialogue:f126f16c2a2908fb",
+      "source": "本当は仲良しだから大丈夫だよ。",
+      "text": "사실은 사이가 좋으니까 괜찮아．",
+      "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0121"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f126f16c2a2908fb",
+      "source": "本当は仲良しだから大丈夫だよ。",
+      "text": "사실 사이좋으니까 괜찮아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0121"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:e3a4179c3a88cff7",
+    "source": "両親の想い……わかったんだね。",
+    "before": {
+      "id": "dialogue:e3a4179c3a88cff7",
+      "source": "両親の想い……わかったんだね。",
+      "text": "부모님의 마음…이제 알겠구나．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1748"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e3a4179c3a88cff7",
+      "source": "両親の想い……わかったんだね。",
+      "text": "부모님 마음…이제 알겠구나．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1748"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:2358b43d4371c39f",
+    "source": "こんなことしかできないからね。",
+    "before": {
+      "id": "dialogue:2358b43d4371c39f",
+      "source": "こんなことしかできないからね。",
+      "text": "이런 것밖에 못 하니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1638"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2358b43d4371c39f",
+      "source": "こんなことしかできないからね。",
+      "text": "이런 것밖에 못 하니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1638"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:479f38b7634bbb1f",
+    "source": "エリカくんを大切にすること……",
+    "before": {
+      "id": "dialogue:479f38b7634bbb1f",
+      "source": "エリカくんを大切にすること……",
+      "text": "에리카 군을 소중히 여기는 것…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0992"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:479f38b7634bbb1f",
+      "source": "エリカくんを大切にすること……",
+      "text": "에리카 군을 아끼는 것…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0992"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5e40f1df30a98a46",
+    "source": "エリカくんのドジを直すこと……",
+    "before": {
+      "id": "dialogue:5e40f1df30a98a46",
+      "source": "エリカくんのドジを直すこと……",
+      "text": "에리카 군의 덜렁거림 고치기…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0994"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5e40f1df30a98a46",
+      "source": "エリカくんのドジを直すこと……",
+      "text": "에리카 군의 실수 고치기…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0994"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8e2cf29b6298165c",
+    "source": "アイリスなら、きっとなれるよ。",
+    "before": {
+      "id": "dialogue:8e2cf29b6298165c",
+      "source": "アイリスなら、きっとなれるよ。",
+      "text": "아이리스라면 분명 될 수 있어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0566"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8e2cf29b6298165c",
+      "source": "アイリスなら、きっとなれるよ。",
+      "text": "아이리스라면 분명 될 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0566"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:b2e79a90b35c09d0",
+    "source": "……本当に、迷っていないのか？",
+    "before": {
+      "id": "dialogue:b2e79a90b35c09d0",
+      "source": "……本当に、迷っていないのか？",
+      "text": "…정말로，망설이지 않는 거야？",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1039"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b2e79a90b35c09d0",
+      "source": "……本当に、迷っていないのか？",
+      "text": "…정말 망설임 없는 거야？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1039"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:de6961616c628f8c",
+    "source": "じゃ、二人で酒でも飲んでるか？",
+    "before": {
+      "id": "dialogue:de6961616c628f8c",
+      "source": "じゃ、二人で酒でも飲んでるか？",
+      "text": "그럼，둘이서 술이라도 마실까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0127"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:de6961616c628f8c",
+      "source": "じゃ、二人で酒でも飲んでるか？",
+      "text": "그럼 둘이서 술이나 마실까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0127"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:f0e347ec18a476c6",
+    "source": "もぅ……勝負はいいじゃないか。",
+    "before": {
+      "id": "dialogue:f0e347ec18a476c6",
+      "source": "もぅ……勝負はいいじゃないか。",
+      "text": "정말이지…승부는 이제 됐잖아．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1711"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f0e347ec18a476c6",
+      "source": "もぅ……勝負はいいじゃないか。",
+      "text": "정말…승부는 이제 됐잖아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1711"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:5d1d4266ba71680e",
+    "source": "俺の未来は花火くんのものだよ。",
+    "before": {
+      "id": "dialogue:5d1d4266ba71680e",
+      "source": "俺の未来は花火くんのものだよ。",
+      "text": "내 미래는 하나비 군의 것이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1135"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5d1d4266ba71680e",
+      "source": "俺の未来は花火くんのものだよ。",
+      "text": "내 미래는 하나비 군 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1135"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:79bd2dd88016a282",
+    "source": "ロベリア、ウソはいけないぞ∈",
+    "before": {
+      "id": "dialogue:79bd2dd88016a282",
+      "source": "ロベリア、ウソはいけないぞ∈",
+      "text": "로벨리아，거짓말은 안 된다고∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1057"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:79bd2dd88016a282",
+      "source": "ロベリア、ウソはいけないぞ∈",
+      "text": "로벨리아，거짓말은 안 돼∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1028"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#1057"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:ea8646fd6bec8529",
+    "source": "地味な衣装も似合うと思うよ。",
+    "before": {
+      "id": "dialogue:ea8646fd6bec8529",
+      "source": "地味な衣装も似合うと思うよ。",
+      "text": "수수한 의상도 어울릴 것 같아．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0563"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ea8646fd6bec8529",
+      "source": "地味な衣装も似合うと思うよ。",
+      "text": "수수한 의상도 어울릴 거야．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0563"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:1ff122bb8a438030",
+    "source": "教えることはもうなにもないよ。",
+    "before": {
+      "id": "dialogue:1ff122bb8a438030",
+      "source": "教えることはもうなにもないよ。",
+      "text": "이제 가르칠 건 아무것도 없어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0978"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1ff122bb8a438030",
+      "source": "教えることはもうなにもないよ。",
+      "text": "더 가르칠 건 아무것도 없어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0978"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:11b0e30ac0163b31",
+    "source": "すみれくんに相談してみたら？",
+    "before": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군과 상의해 보면 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:11b0e30ac0163b31",
+      "source": "すみれくんに相談してみたら？",
+      "text": "스미레 군과 상의하면 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0661"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:0ec26662f29ca283",
+    "source": "蒸鬼を倒せばいいんだな！",
+    "before": {
+      "id": "dialogue:0ec26662f29ca283",
+      "source": "蒸鬼を倒せばいいんだな！",
+      "text": "증귀를 쓰러뜨리면 되는 거지！",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0051"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0ec26662f29ca283",
+      "source": "蒸鬼を倒せばいいんだな！",
+      "text": "증귀를 쓰러뜨리면 되지！",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G03/E/EV03001.SBN#0051"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:ddea0d8cf4cab39b",
+    "source": "残念ですが……延期しましょう。",
+    "before": {
+      "id": "dialogue:ddea0d8cf4cab39b",
+      "source": "残念ですが……延期しましょう。",
+      "text": "유감입니다만…미루도록 하죠．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1305"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:ddea0d8cf4cab39b",
+      "source": "残念ですが……延期しましょう。",
+      "text": "유감이지만…미루도록 하죠．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1302"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1305"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:8bed65e71610f55d",
+    "source": "俺たちも腕を組んで歩こうか？",
+    "before": {
+      "id": "dialogue:8bed65e71610f55d",
+      "source": "俺たちも腕を組んで歩こうか？",
+      "text": "우리도 팔짱을 끼고 걸어갈까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1177"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8bed65e71610f55d",
+      "source": "俺たちも腕を組んで歩こうか？",
+      "text": "우리도 팔짱 끼고 걸을까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1177"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:128692841bc60b07",
+    "source": "はい……思う人がいて……",
+    "before": {
+      "id": "dialogue:128692841bc60b07",
+      "source": "はい……思う人がいて……",
+      "text": "네…마음에 둔 사람이 있어서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0311"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:128692841bc60b07",
+      "source": "はい……思う人がいて……",
+      "text": "네…좋아하는 사람이 있어서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0311"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:585801b6645edfb8",
+    "source": "巴里と帝都、どっちがいい？",
+    "before": {
+      "id": "dialogue:585801b6645edfb8",
+      "source": "巴里と帝都、どっちがいい？",
+      "text": "파리와 제도，어느 쪽이 좋아？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0701"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:585801b6645edfb8",
+      "source": "巴里と帝都、どっちがいい？",
+      "text": "파리와 제도，어디가 좋아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0701"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:e506e0b6a4c55044",
+    "source": "……今は待つしかない。",
+    "before": {
+      "id": "dialogue:e506e0b6a4c55044",
+      "source": "……今は待つしかない。",
+      "text": "…지금은 기다릴 수밖에 없어．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1869"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e506e0b6a4c55044",
+      "source": "……今は待つしかない。",
+      "text": "…지금은 기다릴 수밖에．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1869"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:4eafa15808da0509",
+    "source": "好きな服でいいんじゃないか？",
+    "before": {
+      "id": "dialogue:4eafa15808da0509",
+      "source": "好きな服でいいんじゃないか？",
+      "text": "좋아하는 옷이면 되지 않을까？",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1513"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4eafa15808da0509",
+      "source": "好きな服でいいんじゃないか？",
+      "text": "좋아하는 옷이면 되잖아？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1513"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:c405c22152fac690",
+    "source": "それだけいい舞台だったんだよ。",
+    "before": {
+      "id": "dialogue:c405c22152fac690",
+      "source": "それだけいい舞台だったんだよ。",
+      "text": "그만큼 멋진 무대였단 말이야．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1465"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c405c22152fac690",
+      "source": "それだけいい舞台だったんだよ。",
+      "text": "그만큼 멋진 무대였어．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1465"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:a28fbf5822473628",
+    "source": "なんとかなると思って……",
+    "before": {
+      "id": "dialogue:a28fbf5822473628",
+      "source": "なんとかなると思って……",
+      "text": "어떻게든 될 거라고 생각해서…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0450"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a28fbf5822473628",
+      "source": "なんとかなると思って……",
+      "text": "어떻게든 될 것 같아서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0450"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  },
+  {
+    "unit": "dialogue:7c3d6c94a3825479",
+    "source": "ロベリアも手伝ったらどうだい？",
+    "before": {
+      "id": "dialogue:7c3d6c94a3825479",
+      "source": "ロベリアも手伝ったらどうだい？",
+      "text": "로벨리아도 도와주는 게 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7c3d6c94a3825479",
+      "source": "ロベリアも手伝ったらどうだい？",
+      "text": "로벨리아도 돕는 게 어때？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0125"
+        }
+      ]
+    },
+    "reason": "선택지 칸 여유: 띄어쓰기 0.5칸으로 셈해 14칸(일본어 최대 15칸보다 한 칸 적게) 이하로 줄임."
+  }
+]

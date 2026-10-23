@@ -1,7 +1,7 @@
 {"id": "dialogue:0cb46c1f73cafc24", "source": "花火くん……//帝都での戦闘は、//初めてだよね。", "text": "하나비 군…//제도에서의 전투는，//처음이지？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0001"}]}
 {"id": "dialogue:334a6a768fbedcd5", "source": "はい……//帝都のために戦えて、//感無量です。", "text": "네…//제도를 위해 싸울 수 있어서，//감개무량합니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0002"}]}
 {"id": "dialogue:653732ce9ce2bd3e", "source": "大神さん……//私でお役に立つことは//なにかございませんか？", "text": "오오가미 씨…//제가 도움이 될 만한 일은//무엇인가 없을까요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0003"}]}
-{"id": "dialogue:b6f96c04a0fb6816", "source": "君と戦えて、俺も幸せだよ。", "text": "함께 싸울 수 있어 나도 행복해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0007"}]}
+{"id": "dialogue:b6f96c04a0fb6816", "source": "君と戦えて、俺も幸せだよ。", "text": "함께 싸워서 나도 행복해", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0007"}]}
 {"id": "dialogue:98597f8237aac628", "source": "よし、先陣はまかせたぞ！//接近戦で頼む∈", "text": "좋아，선봉은 맡겼다∈//근접전으로 부탁한다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0008"}]}
 {"id": "dialogue:67b26cdf6246da2d", "source": "本来は、後方で支援する//私ですが……//大神さんのお望みとあれば……", "text": "본래는 후방에서 지원하는//저입니다만…//오오가미 씨께서 원하신다면…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0009"}]}
 {"id": "dialogue:3fdf4cd24531bec4", "source": "敵と刺しちがえ……//この身が砕けようとも、//大神さんのご命令に従います。", "text": "적과 함께 쓰러져…//이 몸이 부서지더라도，//오오가미 씨의 명령에 따르겠습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/E/EV03013.SBN#0010"}]}

@@ -1,0 +1,326 @@
+[
+  {
+    "unit": "dialogue:1821baffd12b85b0",
+    "source": "第１幕導入(1)",
+    "before": {
+      "id": "dialogue:1821baffd12b85b0",
+      "source": "第１幕導入(1)",
+      "text": "제１막 도입（１）",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0010"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1821baffd12b85b0",
+      "source": "第１幕導入(1)",
+      "text": "제１막 도입(1)",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0010"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:f9e26397e9359df1",
+    "source": "第１幕戦闘(2)",
+    "before": {
+      "id": "dialogue:f9e26397e9359df1",
+      "source": "第１幕戦闘(2)",
+      "text": "제１막 전투（２）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0013"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f9e26397e9359df1",
+      "source": "第１幕戦闘(2)",
+      "text": "제１막 전투(2)",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0013"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:419b03ea93983aac",
+    "source": "第２幕戦闘(3)",
+    "before": {
+      "id": "dialogue:419b03ea93983aac",
+      "source": "第２幕戦闘(3)",
+      "text": "제２막 전투（３）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0017"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:419b03ea93983aac",
+      "source": "第２幕戦闘(3)",
+      "text": "제２막 전투(3)",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0017"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:224459fc0c3a0be5",
+    "source": "第３幕戦闘1(4)",
+    "before": {
+      "id": "dialogue:224459fc0c3a0be5",
+      "source": "第３幕戦闘1(4)",
+      "text": "제３막 전투 １（４）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0022"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:224459fc0c3a0be5",
+      "source": "第３幕戦闘1(4)",
+      "text": "제３막 전투1(4)",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0022"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:f51106e8d7c9c71d",
+    "source": "第３幕戦闘2(5)",
+    "before": {
+      "id": "dialogue:f51106e8d7c9c71d",
+      "source": "第３幕戦闘2(5)",
+      "text": "제３막 전투 ２（５）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0024"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f51106e8d7c9c71d",
+      "source": "第３幕戦闘2(5)",
+      "text": "제３막 전투2(5)",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0024"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:02de24601572c223",
+    "source": "最終幕〜Ending",
+    "before": {
+      "id": "dialogue:02de24601572c223",
+      "source": "最終幕〜Ending",
+      "text": "최종막～Ｅｎｄｉｎｇ",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0026"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:02de24601572c223",
+      "source": "最終幕〜Ending",
+      "text": "최종막～Ending",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0026"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:029034e1a9a955c7",
+    "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）",
+    "before": {
+      "id": "dialogue:029034e1a9a955c7",
+      "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）",
+      "text": "전투를 중단하고//게임 진행 상황을 저장하시겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0087"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:029034e1a9a955c7",
+      "source": "戦闘を中断して//ゲームの経過を保存しますか？//（中断すると//　タイトル画面に戻ります）",
+      "text": "전투를 중단하고//게임 진행 상황을 저장하겠습니까？//（중단하면//타이틀 화면으로 돌아갑니다）",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0087"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:0a7492e698edeb44",
+    "source": "データの合体は//正常に終了しました。",
+    "before": {
+      "id": "dialogue:0a7492e698edeb44",
+      "source": "データの合体は//正常に終了しました。",
+      "text": "데이터 합체가//정상적으로 완료되었습니다．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0059"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0a7492e698edeb44",
+      "source": "データの合体は//正常に終了しました。",
+      "text": "데이터 합체가//정상적으로 끝났습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0059"
+        }
+      ]
+    },
+    "reason": "v0.5가 BSS(원본 파일 끝 뒤)로 옮겨 게임에서 빈칸으로 나오던 문자열을 원래 자리로 되돌림. 원래 칸 길이에 맞춤."
+  },
+  {
+    "unit": "dialogue:383bbb5e8490445a",
+    "source": "　　　　無効　",
+    "before": {
+      "id": "dialogue:383bbb5e8490445a",
+      "source": "　　　　無効　",
+      "text": "　　　　비활성",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0158"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:383bbb5e8490445a",
+      "source": "　　　　無効　",
+      "text": "　　　　끄기　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0158"
+        }
+      ]
+    },
+    "reason": "옵션 화면: 항목 문자열은 원본 칸 위치에 겹쳐 그린다. 틀(「／」)을 원본 칸 수로 되돌리고 항목을 칸 안에 맞춤. 「비활성」은 두 칸을 넘어 「끄기」로."
+  },
+  {
+    "unit": "dialogue:3ac909bffc994b06",
+    "source": "　有効　　　　",
+    "before": {
+      "id": "dialogue:3ac909bffc994b06",
+      "source": "　有効　　　　",
+      "text": "　활성　　　　",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0159"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3ac909bffc994b06",
+      "source": "　有効　　　　",
+      "text": "　켜기　　　　",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0159"
+        }
+      ]
+    },
+    "reason": "옵션 화면: 항목 문자열은 원본 칸 위치에 겹쳐 그린다. 틀(「／」)을 원본 칸 수로 되돌리고 항목을 칸 안에 맞춤."
+  },
+  {
+    "unit": "dialogue:9bbfab566934e49c",
+    "source": "「　　　　／　　　　」",
+    "before": {
+      "id": "dialogue:9bbfab566934e49c",
+      "source": "「　　　　／　　　　」",
+      "text": "「　　／　　」",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0149"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9bbfab566934e49c",
+      "source": "「　　　　／　　　　」",
+      "text": "「　　　　／　　　　」",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0149"
+        }
+      ]
+    },
+    "reason": "옵션 화면: 항목 문자열은 원본 칸 위치에 겹쳐 그린다. 틀(「／」)을 원본 칸 수로 되돌리고 항목을 칸 안에 맞춤."
+  },
+  {
+    "unit": "dialogue:bc412f7e1aa1f8c1",
+    "source": "「　　／　　　」",
+    "before": {
+      "id": "dialogue:bc412f7e1aa1f8c1",
+      "source": "「　　／　　　」",
+      "text": "「　　／　　」",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0153"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bc412f7e1aa1f8c1",
+      "source": "「　　／　　　」",
+      "text": "「　　／　　　」",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "1ST_READ.BIN#0153"
+        }
+      ]
+    },
+    "reason": "옵션 화면: 항목 문자열은 원본 칸 위치에 겹쳐 그린다. 틀(「／」)을 원본 칸 수로 되돌리고 항목을 칸 안에 맞춤."
+  }
+]

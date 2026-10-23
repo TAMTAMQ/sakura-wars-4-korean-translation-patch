@@ -3,7 +3,7 @@
 {"id": "dialogue:84afa6ba53838ed6", "source": "すみれくん、//すごい汗じゃないか！//無理するんじゃないぞ。", "text": "스미레 군，//땀을 엄청 흘리고 있잖아∈//무리하지 마．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0003"}]}
 {"id": "dialogue:eb4dc99054d0efbc", "source": "わたくし……//この程度の戦いで、//泣き言は申せませんのよ。", "text": "저는…//이 정도 싸움으로，//약한 소리는 할 수 없답니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0004"}]}
 {"id": "dialogue:b07487fcef18bd32", "source": "中尉への恩返しは……//今しかできませんから。", "text": "중위님께 보답하는 일은…//지금밖에 할 수 없으니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0005"}]}
-{"id": "dialogue:1dd230320ffe5b2c", "source": "今ごろ言われても……", "text": "지금 와서 그런 말을 들어 봤자…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0008"}]}
+{"id": "dialogue:1dd230320ffe5b2c", "source": "今ごろ言われても……", "text": "이제 와서 그런 말 해 봤자…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0008"}]}
 {"id": "dialogue:dbc25644da71e589", "source": "……今しか？", "text": "…지금뿐인가？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0009"}]}
 {"id": "dialogue:2bf0c541b0c157d7", "source": "ありがとう……//本当にありがとう。", "text": "고마워…//정말 고마워．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0010"}]}
 {"id": "dialogue:9a1040f5b1ba289b", "source": "この程度で//ありがたがるなんて……//中尉も、まだまだですわね。", "text": "이 정도에//고마워하다니…//중위님도 아직 멀었네요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04007.SBN#0011"}]}

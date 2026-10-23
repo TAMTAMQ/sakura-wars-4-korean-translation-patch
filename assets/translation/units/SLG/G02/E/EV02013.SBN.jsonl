@@ -4,8 +4,8 @@
 {"id": "dialogue:4787ddc756290973", "source": "いいっ〓//ア、アイリス……//戦闘中なんだけど……", "text": "으앗〓//아，아이리스…//전투 중인데…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0004"}]}
 {"id": "dialogue:963017cf1d73a0ff", "source": "ねえ、いいでしょ∈//ね～え～！", "text": "있잖아，괜찮지∈//있잖아～∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0005"}]}
 {"id": "dialogue:b9338acb1f302101", "source": "よし、乗ろうか！", "text": "좋아，타 볼까∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0007"}]}
-{"id": "dialogue:03b23df645d0ab30", "source": "戦闘中だからダメだよ。", "text": "전투 중이니까 안 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0008"}]}
-{"id": "dialogue:ced22b1f1fe8aba3", "source": "オバケ屋敷がいいな。", "text": "귀신의 집이 좋아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0009"}]}
+{"id": "dialogue:03b23df645d0ab30", "source": "戦闘中だからダメだよ。", "text": "전투 중이니까 안 돼", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0008"}]}
+{"id": "dialogue:ced22b1f1fe8aba3", "source": "オバケ屋敷がいいな。", "text": "귀신의 집이 좋아", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0009"}]}
 {"id": "dialogue:a80c70bca9ca2e59", "source": "よし、乗ろうか！//実は俺も、//アイリスと乗りたかったんだ。", "text": "좋아，타 볼까∈//사실 나도，//아이리스와 타고 싶었어．", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0010"}]}
 {"id": "dialogue:81f56f84cd134443", "source": "ホントにホントにホント〓//やったぁ！//お兄ちゃん、大すきー∈", "text": "정말 정말 정말〓//해냈다∈//오빠，정말 좋아∈", "review": "번역 검수", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0011"}]}
 {"id": "dialogue:8925196830b8bcc8", "source": "よーし、じゃあ//敵に気付かれないように//光武を降りるんだよ……", "text": "좋아，그럼//적에게 들키지 않도록//광무에서 내리는 거야…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02013.SBN#0012"}]}

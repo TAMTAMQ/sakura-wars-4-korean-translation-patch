@@ -1,0 +1,56 @@
+[
+  {
+    "unit": "dialogue:9cbb8faadb768da9",
+    "source": "こんな時間だから、//みんな、もう部屋で//寝てるかもしれないな……",
+    "before": {
+      "id": "dialogue:9cbb8faadb768da9",
+      "source": "こんな時間だから、//みんな、もう部屋で//寝てるかもしれないな……",
+      "text": "이런 시간이라，//모두 벌써 방에서//자고 있을지도 모르겠군…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0282"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9cbb8faadb768da9",
+      "source": "こんな時間だから、//みんな、もう部屋で//寝てるかもしれないな……",
+      "text": "늦은 시간이라，//모두 벌써 방에서//자고 있을지도 모르겠군…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0282"
+        }
+      ]
+    },
+    "reason": "사용자 제안: 「こんな時間」을 「이런 시간」 대신 「늦은 시간」으로 의역."
+  },
+  {
+    "unit": "dialogue:48b26917f05fc3d8",
+    "source": "あ……うん。//別にいいけど……",
+    "before": {
+      "id": "dialogue:48b26917f05fc3d8",
+      "source": "あ……うん。//別にいいけど……",
+      "text": "아…응．//별로 상관없지만…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0992"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:48b26917f05fc3d8",
+      "source": "あ……うん。//別にいいけど……",
+      "text": "아…응．//딱히 상관없지만…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0992"
+        }
+      ]
+    },
+    "reason": "사용자 제안: 레니 「別にいいけど」를 「딱히」로."
+  }
+]

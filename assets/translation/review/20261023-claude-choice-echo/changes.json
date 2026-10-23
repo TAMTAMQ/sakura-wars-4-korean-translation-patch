@@ -1,0 +1,83 @@
+[
+  {
+    "unit": "dialogue:83dd83f3df55b948",
+    "source": "粉骨砕身の覚悟でがんばります。",
+    "before": {
+      "id": "dialogue:83dd83f3df55b948",
+      "source": "粉骨砕身の覚悟でがんばります。",
+      "text": "분골쇄신으로 임하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1983"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:83dd83f3df55b948",
+      "source": "粉骨砕身の覚悟でがんばります。",
+      "text": "분골쇄신의 각오로 하겠습니다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1983"
+        }
+      ]
+    },
+    "reason": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:0e9c7ecbdd9a5b86",
+    "source": "この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이때를 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0e9c7ecbdd9a5b86",
+      "source": "この時をどれだけ待ったか。",
+      "text": "이 순간을 얼마나 기다렸는지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0796"
+        }
+      ]
+    },
+    "reason": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지)."
+  },
+  {
+    "unit": "dialogue:c5d49c9b02ccd452",
+    "source": "……この時をどれだけ待ったか。",
+    "before": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸던가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c5d49c9b02ccd452",
+      "source": "……この時をどれだけ待ったか。",
+      "text": "…이때를 얼마나 기다렸는지．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0810"
+        }
+      ]
+    },
+    "reason": "다시 번역한 선택지와 선택 뒤 같은 대사를 같은 문구로 맞춤(대사는 마침표 유지)."
+  }
+]

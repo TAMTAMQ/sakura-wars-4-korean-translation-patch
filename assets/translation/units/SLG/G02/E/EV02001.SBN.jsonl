@@ -1,9 +1,9 @@
 {"id": "dialogue:e68d7828fde25c65", "source": "そういえば、大神さん……//光武二式の操縦には、//もう慣れましたか？", "text": "그러고 보니，오오가미 씨…//광무 ２식의 조종에는，//이제 익숙해지셨나요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0001"}]}
 {"id": "dialogue:7fe56b6f8720baa3", "source": "帝都に戻って来てから//まだ、間もないし……//まだ完全とはいえないよ。", "text": "제도로 돌아온 지//아직 얼마 되지 않았고…//아직 완전하다고는 할 수 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0002"}]}
 {"id": "dialogue:f53c5606fbad93b3", "source": "もし、不安でしたら……//操縦方法の確認をしたほうが//いいかもしれませんよ？", "text": "혹시 불안하시다면…//조종 방법을 확인해 보는 것이//좋을지도 몰라요？", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0003"}]}
-{"id": "dialogue:882f7d62d8644f79", "source": "確認しておくか。", "text": "확인해 볼까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0005"}]}
-{"id": "dialogue:2c578a59aebf33d0", "source": "基本だけ確認しよう。", "text": "기본만 확인하자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0006"}]}
-{"id": "dialogue:8cc078d17d82846b", "source": "いや、大丈夫だ。", "text": "아니，괜찮아．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0007"}]}
+{"id": "dialogue:882f7d62d8644f79", "source": "確認しておくか。", "text": "확인해 볼까", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0005"}]}
+{"id": "dialogue:2c578a59aebf33d0", "source": "基本だけ確認しよう。", "text": "기본만 확인하자", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0006"}]}
+{"id": "dialogue:8cc078d17d82846b", "source": "いや、大丈夫だ。", "text": "아니，괜찮아", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0007"}]}
 {"id": "dialogue:37adf3ca70e26163", "source": "そうだね、確認しておこう。//操縦をまちがえると//命取りになるしね。", "text": "그래，확인해 두자．//조종을 실수하면//목숨이 위태로워질 테니까．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0008"}]}
 {"id": "dialogue:0c52bf6de14ecce6", "source": "はい！//あたしたちが説明しますから、//聞いてくださいね。", "text": "네∈//저희가 설명할 테니까，//잘 들어 주세요．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0009"}, {"id": "SLG/G02/E/EV02001.SBN#0011"}]}
 {"id": "dialogue:62884cd10efc5bf4", "source": "基本だけ確認しようかな。//さすがに、全部教えてもらう//必要はないよ。", "text": "기본적인 것만 확인해 볼까．//아무래도 전부 설명을 들을//필요는 없겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0010"}]}
