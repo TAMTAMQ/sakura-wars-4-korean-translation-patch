@@ -95,7 +95,7 @@
 {"id": "dialogue:8296f499f352c164", "source": "ダメだ、紅蘭……//一人で行ってくれ。", "text": "안 돼，홍란…혼자서 가 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0389"}]}
 {"id": "dialogue:ad6c870e6dfde9fd", "source": "なに言うてんねん∈//こんなとこにおったら、//大神はんも死んでまうやろ！", "text": "무슨 소리 하노∈이런 데 있다간，//오오가미 씨도 죽어 뿐다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0391"}]}
 {"id": "dialogue:e87bb21ff9ecc6db", "source": "いいから、行け！//ここは俺がなんとかする！//紅蘭は脱出するんだ∈", "text": "됐으니까，가∈여긴 내가//어떻게든 하겠어∈홍란은 탈출해∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0392"}]}
-{"id": "dialogue:c2b3898f870154d4", "source": "だから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。", "text": "그러니까…내도 도울게∈우리 둘이//같이 있으면，뭐든지 잘될 끼다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0395"}]}
+{"id": "dialogue:c2b3898f870154d4", "source": "だから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。", "text": "그러니까…내도 도와주께∈//우리 둘이 같이 있으면，//뭐든지 잘될 끼다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0395"}]}
 {"id": "dialogue:72332ceeba042bb2", "source": "紅蘭まで……死ぬことはない。", "text": "홍란까지…죽을 필요는 없어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0397"}]}
 {"id": "dialogue:15c0e72e38b42ed1", "source": "ありがとう……一緒に来てくれ∈", "text": "고마워…함께 와 줘∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0398"}]}
 {"id": "dialogue:4ddc87c0815b85da", "source": "紅蘭まで……死ぬことはない。//いいから、一人で逃げろ……//さぁ、はやく。", "text": "홍란까지…죽을 필요는 없어．//됐으니까，혼자 도망쳐…//자，어서．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0340.SBX#0399"}]}

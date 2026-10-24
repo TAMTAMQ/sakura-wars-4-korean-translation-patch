@@ -135,9 +135,9 @@
 {"id": "dialogue:b6b5055eb21a6522", "source": "隊長、聞いてくれよ。//紅蘭のヤツがさ……//納豆を食わないんだよ。", "text": "대장，내 말 좀 들어봐．홍란 녀석이//말이야…낫토를 안 먹는다고．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0284"}]}
 {"id": "dialogue:5792721aafcd12a5", "source": "納豆にはすごい栄養があるから//食えって言ったのは//紅蘭のくせにさ。", "text": "낫토는 영양이 엄청 좋으니까//먹으라고 한 건 홍란이면서 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0285"}]}
 {"id": "dialogue:46a543c0f6494a99", "source": "……納豆〓", "text": "…낫토〓", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0286"}]}
-{"id": "dialogue:e5f72afeeb394a6f", "source": "確かに、納豆のスゴさを//見つけたんはウチやけど……", "text": "확실히 낫토의 대단함을//발견한 건 내지만…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0287"}]}
+{"id": "dialogue:e5f72afeeb394a6f", "source": "確かに、納豆のスゴさを//見つけたんはウチやけど……", "text": "확실히 낫토 대단함을//발견한 건 내지만도…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0287"}]}
 {"id": "dialogue:86d1bf0e3bc06e1d", "source": "それとこれとは話が別や∈//あんなネバネバした食べ物、//ウチにはムリなんやって！", "text": "그거랑 이거는 다른 얘기다∈//그래 끈적끈적한 음식은，//내한테는 무리라 카이∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0288"}]}
-{"id": "dialogue:56ccebd74e4996d7", "source": "ウチは関西育ちなんやさかい、//納豆は苦手でええんや！//大神はんもそう思うやろ？", "text": "내는 간사이에서 컸으니까，//낫토 싫어해도 되는 기다∈//오오가미 씨도 그래 생각하제？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0289"}]}
+{"id": "dialogue:56ccebd74e4996d7", "source": "ウチは関西育ちなんやさかい、//納豆は苦手でええんや！//大神はんもそう思うやろ？", "text": "내는 간사이에서 컸으니께，//낫토 싫어해도 되는 기다∈//오오가미 씨도 그래 생각하제？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0289"}]}
 {"id": "dialogue:017e2b90c088057d", "source": "そ、そうだな……", "text": "그，그렇네…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0290"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#0562"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#0268"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#0690"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#1255"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2142"}, {"id": "SLG/G02/E/EV02013.SBN#0006"}]}
 {"id": "dialogue:ebc8f566a42d1970", "source": "好き嫌いはしかたないね。", "text": "좋고 싫은 건 어쩔 수 없지", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0291"}]}
 {"id": "dialogue:24fe35b715453050", "source": "関西は関係ないんじゃないか？", "text": "간사이는 상관없지 않아？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0292"}]}
@@ -155,12 +155,12 @@
 {"id": "dialogue:766d713bb87e3b45", "source": "まぁ、いいか……//俺もほかの場所に行こう。", "text": "뭐，됐나…//나도 다른 곳으로 가야겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0307"}]}
 {"id": "dialogue:6ee09f5d0eca7b82", "source": "関西は関係ないんじゃないか？//俺は単なる好き嫌いだと、//思うんだけど……", "text": "간사이는 상관없지 않아？난 그냥//개인 취향 문제라고 생각하는데…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0308"}]}
 {"id": "dialogue:a8f9e375e23b5b4d", "source": "その通りだぜ。//隊長もいいこと言うじゃないか。", "text": "맞아．대장도 좋은 말 하잖아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0309"}]}
-{"id": "dialogue:2ba0c33201ad67fc", "source": "わかってへんなぁ、二人とも。//関西育ちっちゅうもんはな、//納豆を食べたらあかんのやで。", "text": "둘 다 뭘 모르네．//간사이에서 큰 사람은 말이다，//낫토를 먹으면 안 되는 기다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0310"}]}
+{"id": "dialogue:2ba0c33201ad67fc", "source": "わかってへんなぁ、二人とも。//関西育ちっちゅうもんはな、//納豆を食べたらあかんのやで。", "text": "둘 다 뭘 모르구마．//간사이에서 큰 사람은 말이다，//낫토를 먹으면 안 되는 기다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0310"}]}
 {"id": "dialogue:9d001254fa10c359", "source": "納豆を食べたんがバレたら、//二度と関西の敷居を//またげんようになるんや。", "text": "낫토 먹은 기 들키면，두 번 다시//간사이 땅을 못 밟게 되는 기다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0311"}]}
-{"id": "dialogue:80789e50fc4b58f9", "source": "せやから関西では、//隠れて納豆を食べることを//闇納豆って言うぐらいなんや。", "text": "그래서 간사이에서는，//몰래 낫토 먹는 걸//「암흑 낫토」라 부를 정도다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0312"}]}
+{"id": "dialogue:80789e50fc4b58f9", "source": "せやから関西では、//隠れて納豆を食べることを//闇納豆って言うぐらいなんや。", "text": "그래서 간사이에서는 몰래 낫토 먹는//걸 「암흑 낫토」라 칼 정도데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0312"}]}
 {"id": "dialogue:2bd25f9ce4a2a913", "source": "闇納豆……知らなかったよ。//そんな決まりがあるんなら、//無理強いはできねぇよな。", "text": "암흑 낫토…몰랐어．그런 규칙이//있다면，억지로 먹일 수는 없겠네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0313"}]}
 {"id": "dialogue:9ec055274616f0d9", "source": "すまなかったな、紅蘭。//あたいが悪かったよ。", "text": "미안해，홍란．내가 잘못했어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0314"}]}
-{"id": "dialogue:af0c3e37326d7d0f", "source": "わかってくれたらええねん。//ウチも今まで//説明してへんかったしな。", "text": "알아줬으면 됐다．//내도 지금까지 설명 안 했으니까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0315"}]}
+{"id": "dialogue:af0c3e37326d7d0f", "source": "わかってくれたらええねん。//ウチも今まで//説明してへんかったしな。", "text": "알아줬으면 됐다．//내도 지금까지 설명 안 했으니께．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0315"}]}
 {"id": "dialogue:141b73496a5fda9f", "source": "ほな、カンナはん……//ウチはもう行くわ。//そこの納豆、食べといてな。", "text": "그럼，칸나 씨…내는 이만 간다．//거기 낫토 먹어 둬라", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0316"}]}
 {"id": "dialogue:2f0be1857c863d75", "source": "むぐむぐ……闇納豆か。//なぁ、隊長、//関西育ちって大変なんだな。", "text": "우물우물…암흑 낫토라．있잖아，//대장．간사이 출신도 힘들구나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0318"}]}
 {"id": "dialogue:a986aa810b94e868", "source": "あ、ああ……そうだな。//なんだか、//うさんくさい話だけど……", "text": "아，아아…그렇네．왠지 모르게，//수상쩍은 이야기지만…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0319"}]}
@@ -168,12 +168,12 @@
 {"id": "dialogue:c858f12c7e254cdc", "source": "なんだか、紅蘭に//言いくるめられたみたいだけど、//まぁいいか……", "text": "왠지 홍란한테 말려든 것 같지만，//뭐，됐나…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0322"}]}
 {"id": "dialogue:11e9b3e67c6fddb4", "source": "さて、俺も//見回りの続きをするか。", "text": "자，나도 순찰을 계속해 볼까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0323"}]}
 {"id": "dialogue:bcf81ca94202b79d", "source": "ネバーギブアップだ、紅蘭∈//がんばれ！", "text": "끈기를 가져라，홍란∈힘내∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0325"}]}
-{"id": "dialogue:9404ffe930925dd2", "source": "あははははは∈//うまい！　うまいで大神はん∈//ええシャレや！", "text": "아하하하하하∈잘한다∈오오가미 씨，//잘한다∈멋진 말장난이다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0326"}]}
-{"id": "dialogue:2e24d71b808440b2", "source": "納豆のネバネバと……//ネバーギブアップ！//さすがは大神はんや∈", "text": "낫토는 끈적하고…홍란은 끈기//있게∈역시 오오가미 씨다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0327"}]}
+{"id": "dialogue:9404ffe930925dd2", "source": "あははははは∈//うまい！　うまいで大神はん∈//ええシャレや！", "text": "아하하하하하∈잘한다∈//오오가미 씨，멋진 말장난이데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0326"}]}
+{"id": "dialogue:2e24d71b808440b2", "source": "納豆のネバネバと……//ネバーギブアップ！//さすがは大神はんや∈", "text": "낫토는 끈적하고…홍란은 끈기//있게∈역시 오오가미 씨데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0327"}]}
 {"id": "dialogue:e13e75ddb9101819", "source": "そ、そうかな？", "text": "그，그럴까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0328"}]}
-{"id": "dialogue:ce90407e6489e501", "source": "……ほな、そういうことで。", "text": "…그럼，그런 걸로．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0329"}]}
+{"id": "dialogue:ce90407e6489e501", "source": "……ほな、そういうことで。", "text": "…그럼 그래 하재이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0329"}]}
 {"id": "dialogue:bf8c327dde68b05a", "source": "ちょっと待て、紅蘭！//隊長のダジャレと//好き嫌いは関係ないだろ∈", "text": "잠깐만，홍란∈대장의//말장난이랑 편식은 상관없잖아∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0331"}]}
-{"id": "dialogue:c6d14442c2ae7353", "source": "しもた！//カンナはんまでは、//ごまかせんかったか∈", "text": "아차∈칸나 씨까지는 못 속였나∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0332"}]}
+{"id": "dialogue:c6d14442c2ae7353", "source": "しもた！//カンナはんまでは、//ごまかせんかったか∈", "text": "아차∈칸나 씨까지는 몬 속였나∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0332"}]}
 {"id": "dialogue:bf785a0f411628f4", "source": "カンベンしてぇや！//ウチ、ホンマに//納豆はアカンねんって∈", "text": "좀 봐주라∈내，//참말로 낫토는 안 된다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0333"}]}
 {"id": "dialogue:a9824378525975a7", "source": "逃がさねぇぞ、紅蘭！//いいから食ってみろって！//うまいんだから∈", "text": "못 도망가，홍란∈됐으니까//한번 먹어 봐∈맛있다니까∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0334"}]}
 {"id": "dialogue:7e930d9995e1f07d", "source": "さわがしいなぁ、まったく……//まぁ、好き嫌いは//しかたないけど……", "text": "정말 시끄럽네…뭐，//호불호는 어쩔 수 없지만…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0336"}]}
@@ -181,7 +181,7 @@
 {"id": "dialogue:516521cad9bfd99f", "source": "えぇと……//そうだなぁ……", "text": "음…그러게 말이야…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0338"}]}
 {"id": "dialogue:166ce8cfd5dc79fb", "source": "なぁ、紅蘭。//だまされたと思って、//一口食ってみろよ。", "text": "있잖아，홍란．//속는 셈 치고，한입 먹어 봐．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0339"}]}
 {"id": "dialogue:dab1a7147c4d3884", "source": "この納豆は水戸から持ってきた//日本一の納豆なんだぜ。//副将軍だって食べてたんだから。", "text": "이 낫토는 미토에서 가져온//일본 제일의 낫토라고．//미토 고몬도 먹었다고．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0340"}]}
-{"id": "dialogue:c65cb9a6b5c9d0c5", "source": "カンナはんが//そこまで言うんなら……", "text": "칸나 씨가 그렇게까지 말한다면…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0341"}]}
+{"id": "dialogue:c65cb9a6b5c9d0c5", "source": "カンナはんが//そこまで言うんなら……", "text": "칸나 씨가 그래까지 말하면…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0341"}]}
 {"id": "dialogue:fefe4160a92e542b", "source": "せやけど、//一口しか食べへんからな。//じゃあ……はむ。", "text": "그래도，한입만 먹을 끼다．//그럼…냠．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0342"}]}
 {"id": "dialogue:51b11e43ed7f4865", "source": "……どうだ、紅蘭？//ちゃんと食べられたか？", "text": "…어때，홍란？제대로 먹었어？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0344"}]}
 {"id": "dialogue:14d75aae959a6e10", "source": "うぁぁぁぁぁ……//口の中がネバネバするぅ……//ヘンなにおいがするぅ……", "text": "으아아아…입안이 끈적끈적하다…//이상한 냄새 난다…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#0345"}]}
@@ -1280,11 +1280,11 @@
 {"id": "dialogue:0646cd1b3ee266e9", "source": "……紅蘭の部屋か。//とくに問題はないだろう。", "text": "…홍란의 방인가．//딱히 문제는 없겠지．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1744"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1752"}]}
 {"id": "dialogue:0051ce74b5ebacc3", "source": "あ、大神はん！//なにしてんねん∈", "text": "아，오오가미 씨∈뭐 하노∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1746"}]}
 {"id": "dialogue:57b1f5f46bebc283", "source": "あ……いや、//夜の見回りを……", "text": "아…아니，밤 순찰을…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1747"}]}
-{"id": "dialogue:fc733a637afe6a61", "source": "まぁ、ええわ！//話は部屋で聞くさかい、//さっさと入って∈", "text": "뭐，됐다∈얘기는 방에서//들을 테니까，퍼뜩 들어온나∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1748"}]}
+{"id": "dialogue:fc733a637afe6a61", "source": "まぁ、ええわ！//話は部屋で聞くさかい、//さっさと入って∈", "text": "뭐，됐다∈얘기는 방에서//들을 끼니께，퍼뜩 들어온나∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1748"}]}
 {"id": "dialogue:dacda8903d63efef", "source": "ふぅ……//あぶなかったぁ……//カンナはん無理言うわ……", "text": "후우…큰일 날 뻔했다…//칸나 씨도 참 억지라 카이…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1749"}]}
 {"id": "dialogue:2a7b2223c085986e", "source": "で、大神はん。//話ってなんやの？", "text": "그래서，오오가미 씨．//무슨 얘기고？", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1750"}]}
 {"id": "dialogue:e20c800fe14d61ca", "source": "あ、いや、その……//結婚について考えてるんだけど、//紅蘭はどう思ってるのかなぁ？", "text": "아，아니，그게…//결혼에 대해 생각하고 있는데，//홍란은 어떻게 생각해？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1751"}]}
-{"id": "dialogue:cd20b4af1edb5e6b", "source": "はぁ……さっきは//えらい目にあったわ……//納豆はカンニンや。", "text": "하아…아까는 큰일 날 뻔했다…//낫토는 봐주라．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1754"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1928"}]}
+{"id": "dialogue:cd20b4af1edb5e6b", "source": "はぁ……さっきは//えらい目にあったわ……//納豆はカンニンや。", "text": "하아…아까는 큰일 날 뻔했데이…//낫토는 봐주이소", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1754"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1928"}]}
 {"id": "dialogue:8136b43767e6b38a", "source": "やぁ、紅蘭。//さっきは大変だったね。", "text": "아，홍란．//아까는 정말 고생 많았어．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1755"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1929"}]}
 {"id": "dialogue:c2a484cef430bfd3", "source": "あ、大神はん……//ウチに用？//ま、部屋に入って。", "text": "아，오오가미 씨…내한테 볼일//있나？뭐，방에 들어온나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1756"}]}
 {"id": "dialogue:d8314d9879d859ca", "source": "で……何の用なん？//ウチに話でもあるん？", "text": "그래서…무슨 일이고？//내한테 할 말이라도 있나？", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1757"}]}
@@ -1295,7 +1295,7 @@
 {"id": "dialogue:5a6c99bba50f2f9e", "source": "そんなん……//恥ずかしくて……//よう言わんわ。", "text": "그런 건…부끄러워서…말 몬 한다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1762"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1984"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2112"}]}
 {"id": "dialogue:2c74acb9db0411be", "source": "それより、大神はん……//いきなり結婚なんて……//どうしたん？", "text": "그것보다，오오가미 씨…//갑자기 결혼이라니…와 그라노？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1763"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1985"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2113"}]}
 {"id": "dialogue:92f656f015a1680e", "source": "総合演出をすることになったし、//ちゃんと考えないと//いけないかなって……", "text": "종합 연출을 맡게 되었으니，//제대로 생각해야 할 것 같아서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1764"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1986"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2114"}]}
-{"id": "dialogue:c4ebfb91599f5063", "source": "あ……そうなんや。//大神はんも出世したし……//そろそろやもんね。", "text": "아…그렇나．오오가미 씨도//출세했고…슬슬 때가 됐으니까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1765"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1987"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2115"}]}
+{"id": "dialogue:c4ebfb91599f5063", "source": "あ……そうなんや。//大神はんも出世したし……//そろそろやもんね。", "text": "아…그렇나．오오가미 씨도//출세했고…슬슬 때가 됐제．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1765"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#1987"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2115"}]}
 {"id": "dialogue:5559ce6c9c2536b5", "source": "あの……すんまへんけど……//ウチ、ちょっと外出てくるわ。//なんや、照れてもうて……", "text": "저기…미안한데…내，잠깐 밖에//갔다 오께．왠지 부끄러워서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1766"}]}
 {"id": "dialogue:dd57497c00be834b", "source": "あ、それなら、//俺も見回りに戻るよ。//それじゃあね、紅蘭。", "text": "아，그렇다면，나도 순찰하러//돌아갈게．그럼 이만，홍란．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1767"}]}
 {"id": "dialogue:79d930dd77025984", "source": "はい、いってらっしゃい。//気をつけるんやで。", "text": "예，잘 갔다 온나．조심해라．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1768"}]}
@@ -1422,20 +1422,20 @@
 {"id": "dialogue:b4bef9504f6f55a6", "source": "ひゃっ∈//なんや、すごい勢いやな。", "text": "햣∈뭐꼬，엄청난 기세네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1943"}]}
 {"id": "dialogue:aa0f2a87e386a6a6", "source": "ま、そこまで言うんやったら//すこしだけ教えたるわ。", "text": "뭐，그렇게까지 말한다면//조금만 가르쳐 주께．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1944"}]}
 {"id": "dialogue:61e10c992f77ba9b", "source": "そりゃ聞きたいよ！//教えてくれ！", "text": "당연히 듣고 싶지∈알려 줘∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1945"}]}
-{"id": "dialogue:fd5136b7a6bcbb2d", "source": "せやなぁ……//そこまで言うんなら//教えたってもええけどな。", "text": "그렇네…그래까지 말하면//가르쳐 줄 수도 있는데．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1946"}]}
+{"id": "dialogue:fd5136b7a6bcbb2d", "source": "せやなぁ……//そこまで言うんなら//教えたってもええけどな。", "text": "그렇제…그래까지 말하면//가르쳐 줄 수도 있는데．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1946"}]}
 {"id": "dialogue:d5ea34943ad1a22e", "source": "聞きたいな。//紅蘭、教えてくれないか？", "text": "듣고 싶어．홍란，가르쳐 줄래？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1947"}]}
 {"id": "dialogue:37fffe2a56975719", "source": "ホンマに聞きたいんか？//なんかてきとうな答えやけど……", "text": "참말 알고 싶나？//왠지 대충 대답하는 것 같은데…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1948"}]}
-{"id": "dialogue:d66a9771d74ef274", "source": "まぁ、ええわ……//そのかわり、//ちょっとだけやで。", "text": "뭐，됐다…그 대신，조금만이다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1949"}]}
+{"id": "dialogue:d66a9771d74ef274", "source": "まぁ、ええわ……//そのかわり、//ちょっとだけやで。", "text": "뭐，됐다 마…//그 대신 조금만이데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1949"}]}
 {"id": "dialogue:4f0492b5b99d2050", "source": "そうだな……//じゃあ、聞かせてくれよ。", "text": "글쎄…그럼，들려줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1950"}]}
 {"id": "dialogue:5891251070851470", "source": "なんや……//聞きたないんやったら、//無理に聞くことないんやで。", "text": "뭐꼬…듣고 싶지 않으면，//억지로 물어볼 거 없다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1951"}]}
 {"id": "dialogue:e3b3c809c811ea9c", "source": "いや……興味はあるんだ。//ちょっと聞かせてくれないか？", "text": "아니…흥미는 있어．//조금만 들려줄래？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1952"}]}
-{"id": "dialogue:051e7de5e5318dd0", "source": "しゃあないな……//すこしだけやで。", "text": "어쩔 수 없네…조금만이다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1953"}]}
+{"id": "dialogue:051e7de5e5318dd0", "source": "しゃあないな……//すこしだけやで。", "text": "어쩔 수 없제…조금만이데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1953"}]}
 {"id": "dialogue:da7ee25843344918", "source": "いや……俺は別に……//そんなに聞きたくは……", "text": "아니…난 별로…//그렇게 듣고 싶지는…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1954"}]}
 {"id": "dialogue:ba84107179140502", "source": "ホンマに〓//すごい話なんやで！//聞かな損するんやで∈", "text": "참말로〓대단한 얘기라 카이∈//안 들으면 손해다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1955"}]}
 {"id": "dialogue:f99b55b2aef6ec52", "source": "じゃあ……話してくれよ。", "text": "그럼…이야기해 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1956"}]}
 {"id": "dialogue:43fdca1406650acd", "source": "よっしゃ、話したろ！//って……", "text": "좋아，말해 주께∈…잠깐．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1957"}]}
 {"id": "dialogue:e1f931f0a36fe31e", "source": "あら……？//なんやウチから話すように//なっとるやないか。", "text": "어라…？와 내가 먼저 말하게 됐노．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1958"}]}
-{"id": "dialogue:744db290cc378f41", "source": "まいったなぁ……//さすがは大神はんや。//うまいこと乗せられたわ。", "text": "당했네…역시 오오가미 씨다．//말려들어 뿌렸다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1959"}]}
+{"id": "dialogue:744db290cc378f41", "source": "まいったなぁ……//さすがは大神はんや。//うまいこと乗せられたわ。", "text": "당했구마…역시 오오가미 씨다．//말려들어 뿌렸다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1959"}]}
 {"id": "dialogue:da837113ccd2a6bf", "source": "あんな……実は、//新型霊子甲⌒の実験を//やってるんや。", "text": "있제…사실은，//신형 영자갑주 실험을 하고 있다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1960"}]}
 {"id": "dialogue:33f33ebcda4a54b5", "source": "新型霊子甲⌒〓", "text": "신형 영자갑주〓", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1961"}]}
 {"id": "dialogue:0225e0b666428db9", "source": "せや！　山崎真之介少佐が、//自分から封印した霊子甲⌒を//ウチの手で完成させるんや！", "text": "맞다∈야마자키 신노스케 소좌가，//스스로 봉인한 영자갑주를//내 손으로 완성하는 기다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1962"}]}
@@ -1443,7 +1443,7 @@
 {"id": "dialogue:67860cad15901b04", "source": "やったんでー！//絶対に成功させたるんや∈", "text": "해낼 끼다∈반드시 성공시킬 끼다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1964"}]}
 {"id": "dialogue:56dde515e97bf26a", "source": "あ、ああ……//がんばれよ、紅蘭。", "text": "아，아아…힘내라，홍란．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1965"}]}
 {"id": "dialogue:deccb9b008ddf562", "source": "と、言うわけで、大神はん。//ウチは光武の整備が終わったんで//もう行くわ。", "text": "그래서 말인데，오오가미 씨．//내는 광무 정비가 끝나서 이제 간다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1966"}]}
-{"id": "dialogue:df357b0dcb70e77e", "source": "せや、大神はん……//整備できんまでも、たまには//自分の光武、磨いたりや。", "text": "맞다，오오가미 씨…//정비까지는 못 해도，가끔은//자기 광무 좀 닦아 줘라．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1968"}]}
+{"id": "dialogue:df357b0dcb70e77e", "source": "せや、大神はん……//整備できんまでも、たまには//自分の光武、磨いたりや。", "text": "맞다，오오가미 씨…정비까지는 몬//해도，가끔은 자기 광무 좀 닦아 도．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1968"}]}
 {"id": "dialogue:f00d20fbde50adfc", "source": "ああ……わかった。//今度、紅蘭と一緒に磨くよ。", "text": "아아…알았어．//다음에 홍란이랑 같이 닦을게．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1969"}]}
 {"id": "dialogue:0cf77b763a549936", "source": "健全な機体には、//健全な愛情が必要なんやで。//ほな、お先に。", "text": "건강한 기체에는，//건강한 애정이 필요한 법이다．//그럼，먼저 간데이．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1970"}]}
 {"id": "dialogue:ee42f7e9e3a3935a", "source": "……そうだな。//俺も光武を磨くか。//いつも世話になってるしな。", "text": "…그렇지．//나도 광무를 손질해 볼까．//항상 신세를 지고 있으니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1972"}]}
@@ -1451,7 +1451,7 @@
 {"id": "dialogue:4a7309eb1c58b21e", "source": "（ちょうどいい機会だし、//　紅蘭に結婚観について//　聞いてみようかな……）", "text": "（마침 좋은 기회니까，//홍란에게 결혼관에 대해//물어볼까…）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1974"}]}
 {"id": "dialogue:ccc953372c2244f7", "source": "あのさ、紅蘭……//ちょっと聞いてもいいかな？", "text": "있잖아，홍란…//잠깐 물어봐도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1978"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2106"}]}
 {"id": "dialogue:dbf0661cfc9045fa", "source": "なんや？//ウチでわかることなら、//なんでも教えたるで。", "text": "뭔데？내가 아는 거면，//뭐든지 알려 주께．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1979"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2107"}]}
-{"id": "dialogue:5c6095c919b06cf0", "source": "すんまへん……//ウチ……もう上に戻るわ。//なんや、照れてもうて……", "text": "미안타…내…이제 위로 올라갈게．//왠지，부끄러워서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1988"}]}
+{"id": "dialogue:5c6095c919b06cf0", "source": "すんまへん……//ウチ……もう上に戻るわ。//なんや、照れてもうて……", "text": "미안타…내…이제 위로 올라가께．//왠지，부끄러워서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1988"}]}
 {"id": "dialogue:9866726592176f2c", "source": "あ、そうかい？//それじゃ……俺はもうすこし、//格納庫を見回っていくよ。", "text": "아，그래？그럼…나는 좀 더，//격납고를 둘러보고 올게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1989"}]}
 {"id": "dialogue:0434a0dfc62b1bfa", "source": "紅蘭、どうしたんだ？//すごくあわててたけど。", "text": "홍란，왜 그래？//엄청 당황한 것 같던데．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1991"}, {"id": "ADVDATA/SCRIPT/S0130.SBX#2119"}]}
 {"id": "dialogue:2122904baafa53e1", "source": "まぁ、いいか。//よし……ここは問題なし。//ほかの部屋に行くか。", "text": "뭐，됐나．좋아…여기는//문제없어．다른 방으로 갈까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#1992"}]}
@@ -1498,7 +1498,7 @@
 {"id": "dialogue:8bc6dedbcf0d0159", "source": "どうしたんだ？//アイリス……//すごくあわててたけど。", "text": "왜 그래？아이리스…//무척 당황한 것 같던데．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2100"}]}
 {"id": "dialogue:57680d454d6cfe36", "source": "おや、大神はん！//見回り、終わったんかいな？", "text": "어라，오오가미 씨∈//순찰은 다 끝났나？", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2103"}]}
 {"id": "dialogue:18fe4baff8771431", "source": "（あ……紅蘭には、//　結婚観について、//　聞いてなかったな）", "text": "（아…홍란에게는，//결혼관에 대해서，//못 물어봤네）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2105"}]}
-{"id": "dialogue:d5a44f67eb9c78cc", "source": "すんまへん……//ウチ……もう部屋戻るわ。//なんや、照れてもうて……", "text": "미안타…내…이제 방에 돌아갈게．//왠지 쑥스러워서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2116"}]}
+{"id": "dialogue:d5a44f67eb9c78cc", "source": "すんまへん……//ウチ……もう部屋戻るわ。//なんや、照れてもうて……", "text": "미안타…내…이제 방에 돌아가께．//왠지 쑥스러워서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2116"}]}
 {"id": "dialogue:271f94fbfc10a6d3", "source": "あ、そうかい？//それじゃ……おやすみ。", "text": "아，그래？그럼…잘 자．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2117"}]}
 {"id": "dialogue:c9acd0b395cae9b1", "source": "あ、中尉さん！//見回りは終わったんですか？", "text": "아，중위님∈순찰은 끝난 건가요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2122"}]}
 {"id": "dialogue:8c84577909f37466", "source": "（あ……織姫くんには、//　結婚観について、//　聞いてなかったな）", "text": "（아…오리히메 군에게는，//결혼관에 대해서，//물어보지 않았었네）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2124"}]}
@@ -1884,8 +1884,8 @@
 {"id": "dialogue:aa82cbd09ed4a423", "source": "隊長の指揮する本隊が//暴走している//蒸気機械をとめて……", "text": "대장님이 지휘하는 본대가//폭주하고 있는 증기기계를 멈추고…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2774"}]}
 {"id": "dialogue:609bbea9935f783d", "source": "私の指揮する別動隊が//一般市民の避難誘導をする。//よろしいですか？", "text": "제가 지휘하는 별동대가//일반 시민의 대피를 유도합니다．//괜찮으시겠습니까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2775"}]}
 {"id": "dialogue:7ab1e414e68b6853", "source": "マリア、いい判断だ。//部隊編成も頼む。", "text": "마리아，좋은 판단이야．//부대 편성도 부탁해．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2776"}]}
-{"id": "dialogue:860d02cdff761c20", "source": "……だからや。//あの子たちが悪さするなら、//ウチが……とめなあかんのや。", "text": "…그러니까 더 그렇다．//그 아이들이 나쁜 짓을 하면，//내가…막아야 된다．", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2782"}]}
-{"id": "dialogue:99e7960200c9067c", "source": "大神はんからも、//なんか言うたってや。", "text": "오오가미 씨도 뭐라 말 좀 해 봐라．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2783"}]}
+{"id": "dialogue:860d02cdff761c20", "source": "……だからや。//あの子たちが悪さするなら、//ウチが……とめなあかんのや。", "text": "…그러니까 더 그렇데이．//그 얼라들이 나쁜 짓 하면 내가…//막아야 된데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2782"}]}
+{"id": "dialogue:99e7960200c9067c", "source": "大神はんからも、//なんか言うたってや。", "text": "오오가미 씨도 뭐라 말 좀 해 도．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2783"}]}
 {"id": "dialogue:d712074eb38f91d3", "source": "紅蘭、俺と一緒に行こう。", "text": "홍란，나와 함께 가자．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2785"}]}
 {"id": "dialogue:36d8cf135833462f", "source": "ダメだ、命令に従え。", "text": "안 돼，명령을 따라라．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2786"}]}
 {"id": "dialogue:0358addf9c2ab754", "source": "紅蘭、俺と一緒に行こう。//本隊に来てくれ。", "text": "홍란，나와 함께 가자．//본대로 와 줘．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0130.SBX#2788"}]}

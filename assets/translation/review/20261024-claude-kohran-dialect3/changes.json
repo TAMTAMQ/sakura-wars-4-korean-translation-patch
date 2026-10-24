@@ -1,0 +1,2417 @@
+[
+  {
+    "unit": "dialogue:1cdd9d6c9520d3a3",
+    "source": "あ……大神はん。//やっぱり、ここかいな。//捜してたんやで。",
+    "before": {
+      "id": "dialogue:1cdd9d6c9520d3a3",
+      "source": "あ……大神はん。//やっぱり、ここかいな。//捜してたんやで。",
+      "text": "아…오오가미 씨．//역시 여기 있었네．찾고 있었데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0334"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1cdd9d6c9520d3a3",
+      "source": "あ……大神はん。//やっぱり、ここかいな。//捜してたんやで。",
+      "text": "아…오오가미 씨．역시 여기//있었구마．찾고 있었데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0334"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:230f3e17f69036a8",
+    "source": "……せやな。//ウチ……大神はんに//会いたかったんやろうね。",
+    "before": {
+      "id": "dialogue:230f3e17f69036a8",
+      "source": "……せやな。//ウチ……大神はんに//会いたかったんやろうね。",
+      "text": "…그렇네．내…//오오가미 씨를 보고 싶었던 갑다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0351"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0809"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:230f3e17f69036a8",
+      "source": "……せやな。//ウチ……大神はんに//会いたかったんやろうね。",
+      "text": "…그렇제．내…//오오가미 씨를 보고 싶었던 갑다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0351"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0809"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:616f9ed56781726e",
+    "source": "……なわけないやろ∈//ホンマ、大神はんは//にぶいお人やな！",
+    "before": {
+      "id": "dialogue:616f9ed56781726e",
+      "source": "……なわけないやろ∈//ホンマ、大神はんは//にぶいお人やな！",
+      "text": "…그럴 리가 있나∈참말로，//오오가미 씨는 둔한 사람이네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0358"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:616f9ed56781726e",
+      "source": "……なわけないやろ∈//ホンマ、大神はんは//にぶいお人やな！",
+      "text": "…그럴 리가 있나∈참말로，//오오가미 씨는 둔한 사람이구마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0358"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:be08cd3ab04e88a5",
+    "source": "一人でボケとツッコミ、//やってもうたわ∈",
+    "before": {
+      "id": "dialogue:be08cd3ab04e88a5",
+      "source": "一人でボケとツッコミ、//やってもうたわ∈",
+      "text": "혼자 보케랑 츳코미，다 해 버렸네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0821"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:be08cd3ab04e88a5",
+      "source": "一人でボケとツッコミ、//やってもうたわ∈",
+      "text": "혼자 보케랑 츳코미 다 해 뿌렸데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0359"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0821"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:a5cf21711a5e70ba",
+    "source": "もうええわ。//とりあえず、巴里で//大神はんに会えたんやし。",
+    "before": {
+      "id": "dialogue:a5cf21711a5e70ba",
+      "source": "もうええわ。//とりあえず、巴里で//大神はんに会えたんやし。",
+      "text": "이제 됐다 마．어쨌든，파리에서//오오가미 씨를 만났으니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0361"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0824"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a5cf21711a5e70ba",
+      "source": "もうええわ。//とりあえず、巴里で//大神はんに会えたんやし。",
+      "text": "이제 됐다 마．어쨌든，파리에서//오오가미 씨를 만났으니께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0361"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0824"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:f2547a39a065fa22",
+    "source": "……もうええわ。//ウチが巴里まで行ったんは//事実やし、それでええやろ？",
+    "before": {
+      "id": "dialogue:f2547a39a065fa22",
+      "source": "……もうええわ。//ウチが巴里まで行ったんは//事実やし、それでええやろ？",
+      "text": "…이제 됐다．내가 파리까지//간 건 사실이니까，그걸로 됐제？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0379"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f2547a39a065fa22",
+      "source": "……もうええわ。//ウチが巴里まで行ったんは//事実やし、それでええやろ？",
+      "text": "…이제 됐다．내가 파리까지//간 건 사실이니께，그걸로 됐제？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0379"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:e99562ab6f3cf9c4",
+    "source": "今度はウチの発明品を//見てもらいたいわ。//きっと気に入ってくれるで。",
+    "before": {
+      "id": "dialogue:e99562ab6f3cf9c4",
+      "source": "今度はウチの発明品を//見てもらいたいわ。//きっと気に入ってくれるで。",
+      "text": "다음엔 내 발명품을 보여 주고 싶네．//분명 맘에 들어 할 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0382"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0858"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e99562ab6f3cf9c4",
+      "source": "今度はウチの発明品を//見てもらいたいわ。//きっと気に入ってくれるで。",
+      "text": "다음엔 내 발명품을 보여 주고//싶데이．분명 맘에 들어 할 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0382"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0858"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:4e31c2e7d98fda6a",
+    "source": "ウチがライバルかいな。//マリアはんと組むなんて、//はじめてやな。",
+    "before": {
+      "id": "dialogue:4e31c2e7d98fda6a",
+      "source": "ウチがライバルかいな。//マリアはんと組むなんて、//はじめてやな。",
+      "text": "내가 라이벌이가．//마리아 씨랑 짝이라니，처음이네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0499"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1080"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4e31c2e7d98fda6a",
+      "source": "ウチがライバルかいな。//マリアはんと組むなんて、//はじめてやな。",
+      "text": "내가 라이벌이가．마리아 씨랑//짝이라니，처음이구마．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0499"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1080"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:bf634d874f69e271",
+    "source": "舞台装置はウチにまかしとき！//最高の舞台を//作ったるさかいな∈",
+    "before": {
+      "id": "dialogue:bf634d874f69e271",
+      "source": "舞台装置はウチにまかしとき！//最高の舞台を//作ったるさかいな∈",
+      "text": "무대 장치는 내한테 맡기라∈//최고의 무대를 만들어 줄 테니까∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0594"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bf634d874f69e271",
+      "source": "舞台装置はウチにまかしとき！//最高の舞台を//作ったるさかいな∈",
+      "text": "무대 장치는 내한테 맡기라∈//최고의 무대를 만들어 줄 끼니께∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0594"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:01bc78d3227a29b8",
+    "source": "おめでとうさん。//大神はん、総合演出なんて//エライ出世やな！",
+    "before": {
+      "id": "dialogue:01bc78d3227a29b8",
+      "source": "おめでとうさん。//大神はん、総合演出なんて//エライ出世やな！",
+      "text": "축하한데이．오오가미 씨，//종합 연출이라니 출세했네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0617"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:01bc78d3227a29b8",
+      "source": "おめでとうさん。//大神はん、総合演出なんて//エライ出世やな！",
+      "text": "축하한데이．오오가미 씨，//종합 연출이라니 출세했구마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0617"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:7a5099684bf08dcb",
+    "source": "いろいろ大変やと思うけど、//ウチも手伝うたるさかい、//がんばっていこな。",
+    "before": {
+      "id": "dialogue:7a5099684bf08dcb",
+      "source": "いろいろ大変やと思うけど、//ウチも手伝うたるさかい、//がんばっていこな。",
+      "text": "여러 가지로 힘들겠지만，//내도 도와줄 테니까，같이 힘내자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0618"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7a5099684bf08dcb",
+      "source": "いろいろ大変やと思うけど、//ウチも手伝うたるさかい、//がんばっていこな。",
+      "text": "여러 가지로 힘들겠지만，//내도 도와줄 끼니께，같이 힘내자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0618"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:29e3c65f4619292f",
+    "source": "なら……ウチは//光武の暴走の原因を調べる∈//みんなは被害を抑えてや！",
+    "before": {
+      "id": "dialogue:29e3c65f4619292f",
+      "source": "なら……ウチは//光武の暴走の原因を調べる∈//みんなは被害を抑えてや！",
+      "text": "그라모…내는 광무 폭주 원인을//조사할게∈다들 피해를 막아 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0795"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0125"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:29e3c65f4619292f",
+      "source": "なら……ウチは//光武の暴走の原因を調べる∈//みんなは被害を抑えてや！",
+      "text": "그라모…내는 광무 폭주 원인을//조사하께∈다들 피해를 막아 도∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0795"
+        },
+        {
+          "id": "SLG/G02/E/EV02002.SBN#0125"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:00ff275268249b46",
+    "source": "ハハハ……しゃあないな。//これをやらんと、//終わった気がせぇへんしな。",
+    "before": {
+      "id": "dialogue:00ff275268249b46",
+      "source": "ハハハ……しゃあないな。//これをやらんと、//終わった気がせぇへんしな。",
+      "text": "하하하…어쩔 수 없네．이걸 안//하면，끝난 기분이 안 든다 아이가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0820"
+        },
+        {
+          "id": "SLG/G02/E/EV02003.SBN#0043"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:00ff275268249b46",
+      "source": "ハハハ……しゃあないな。//これをやらんと、//終わった気がせぇへんしな。",
+      "text": "하하하…어쩔 수 없제．이걸 안//하면，끝난 기분이 안 든다 아이가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0820"
+        },
+        {
+          "id": "SLG/G02/E/EV02003.SBN#0043"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:2390485e3f77f71b",
+    "source": "あ、心配せんでええで。//爆発はせえへんさかい。",
+    "before": {
+      "id": "dialogue:2390485e3f77f71b",
+      "source": "あ、心配せんでええで。//爆発はせえへんさかい。",
+      "text": "걱정 안 해도 된데이．//폭발은 안 하니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1121"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0152"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2390485e3f77f71b",
+      "source": "あ、心配せんでええで。//爆発はせえへんさかい。",
+      "text": "걱정 안 해도 된데이．//폭발은 안 하니께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1121"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0152"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:15949a45eefd3ad8",
+    "source": "ほ〜、なかなか、//光武を使いこなしとるやないか！",
+    "before": {
+      "id": "dialogue:15949a45eefd3ad8",
+      "source": "ほ〜、なかなか、//光武を使いこなしとるやないか！",
+      "text": "호～제법이네，//광무를 잘 쓴다 아이가∈",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1249"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2192"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1907"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1484"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:15949a45eefd3ad8",
+      "source": "ほ〜、なかなか、//光武を使いこなしとるやないか！",
+      "text": "호～제법이구마，//광무를 잘 쓴다 아이가∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1249"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2192"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1907"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1484"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b5df363b5447e775",
+    "source": "あ、アカン！",
+    "before": {
+      "id": "dialogue:b5df363b5447e775",
+      "source": "あ、アカン！",
+      "text": "아，안 돼∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1499"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2442"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2157"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1734"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b5df363b5447e775",
+      "source": "あ、アカン！",
+      "text": "망했데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1499"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2442"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#2157"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1734"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:72795b56c3fd37ff",
+    "source": "あ……そろそろ、//はじまるみたいやで。//ゆっくりと二人で見ましょか。",
+    "before": {
+      "id": "dialogue:72795b56c3fd37ff",
+      "source": "あ……そろそろ、//はじまるみたいやで。//ゆっくりと二人で見ましょか。",
+      "text": "아…슬슬，시작하는 갑다．//천천히 둘이서 볼까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0134"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0312"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:72795b56c3fd37ff",
+      "source": "あ……そろそろ、//はじまるみたいやで。//ゆっくりと二人で見ましょか。",
+      "text": "아…슬슬，시작하는 갑다．//천천히 둘이서 보까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0134"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0312"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:f0fa84564563f49a",
+    "source": "しゃあないなあ。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+    "before": {
+      "id": "dialogue:f0fa84564563f49a",
+      "source": "しゃあないなあ。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+      "text": "어쩔 수 없네．내 비밀 병기로，//퍼뜩 끝내 뿔게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0390"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f0fa84564563f49a",
+      "source": "しゃあないなあ。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+      "text": "어쩔 수 없제．내 비밀 병기로，//퍼뜩 끝내 뿔게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0390"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:548aa906d0f22a6f",
+    "source": "なにが長いねん！//ただ、そういうことかいな。",
+    "before": {
+      "id": "dialogue:548aa906d0f22a6f",
+      "source": "なにが長いねん！//ただ、そういうことかいな。",
+      "text": "뭐가 기노∈그냥，그 얘기네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0737"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:548aa906d0f22a6f",
+      "source": "なにが長いねん！//ただ、そういうことかいな。",
+      "text": "뭐가 기노∈그냥，그 얘기가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0737"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:d0526f12f28baa2b",
+    "source": "べつに……ええねんで。//ウチと大神はんは、//なんでもないんやもんな。",
+    "before": {
+      "id": "dialogue:d0526f12f28baa2b",
+      "source": "べつに……ええねんで。//ウチと大神はんは、//なんでもないんやもんな。",
+      "text": "뭐…괜찮다．내랑 오오가미 씨는，//아무 사이도 아이니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1278"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3040"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d0526f12f28baa2b",
+      "source": "べつに……ええねんで。//ウチと大神はんは、//なんでもないんやもんな。",
+      "text": "뭐…괜찮다．내랑 오오가미 씨는，//아무 사이도 아이니께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1278"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3040"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:17492b7b669f29e6",
+    "source": "ほな、しゃあないな。//大神はんがそこまで言うんなら、//そうなんやろ。",
+    "before": {
+      "id": "dialogue:17492b7b669f29e6",
+      "source": "ほな、しゃあないな。//大神はんがそこまで言うんなら、//そうなんやろ。",
+      "text": "그라모，어쩔 수 없네．//오오가미 씨가 그래까지//말하면 그런 기겠제．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1282"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3049"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:17492b7b669f29e6",
+      "source": "ほな、しゃあないな。//大神はんがそこまで言うんなら、//そうなんやろ。",
+      "text": "그라모，어쩔 수 없제．//오오가미 씨가 그래까지//말하면 그런 기겠제．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1282"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3049"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:6dff8ff6f262c344",
+    "source": "どうなん、大神はん。//なんとか言うて。",
+    "before": {
+      "id": "dialogue:6dff8ff6f262c344",
+      "source": "どうなん、大神はん。//なんとか言うて。",
+      "text": "어떻노，오오가미 씨．//뭐라 말해 봐．",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1289"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3060"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6dff8ff6f262c344",
+      "source": "どうなん、大神はん。//なんとか言うて。",
+      "text": "어떻노 오오가미 씨．//뭐라 말해 바라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1289"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3060"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b145cde57061dd43",
+    "source": "いつでもええさかい、//話せるようになったら、//ウチに教えてや。",
+    "before": {
+      "id": "dialogue:b145cde57061dd43",
+      "source": "いつでもええさかい、//話せるようになったら、//ウチに教えてや。",
+      "text": "언제든 괜찮으니까，//말할 수 있게 되면 내한테 말해 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1291"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3063"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b145cde57061dd43",
+      "source": "いつでもええさかい、//話せるようになったら、//ウチに教えてや。",
+      "text": "언제든 괜찮으니께，//말할 수 있게 되면 내한테 말해 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1291"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3063"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:993b2fa93d121c1d",
+    "source": "ほな、大神はん……//夜も遅いし……//そろそろ部屋に戻るわ。",
+    "before": {
+      "id": "dialogue:993b2fa93d121c1d",
+      "source": "ほな、大神はん……//夜も遅いし……//そろそろ部屋に戻るわ。",
+      "text": "그라모，오오가미 씨…//밤도 늦었고…슬슬 방에 돌아갈게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1292"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3064"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:993b2fa93d121c1d",
+      "source": "ほな、大神はん……//夜も遅いし……//そろそろ部屋に戻るわ。",
+      "text": "그라모，오오가미 씨…//밤도 늦었고…슬슬 방에 돌아가께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1292"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#3064"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:44e283da59c44ef8",
+    "source": "ゲホゲホ……織姫はんが//ムチャばっかりするさかい、//うまいこと、焼けへんねん。",
+    "before": {
+      "id": "dialogue:44e283da59c44ef8",
+      "source": "ゲホゲホ……織姫はんが//ムチャばっかりするさかい、//うまいこと、焼けへんねん。",
+      "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니까，제대로 안 구워진다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1656"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1275"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:44e283da59c44ef8",
+      "source": "ゲホゲホ……織姫はんが//ムチャばっかりするさかい、//うまいこと、焼けへんねん。",
+      "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니께，제대로 안 구워진다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1656"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1275"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:fc1473762c9448ab",
+    "source": "ほな、ウチも一緒に行こかな。//エリカはんとおったら、//ツッコミの練習になりそうやし。",
+    "before": {
+      "id": "dialogue:fc1473762c9448ab",
+      "source": "ほな、ウチも一緒に行こかな。//エリカはんとおったら、//ツッコミの練習になりそうやし。",
+      "text": "그라모，내도 같이 갈까．//에리카 씨랑 있으면，//츳코미 연습이 될 것 같고．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1763"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0119"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fc1473762c9448ab",
+      "source": "ほな、ウチも一緒に行こかな。//エリカはんとおったら、//ツッコミの練習になりそうやし。",
+      "text": "그라모，내도 같이 가까．//에리카 씨랑 있으면，//츳코미 연습이 될 것 같고．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#1763"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0119"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:81604757f9110336",
+    "source": "ホンマやね。//お……戻ってきたみたいやで。",
+    "before": {
+      "id": "dialogue:81604757f9110336",
+      "source": "ホンマやね。//お……戻ってきたみたいやで。",
+      "text": "참말이네．오…돌아온 갑다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0149"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:81604757f9110336",
+      "source": "ホンマやね。//お……戻ってきたみたいやで。",
+      "text": "참말이구마．오…돌아온 갑다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0149"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:641cd81c5ca0f131",
+    "source": "大神はん、やるやないの。//ウチ、どうもお好み焼きを//ひっくり返すのは苦手やねん。",
+    "before": {
+      "id": "dialogue:641cd81c5ca0f131",
+      "source": "大神はん、やるやないの。//ウチ、どうもお好み焼きを//ひっくり返すのは苦手やねん。",
+      "text": "오오가미 씨，제법이네．//내는 아무래도 오코노미야키를//뒤집는 게 서툴다．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0193"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:641cd81c5ca0f131",
+      "source": "大神はん、やるやないの。//ウチ、どうもお好み焼きを//ひっくり返すのは苦手やねん。",
+      "text": "오오가미 씨，제법이구마．//내는 아무래도 오코노미야키를//뒤집는 게 서툴다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0193"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b9edfee093e003e5",
+    "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+    "before": {
+      "id": "dialogue:b9edfee093e003e5",
+      "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+      "text": "칸나 씨，억수로 신났네．//완전 몬자 대장이데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0201"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b9edfee093e003e5",
+      "source": "なんやカンナはん、//イキイキしとるな。//まるでもんじゃ奉行やな。",
+      "text": "칸나 씨，억수로 신났구마．//완전 몬자 대장이데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0201"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:744fe5ba1e41baf7",
+    "source": "大神はんも男やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+    "before": {
+      "id": "dialogue:744fe5ba1e41baf7",
+      "source": "大神はんも男やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+      "text": "오오가미 씨도 남자니까，//마음은 알겠지만…이건 범죄데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0353"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:744fe5ba1e41baf7",
+      "source": "大神はんも男やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+      "text": "오오가미 씨도 남자니께，//마음은 알겠지만…이건 범죄데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0353"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b27287636c9ab3a9",
+    "source": "問答無用やな。//ここらで大神はんの//真意を聞かせてもらおか。",
+    "before": {
+      "id": "dialogue:b27287636c9ab3a9",
+      "source": "問答無用やな。//ここらで大神はんの//真意を聞かせてもらおか。",
+      "text": "문답무용이데이．이쯤에서//오오가미 씨 진심을 들어 볼까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0404"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0246"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b27287636c9ab3a9",
+      "source": "問答無用やな。//ここらで大神はんの//真意を聞かせてもらおか。",
+      "text": "문답무용이데이．이쯤에서//오오가미 씨 진심을 들어 보까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0404"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0246"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:158d3275bd6c08d9",
+    "source": "まぁ……みんながおるさかい、//すぐに撃破できると思うけどな。",
+    "before": {
+      "id": "dialogue:158d3275bd6c08d9",
+      "source": "まぁ……みんながおるさかい、//すぐに撃破できると思うけどな。",
+      "text": "뭐…다들 있으니까，//금방 격파할 수 있을 끼다．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0769"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:158d3275bd6c08d9",
+      "source": "まぁ……みんながおるさかい、//すぐに撃破できると思うけどな。",
+      "text": "뭐…다들 있으니께，//금방 격파할 수 있을 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0769"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:d16730bceda3de2f",
+    "source": "そないなことわかっとる。//みんなで生きて帰って、//宴会せなあかんしな。",
+    "before": {
+      "id": "dialogue:d16730bceda3de2f",
+      "source": "そないなことわかっとる。//みんなで生きて帰って、//宴会せなあかんしな。",
+      "text": "그런 건 안다 카이．다 같이 살아//돌아가서 잔치도 해야 되니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0770"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d16730bceda3de2f",
+      "source": "そないなことわかっとる。//みんなで生きて帰って、//宴会せなあかんしな。",
+      "text": "그런 건 안다 카이．다 같이 살아//돌아가서 잔치도 해야 되니께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0770"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:619230d4db112bd3",
+    "source": "ウチは許さへんで……//大神はんがまかせてくれたんや、//あんたら、覚悟しいや∈",
+    "before": {
+      "id": "dialogue:619230d4db112bd3",
+      "source": "ウチは許さへんで……//大神はんがまかせてくれたんや、//あんたら、覚悟しいや∈",
+      "text": "내는 용서 못 한다…오오가미 씨가//맡겨 준 기다，너거들 각오해∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0841"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:619230d4db112bd3",
+      "source": "ウチは許さへんで……//大神はんがまかせてくれたんや、//あんたら、覚悟しいや∈",
+      "text": "내는 용서 못 한다…오오가미 씨가//맡겨 준 기다，너거들 각오해라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0841"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:863672f21028103a",
+    "source": "双武を信じるんや∈//そして……//ウチのことを信じるんや！",
+    "before": {
+      "id": "dialogue:863672f21028103a",
+      "source": "双武を信じるんや∈//そして……//ウチのことを信じるんや！",
+      "text": "쌍무를 믿어라∈그라고…내를 믿어",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0887"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:863672f21028103a",
+      "source": "双武を信じるんや∈//そして……//ウチのことを信じるんや！",
+      "text": "쌍무를 믿어라∈//그라고 내를 믿으래이",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0887"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:9f3a0e4b5e199362",
+    "source": "せやから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+    "before": {
+      "id": "dialogue:9f3a0e4b5e199362",
+      "source": "せやから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+      "text": "그러니까…내도 도울게∈//둘이 함께면，뭐든지 잘될 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1197"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9f3a0e4b5e199362",
+      "source": "せやから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+      "text": "그러니까…내도 도와주께∈//둘이 함께면，뭐든지 잘될 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1197"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:76469a382ea9bdde",
+    "source": "おっ……大神はん……//けっこう、キツイで……",
+    "before": {
+      "id": "dialogue:76469a382ea9bdde",
+      "source": "おっ……大神はん……//けっこう、キツイで……",
+      "text": "오…오오가미 씨…억수로 힘드네",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1208"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0420"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:76469a382ea9bdde",
+      "source": "おっ……大神はん……//けっこう、キツイで……",
+      "text": "오…오오가미 씨 억수로 힘들데이",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1208"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0420"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:5b8bf05c838738fc",
+    "source": "巴里華撃団のみんなも、//帰ってもうたな……//なんやさびしいわ。",
+    "before": {
+      "id": "dialogue:5b8bf05c838738fc",
+      "source": "巴里華撃団のみんなも、//帰ってもうたな……//なんやさびしいわ。",
+      "text": "파리화격단 사람들도//가 버렸네…왠지 쓸쓸하다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0389"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5b8bf05c838738fc",
+      "source": "巴里華撃団のみんなも、//帰ってもうたな……//なんやさびしいわ。",
+      "text": "파리화격단 사람들도//가 뿌렸구마…왠지 쓸쓸하다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0030"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0389"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:e210a9cb602abe27",
+    "source": "大神はん、ええこと言うなぁ。//さすがは総合演出や！",
+    "before": {
+      "id": "dialogue:e210a9cb602abe27",
+      "source": "大神はん、ええこと言うなぁ。//さすがは総合演出や！",
+      "text": "오오가미 씨 좋은 말 하네．//역시 종합 연출이데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0172"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1789"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e210a9cb602abe27",
+      "source": "大神はん、ええこと言うなぁ。//さすがは総合演出や！",
+      "text": "오오가미 씨 좋은 말 하구마//역시 종합 연출이데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0172"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1789"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:c3ab45c9bc10703a",
+    "source": "ためしに使てみよか。//ほな……いくで。",
+    "before": {
+      "id": "dialogue:c3ab45c9bc10703a",
+      "source": "ためしに使てみよか。//ほな……いくで。",
+      "text": "한번 써 볼까．그럼…간데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0694"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c3ab45c9bc10703a",
+      "source": "ためしに使てみよか。//ほな……いくで。",
+      "text": "한번 써 보까．그럼…간데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0694"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:bb8093aea905af29",
+    "source": "大神はんは……ウチの……//……やっぱ、あかん。//どっちも大切やし……",
+    "before": {
+      "id": "dialogue:bb8093aea905af29",
+      "source": "大神はんは……ウチの……//……やっぱ、あかん。//どっちも大切やし……",
+      "text": "오오가미 씨는…내……역시，//안 되겠데이．둘 다 소중하니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0711"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0636"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bb8093aea905af29",
+      "source": "大神はんは……ウチの……//……やっぱ、あかん。//どっちも大切やし……",
+      "text": "오오가미 씨는…내……역시，//안 되겠데이．둘 다 소중하니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0711"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0636"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b1cd9a29e96827f1",
+    "source": "あ……あれ？//どうしたんや？//まことくん、爆発せえへんで〓",
+    "before": {
+      "id": "dialogue:b1cd9a29e96827f1",
+      "source": "あ……あれ？//どうしたんや？//まことくん、爆発せえへんで〓",
+      "text": "아…어라？와 이라노？//마코토군，안 터지는데〓",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0717"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0645"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b1cd9a29e96827f1",
+      "source": "あ……あれ？//どうしたんや？//まことくん、爆発せえへんで〓",
+      "text": "아…어라？와 이라노？//마코토군，안 터진데이〓",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0717"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0645"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:0c4692e7b1c66727",
+    "source": "あ……大神はん。//やっぱり、ここかいな。//探してたんやで。",
+    "before": {
+      "id": "dialogue:0c4692e7b1c66727",
+      "source": "あ……大神はん。//やっぱり、ここかいな。//探してたんやで。",
+      "text": "아…오오가미 씨．역시 여기네．//한참 찾았다 아이가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0776"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0c4692e7b1c66727",
+      "source": "あ……大神はん。//やっぱり、ここかいな。//探してたんやで。",
+      "text": "아…오오가미 씨．역시 여기구마．//한참 찾았다 아이가．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0776"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:1b713c123462b2c4",
+    "source": "なら、ええわ。//ほんなら、すみまへんけど、//大神はんは借りてきますわ。",
+    "before": {
+      "id": "dialogue:1b713c123462b2c4",
+      "source": "なら、ええわ。//ほんなら、すみまへんけど、//大神はんは借りてきますわ。",
+      "text": "그라모 됐다．미안하지만，//오오가미 씨 좀 빌려 갈게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0787"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1b713c123462b2c4",
+      "source": "なら、ええわ。//ほんなら、すみまへんけど、//大神はんは借りてきますわ。",
+      "text": "그라모 됐다．미안하지만，//오오가미 씨 좀 빌려 가께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0787"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:c570ce2ac638f7ca",
+    "source": "……なわけないやろ∈//ほんま、大神はんは//にぶいお人やな！",
+    "before": {
+      "id": "dialogue:c570ce2ac638f7ca",
+      "source": "……なわけないやろ∈//ほんま、大神はんは//にぶいお人やな！",
+      "text": "…그럴 리가 있나∈참말로，//오오가미 씨는 둔한 사람이네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0820"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c570ce2ac638f7ca",
+      "source": "……なわけないやろ∈//ほんま、大神はんは//にぶいお人やな！",
+      "text": "…그럴 리가 있나∈참말로，//오오가미 씨는 둔한 사람이구마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0820"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:1608abb1f2dd96d8",
+    "source": "おめでとさん。//大神はん、総合演出なんて//エライ出世やな！",
+    "before": {
+      "id": "dialogue:1608abb1f2dd96d8",
+      "source": "おめでとさん。//大神はん、総合演出なんて//エライ出世やな！",
+      "text": "축하한데이．오오가미 씨，//종합 연출이라니 억수로 출세했네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1235"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1608abb1f2dd96d8",
+      "source": "おめでとさん。//大神はん、総合演出なんて//エライ出世やな！",
+      "text": "축하한데이．오오가미 씨，종합//연출이라니 억수로 출세했구마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1235"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:8ce4a6325043b93c",
+    "source": "いろいろ大変やと思うけど、//ウチも手伝ったるさかい、//がんばっていこな。",
+    "before": {
+      "id": "dialogue:8ce4a6325043b93c",
+      "source": "いろいろ大変やと思うけど、//ウチも手伝ったるさかい、//がんばっていこな。",
+      "text": "여러모로 힘들겠지만，//내도 도와줄 테니까，힘내 보자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1236"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8ce4a6325043b93c",
+      "source": "いろいろ大変やと思うけど、//ウチも手伝ったるさかい、//がんばっていこな。",
+      "text": "여러모로 힘들겠지만，//내도 도와줄 끼니께，힘내 보자．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#1236"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:af0c3e37326d7d0f",
+    "source": "わかってくれたらええねん。//ウチも今まで//説明してへんかったしな。",
+    "before": {
+      "id": "dialogue:af0c3e37326d7d0f",
+      "source": "わかってくれたらええねん。//ウチも今まで//説明してへんかったしな。",
+      "text": "알아줬으면 됐다．//내도 지금까지 설명 안 했으니까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0315"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:af0c3e37326d7d0f",
+      "source": "わかってくれたらええねん。//ウチも今まで//説明してへんかったしな。",
+      "text": "알아줬으면 됐다．//내도 지금까지 설명 안 했으니께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#0315"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:fc733a637afe6a61",
+    "source": "まぁ、ええわ！//話は部屋で聞くさかい、//さっさと入って∈",
+    "before": {
+      "id": "dialogue:fc733a637afe6a61",
+      "source": "まぁ、ええわ！//話は部屋で聞くさかい、//さっさと入って∈",
+      "text": "뭐，됐다∈얘기는 방에서//들을 테니까，퍼뜩 들어온나∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1748"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fc733a637afe6a61",
+      "source": "まぁ、ええわ！//話は部屋で聞くさかい、//さっさと入って∈",
+      "text": "뭐，됐다∈얘기는 방에서//들을 끼니께，퍼뜩 들어온나∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1748"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:fd5136b7a6bcbb2d",
+    "source": "せやなぁ……//そこまで言うんなら//教えたってもええけどな。",
+    "before": {
+      "id": "dialogue:fd5136b7a6bcbb2d",
+      "source": "せやなぁ……//そこまで言うんなら//教えたってもええけどな。",
+      "text": "그렇네…그래까지 말하면//가르쳐 줄 수도 있는데．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1946"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fd5136b7a6bcbb2d",
+      "source": "せやなぁ……//そこまで言うんなら//教えたってもええけどな。",
+      "text": "그렇제…그래까지 말하면//가르쳐 줄 수도 있는데．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1946"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:744db290cc378f41",
+    "source": "まいったなぁ……//さすがは大神はんや。//うまいこと乗せられたわ。",
+    "before": {
+      "id": "dialogue:744db290cc378f41",
+      "source": "まいったなぁ……//さすがは大神はんや。//うまいこと乗せられたわ。",
+      "text": "당했네…역시 오오가미 씨다．//말려들어 뿌렸다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1959"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:744db290cc378f41",
+      "source": "まいったなぁ……//さすがは大神はんや。//うまいこと乗せられたわ。",
+      "text": "당했구마…역시 오오가미 씨다．//말려들어 뿌렸다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1959"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:5c6095c919b06cf0",
+    "source": "すんまへん……//ウチ……もう上に戻るわ。//なんや、照れてもうて……",
+    "before": {
+      "id": "dialogue:5c6095c919b06cf0",
+      "source": "すんまへん……//ウチ……もう上に戻るわ。//なんや、照れてもうて……",
+      "text": "미안타…내…이제 위로 올라갈게．//왠지，부끄러워서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1988"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5c6095c919b06cf0",
+      "source": "すんまへん……//ウチ……もう上に戻るわ。//なんや、照れてもうて……",
+      "text": "미안타…내…이제 위로 올라가께．//왠지，부끄러워서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#1988"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:d5a44f67eb9c78cc",
+    "source": "すんまへん……//ウチ……もう部屋戻るわ。//なんや、照れてもうて……",
+    "before": {
+      "id": "dialogue:d5a44f67eb9c78cc",
+      "source": "すんまへん……//ウチ……もう部屋戻るわ。//なんや、照れてもうて……",
+      "text": "미안타…내…이제 방에 돌아갈게．//왠지 쑥스러워서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2116"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:d5a44f67eb9c78cc",
+      "source": "すんまへん……//ウチ……もう部屋戻るわ。//なんや、照れてもうて……",
+      "text": "미안타…내…이제 방에 돌아가께．//왠지 쑥스러워서…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0130.SBX#2116"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:671305259551524b",
+    "source": "しゃあないなー。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+    "before": {
+      "id": "dialogue:671305259551524b",
+      "source": "しゃあないなー。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+      "text": "어쩔 수 없네．내 비밀 병기로，//퍼뜩 끝내 뿔게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0720"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:671305259551524b",
+      "source": "しゃあないなー。//ウチの秘密兵器で、//ちょちょいのちょーいや。",
+      "text": "어쩔 수 없제．내 비밀 병기로，//퍼뜩 끝내 뿔게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0720"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:cca694786851693c",
+    "source": "おろ、大神はんかいな？//ちょうどええとこに来たわ。//ええから、入って！",
+    "before": {
+      "id": "dialogue:cca694786851693c",
+      "source": "おろ、大神はんかいな？//ちょうどええとこに来たわ。//ええから、入って！",
+      "text": "어라，오오가미 씨가？마침 잘//왔네．됐으니까，퍼뜩 들어온나∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1582"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cca694786851693c",
+      "source": "おろ、大神はんかいな？//ちょうどええとこに来たわ。//ええから、入って！",
+      "text": "어라，오오가미 씨가？//마침 잘 왔구마．//됐으니까，퍼뜩 들어온나∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1582"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:5e31134743031d70",
+    "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:5e31134743031d70",
+      "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "글리신 씨…모처럼//제도까지 와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1587"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5e31134743031d70",
+      "source": "グリシーヌはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "글리신 씨…모처럼//제도까지 와 줬으니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1587"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b154bf0e3eeb6da7",
+    "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:b154bf0e3eeb6da7",
+      "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "코쿠리코 씨…모처럼//제도까지 와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1588"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b154bf0e3eeb6da7",
+      "source": "コクリコはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "코쿠리코 씨…모처럼//제도까지 와 줬으니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1588"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:629132385b766b79",
+    "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:629132385b766b79",
+      "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "로벨리아 씨…모처럼//제도까지 와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1589"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:629132385b766b79",
+      "source": "ロベリアはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "로벨리아 씨…모처럼//제도까지 와 줬으니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1589"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:740340f52171f571",
+    "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:740340f52171f571",
+      "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "하나비 씨…모처럼//제도까지 와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1590"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:740340f52171f571",
+      "source": "花火はん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "하나비 씨…모처럼//제도까지 와 줬으니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1590"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:2aeb22cb1f8fbd19",
+    "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+    "before": {
+      "id": "dialogue:2aeb22cb1f8fbd19",
+      "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "에리카 씨…모처럼//제도까지 와 줬으니까…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1591"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2aeb22cb1f8fbd19",
+      "source": "エリカはん……//せっかく帝都まで//来てくれたんやし……",
+      "text": "에리카 씨…모처럼//제도까지 와 줬으니께…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1591"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:6e752f1d8b6c58ff",
+    "source": "おみやげを考えてって、//言うてんのに……//しゃあないお人やなぁ。",
+    "before": {
+      "id": "dialogue:6e752f1d8b6c58ff",
+      "source": "おみやげを考えてって、//言うてんのに……//しゃあないお人やなぁ。",
+      "text": "선물 생각해 달라꼬 했는데…//어쩔 수 없는 사람이네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1645"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6e752f1d8b6c58ff",
+      "source": "おみやげを考えてって、//言うてんのに……//しゃあないお人やなぁ。",
+      "text": "선물 생각해 달라꼬 했는데…//어쩔 수 없는 사람이구마．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1645"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:54e209ff28687e42",
+    "source": "もう、ええ……//おみやげは、ウチの発明品で//手ぇ打っとくわ。",
+    "before": {
+      "id": "dialogue:54e209ff28687e42",
+      "source": "もう、ええ……//おみやげは、ウチの発明品で//手ぇ打っとくわ。",
+      "text": "참말로，됐다…//선물은 내 발명품으로 정할게．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1653"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:54e209ff28687e42",
+      "source": "もう、ええ……//おみやげは、ウチの発明品で//手ぇ打っとくわ。",
+      "text": "참말로，됐다…//선물은 내 발명품으로 정하께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1653"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:83d59ed52d433715",
+    "source": "そうやねんなぁ……//ド派手で、おもろいもんが//ええねんけど……ないよなぁ。",
+    "before": {
+      "id": "dialogue:83d59ed52d433715",
+      "source": "そうやねんなぁ……//ド派手で、おもろいもんが//ええねんけど……ないよなぁ。",
+      "text": "그렇제…화려하고，//재밌는 기 좋은데…없네．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1657"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:83d59ed52d433715",
+      "source": "そうやねんなぁ……//ド派手で、おもろいもんが//ええねんけど……ないよなぁ。",
+      "text": "그렇제…화려하고，//재밌는 기 좋은데…없데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1657"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:9d6165f483567948",
+    "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。",
+    "before": {
+      "id": "dialogue:9d6165f483567948",
+      "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。",
+      "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니까…제대로 안 구워진다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0120"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9d6165f483567948",
+      "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。",
+      "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니께…제대로 안 구워진다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0240.SBX#0120"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:4a79243e73b02369",
+    "source": "大神はんは、きびしいなぁ。//そないなこと言わんでも//ええやん。",
+    "before": {
+      "id": "dialogue:4a79243e73b02369",
+      "source": "大神はんは、きびしいなぁ。//そないなこと言わんでも//ええやん。",
+      "text": "오오가미 씨 엄하네．//그런 말 안 캐도 되제．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1143"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4a79243e73b02369",
+      "source": "大神はんは、きびしいなぁ。//そないなこと言わんでも//ええやん。",
+      "text": "오오가미 씨 엄하구마．//그런 말 안 캐도 되제．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1143"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:fe8dad71821165d4",
+    "source": "あ、そやな。//大神はん、ええこと言うなぁ。//で、だれなん？",
+    "before": {
+      "id": "dialogue:fe8dad71821165d4",
+      "source": "あ、そやな。//大神はん、ええこと言うなぁ。//で、だれなん？",
+      "text": "아，그렇제．오오가미 씨，//좋은 말 하네．그래서，누군데？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1150"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fe8dad71821165d4",
+      "source": "あ、そやな。//大神はん、ええこと言うなぁ。//で、だれなん？",
+      "text": "아，그렇제．오오가미 씨，//좋은 말 하구마．그래서，누군데？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1150"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:9d0a2417d29b13c7",
+    "source": "あはははは！//せやせや、そうやったな∈//大神はん、よう覚えてたな∈",
+    "before": {
+      "id": "dialogue:9d0a2417d29b13c7",
+      "source": "あはははは！//せやせや、そうやったな∈//大神はん、よう覚えてたな∈",
+      "text": "아하하하∈맞다，맞다，그랬제∈//오오가미 씨，잘 기억했네∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1169"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9d0a2417d29b13c7",
+      "source": "あはははは！//せやせや、そうやったな∈//大神はん、よう覚えてたな∈",
+      "text": "아하하하∈맞다，맞다，그랬제∈//오오가미 씨，잘 기억했구마∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1169"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:8f36a7580a801768",
+    "source": "中国語かいな？//ほなら、ウチの出番やな。//さくらはん、ちょいと貸してや。",
+    "before": {
+      "id": "dialogue:8f36a7580a801768",
+      "source": "中国語かいな？//ほなら、ウチの出番やな。//さくらはん、ちょいと貸してや。",
+      "text": "중국어가？그라모，내 차례네．//사쿠라 씨，잠깐 빌려 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1599"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8f36a7580a801768",
+      "source": "中国語かいな？//ほなら、ウチの出番やな。//さくらはん、ちょいと貸してや。",
+      "text": "중국어가？그라모，내 차례데이．//사쿠라 씨，잠깐 빌려 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#1599"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:41324bb64a0f9a9f",
+    "source": "大神はんも男の子やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+    "before": {
+      "id": "dialogue:41324bb64a0f9a9f",
+      "source": "大神はんも男の子やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+      "text": "오오가미 씨도 사내니까，마음은//알겠지만…이거，범죄데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0142"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:41324bb64a0f9a9f",
+      "source": "大神はんも男の子やさかい、//気持ちはわかるけど……//これ、犯罪やで。",
+      "text": "오오가미 씨도 사내니께，마음은//알겠지만…이거，범죄데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#0142"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:644b6cd1e930c054",
+    "source": "ウチ……がんばる。//みんなが安心して戦えるよう、//光武たちを整備するわ。",
+    "before": {
+      "id": "dialogue:644b6cd1e930c054",
+      "source": "ウチ……がんばる。//みんなが安心して戦えるよう、//光武たちを整備するわ。",
+      "text": "내…열심히 할게．//다들 안심하고 싸울 수 있도록，//광무들을 정비할 끼다．",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1362"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:644b6cd1e930c054",
+      "source": "ウチ……がんばる。//みんなが安心して戦えるよう、//光武たちを整備するわ。",
+      "text": "내…열심히 하께．//다들 안심하고 싸울 수 있도록，//광무들을 정비할 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1362"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:c2b3898f870154d4",
+    "source": "だから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+    "before": {
+      "id": "dialogue:c2b3898f870154d4",
+      "source": "だから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+      "text": "그러니까…내도 도울게∈우리 둘이//같이 있으면，뭐든지 잘될 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0395"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:c2b3898f870154d4",
+      "source": "だから……ウチも手伝う！//二人が一緒におれば、//なんでもうまくいくはずや。",
+      "text": "그러니까…내도 도와주께∈//우리 둘이 같이 있으면，//뭐든지 잘될 끼다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0340.SBX#0395"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:05e47c54a8dca112",
+    "source": "ためしに使ってみよか。//ほな……いくで。",
+    "before": {
+      "id": "dialogue:05e47c54a8dca112",
+      "source": "ためしに使ってみよか。//ほな……いくで。",
+      "text": "시험 삼아 써 볼까．그럼…간데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0603"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:05e47c54a8dca112",
+      "source": "ためしに使ってみよか。//ほな……いくで。",
+      "text": "시험 삼아 써 보까．그럼…간데이．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0603"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:22204d673443aaeb",
+    "source": "アルバムを整理してたんや。//いろいろあったさかい……//けっこうたまってもうてな。",
+    "before": {
+      "id": "dialogue:22204d673443aaeb",
+      "source": "アルバムを整理してたんや。//いろいろあったさかい……//けっこうたまってもうてな。",
+      "text": "앨범 정리하고 있었다．이런저런//일이 있었으니까…꽤 쌓여 뿌렸다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0765"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:22204d673443aaeb",
+      "source": "アルバムを整理してたんや。//いろいろあったさかい……//けっこうたまってもうてな。",
+      "text": "앨범 정리하고 있었다．이런저런//일이 있었으니께…꽤 쌓여 뿌렸다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0765"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:3240021d5bd0f089",
+    "source": "ほな、こっちにきてんか。//二人でゆっくりと、//思い出にひたろか。",
+    "before": {
+      "id": "dialogue:3240021d5bd0f089",
+      "source": "ほな、こっちにきてんか。//二人でゆっくりと、//思い出にひたろか。",
+      "text": "그럼，이리 온나．둘이서//느긋하게，추억에 잠겨 볼까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0771"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3240021d5bd0f089",
+      "source": "ほな、こっちにきてんか。//二人でゆっくりと、//思い出にひたろか。",
+      "text": "그럼，이리 온나．둘이서//느긋하게，추억에 잠겨 보까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0771"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:4a14115857090b8c",
+    "source": "そうか……しゃあないな。//アルバムが見とうなったら//また、ここに来るんやで。",
+    "before": {
+      "id": "dialogue:4a14115857090b8c",
+      "source": "そうか……しゃあないな。//アルバムが見とうなったら//また、ここに来るんやで。",
+      "text": "그렇나…어쩔 수 없네．앨범이//보고 싶어지면 다시 여기 온나．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0777"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0780"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4a14115857090b8c",
+      "source": "そうか……しゃあないな。//アルバムが見とうなったら//また、ここに来るんやで。",
+      "text": "그렇나…어쩔 수 없제．앨범이//보고 싶어지면 다시 여기 온나．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0777"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0510.SBX#0780"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:6167c7db86b6533e",
+    "source": "せやな……ほな、//この戦闘がおわったら、//とっくりと教えたるわ。",
+    "before": {
+      "id": "dialogue:6167c7db86b6533e",
+      "source": "せやな……ほな、//この戦闘がおわったら、//とっくりと教えたるわ。",
+      "text": "그렇네…그럼，이 전투가 끝나면，//찬찬히 가르쳐 주께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02022.SBN#0006"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:6167c7db86b6533e",
+      "source": "せやな……ほな、//この戦闘がおわったら、//とっくりと教えたるわ。",
+      "text": "그렇제…그럼，이 전투가 끝나면，//찬찬히 가르쳐 주께．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G02/E/EV02022.SBN#0006"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:4b79909bb7f6c9b0",
+    "source": "大神はんのこと、//助けたいと思てるさかい……//そばにおいといてな。",
+    "before": {
+      "id": "dialogue:4b79909bb7f6c9b0",
+      "source": "大神はんのこと、//助けたいと思てるさかい……//そばにおいといてな。",
+      "text": "오오가미 씨를 돕고 싶다고//생각하니까…옆에 있게 해 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04011.SBN#0006"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4b79909bb7f6c9b0",
+      "source": "大神はんのこと、//助けたいと思てるさかい……//そばにおいといてな。",
+      "text": "오오가미 씨를 돕고 싶다고//생각하니께…옆에 있게 해 도．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04011.SBN#0006"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:b714dd383cdf6ca8",
+    "source": "黙り込んでもうて……//どないしたんや、大神はん？",
+    "before": {
+      "id": "dialogue:b714dd383cdf6ca8",
+      "source": "黙り込んでもうて……//どないしたんや、大神はん？",
+      "text": "갑자기 말이 없네…//와 그라노，오오가미 씨？",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04011.SBN#0027"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b714dd383cdf6ca8",
+      "source": "黙り込んでもうて……//どないしたんや、大神はん？",
+      "text": "갑자기 말이 없구마…//와 그라노，오오가미 씨？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04011.SBN#0027"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:15b7e53792e46f3c",
+    "source": "へっ〓//そ、そうやな……//ウチの作った機械たちかな？",
+    "before": {
+      "id": "dialogue:15b7e53792e46f3c",
+      "source": "へっ〓//そ、そうやな……//ウチの作った機械たちかな？",
+      "text": "어〓그，그렇제…//내가 만든 기계들일까？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04019.SBN#0002"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:15b7e53792e46f3c",
+      "source": "へっ〓//そ、そうやな……//ウチの作った機械たちかな？",
+      "text": "어〓그，그렇제…//내가 만든 기계들일라나？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04019.SBN#0002"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:a1823d6d2e551e0e",
+    "source": "な、なんかマンザイみたいに//なってもうたな……//ほな、失礼させてもらいます。",
+    "before": {
+      "id": "dialogue:a1823d6d2e551e0e",
+      "source": "な、なんかマンザイみたいに//なってもうたな……//ほな、失礼させてもらいます。",
+      "text": "뭐，뭔가 만담처럼 돼 뿌렸네…//그럼，이만 실례할게예．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04030.SBN#0010"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a1823d6d2e551e0e",
+      "source": "な、なんかマンザイみたいに//なってもうたな……//ほな、失礼させてもらいます。",
+      "text": "뭐，뭔가 만담처럼 돼 뿌렸구마…//그럼，이만 실례할게예．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04030.SBN#0010"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:cf9974ac8c08168f",
+    "source": "あ……せやな……//か、かんにんやで//大神はん……",
+    "before": {
+      "id": "dialogue:cf9974ac8c08168f",
+      "source": "あ……せやな……//か、かんにんやで//大神はん……",
+      "text": "아…그렇네…미，//미안타，오오가미 씨…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04035.SBN#0025"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cf9974ac8c08168f",
+      "source": "あ……せやな……//か、かんにんやで//大神はん……",
+      "text": "아…그렇제…미，//미안타，오오가미 씨…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04035.SBN#0025"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:2c8757d8c0ebd342",
+    "source": "そいつは残念やね……//その願いは、//一生かなわへんで！",
+    "before": {
+      "id": "dialogue:2c8757d8c0ebd342",
+      "source": "そいつは残念やね……//その願いは、//一生かなわへんで！",
+      "text": "그거 참 아쉽네…그 소원은，//평생 안 이뤄질 끼다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0027"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2c8757d8c0ebd342",
+      "source": "そいつは残念やね……//その願いは、//一生かなわへんで！",
+      "text": "그거 참 아쉽구마…그 소원은，//평생 안 이뤄질 끼다∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0027"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:bc9ce7ec3ee20410",
+    "source": "わからへんヤツやな。//しゃあない……//行くで、大神はん！",
+    "before": {
+      "id": "dialogue:bc9ce7ec3ee20410",
+      "source": "わからへんヤツやな。//しゃあない……//行くで、大神はん！",
+      "text": "말이 안 통하네．어쩔 수 없데이…//가재이 오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0031"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bc9ce7ec3ee20410",
+      "source": "わからへんヤツやな。//しゃあない……//行くで、大神はん！",
+      "text": "말이 안 통하구마．//어쩔 수 없데이 가재이 오오가미 씨∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "SLG/G04/E/EV04036.SBN#0031"
+        }
+      ]
+    },
+    "reason": "홍란 대사 문장 끝 표준어 어미를 경상도 사투리로."
+  }
+]

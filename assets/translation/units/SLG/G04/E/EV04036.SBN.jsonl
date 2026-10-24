@@ -18,9 +18,9 @@
 {"id": "dialogue:3ac56407a1b058a3", "source": "みんなのしあわせが//なくなることは、//ぜったい……ないんだから！", "text": "모두의 행복이 사라지는 일은，//절대로…없을 테니까∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0023"}]}
 {"id": "dialogue:d4b58921c197cb75", "source": "もう、わからずや∈//いこう、お兄ちゃん！", "text": "정말이지，고집불통이라니까∈//가자，오빠∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0025"}]}
 {"id": "dialogue:0cdd10ff36737488", "source": "帝都の平和を//手に入れようね！", "text": "제도의 평화를 손에 넣자∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0026"}]}
-{"id": "dialogue:2c8757d8c0ebd342", "source": "そいつは残念やね……//その願いは、//一生かなわへんで！", "text": "그거 참 아쉽네…그 소원은，//평생 안 이뤄질 끼다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0027"}]}
+{"id": "dialogue:2c8757d8c0ebd342", "source": "そいつは残念やね……//その願いは、//一生かなわへんで！", "text": "그거 참 아쉽구마…그 소원은，//평생 안 이뤄질 끼다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0027"}]}
 {"id": "dialogue:56411247d02735c7", "source": "人々の平和が乱されることは//絶対に……あらへんのや！", "text": "사람들의 평화가 어지러워지는 일은//절대로…없다 카이∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0029"}]}
-{"id": "dialogue:bc9ce7ec3ee20410", "source": "わからへんヤツやな。//しゃあない……//行くで、大神はん！", "text": "말이 안 통하네．어쩔 수 없다…//가자，오오가미 씨∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0031"}]}
+{"id": "dialogue:bc9ce7ec3ee20410", "source": "わからへんヤツやな。//しゃあない……//行くで、大神はん！", "text": "말이 안 통하구마．//어쩔 수 없데이 가재이 오오가미 씨∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0031"}]}
 {"id": "dialogue:5a9a5cae2adf3076", "source": "それは残念……//その願いは、//一生かなわないで～す！", "text": "그건 아쉽네요…그 소원은，//평생 이루어지지 않을 거예～요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0033"}]}
 {"id": "dialogue:41d3ab86d27a4d38", "source": "帝都に……//大神華撃団あるかぎり……", "text": "제도에…//오오가미 화격단이 있는 한…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0034"}, {"id": "SLG/G04/E/EV04036.SBN#0040"}, {"id": "SLG/G04/E/EV04036.SBN#0052"}, {"id": "SLG/G04/E/EV04036.SBN#0064"}]}
 {"id": "dialogue:3f220e723cdac1dc", "source": "人々の平和が乱されることは//絶対に……ないでーす！", "text": "사람들의 평화가 어지럽혀지는 일은//절대로…없을 거예요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G04/E/EV04036.SBN#0035"}]}

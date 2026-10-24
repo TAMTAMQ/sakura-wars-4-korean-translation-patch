@@ -34,7 +34,7 @@
 {"id": "dialogue:bb236d2c049ee9f5", "source": "でも、移動を行うと、//行動値がどんどん//減っていきます。", "text": "하지만，이동을 하면//행동치가 점점 줄어듭니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0059"}]}
 {"id": "dialogue:a9f1cdf1e60e19d6", "source": "行動値がすべて無くなると、//行動終了になりますので……", "text": "행동치가 모두 소진되면，//행동이 종료되므로…", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0064"}]}
 {"id": "dialogue:685f0222a1f02bb4", "source": "行動値の残りには//注意してくださいね！", "text": "남은 행동치에는 주의해 주세요∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0065"}]}
-{"id": "dialogue:5ae31c2e98444d24", "source": "さくらはん……//攻撃のチャンスやで！", "text": "사쿠라 씨…공격할 기회다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0066"}]}
+{"id": "dialogue:5ae31c2e98444d24", "source": "さくらはん……//攻撃のチャンスやで！", "text": "사쿠라 씨…공격할 기회데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0066"}]}
 {"id": "dialogue:e9011ff40dbc92db", "source": "はい……いきますよ！", "text": "네…갑니다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0067"}]}
 {"id": "dialogue:60fd52aa35254dc4", "source": "攻撃可能な敵に//@c9攻撃カーソル@c0を合わせると、//攻撃範囲が開きます。", "text": "공격 가능한 적에게//@c9공격 커서@c0를 맞추면，//공격 범위가 열립니다．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0068"}]}
 {"id": "dialogue:bfc9b9eeba43cbd9", "source": "その状態で@c10攻撃ボタン@c0を押すと、//その範囲の敵に攻撃できます！", "text": "그 상태에서 @c10공격 버튼@c0을 누르면，//그 범위의 적을 공격할 수 있습니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0073"}]}
@@ -46,7 +46,7 @@
 {"id": "dialogue:7ae9a7c34318ca5f", "source": "_RET_ACTIVE_UNIT", "text": "_RET_ACTIVE_UNIT", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0084"}, {"id": "SLG/G02/E/EV02001.SBN#0111"}, {"id": "SLG/G02/E/EV02001.SBN#0115"}, {"id": "SLG/G02/E/EV02001.SBN#0179"}, {"id": "SLG/G02/E/EV02001.SBN#0235"}]}
 {"id": "dialogue:44c22a9de3dc72a9", "source": "次は、ウチの番やね……//じゃあ、@c9必殺攻撃@c0について//説明するわ！", "text": "다음은 내 차례네…//그럼，@c9필살 공격@c0에 대해//설명하께∈", "review": "사투리 보강", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0089"}]}
 {"id": "dialogue:e546dc0dffffb875", "source": "ウチらは、@c9気合値@c0が最大の時に//使用できる強力な攻撃、//必殺攻撃を持ってるんやで。", "text": "우리는 @c9기합 수치@c0가 최대일 때//쓸 수 있는 강력한 공격，//필살 공격을 가지고 있다．", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0090"}]}
-{"id": "dialogue:b53ac207141e109c", "source": "気合値が最大の時に//@c10発動ボタン@c0を押すと//準備完了や！", "text": "기합 수치가 최대일 때//@c10발동 버튼@c0을 누르면//준비 완료다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0093"}]}
+{"id": "dialogue:b53ac207141e109c", "source": "気合値が最大の時に//@c10発動ボタン@c0を押すと//準備完了や！", "text": "기합 수치 최대일 때 @c10발동//버튼@c0을 누르면//준비 완료데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0093"}]}
 {"id": "dialogue:7ba313742f7e7a2f", "source": "まちがって発動しても……//@c10解除ボタン@c0を押せば、//通常状態と切り替えできるで。", "text": "잘못 발동하더라도…//@c10해제 버튼@c0을 누르면，//통상 상태로 전환할 수 있어．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0097"}]}
 {"id": "dialogue:770de95f1fb8c7b7", "source": "あとは、いつもの攻撃と同様、//攻撃カーソルを敵に合わせて//攻撃ボタンを押せばいいんや！", "text": "나머진 평소 공격처럼，//공격 커서를 적에게 맞추고//공격 버튼을 누르면 된다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0098"}]}
 {"id": "dialogue:b7ba9875d0ffe70c", "source": "必殺攻撃は強力な攻撃やけど、//１回使用すると、//気合値が０になってまうんや。", "text": "필살 공격은 강력하지만，한//번 쓰면，기합 수치가 ０이 돼 뿐다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "SLG/G02/E/EV02001.SBN#0103"}]}

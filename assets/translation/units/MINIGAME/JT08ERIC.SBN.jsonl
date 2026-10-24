@@ -10,7 +10,7 @@
 {"id": "dialogue:2e9a4d15ad88b6c5", "source": "お次はさくらさんです！//がんばっちゃってくださいね！", "text": "다음은 사쿠라 씨입니다∈//힘내 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0012"}]}
 {"id": "dialogue:da8efc31af73d591", "source": "それでは、わたしからですね！", "text": "그럼，저부터 시작할게요∈", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0014"}]}
 {"id": "dialogue:bb8ecf0bcc56dfb3", "source": "楽しんでいただけたようで、//私どもも喜んでいます。", "text": "즐거워하신 듯하여，//저희도 기쁩니다．", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0018"}]}
-{"id": "dialogue:9308ea26ea4f772a", "source": "でも、//本当のお楽しみは、//これからや！", "text": "근데，//진짜 재미는，//이제부터다∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0020"}]}
+{"id": "dialogue:9308ea26ea4f772a", "source": "でも、//本当のお楽しみは、//これからや！", "text": "근데，진짜 재미는 이제부터데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0020"}]}
 {"id": "dialogue:02277706faf16b72", "source": "すべての役を、//揃えると……", "text": "모든 역을//갖추면…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0025"}]}
 {"id": "dialogue:d97b128891bdb165", "source": "勝ち抜き戦を//クリアーしましたので……", "text": "토너먼트를//클리어했으므로…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0028"}]}
 {"id": "dialogue:ae22077f4280574d", "source": "@c10自由対戦@c0と……", "text": "@c10자유 대전@c0와…", "review": "교차 검토 필요", "occurrences": [{"id": "MINIGAME/JT08ERIC.SBN#0030"}]}

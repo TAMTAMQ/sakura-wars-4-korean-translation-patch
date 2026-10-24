@@ -1,6 +1,6 @@
 {"id": "dialogue:618dd32158f4f7b6", "source": "それじゃあ、みんな……//今日が舞台の初日だ。", "text": "그럼，다들…//오늘이 무대의 첫날이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0109"}]}
 {"id": "dialogue:af6abc748d7db7d7", "source": "最後のシーンまで、//練習ができなかったけど……//いい舞台を頼むぞ。", "text": "마지막 장면까지，연습을 할 수//없었지만…멋진 무대를 부탁한다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0110"}]}
-{"id": "dialogue:378a80f50e9f20ac", "source": "今度はウチらが、帝都の人たちに//隊長から教えてもらったことを//伝える番なんや。", "text": "이번엔 우리가 제도 사람들한테//대장한테 배운 걸 전해 줄 차례다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0116"}]}
+{"id": "dialogue:378a80f50e9f20ac", "source": "今度はウチらが、帝都の人たちに//隊長から教えてもらったことを//伝える番なんや。", "text": "이번엔 우리가 제도 사람들한테//대장한테 배운 걸 전해 줄 차례데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0116"}]}
 {"id": "dialogue:2ce26da59d7ccc1f", "source": "そうです……この舞台は//私たちと隊長……そして、//帝都とをつなげる絆なんです。", "text": "맞아요…이 무대는 저희와 대장님…//그리고，제도를 잇는 인연이에요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0117"}]}
 {"id": "dialogue:7876a0d61bd4bc9d", "source": "わかった……ありがとう。//みんな、よろしく頼む。", "text": "알았어…고마워．//모두，잘 부탁한다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0120"}]}
 {"id": "dialogue:02ce8f1fec754b7a", "source": "それじゃ、俺は、//開演のベルを//鳴らしてくるよ。", "text": "그럼，나는 개막 벨을 울리고 올게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0121"}]}
@@ -176,16 +176,16 @@
 {"id": "dialogue:27bcd5b1d183fe6b", "source": "おもしろいもの？//なんだい？", "text": "재미있는 거야？뭐야？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0598"}]}
 {"id": "dialogue:9f8c4b11bb8698f9", "source": "「まことくん」って……", "text": "「마코토군」이라니…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0600"}]}
 {"id": "dialogue:a735cc2e47a789a8", "source": "せや。//昔にウチが作った//ウソ発見器や。", "text": "맞다．옛날에 내가//만든 거짓말 탐지기다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0601"}]}
-{"id": "dialogue:05e47c54a8dca112", "source": "ためしに使ってみよか。//ほな……いくで。", "text": "시험 삼아 써 볼까．그럼…간다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0603"}]}
+{"id": "dialogue:05e47c54a8dca112", "source": "ためしに使ってみよか。//ほな……いくで。", "text": "시험 삼아 써 보까．그럼…간데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0603"}]}
 {"id": "dialogue:2910a18eec8fd2dd", "source": "はい。", "text": "네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0605"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0607"}]}
 {"id": "dialogue:56eb4b75f3ab28fa", "source": "いいえ。", "text": "아니요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0606"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0610"}]}
 {"id": "dialogue:d0d01ddf9638212c", "source": "ホンマなら……//チャイムが鳴るはず//なんやけどなぁ。", "text": "참말이면…종이 울려야 할 긴데．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0609"}]}
 {"id": "dialogue:e67fbd0512131366", "source": "大神はん……//そんな見え透いたウソを……", "text": "오오가미 씨…그런 뻔한 거짓말을…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0611"}]}
-{"id": "dialogue:873d66d113d01f15", "source": "はい、時間切れー！//ほな……いくで∈", "text": "네，시간 초과∈그럼…간다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0615"}]}
+{"id": "dialogue:873d66d113d01f15", "source": "はい、時間切れー！//ほな……いくで∈", "text": "시간 초과데이∈그럼…간데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0615"}]}
 {"id": "dialogue:5f1661f284bce998", "source": "_makotokun", "text": "_makotokun", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0620"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#3110"}]}
-{"id": "dialogue:a3d1031c63777238", "source": "ほな……//スイッチを入れてと。//じゃ……２問目いくで。", "text": "그럼…스위치를 켜고．//자…두 번째 문제 간다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0621"}]}
+{"id": "dialogue:a3d1031c63777238", "source": "ほな……//スイッチを入れてと。//じゃ……２問目いくで。", "text": "그럼…스위치를 켜고．//자…두 번째 문제 간데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0621"}]}
 {"id": "dialogue:a740a32d03c76d52", "source": "なぁ、紅蘭。//俺からも質問していいかい？", "text": "있잖아，홍란．//나도 질문 하나 해도 될까？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0622"}]}
-{"id": "dialogue:2ac34d02d0c02243", "source": "かめへんよ。//ほな……//ウチに質問してんか？", "text": "상관없다．그럼…//내한테 물어볼래？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0623"}]}
+{"id": "dialogue:2ac34d02d0c02243", "source": "かめへんよ。//ほな……//ウチに質問してんか？", "text": "상관없데이．//그럼…내한테 물어볼래？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0623"}]}
 {"id": "dialogue:73de9bd9c6fdb11f", "source": "紅蘭……一緒に暮らさないか？", "text": "홍란…같이 살지 않을래？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0625"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0627"}]}
 {"id": "dialogue:f9408d5c186297aa", "source": "光武と俺……どっちが大切だい？", "text": "광무와 나…어느 쪽이 더 소중해？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0626"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#0633"}]}
 {"id": "dialogue:6df3d72374d20b22", "source": "一緒に暮らすって……//な、なに言うてんねん∈//こんなところで……", "text": "같이 산다니…무，//무슨 소리 하노∈이런 데서…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0629"}]}
@@ -663,9 +663,9 @@
 {"id": "dialogue:12a82870a65d90fe", "source": "すみれくんなら……//いい舞台にしてくれるだろう。//さて……俺も行くか。", "text": "스미레 군이라면…멋진 무대를//만들어 주겠지．자…나도 가 볼까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1771"}]}
 {"id": "dialogue:3183446a673f7030", "source": "舞台、少し壊れたけど……//なんとかなりそうだな。", "text": "무대가 조금 망가졌지만…//어떻게든 될 것 같네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1772"}]}
 {"id": "dialogue:ae215fd54460ef72", "source": "よし……今日の初舞台、//成功させないとな。", "text": "좋아…오늘 첫 무대，//성공시켜야겠어．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1773"}]}
-{"id": "dialogue:1bd979bcc88dd416", "source": "今度な、花やしき遊園地の//修理が終わったんで、//新装開店するんや。", "text": "이번에 하나야시키 놀이공원이//수리를 마치고 다시 문 연다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1775"}]}
+{"id": "dialogue:1bd979bcc88dd416", "source": "今度な、花やしき遊園地の//修理が終わったんで、//新装開店するんや。", "text": "이번에 하나야시키 놀이공원이//수리를 마치고 다시 문 연데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1775"}]}
 {"id": "dialogue:a2867c589364cfae", "source": "よかったな、紅蘭。//本当にすごいじゃないか！", "text": "잘됐구나，홍란．//정말 대단하잖아∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1776"}]}
-{"id": "dialogue:105a4f7ea978b2a0", "source": "そうなんや∈//花やしきの周りの人たちが、//再建の手伝いをしてくれてん！", "text": "맞다∈하나야시키 주변//사람들이，재건을 도와줬다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1777"}]}
+{"id": "dialogue:105a4f7ea978b2a0", "source": "そうなんや∈//花やしきの周りの人たちが、//再建の手伝いをしてくれてん！", "text": "맞데이∈하나야시키 주변//사람들이 재건을 도와줬데이∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1777"}]}
 {"id": "dialogue:d888d48decc34cd2", "source": "これからも帝都を守っていこう。", "text": "앞으로도 제도를 지켜 나가자．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1783"}]}
 {"id": "dialogue:e02442ab1b33d8cd", "source": "いい舞台を見せてあげるんだ。", "text": "멋진 무대를 보여 주는 거야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1784"}]}
 {"id": "dialogue:c3c1ef2b475b87c6", "source": "これからも帝都を守っていこう。//きっと……これが俺たちにできる//精一杯のお礼だよ。", "text": "앞으로도 제도를 지켜 나가자．//분명…이게 우리가 할 수 있는//최선의 보답이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1785"}]}

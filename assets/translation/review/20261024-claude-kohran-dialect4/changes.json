@@ -1,0 +1,155 @@
+[
+  {
+    "unit": "dialogue:a3675ce8fb90fc98",
+    "source": "集中砲火や！",
+    "before": {
+      "id": "dialogue:a3675ce8fb90fc98",
+      "source": "集中砲火や！",
+      "text": "집중포화다∈",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1232"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2175"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1890"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1467"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a3675ce8fb90fc98",
+      "source": "集中砲火や！",
+      "text": "몰아치래이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#1232"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#2175"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#1890"
+        },
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#1467"
+        }
+      ]
+    },
+    "reason": "홍란 짧은 외침을 줄여 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:8ef854094f20285c",
+    "source": "大神はん、今や！",
+    "before": {
+      "id": "dialogue:8ef854094f20285c",
+      "source": "大神はん、今や！",
+      "text": "오오가미 씨 지금∈",
+      "review": "사투리 보강",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0944"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:8ef854094f20285c",
+      "source": "大神はん、今や！",
+      "text": "자，지금이데이∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0944"
+        }
+      ]
+    },
+    "reason": "홍란 짧은 외침을 줄여 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:dc618aebc887dff8",
+    "source": "おもろない……",
+    "before": {
+      "id": "dialogue:dc618aebc887dff8",
+      "source": "おもろない……",
+      "text": "재미없다…",
+      "review": "재검수2",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1647"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dc618aebc887dff8",
+      "source": "おもろない……",
+      "text": "재미없데이",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1647"
+        }
+      ]
+    },
+    "reason": "홍란 짧은 외침을 줄여 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:37f359595537d24f",
+    "source": "あやまったらあかん！",
+    "before": {
+      "id": "dialogue:37f359595537d24f",
+      "source": "あやまったらあかん！",
+      "text": "사과하면 안 된다",
+      "review": "이슈 #7: 홍란 경상도 사투리",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1351"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:37f359595537d24f",
+      "source": "あやまったらあかん！",
+      "text": "사과는 안 된데이",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1351"
+        }
+      ]
+    },
+    "reason": "홍란 짧은 외침을 줄여 경상도 사투리로."
+  },
+  {
+    "unit": "dialogue:2a0200f3cf7b55be",
+    "source": "そうか……//ウチの思てたとおりや。",
+    "before": {
+      "id": "dialogue:2a0200f3cf7b55be",
+      "source": "そうか……//ウチの思てたとおりや。",
+      "text": "그렇나…내 생각대로",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1358"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2a0200f3cf7b55be",
+      "source": "そうか……//ウチの思てたとおりや。",
+      "text": "그렇나…내 생각 맞제",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0320.SBX#1358"
+        }
+      ]
+    },
+    "reason": "홍란 짧은 외침을 줄여 경상도 사투리로."
+  }
+]

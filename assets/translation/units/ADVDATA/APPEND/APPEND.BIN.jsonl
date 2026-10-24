@@ -93,7 +93,7 @@
 {"id": "dialogue:cf6f8a644c5a7670", "source": "たのしかったよね！", "text": "즐거웠지∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0094"}]}
 {"id": "dialogue:2fb7300f30cad983", "source": "おやすみなさい……", "text": "잘 자…", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0095"}]}
 {"id": "dialogue:b642c55e7d5ec9d9", "source": "なんとか言うたってや、大神はん！", "text": "뭐라꼬 좀 해 봐라，오오가미 씨∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0096"}]}
-{"id": "dialogue:c77323b738cca684", "source": "ウチの言うこときくんや、光武∈", "text": "내 말 들어라，광무∈", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0097"}]}
+{"id": "dialogue:c77323b738cca684", "source": "ウチの言うこときくんや、光武∈", "text": "내 말 들으래이 광무∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0097"}]}
 {"id": "dialogue:7b716d0cb7735016", "source": "大神はん……来てたんかいな。", "text": "오오가미 씨…와 있었나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0098"}, {"id": "ADVDATA/SCRIPT/S0320.SBX#1332"}]}
 {"id": "dialogue:281c3917834ee6b4", "source": "行くで、双武！", "text": "간다，쌍무∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0099"}]}
 {"id": "dialogue:69100be7dec569aa", "source": "いくでーっ！", "text": "간다아∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0100"}]}
@@ -101,7 +101,7 @@
 {"id": "dialogue:50ca2bf37da7a090", "source": "ほな……ウチに質問してんか？", "text": "그라모…내한테 물어봐라", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0102"}]}
 {"id": "dialogue:156a27f310f2cc19", "source": "ウ、ウチは……", "text": "내，내는…", "review": "이슈 #7: 홍란 경상도 사투리", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0103"}]}
 {"id": "dialogue:5432da0e8691ee09", "source": "この景色……一緒に見たかってん。", "text": "이 풍경…같이 보고 싶었데이．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0104"}]}
-{"id": "dialogue:66f997dc725483a4", "source": "二人の聖夜もええもんやね。", "text": "둘만의 성야도 참 좋네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0105"}]}
+{"id": "dialogue:66f997dc725483a4", "source": "二人の聖夜もええもんやね。", "text": "둘만의 성야도 좋데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0105"}]}
 {"id": "dialogue:03d5cd23083541ab", "source": "ジャン班長とゆかいな仲間たち。", "text": "장 반장과 유쾌한 동료들．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0106"}]}
 {"id": "dialogue:a596640b29fc1602", "source": "なんや、照れるわ……", "text": "뭐꼬，쑥스럽게…", "review": "사투리 보강", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0107"}]}
 {"id": "dialogue:a952884fddbf3821", "source": "実は、痛かったんやけど……", "text": "사실，아팠지만도…", "review": "사투리 보강", "occurrences": [{"id": "ADVDATA/APPEND/APPEND.BIN#0108"}]}

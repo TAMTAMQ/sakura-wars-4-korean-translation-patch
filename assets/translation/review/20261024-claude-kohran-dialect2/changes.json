@@ -1,0 +1,62 @@
+[
+  {
+    "unit": "dialogue:7556d056a72ecaea",
+    "source": "つまり……ウチが//巴里に行きたいって言うた//理由のことや……",
+    "before": {
+      "id": "dialogue:7556d056a72ecaea",
+      "source": "つまり……ウチが//巴里に行きたいって言うた//理由のことや……",
+      "text": "그러니까…내가 파리에//가고 싶다 한 이유 말이다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0346"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0797"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7556d056a72ecaea",
+      "source": "つまり……ウチが//巴里に行きたいって言うた//理由のことや……",
+      "text": "그러니까…내가 파리에//가고 싶다 카던 이유 말이다…",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC1.LIP#0346"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0120.SBX#0797"
+        }
+      ]
+    },
+    "reason": "홍란 대사를 경상도 사투리로 통일."
+  },
+  {
+    "unit": "dialogue:246fb286e006ba20",
+    "source": "かまへんよ。//ほな……//ウチに質問してんか？",
+    "before": {
+      "id": "dialogue:246fb286e006ba20",
+      "source": "かまへんよ。//ほな……//ウチに質問してんか？",
+      "text": "괜찮다．그럼…내한테 물어봐라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0705"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:246fb286e006ba20",
+      "source": "かまへんよ。//ほな……//ウチに質問してんか？",
+      "text": "괜찮데이．그럼…//내한테 물어봐라．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0705"
+        }
+      ]
+    },
+    "reason": "홍란 대사를 경상도 사투리로 통일."
+  }
+]

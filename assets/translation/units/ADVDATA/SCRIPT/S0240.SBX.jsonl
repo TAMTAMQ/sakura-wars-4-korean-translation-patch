@@ -1,7 +1,7 @@
 {"id": "dialogue:248c65ba59be5fa7", "source": "それじゃあ……//歓迎パーティは今晩で、//いいですか？", "text": "그럼…환영 파티는 오늘//밤으로，괜찮을까요？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0109"}]}
 {"id": "dialogue:59391c185648860f", "source": "そうですわね。//帝都の事件もひと段落//ついたことですしね。", "text": "그렇군요．제도의 사건도//일단락 되었으니까요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0110"}]}
 {"id": "dialogue:6a3c22d0fc7a15be", "source": "こっちで、ケーキを焼くのを//手伝ってくださーい∈//人手が足りないでーす！", "text": "여기서 케이크 굽는 걸 도와//주세요～∈일손이 부족해요～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0119"}]}
-{"id": "dialogue:9d6165f483567948", "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。", "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니까…제대로 안 구워진다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0120"}]}
+{"id": "dialogue:9d6165f483567948", "source": "ゲホゲホ……織姫はんが//ムチャばっかするから……//うまいこと、焼けへんねん。", "text": "콜록콜록…오리히메 씨가 무리만//해 쌓으니께…제대로 안 구워진다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0120"}]}
 {"id": "dialogue:7c3d6c94a3825479", "source": "ロベリアも手伝ったらどうだい？", "text": "로벨리아도 돕는 게 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0125"}]}
 {"id": "dialogue:f8457404eba4d4d2", "source": "楽しそうでいいじゃないか。", "text": "즐거워 보여서 좋잖아", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0126"}]}
 {"id": "dialogue:de6961616c628f8c", "source": "じゃ、二人で酒でも飲んでるか？", "text": "그럼 둘이서 술이나 마실까？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0240.SBX#0127"}]}

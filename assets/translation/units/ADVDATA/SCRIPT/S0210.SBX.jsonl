@@ -31,7 +31,7 @@
 {"id": "dialogue:aa485dd5cb6bfa8e", "source": "熱い魂で改心させるな。", "text": "뜨거운 영혼으로 개심시킨다", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0209"}]}
 {"id": "dialogue:bef1293cc339bd73", "source": "物を与えると思うよ。//それで改心するのならば、//いいんじゃないかな。", "text": "물건을 주면 될 거야．그걸로//개심할 수 있다면，괜찮지 않을까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0210"}]}
 {"id": "dialogue:44e4d75e6ab07e5a", "source": "相手によるかな。//形がないと、//信じない人もいるし……", "text": "상대에 따라 다르지．형태가//없으면，믿지 않는 사람도 있고…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0216"}]}
-{"id": "dialogue:d3964c0b3b2696ae", "source": "せやけど、すみれはん。//大神はんの言うことは、//まちがってへんと思うで。", "text": "그렇지만，스미레 씨．오오가미 씨//말도 틀리지 않았다고 본다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0218"}]}
+{"id": "dialogue:d3964c0b3b2696ae", "source": "せやけど、すみれはん。//大神はんの言うことは、//まちがってへんと思うで。", "text": "그렇지만，스미레 씨．오오가미 씨//말도 틀린 건 아이라고 본데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0218"}]}
 {"id": "dialogue:68429c61cff79a42", "source": "その人にあった、//もっともええ方法で、//改心させたらええんとちゃう？", "text": "그 사람한테 맞는，가장 좋은//방법으로 뉘우치게 하면 안 되나？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0219"}]}
 {"id": "dialogue:e4f7b65548624084", "source": "改心させるのが目的なら、//物で釣ろうが、なにしようが//ええと思うけどな。", "text": "개심이 목적이라면，//물건으로 마음을 사든 뭘 하든//상관없다고 생각하지만 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0220"}]}
 {"id": "dialogue:7c8c9fb13a42060f", "source": "俺なら熱い魂で改心させるな。//物で改心させようなんて//良くないと思うよ。", "text": "나라면 뜨거운 영혼으로//개심시키겠어．물건으로 마음을//돌리려는 건 좋지 않아．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0222"}]}
@@ -75,7 +75,7 @@
 {"id": "dialogue:c4ffb65006598fdf", "source": "ああ、本当だよ。//それでも恐かったら、ほら……//俺と手をつないでいるといいよ。", "text": "아아，정말이야．//그래도 무섭다면，자…//나와 손을 잡고 있으면 돼．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0342"}]}
 {"id": "dialogue:730ac85d3ee992d2", "source": "ああ、いいけど……//さくらくんも恐いのかい？", "text": "아아，괜찮지만…//사쿠라 군도 무서운 거야？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0345"}]}
 {"id": "dialogue:274aef78048c9525", "source": "そうだな……//たまに出るかも。", "text": "그렇네…가끔 나올지도 몰라．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0347"}]}
-{"id": "dialogue:b4a7baec7c151840", "source": "大丈夫やで、アイリス。//オバケなんか絶対に//出ぇへんから。", "text": "괜찮다，아이리스．//귀신 같은 건 절대로 안 나온다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0349"}]}
+{"id": "dialogue:b4a7baec7c151840", "source": "大丈夫やで、アイリス。//オバケなんか絶対に//出ぇへんから。", "text": "괜찮데이，아이리스．//귀신 같은 건 절대로 안 나온데이．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0349"}]}
 {"id": "dialogue:5f25465ae58562ac", "source": "ああ、そうだぜ。//もしもオバケが出たら、//あたいがやっつけてやるから。", "text": "아아，그렇다고．만약 귀신이//나타나면，내가 해치워 줄 테니까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0350"}]}
 {"id": "dialogue:2a1b1e60edb93f52", "source": "す、すまない……//つい、出来心で……", "text": "미，미안해…//그만，장난기가 발동해서…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0358"}]}
 {"id": "dialogue:b7790588d5edfe76", "source": "（……これが能か。//　面をつけた人が、//　静かに舞いを踊る……）", "text": "（…이것이 노인가．//가면을 쓴 사람이，//조용히 춤을 추고 있어…）", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0368"}]}
@@ -208,7 +208,7 @@
 {"id": "dialogue:202e9a9adac9ded7", "source": "グリシーヌ、やめるんだ∈//はやまるんじゃない！", "text": "글리신，그만둬∈//성급하게 굴지 마∈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0711"}]}
 {"id": "dialogue:2ef19d8ac8dae364", "source": "頼む、グリシーヌ。//あぶないことはやめるんだ。", "text": "부탁이야，글리신．//위험한 일은 하지 마．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0713"}]}
 {"id": "dialogue:0170ee642027b95e", "source": "だが……いずれは、//決着をつける。//……よいな。", "text": "하지만…언젠가는，//결판을 내겠다．…알겠나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0715"}]}
-{"id": "dialogue:671305259551524b", "source": "しゃあないなー。//ウチの秘密兵器で、//ちょちょいのちょーいや。", "text": "어쩔 수 없네．내 비밀 병기로，//퍼뜩 끝내 뿔게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0720"}]}
+{"id": "dialogue:671305259551524b", "source": "しゃあないなー。//ウチの秘密兵器で、//ちょちょいのちょーいや。", "text": "어쩔 수 없제．내 비밀 병기로，//퍼뜩 끝내 뿔게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0720"}]}
 {"id": "dialogue:b5dde53c798d4e77", "source": "ブルーメールの小娘に//負けるわけにはいかないでーす。//覚悟するといいですよ～。", "text": "블뢰메르의 꼬맹이에게//질 수는 없다고요～．//각오하는 게 좋을 거예요～．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0721"}]}
 {"id": "dialogue:bbf891a2aecdd60d", "source": "二人とも……//かんべんしてくれよぉ。", "text": "둘 다…제발 좀 그만해 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0724"}]}
 {"id": "dialogue:4baaf60191a93135", "source": "あぁ、いいぜ。//手は抜かねぇからな", "text": "아아，좋아．//봐 주지는 않을 테니까 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0729"}]}
@@ -314,7 +314,7 @@
 {"id": "dialogue:71a01d420cd7382b", "source": "巴里には行かないよ。//みんな、心配しなくていいから。//ロベリアらしい冗談さ。", "text": "파리에는 가지 않을 거야．//모두，걱정하지 않아도 되니까．//로벨리아다운 농담이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1030"}]}
 {"id": "dialogue:74adecb5f18a3953", "source": "次に巴里に行く時は、//このわたくしもご同行します。//お忘れなきように。", "text": "다음에 파리에 가실 때는，저도//동행할게요．잊으시면 안 돼요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1032"}]}
 {"id": "dialogue:0e7993e00a66a46c", "source": "隊長と一緒にいたいならさ、//あたいたちと一緒に//住むってのはどうだい？", "text": "대장과 함께 있고 싶다면 말이야，//우리와 함께 사는 건 어때？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1036"}]}
-{"id": "dialogue:418e005c96de0046", "source": "なんや驚かさんといてや。//ロベリアはん、//あいかわらず冗談キツイで。", "text": "깜짝 놀래키지 마라．//로벨리아 씨，여전히 농담이 세네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1039"}]}
+{"id": "dialogue:418e005c96de0046", "source": "なんや驚かさんといてや。//ロベリアはん、//あいかわらず冗談キツイで。", "text": "깜짝 놀래키지 마라．로벨리아 씨，//여전히 농담이 세구마．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1039"}]}
 {"id": "dialogue:fd5a33c403fcf8df", "source": "大神はんを巴里に//つれてくなんて、//ほんまにドッキリや。", "text": "오오가미 씨를 파리에 데려가다니，//참말 깜짝 놀랐다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1040"}]}
 {"id": "dialogue:14c10f442457caf1", "source": "次に中尉さんが行くのは、//イタリアのわたしの家って、//決まってるでーす。", "text": "다음에 중위님이 가실 곳은，//이탈리아에 있는 제 집이라고，//정해져 있답니다～．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1042"}]}
 {"id": "dialogue:a78a8e2f54a799ae", "source": "よかったぁ……//大神さんのことだから、//本当かと思ってしまいました。", "text": "다행이에요…오오가미 씨라면，//정말일지도 모른다고 생각했어요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#1044"}]}
