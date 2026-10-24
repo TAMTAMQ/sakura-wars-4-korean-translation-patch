@@ -1,0 +1,578 @@
+{
+ "patches": [
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223920,
+   "original_hex": "73",
+   "new_hex": "fc",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223924,
+   "original_hex": "7a",
+   "new_hex": "ee",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223928,
+   "original_hex": "81f2",
+   "new_hex": "24f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223932,
+   "original_hex": "88f2",
+   "new_hex": "3cf3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223940,
+   "original_hex": "98f2",
+   "new_hex": "32f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223944,
+   "original_hex": "9d",
+   "new_hex": "98",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223948,
+   "original_hex": "a2",
+   "new_hex": "a8",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223952,
+   "original_hex": "a7",
+   "new_hex": "e7",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223968,
+   "original_hex": "cb",
+   "new_hex": "d2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223972,
+   "original_hex": "d0f2",
+   "new_hex": "41f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223976,
+   "original_hex": "d5f2",
+   "new_hex": "44f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223980,
+   "original_hex": "daf2",
+   "new_hex": "03f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223984,
+   "original_hex": "df",
+   "new_hex": "cb",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223988,
+   "original_hex": "e4",
+   "new_hex": "e0",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223992,
+   "original_hex": "ebf2",
+   "new_hex": "1df3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 223996,
+   "original_hex": "f2f2",
+   "new_hex": "37f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224000,
+   "original_hex": "f7",
+   "new_hex": "f5",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224004,
+   "original_hex": "fa",
+   "new_hex": "d9",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224008,
+   "original_hex": "ff",
+   "new_hex": "85",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224012,
+   "original_hex": "04f3",
+   "new_hex": "7cf2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224024,
+   "original_hex": "73",
+   "new_hex": "fc",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224028,
+   "original_hex": "7a",
+   "new_hex": "ee",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224032,
+   "original_hex": "81f2",
+   "new_hex": "24f3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224036,
+   "original_hex": "88f2",
+   "new_hex": "3cf3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224044,
+   "original_hex": "16f3",
+   "new_hex": "a1f2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224048,
+   "original_hex": "1df3",
+   "new_hex": "98f2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224052,
+   "original_hex": "24",
+   "new_hex": "16",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224056,
+   "original_hex": "a7",
+   "new_hex": "e7",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224072,
+   "original_hex": "2bf3",
+   "new_hex": "d2f2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224076,
+   "original_hex": "32",
+   "new_hex": "41",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224080,
+   "original_hex": "39",
+   "new_hex": "44",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224084,
+   "original_hex": "40",
+   "new_hex": "03",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224088,
+   "original_hex": "47f3",
+   "new_hex": "cbf2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224092,
+   "original_hex": "e4",
+   "new_hex": "e0",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224096,
+   "original_hex": "ebf2",
+   "new_hex": "1df3",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224100,
+   "original_hex": "4e",
+   "new_hex": "2b",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224104,
+   "original_hex": "f7",
+   "new_hex": "f5",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224108,
+   "original_hex": "55f3",
+   "new_hex": "d9f2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224112,
+   "original_hex": "5cf3",
+   "new_hex": "85f2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224116,
+   "original_hex": "04f3",
+   "new_hex": "7cf2",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224179,
+   "original_hex": "82b382ad82e70082b782dd82ea00837d838a834100834a83938369",
+   "new_hex": "f0b5f0b5f144f0ab00f167f0a7f158f14e00f0eff167f0b6f0be00",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224216,
+   "original_hex": "8d679796009044955000838c836a008347838a834a",
+   "new_hex": "f0b5f0aef0b6f0b700f0b38140f0b400f0acf0b800",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224267,
+   "original_hex": "f1d4f1ce008381838b008356815b0089c18e520095c493630082a982a682c50082a982b782dd00975297a20092d6008bd589b90095809546008b6594568fe5",
+   "new_hex": "f0eff0f0f0cf00f0a5f0b1f0c000f0bef2b5f0f000f0baf0b9f18d00f0b9f0aef0ba00f0aaf0abf0ac00f166f1abf16700f0a6f0a7f0a800f0baf148f0ad00",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224342,
+   "original_hex": "8d67",
+   "new_hex": "f0ac",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224346,
+   "original_hex": "9796",
+   "new_hex": "f0b8",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224349,
+   "original_hex": "904481409550",
+   "new_hex": "f0baf0aaf0ab",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224356,
+   "original_hex": "838c8140836a",
+   "new_hex": "f0adf0aef0af",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224364,
+   "original_hex": "d4",
+   "new_hex": "42",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224367,
+   "original_hex": "f1ce",
+   "new_hex": "f0ae",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224370,
+   "original_hex": "83818140838b0083568140815b0089c181408e52",
+   "new_hex": "f0b3f0b400f142f0ae00f0b0f0b100f5ab00f0bc",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224391,
+   "original_hex": "95c481409363",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224398,
+   "original_hex": "9752814097a2",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224405,
+   "original_hex": "8bd5814089b9",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 224412,
+   "original_hex": "958081409546",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 240640,
+   "original_hex": "196267",
+   "new_hex": "fcf266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 240724,
+   "original_hex": "206267",
+   "new_hex": "eef266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 240808,
+   "original_hex": "276267",
+   "new_hex": "24f366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 240892,
+   "original_hex": "2e6267",
+   "new_hex": "3cf366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241060,
+   "original_hex": "3e6267",
+   "new_hex": "32f366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241144,
+   "original_hex": "436267",
+   "new_hex": "98f266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241228,
+   "original_hex": "486267",
+   "new_hex": "a8f266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241312,
+   "original_hex": "4d6267",
+   "new_hex": "e7f266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241648,
+   "original_hex": "716267",
+   "new_hex": "d2f266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241732,
+   "original_hex": "766267",
+   "new_hex": "41f366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241816,
+   "original_hex": "7b6267",
+   "new_hex": "44f366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241900,
+   "original_hex": "806267",
+   "new_hex": "03f366",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 241984,
+   "original_hex": "856267",
+   "new_hex": "73f266",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 251739,
+   "original_hex": "838a815b8360",
+   "new_hex": "f0aef1d90000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252761,
+   "original_hex": "82b382ad82e7",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252768,
+   "original_hex": "82b782dd82ea",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252775,
+   "original_hex": "837d838a8341",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252782,
+   "original_hex": "834a83938369",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252798,
+   "original_hex": "8d679796",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252803,
+   "original_hex": "90449550",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252808,
+   "original_hex": "838c836a",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252813,
+   "original_hex": "8347838a834a",
+   "new_hex": "000000000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252849,
+   "original_hex": "f1d4f1ce",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252854,
+   "original_hex": "8381838b",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252859,
+   "original_hex": "8356815b",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252864,
+   "original_hex": "89c18e52",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252869,
+   "original_hex": "91e5905f",
+   "new_hex": "00000000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265211,
+   "original_hex": "838a815b8360",
+   "new_hex": "f0aef1d90000",
+   "note": "MGJT 이름·리치 (make_mgjt_names_patch.py)"
+  }
+ ]
+}

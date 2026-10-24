@@ -4,8 +4,20 @@
    "source": "ADVDATA/CG_ALL1.DAT",
    "block": 736,
    "original_decoded_size": 98520,
-   "additional_tiles": [[128, 128]],
+   "additional_tiles": [
+    [
+     128,
+     128
+    ]
+   ],
    "reason": "검수표 #53 아사쿠사 표지판을 세로로 56px 연장하여 기존 저장 범위 밖의 오른쪽 테두리를 보존한다. 캔버스 640×480과 기존 타일 좌표는 유지한다."
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 675,
+   "original_decoded_size": 189720,
+   "grow_pool": true,
+   "reason": "오프닝 시(b675)는 게임이 줄마다 앞·뒤 어구를 따로 띄운다(경계 y 160·160·220·250). 어구가 자기 구간 안에서 끝나게 글자를 옮기자 고유 타일이 23개에서 24개로 늘어 픽셀 풀을 늘린다. 타일 좌표·개수·캔버스는 그대로다."
   }
  ]
 }

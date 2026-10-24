@@ -1,0 +1,991 @@
+{
+ "patches": [
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 163359,
+   "original_hex": "82cd82c1814900",
+   "new_hex": "f0a5f2b381b800",
+   "note": "미추출 문자열 はっ！ → 하앗∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 163378,
+   "original_hex": "8e9f82c1814900",
+   "new_hex": "f0cff2c381b800",
+   "note": "미추출 문자열 次っ！ → 다음∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 163481,
+   "original_hex": "834e8362814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 クッ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 172512,
+   "original_hex": "82ad82c1814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 くっ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 178908,
+   "original_hex": "83608362814900",
+   "new_hex": "f4e781b8000000",
+   "note": "미추출 문자열 チッ！ → 칫∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 180780,
+   "original_hex": "8f9f9589814900",
+   "new_hex": "f2d5f29381b800",
+   "note": "미추출 문자열 勝負！ → 승부∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC1.LIP",
+   "offset": 180802,
+   "original_hex": "82a082f1814900",
+   "new_hex": "f0aff3d081b800",
+   "note": "미추출 문자열 あん！ → 아앙∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 314374,
+   "original_hex": "82cd82c1814900",
+   "new_hex": "f0a5f2b381b800",
+   "note": "미추출 문자열 はっ！ → 하앗∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 314393,
+   "original_hex": "8e9f82c1814900",
+   "new_hex": "f0cff2c381b800",
+   "note": "미추출 문자열 次っ！ → 다음∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 314496,
+   "original_hex": "834e8362814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 クッ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 323527,
+   "original_hex": "82ad82c1814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 くっ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 329923,
+   "original_hex": "83608362814900",
+   "new_hex": "f4e781b8000000",
+   "note": "미추출 문자열 チッ！ → 칫∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 331795,
+   "original_hex": "8f9f9589814900",
+   "new_hex": "f2d5f29381b800",
+   "note": "미추출 문자열 勝負！ → 승부∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC2.LIP",
+   "offset": 331817,
+   "original_hex": "82a082f1814900",
+   "new_hex": "f0aff3d081b800",
+   "note": "미추출 문자열 あん！ → 아앙∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 280489,
+   "original_hex": "82cd82c1814900",
+   "new_hex": "f0a5f2b381b800",
+   "note": "미추출 문자열 はっ！ → 하앗∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 280508,
+   "original_hex": "8e9f82c1814900",
+   "new_hex": "f0cff2c381b800",
+   "note": "미추출 문자열 次っ！ → 다음∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 280611,
+   "original_hex": "834e8362814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 クッ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 289642,
+   "original_hex": "82ad82c1814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 くっ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 296038,
+   "original_hex": "83608362814900",
+   "new_hex": "f4e781b8000000",
+   "note": "미추출 문자열 チッ！ → 칫∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 297910,
+   "original_hex": "8f9f9589814900",
+   "new_hex": "f2d5f29381b800",
+   "note": "미추출 문자열 勝負！ → 승부∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC3.LIP",
+   "offset": 297932,
+   "original_hex": "82a082f1814900",
+   "new_hex": "f0aff3d081b800",
+   "note": "미추출 문자열 あん！ → 아앙∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 121883,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 125010,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 132078,
+   "original_hex": "82d681ac00",
+   "new_hex": "f0b981ac00",
+   "note": "미추출 문자열 へ〓 → 에〓 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 133853,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 140589,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 161138,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 166458,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 173175,
+   "original_hex": "82f18163816300",
+   "new_hex": "f2c3f7d1000000",
+   "note": "미추출 문자열 ん…… → 음… (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 208499,
+   "original_hex": "82cd82c1814900",
+   "new_hex": "f0a5f2b381b800",
+   "note": "미추출 문자열 はっ！ → 하앗∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 208518,
+   "original_hex": "8e9f82c1814900",
+   "new_hex": "f0cff2c381b800",
+   "note": "미추출 문자열 次っ！ → 다음∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 208621,
+   "original_hex": "834e8362814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 クッ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 217652,
+   "original_hex": "82ad82c1814900",
+   "new_hex": "f55f81b8000000",
+   "note": "미추출 문자열 くっ！ → 큭∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 224048,
+   "original_hex": "83608362814900",
+   "new_hex": "f4e781b8000000",
+   "note": "미추출 문자열 チッ！ → 칫∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 225920,
+   "original_hex": "8f9f9589814900",
+   "new_hex": "f2d5f29381b800",
+   "note": "미추출 문자열 勝負！ → 승부∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/LIPSYNC4.LIP",
+   "offset": 225942,
+   "original_hex": "82a082f1814900",
+   "new_hex": "f0aff3d081b800",
+   "note": "미추출 문자열 あん！ → 아앙∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 67340,
+   "original_hex": "91e5905f89d88c82926381458e518fe381b800",
+   "new_hex": "f0b5f0b5f144f8abf163f164f16581b8000000",
+   "note": "미추출 문자열 大神華撃団・参上∈ → 오오가미 화격단∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 68183,
+   "original_hex": "8bb389ef814200",
+   "new_hex": "f38cf16a814400",
+   "note": "미추출 문자열 教会。 → 교회． (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 69909,
+   "original_hex": "90ac9473814900",
+   "new_hex": "f3d5f16581b800",
+   "note": "미추출 문자열 成敗！ → 처단∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72195,
+   "original_hex": "81f1814992e9814081608dc58f49968b816000",
+   "new_hex": "81f18149f0df81408160f26ef2d0f356816000",
+   "note": "미추출 문자열 ‰！帝　～最終幕～ → ‰！제　～최종막～ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72214,
+   "original_hex": "82b182b182eb00",
+   "new_hex": "f0adf2c3000000",
+   "note": "미추출 문자열 こころ → 마음 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72291,
+   "original_hex": "92e9937393ae979000",
+   "new_hex": "f0dff8f4f0ebf0b400",
+   "note": "미추출 문자열 帝都動乱 → 제도 동란 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72300,
+   "original_hex": "88ea904791a694ad00",
+   "new_hex": "f1ccf690f575f0c500",
+   "note": "미추출 문자열 一触即発 → 일촉즉발 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72348,
+   "original_hex": "82a8928b905100",
+   "new_hex": "f571f29f000000",
+   "note": "미추출 문자열 お昼寝 → 낮잠 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72400,
+   "original_hex": "974896be88d98bab00",
+   "new_hex": "f142f2aaf0b2f1c200",
+   "note": "미추출 문자열 幽明異境 → 유명이경 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72409,
+   "original_hex": "8c83906b00",
+   "new_hex": "f164f15100",
+   "note": "미추출 문자열 激震 → 격진 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72414,
+   "original_hex": "837e834a835400",
+   "new_hex": "f0abf0baf0a600",
+   "note": "미추출 문자열 ミカサ → 미카사 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72476,
+   "original_hex": "9076978b00",
+   "new_hex": "f1adf0ac00",
+   "note": "미추출 문자열 迅雷 → 우레 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72591,
+   "original_hex": "9473966b00",
+   "new_hex": "f64cf35f00",
+   "note": "미추출 문자열 敗北 → 패배 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72596,
+   "original_hex": "81f1814992e98d9189d88c82926300",
+   "new_hex": "81f18149f0dff162f163f164f16500",
+   "note": "미추출 문자열 ‰！帝国華撃団 → ‰！제국화격단 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72620,
+   "original_hex": "90e291ce895e96bd82cc835e8393835300",
+   "new_hex": "f4bef0e2f18cf2aaf8e1f1b3f184000000",
+   "note": "미추출 문자열 絶対運命のタンゴ → 절대운명의 탱고 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72907,
+   "original_hex": "8c8393cb00",
+   "new_hex": "f164f0d000",
+   "note": "미추출 문자열 激突 → 격돌 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72957,
+   "original_hex": "929b82b500",
+   "new_hex": "f14ef34700",
+   "note": "미추출 문자열 兆し → 조짐 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 72994,
+   "original_hex": "8dec90ed89ef8b6300",
+   "new_hex": "f0edf9f7f16af0e100",
+   "note": "미추출 문자열 作戦会議 → 작전 회의 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73048,
+   "original_hex": "97598ba982d100",
+   "new_hex": "f2c8f192000000",
+   "note": "미추출 문자열 雄叫び → 함성 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73055,
+   "original_hex": "93b989bb00",
+   "new_hex": "f177f0e200",
+   "note": "미추출 문자열 道化 → 광대 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73060,
+   "original_hex": "8c8890ed81498b9091e58ff68b438f6200",
+   "new_hex": "f2abf1f78149f1c8f8e2f2d9f14ff14a00",
+   "note": "미추출 문자열 決戦！巨大蒸気獣 → 결전！거대 증기수 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73184,
+   "original_hex": "96a297888169837b8384815b83578385816a00",
+   "new_hex": "f0abf1438169f1acf148f1e2816a0000000000",
+   "note": "미추출 문자열 未来（ボヤージュ） → 미래（보야주） (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73212,
+   "original_hex": "8b4682e800",
+   "new_hex": "f14ff0f400",
+   "note": "미추출 문자열 祈り → 기도 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "ADVDATA/APPEND/APPEND.BIN",
+   "offset": 73354,
+   "original_hex": "89eb979200",
+   "new_hex": "f144f0b400",
+   "note": "미추출 문자열 雅嵐 → 가란 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 222958,
+   "original_hex": "8ea9975291ce90ed00",
+   "new_hex": "f0faf942f0e2f1f700",
+   "note": "미추출 문자열 自由対戦 → 자유 대전 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 222980,
+   "original_hex": "96f088ea979700",
+   "new_hex": "fab4f182f38400",
+   "note": "미추출 문자열 役一覧 → 역 목록 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 222996,
+   "original_hex": "97568b598f4997b900",
+   "new_hex": "f0f1fb81f2d0f56e00",
+   "note": "미추출 문자열 遊戯終了 → 게임 종료 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 227134,
+   "original_hex": "8379815b835700",
+   "new_hex": "f5cdf0b2f0a400",
+   "note": "미추출 문자열 ページ → 페이지 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 227593,
+   "original_hex": "8f4997b900",
+   "new_hex": "f2d0f56e00",
+   "note": "미추출 문자열 終了 → 종료 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 232752,
+   "original_hex": "91ce90ed8ed295cf8d5800",
+   "new_hex": "f26af8e2f34af1c2000000",
+   "note": "미추출 문자열 対戦者変更 → 상대 변경 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 232768,
+   "original_hex": "96df82e900",
+   "new_hex": "f3bcf0a300",
+   "note": "미추출 문자열 戻る → 뒤로 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 233027,
+   "original_hex": "82cd82a200",
+   "new_hex": "f26b000000",
+   "note": "미추출 문자열 はい → 예 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 233032,
+   "original_hex": "82a282a282a600",
+   "new_hex": "f0aff0b8f0b500",
+   "note": "미추출 문자열 いいえ → 아니오 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 251899,
+   "original_hex": "92b9814900",
+   "new_hex": "f28f81b800",
+   "note": "미추출 문자열 鳥！ → 새∈ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 251936,
+   "original_hex": "8f4393b9959e82c68b408ad68f6500",
+   "new_hex": "f14af1d6f1a8f8c3f14ff17cf35400",
+   "note": "미추출 문자열 修道服と機関銃 → 수녀복과 기관총 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252020,
+   "original_hex": "898996da817990bc97568b4c817a00",
+   "new_hex": "f0edf0ee8179f147f142f14f817a00",
+   "note": "미추출 문자열 演目【西遊記】 → 작품【서유기】 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252050,
+   "original_hex": "898996da817990c282a292b9817a00",
+   "new_hex": "f0edf0ee8179f174f282f28f817a00",
+   "note": "미추출 문자열 演目【青い鳥】 → 작품【파랑새】 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252065,
+   "original_hex": "90af916700",
+   "new_hex": "f192f14e00",
+   "note": "미추출 문자열 星組 → 성조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252276,
+   "original_hex": "9065974600",
+   "new_hex": "f29bf1ad00",
+   "note": "미추출 문자열 親友 → 친우 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252311,
+   "original_hex": "8a77974600",
+   "new_hex": "f4d3f1ad00",
+   "note": "미추출 문자열 学友 → 학우 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252331,
+   "original_hex": "83738393834e00",
+   "new_hex": "f47cf169000000",
+   "note": "미추출 문자열 ピンク → 핑크 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252356,
+   "original_hex": "838c8362836800",
+   "new_hex": "f0acf186000000",
+   "note": "미추출 문자열 レッド → 레드 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252394,
+   "original_hex": "8375838b815b00",
+   "new_hex": "f0e0f0fb000000",
+   "note": "미추출 문자열 ブルー → 블루 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252584,
+   "original_hex": "926a82cc898000",
+   "new_hex": "f153f0faf1da00",
+   "note": "미추출 문자열 男の園 → 남자들 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252591,
+   "original_hex": "9597916700",
+   "new_hex": "f1c0f14e00",
+   "note": "미추출 문자열 風組 → 풍조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252596,
+   "original_hex": "e54be54e916700",
+   "new_hex": "f0e4f0abf14e00",
+   "note": "미추출 문자열 薔薇組 → 장미조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 252874,
+   "original_hex": "898996da8179838a834189a4817a8e4f8e6f968500",
+   "new_hex": "f0edf0ee8179f0aef15af463817af9d5f0faf2f700",
+   "note": "미추출 문자열 演目【リア王】三姉妹 → 작품【리어왕】세 자매 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253061,
+   "original_hex": "946297a289d88c82926393c195ca8352815b836000",
+   "new_hex": "f174f0aef163f164f965f1dcf9e4f0bef1d9000000",
+   "note": "미추출 문자열 巴里華撃団特別コーチ → 파리화격단 특별 코치 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253082,
+   "original_hex": "905b90ec934092548df500",
+   "new_hex": "f253fb86f472f4b2000000",
+   "note": "미추출 문자열 深川邸探索 → 저택 탐색 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253194,
+   "original_hex": "89d49167926a96f08e4f906c96ba00",
+   "new_hex": "f163f94ef153fab4f9d5f18ff1d600",
+   "note": "미추출 문자열 花組男役三人娘 → 화조 남역 세 소녀 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253209,
+   "original_hex": "89d49167906792b7836783628376825200",
+   "new_hex": "f163f94ef0e4f8dbf3c382520000000000",
+   "note": "미추출 문자열 花組身長トップ３ → 화조 장신 톱３ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253254,
+   "original_hex": "92e98c808cc38a94916700",
+   "new_hex": "f0dffa5ff184f360f14e00",
+   "note": "미추출 문자열 帝劇古株組 → 제극 고참조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253265,
+   "original_hex": "92e98c80935d8bce916700",
+   "new_hex": "f0dffa5ff1f7f348f14e00",
+   "note": "미추출 문자열 帝劇転勤組 → 제극 전근조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253276,
+   "original_hex": "946297a289d88c8292638358834a83458367916700",
+   "new_hex": "f174f0aef163f164f965f0aaf0baf1adf0d2f14e00",
+   "note": "미추출 문자열 巴里華撃団スカウト組 → 파리화격단 스카우트조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253333,
+   "original_hex": "89d491678d9594af8e4f906c96ba00",
+   "new_hex": "f163f94ef172f8c5f9d5f18ff1d600",
+   "note": "미추출 문자열 花組黒髪三人娘 → 화조 흑발 세 소녀 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253348,
+   "original_hex": "89d88c8292638cdc906c96ba00",
+   "new_hex": "f163f164f965f0b5f0d3f1c500",
+   "note": "미추출 문자열 華撃団五人娘 → 화격단 오인방 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253413,
+   "original_hex": "946a8ed78c9590aa81408df789d49356959100",
+   "new_hex": "f174f0a6f0fcf98ef442f163f3eaf16b000000",
+   "note": "미추출 문자열 破邪剣征　桜花天舞 → 파사검정 앵화천무 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253432,
+   "original_hex": "905f8de89597906f97ac81408e8790e5898d8e7189d400",
+   "new_hex": "f0b0f0faf967f1c0f151fd45f0faf1d1f181f0faf16300",
+   "note": "미추출 문자열 神崎風塵流　紫仙燕子花 → 칸자키 풍진류 자선연자화 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253484,
+   "original_hex": "90aa81408993814092c100",
+   "new_hex": "f18e8140f1948140f15100",
+   "note": "미추출 문자열 征　遠　鎮 → 정　원　진 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253514,
+   "original_hex": "92b490e2814096d289ce90d497b481e681bf00",
+   "new_hex": "f0c2fcbef1a2f163f0ecf69181e681bf000000",
+   "note": "미추출 문자열 超絶　猛火赤龍∵∩ → 초절 맹화적룡∵∩ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253647,
+   "original_hex": "978e89d497ac908500",
+   "new_hex": "f584f163f142f14a00",
+   "note": "미추출 문자열 落花流水 → 낙화유수 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253753,
+   "original_hex": "8d67979681408374838983628356838500",
+   "new_hex": "f0b3f8b4f4a0f143f0bc00000000000000",
+   "note": "미추출 문자열 紅蘭　フラッシュ → 홍란 플래시 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253770,
+   "original_hex": "9044955081408374838983628356838500",
+   "new_hex": "f0b5f0aef0b6f8b7f4a0f143f0bc000000",
+   "note": "미추출 문자열 織姫　フラッシュ → 오리히메 플래시 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253888,
+   "original_hex": "89d489ce81408374838983628356838500",
+   "new_hex": "f0a5f0b1f8c0f4a0f143f0bc0000000000",
+   "note": "미추출 문자열 花火　フラッシュ → 하나비 플래시 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253939,
+   "original_hex": "89c18e5281408374838983628356838500",
+   "new_hex": "f0baf148f8adf4a0f143f0bc0000000000",
+   "note": "미추출 문자열 加山　フラッシュ → 카야마 플래시 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 253956,
+   "original_hex": "91e5905f81408374838983628356838500",
+   "new_hex": "f0b5f0b5f144f8abf4a0f143f0bc000000",
+   "note": "미추출 문자열 大神　フラッシュ → 오오가미 플래시 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 254218,
+   "original_hex": "838d839300",
+   "new_hex": "f1e7000000",
+   "note": "미추출 문자열 ロン → 론 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257595,
+   "original_hex": "91e682508e8e8d8700",
+   "new_hex": "f0df8250f1c2f14f00",
+   "note": "미추출 문자열 第１試合 → 제１경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257604,
+   "original_hex": "91e682518e8e8d8700",
+   "new_hex": "f0df8251f1c2f14f00",
+   "note": "미추출 문자열 第２試合 → 제２경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257613,
+   "original_hex": "91e682528e8e8d8700",
+   "new_hex": "f0df8252f1c2f14f00",
+   "note": "미추출 문자열 第３試合 → 제３경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257622,
+   "original_hex": "91e682538e8e8d8700",
+   "new_hex": "f0df8253f1c2f14f00",
+   "note": "미추출 문자열 第４試合 → 제４경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257631,
+   "original_hex": "91e682548e8e8d8700",
+   "new_hex": "f0df8254f1c2f14f00",
+   "note": "미추출 문자열 第５試合 → 제５경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257640,
+   "original_hex": "91e682558e8e8d8700",
+   "new_hex": "f0df8255f1c2f14f00",
+   "note": "미추출 문자열 第６試合 → 제６경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257649,
+   "original_hex": "91e682568e8e8d8700",
+   "new_hex": "f0df8256f1c2f14f00",
+   "note": "미추출 문자열 第７試合 → 제７경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257658,
+   "original_hex": "91e682578e8e8d8700",
+   "new_hex": "f0df8257f1c2f14f00",
+   "note": "미추출 문자열 第８試合 → 제８경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257667,
+   "original_hex": "91e682588e8e8d8700",
+   "new_hex": "f0df8258f1c2f14f00",
+   "note": "미추출 문자열 第９試合 → 제９경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257676,
+   "original_hex": "91e68250824f8e8e8d8700",
+   "new_hex": "f0df8250824ff1c2f14f00",
+   "note": "미추출 문자열 第１０試合 → 제１０경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257687,
+   "original_hex": "91e6825082508e8e8d8700",
+   "new_hex": "f0df82508250f1c2f14f00",
+   "note": "미추출 문자열 第１１試合 → 제１１경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257698,
+   "original_hex": "91e6825082518e8e8d8700",
+   "new_hex": "f0df82508251f1c2f14f00",
+   "note": "미추출 문자열 第１２試合 → 제１２경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257709,
+   "original_hex": "91e6825082528e8e8d8700",
+   "new_hex": "f0df82508252f1c2f14f00",
+   "note": "미추출 문자열 第１３試合 → 제１３경기 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257720,
+   "original_hex": "91e682508bc700",
+   "new_hex": "f0df8250f16200",
+   "note": "미추출 문자열 第１局 → 제１국 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257727,
+   "original_hex": "91e682518bc700",
+   "new_hex": "f0df8251f16200",
+   "note": "미추출 문자열 第２局 → 제２국 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 257734,
+   "original_hex": "8dc58f498bc700",
+   "new_hex": "f26ef2d0f16200",
+   "note": "미추출 문자열 最終局 → 최종국 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265179,
+   "original_hex": "838d839300",
+   "new_hex": "f1e7000000",
+   "note": "미추출 문자열 ロン → 론 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265269,
+   "original_hex": "93af8eed8251916700",
+   "new_hex": "f0ebf2d08251f14e00",
+   "note": "미추출 문자열 同種２組 → 동종２조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265278,
+   "original_hex": "93af90468251916700",
+   "new_hex": "f0ebf4b28251f14e00",
+   "note": "미추출 문자열 同色２組 → 동색２조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265318,
+   "original_hex": "8d8791cc8d558c8200",
+   "new_hex": "f0d7faa4f1edf16400",
+   "note": "미추출 문자열 合体攻撃 → 합체 공격 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265361,
+   "original_hex": "898996da817990bc97568b4c817a00",
+   "new_hex": "f0edf0ee8179f147f142f14f817a00",
+   "note": "미추출 문자열 演目【西遊記】 → 작품【서유기】 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265391,
+   "original_hex": "898996da817990c282a292b9817a00",
+   "new_hex": "f0edf0ee8179f174f282f28f817a00",
+   "note": "미추출 문자열 演目【青い鳥】 → 작품【파랑새】 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265406,
+   "original_hex": "90af916700",
+   "new_hex": "f192f14e00",
+   "note": "미추출 문자열 星組 → 성조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265460,
+   "original_hex": "9065974600",
+   "new_hex": "f29bf1ad00",
+   "note": "미추출 문자열 親友 → 친우 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265488,
+   "original_hex": "8a77974600",
+   "new_hex": "f4d3f1ad00",
+   "note": "미추출 문자열 学友 → 학우 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265736,
+   "original_hex": "898996da8179838a834189a4817a8e4f8e6f968500",
+   "new_hex": "f0edf0ee8179f0aef15af463817af9d5f0faf2f700",
+   "note": "미추출 문자열 演目【リア王】三姉妹 → 작품【리어왕】세 자매 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265923,
+   "original_hex": "946297a289d88c82926393c195ca8352815b836000",
+   "new_hex": "f174f0aef163f164f965f1dcf9e4f0bef1d9000000",
+   "note": "미추출 문자열 巴里華撃団特別コーチ → 파리화격단 특별 코치 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 265944,
+   "original_hex": "905b90ec934092548df500",
+   "new_hex": "f253fb86f472f4b2000000",
+   "note": "미추출 문자열 深川邸探索 → 저택 탐색 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266056,
+   "original_hex": "89d49167926a96f08e4f906c96ba00",
+   "new_hex": "f163f94ef153fab4f9d5f18ff1d600",
+   "note": "미추출 문자열 花組男役三人娘 → 화조 남역 세 소녀 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266071,
+   "original_hex": "89d49167906792b7836783628376825200",
+   "new_hex": "f163f94ef0e4f8dbf3c382520000000000",
+   "note": "미추출 문자열 花組身長トップ３ → 화조 장신 톱３ (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266116,
+   "original_hex": "92e98c808cc38a94916700",
+   "new_hex": "f0dffa5ff184f360f14e00",
+   "note": "미추출 문자열 帝劇古株組 → 제극 고참조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266127,
+   "original_hex": "92e98c80935d8bce916700",
+   "new_hex": "f0dffa5ff1f7f348f14e00",
+   "note": "미추출 문자열 帝劇転勤組 → 제극 전근조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266172,
+   "original_hex": "9597916700",
+   "new_hex": "f1c0f14e00",
+   "note": "미추출 문자열 風組 → 풍조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266177,
+   "original_hex": "e54be54e916700",
+   "new_hex": "f0e4f0abf14e00",
+   "note": "미추출 문자열 薔薇組 → 장미조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266246,
+   "original_hex": "946297a289d88c8292638358834a83458367916700",
+   "new_hex": "f174f0aef163f164f965f0aaf0baf1adf0d2f14e00",
+   "note": "미추출 문자열 巴里華撃団スカウト組 → 파리화격단 스카우트조 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266384,
+   "original_hex": "89d491678d9594af8e4f906c96ba00",
+   "new_hex": "f163f94ef172f8c5f9d5f18ff1d600",
+   "note": "미추출 문자열 花組黒髪三人娘 → 화조 흑발 세 소녀 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266399,
+   "original_hex": "89d88c8292638cdc906c96ba00",
+   "new_hex": "f163f164f965f0b5f0d3f1c500",
+   "note": "미추출 문자열 華撃団五人娘 → 화격단 오인방 (make_extra_text_patch.py)"
+  },
+  {
+   "file": "MINIGAME/MGJT.BIN",
+   "offset": 266412,
+   "original_hex": "926a82cc898000",
+   "new_hex": "f153f0faf1da00",
+   "note": "미추출 문자열 男の園 → 남자들 (make_extra_text_patch.py)"
+  }
+ ]
+}

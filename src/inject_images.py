@@ -159,7 +159,9 @@ def rebuild_adcg(dec, img, expansion=None):
         entries.append((e, e + ptr, xy & 65535, xy >> 16))
     data_start = min(s for _, s, _, _ in entries)
     old_unique = len({s for _, s, _, _ in entries})
-    if expansion is not None:
+    if expansion is not None and len(dec) != expansion['original_decoded_size']:
+        raise ValueError('ADCG 확장 기준선 크기 불일치')
+    if expansion is not None and expansion.get('additional_tiles'):
         if len(dec) != expansion['original_decoded_size']:
             raise ValueError('ADCG 확장 기준선 크기 불일치')
         if data_start != table + count * 16 or len(dec) != data_start + old_unique * size:
@@ -205,7 +207,11 @@ def rebuild_adcg(dec, img, expansion=None):
     for t in tiles:
         uniq.setdefault(t, len(uniq))
     if len(uniq) > old_unique:
-        raise ValueError(f'ADCG 고유 타일 {len(uniq)}개 > 원래 {old_unique}개(압축 해제 크기를 늘려야 함)')
+        # 표 바로 뒤에 픽셀 풀만 있는 표준 배치면 풀을 늘린다(압축 해제 크기 증가, 레코드는 필요하면 파일 끝으로 옮긴다).
+        # 예: b675 시는 어구를 표시 구간 안에 들게 옮기면서 고유 타일이 늘었다.
+        if not (expansion and expansion.get('grow_pool')) or data_start != table + count * 16 or len(dec) != data_start + old_unique * size:
+            raise ValueError(f'ADCG 고유 타일 {len(uniq)}개 > 원래 {old_unique}개(압축 해제 크기를 늘려야 함)')
+        dec = dec[:data_start] + bytearray(len(uniq) * size)
     for t, k in uniq.items():
         p = data_start + k * size
         dec[p:p + size] = t
