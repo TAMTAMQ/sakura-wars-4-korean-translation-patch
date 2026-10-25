@@ -33,7 +33,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / 'originals/v05'
 DISC = ROOT / 'originals/disc'  # v0.5가 손대지 않은 파일(config/disc-baseline.json)은 원본 디스크가 기준선
 NATIVE = ROOT / 'assets/images/native'
-STAGES = ['slg', 'staffroll', 'ui', 'logo', 'individual']
+STAGES = ['slg', 'staffroll', 'ui', 'logo', 'individual', 'cutin', 'quotes', 'nc', 'combo']
 ALLOW_MOVE = '--allow-move' in sys.argv  # 기본: 레코드를 옮기지 않는다(파일 크기·위치 그대로)
 
 
@@ -164,7 +164,10 @@ def rebuild_adcg(dec, img, expansion=None):
     if expansion is not None and expansion.get('additional_tiles'):
         if len(dec) != expansion['original_decoded_size']:
             raise ValueError('ADCG 확장 기준선 크기 불일치')
-        if data_start != table + count * 16 or len(dec) != data_start + old_unique * size:
+        # 게임 파일의 표는 항목 2개(32바이트) 단위다. 항목 수가 홀수면 16바이트 0을 채운 뒤 픽셀 풀이 온다(명대사 b925 등).
+        # 채움이 있던 표는 새 항목 수에 맞춰 다시 채운다.
+        padded = count % 2 == 1 and data_start == table + count * 16 + 16
+        if data_start != table + count * 16 + padded * 16 or len(dec) != data_start + old_unique * size:
             raise ValueError('ADCG 확장 대상의 표·픽셀 풀 경계 불일치')
         existing = {(x, y) for _, _, x, y in entries}
         extra = [tuple(xy) for xy in expansion['additional_tiles']]
@@ -189,13 +192,14 @@ def rebuild_adcg(dec, img, expansion=None):
             tile[:vh, :vw] = img[y:y + vh, x:x + vw]
             tiles.append(encode_texture(tile, bytes(size), tw, th, pf, 1))
         unique = {tile: i for i, tile in enumerate(dict.fromkeys(tiles))}
-        start = table + len(rows) * 16
+        pad = len(rows) % 2 * 16 if padded or count % 2 == 0 else 0
+        start = table + len(rows) * 16 + pad
         output = bytearray(dec[:table])
         struct.pack_into('<I', output, 4, len(rows))
         for i, ((tile_id, x, y, flags, _), tile) in enumerate(zip(rows, tiles)):
             entry = table + i * 16
             output += struct.pack('<IIII', tile_id, start + unique[tile] * size - entry, x | (y << 16), flags)
-        output += b''.join(unique)
+        output += bytes(pad) + b''.join(unique)
         return bytes(output)
     tiles = []
     for e, s, x, y in entries:
@@ -253,9 +257,9 @@ def write_block(raw, spec, specs_index, new_dec, rel):
         raise ValueError('PRS 왕복 검증 실패')
     nxt = specs_index[1] if specs_index else len(raw)
     tail = bytes(raw[off + 16 + b:nxt])
-    if rel.endswith('CG_ALL1.DAT'):
-        # 원본 레코드: 페이로드(4정렬) + 'CPRS'00000000 + 'EOFC'00000000, 그 뒤 0 채움, 다음 AGR1
-        agr = tail.find(b'AGR1')
+    if rel in GR_SECTIONS:
+        # 원본 레코드: 페이로드(4정렬) + 'CPRS'00000000 + 'EOFC'00000000, 그 뒤 0 채움, 다음 AGR1(NC_ALL1은 AGR2)
+        agr = tail.find(b'AGR')
         limit = off + 16 + b + (agr if agr >= 0 else len(tail))
         body = payload + b'\0' * (-len(payload) % 4)
         trailer = b'CPRS\0\0\0\0EOFC\0\0\0\0'
@@ -277,15 +281,22 @@ def write_block(raw, spec, specs_index, new_dec, rel):
     return raw, {'compressed': True, 'payload': len(payload), 'slot': limit - off - 16, 'old': b}
 
 
+# GR.IDX는 ADIF 구역 셋(CG_ALL1·NC_ALL1·세 번째)이다. 구역마다 섹터 번호가 따로라 같은 번호가 겹칠 수 있으므로
+# 파일마다 자기 구역 항목만 고친다. 범위 = 16바이트 항목(섹터, 길이, 번호, 0)의 [시작, 끝).
+GR_SECTIONS = {'ADVDATA/CG_ALL1.DAT': (0x128, 0x4b08), 'ADVDATA/NC_ALL1.DAT': (0x4c38, 0x5898)}
+
+
 def relocate(new, specs, rows, rel):
-    """CG_ALL1.DAT에서 자리가 모자란 레코드를 파일 끝(2048 정렬)에 붙이고 GR.IDX의 섹터·길이를 고친다.
-    GR.IDX: 0x128부터 16바이트 항목(섹터, 길이, 번호, 0). 길이 = ADCG 크기 필드 + 32."""
-    if not rel.endswith('CG_ALL1.DAT'):
-        raise ValueError('파일 끝 이동은 CG_ALL1.DAT만 지원')
+    """GR.IDX의 읽는 길이를 새 레코드 크기에 맞추고, CG_ALL1.DAT에서 자리가 모자란 레코드는
+    파일 끝(2048 정렬)에 붙이고 섹터·길이를 고친다. 길이 = ADCG 크기 필드 + 32.
+    다른 파일 구역은 지금 출력(NATIVE)의 값을 유지하고, 자기 구역만 기준선에서 다시 계산한다."""
     gpath = 'ADVDATA/GR.IDX'
-    gr = bytearray((BASE / gpath).read_bytes())
+    lo, hi = GR_SECTIONS[rel]
+    base = (BASE / gpath).read_bytes()
+    gr = bytearray((NATIVE / gpath).read_bytes() if (NATIVE / gpath).exists() else base)
+    gr[lo:hi] = base[lo:hi]
     entries = {}
-    for p in range(296, len(gr) - 15, 16):
+    for p in range(lo, hi, 16):
         entries.setdefault(struct.unpack_from('<I', gr, p)[0], []).append(p)
     new = bytearray(new)
     for r in rows:
@@ -299,6 +310,8 @@ def relocate(new, specs, rows, rel):
                     r.setdefault('gr_idx_entries', []).append(p)
             continue
         rec = r.pop('relocate')
+        if not rel.endswith('CG_ALL1.DAT'):
+            raise ValueError(f'블록 {r["block"]}: 원래 자리에 안 들어감(파일 끝 이동은 CG_ALL1.DAT만 지원)')
         if not ALLOW_MOVE:
             raise ValueError(f'블록 {r["block"]}: 압축해도 원래 자리보다 큼({r["payload"]} > {r["slot"]}). '
                              '이미지를 단순화하거나 --allow-move로 파일 끝 이동을 허용하세요')
@@ -353,8 +366,6 @@ def main(source_prefix=None):
     for rel, blocks in sorted(by_file.items()):
         raw = (BASE / rel if (BASE / rel).exists() else DISC / rel).read_bytes()
         specs = E.block_specs(raw)
-        if rel.endswith('CG_ALL1.DAT') and (NATIVE / 'ADVDATA/GR.IDX').exists():
-            (NATIVE / 'ADVDATA/GR.IDX').write_bytes((BASE / 'ADVDATA/GR.IDX').read_bytes())
         new = bytearray(raw)
         rows = []
         try:
@@ -372,7 +383,7 @@ def main(source_prefix=None):
                 new, info = write_block(new, spec, nxt, new_dec, rel)
                 rows.append({'block': bi, 'textures': sorted(texs), **info})
             moved = {}
-            if rel.endswith('CG_ALL1.DAT'):
+            if rel in GR_SECTIONS:
                 new = relocate(new, specs, rows, rel)
                 moved = {r['block']: r['moved_to'] for r in rows if 'moved_to' in r}
             # 검증: 기존 블록 위치 동일(옮긴 레코드는 파일 끝에 추가), 대상 텍스처는 PNG와 일치, 나머지는 그대로

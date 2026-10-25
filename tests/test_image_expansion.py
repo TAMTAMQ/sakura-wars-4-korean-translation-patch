@@ -36,4 +36,15 @@ class ImageExpansionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, '기준선'):
             rebuild_adcg(original, img, {**policy, 'original_decoded_size': len(original) + 1})
 
+    def test_padded_odd_table_keeps_32_byte_table_units(self):
+        # 항목 1개 + 16바이트 채움 뒤 픽셀 풀(게임 파일의 홀수 표 배치). 2개가 되면 채움 없이 풀이 이어진다.
+        header = struct.pack('<IIHHIIHH', 0xc0000000, 1, 2, 2, 24, 0x102, 4, 4)
+        original = header + struct.pack('<IIII', 0, 32, 0, 0) + bytes(16) + struct.pack('<4H', *([0xf00f] * 4))
+        img = np.asarray(decode_adcg(original)[0][1]).copy()
+        img[2:4, 2:4] = [0, 255, 0, 255]
+        policy = {'original_decoded_size': len(original), 'additional_tiles': [[2, 2]]}
+        rebuilt = rebuild_adcg(original, img, policy)
+        self.assertEqual(len(rebuilt), 24 + 32 + 2 * 8)
+        np.testing.assert_array_equal(np.asarray(decode_adcg(rebuilt)[0][1]), img)
+
 if __name__ == '__main__': unittest.main()

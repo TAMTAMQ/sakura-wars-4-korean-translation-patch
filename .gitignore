@@ -74,3 +74,4 @@ __pycache__/
 # 저작권 자료: 게임 원본 그림에서 나온 이미지는 저장소에 올리지 않는다 (로컬에서만 생성·사용)
 *.png
 /assets/images/remake/slg_compare.html
+/assets/images/remake/cutin/_ogami_ref.npy

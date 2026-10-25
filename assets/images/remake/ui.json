@@ -6323,6 +6323,2138 @@
      ]
     }
    ]
+  },
+  {
+   "source": "ADVDATA/APPEND/EBG_V.CBD",
+   "block": 0,
+   "texture": 0,
+   "note": "CG 감상 「只今現像中」",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      190,
+      168,
+      456,
+      226
+     ],
+     "select": "dark",
+     "thr": 125,
+     "dilate": 3,
+     "radius": 7
+    },
+    {
+     "op": "text",
+     "rect": [
+      186,
+      164,
+      460,
+      230
+     ],
+     "text": "지금 현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 40,
+     "fill": [
+      72,
+      30,
+      32
+     ],
+     "track": 4
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/EBG_V.CBD",
+   "block": 1,
+   "texture": 0,
+   "note": "CG 감상 버튼 前へ·次へ·もどる·メニュー消去 (もどる는 두 조각이 이어진다)",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      42,
+      50,
+      90,
+      77
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      40,
+      50,
+      92,
+      77
+     ],
+     "text": "이전",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      240,
+      230,
+      205
+     ],
+     "shadow": [
+      [
+       20,
+       8,
+       0,
+       220
+      ],
+      1,
+      1,
+      0.6
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      126,
+      50,
+      174,
+      77
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      124,
+      50,
+      176,
+      77
+     ],
+     "text": "다음",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      240,
+      230,
+      205
+     ],
+     "shadow": [
+      [
+       20,
+       8,
+       0,
+       220
+      ],
+      1,
+      1,
+      0.6
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      228,
+      50,
+      256,
+      77
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      0,
+      132,
+      32,
+      161
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      226,
+      51,
+      288,
+      77
+     ],
+     "text": "뒤로",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      240,
+      230,
+      205
+     ],
+     "shadow": [
+      [
+       20,
+       8,
+       0,
+       220
+      ],
+      1,
+      1,
+      0.6
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      -30,
+      133,
+      32,
+      159
+     ],
+     "text": "뒤로",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      240,
+      230,
+      205
+     ],
+     "shadow": [
+      [
+       20,
+       8,
+       0,
+       220
+      ],
+      1,
+      1,
+      0.6
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      106,
+      137,
+      232,
+      163
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      104,
+      136,
+      234,
+      164
+     ],
+     "text": "메뉴 지우기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      240,
+      230,
+      205
+     ],
+     "shadow": [
+      [
+       20,
+       8,
+       0,
+       220
+      ],
+      1,
+      1,
+      0.6
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+   "block": 0,
+   "texture": 0,
+   "note": "영상 감상 화면 「只今現像中」 4곳·もどる",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      106,
+      114,
+      228,
+      142
+     ],
+     "select": "dark",
+     "thr": 52,
+     "dilate": 1,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      114,
+      116,
+      224,
+      140
+     ],
+     "text": "현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 20,
+     "fill": [
+      55,
+      8,
+      18
+     ],
+     "track": 6
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      416,
+      114,
+      538,
+      142
+     ],
+     "select": "dark",
+     "thr": 52,
+     "dilate": 1,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      424,
+      116,
+      534,
+      140
+     ],
+     "text": "현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 20,
+     "fill": [
+      55,
+      8,
+      18
+     ],
+     "track": 6
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      106,
+      290,
+      228,
+      318
+     ],
+     "select": "dark",
+     "thr": 52,
+     "dilate": 1,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      114,
+      292,
+      224,
+      316
+     ],
+     "text": "현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 20,
+     "fill": [
+      55,
+      8,
+      18
+     ],
+     "track": 6
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      416,
+      290,
+      538,
+      318
+     ],
+     "select": "dark",
+     "thr": 52,
+     "dilate": 1,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      424,
+      292,
+      534,
+      316
+     ],
+     "text": "현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 20,
+     "fill": [
+      55,
+      8,
+      18
+     ],
+     "track": 6
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      494,
+      402,
+      576,
+      436
+     ],
+     "select": "dark",
+     "thr": 60,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      486,
+      400,
+      586,
+      438
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 20,
+     "fill": [
+      25,
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+   "block": 1,
+   "texture": 0,
+   "note": "영상 감상 「只今現像中」 표지·もどる 버튼",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      58,
+      82,
+      166,
+      110
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      56,
+      82,
+      168,
+      110
+     ],
+     "text": "현상 중",
+     "font": "gungso",
+     "weight": 0,
+     "size": 21,
+     "fill": [
+      150,
+      0,
+      25
+     ],
+     "track": 6
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      36,
+      166,
+      114,
+      193
+     ],
+     "select": "dark",
+     "thr": 140,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      26,
+      164,
+      126,
+      194
+     ],
+     "text": "돌아가기",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      175,
+      20,
+      40
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+   "block": 1,
+   "texture": 1,
+   "note": "영상 제목 띠",
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      6,
+      194,
+      254,
+      224
+     ],
+     "ref_x": 3
+    },
+    {
+     "op": "rowref",
+     "rect": [
+      6,
+      225,
+      254,
+      256
+     ],
+     "ref_x": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      194,
+      256,
+      224
+     ],
+     "text": "광무2식, 기동!",
+     "font": "sans",
+     "weight": 600,
+     "size": 17,
+     "fill": [
+      70,
+      205,
+      110
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      225,
+      256,
+      256
+     ],
+     "text": "출격! 파리화격단!!",
+     "font": "sans",
+     "weight": 600,
+     "size": 17,
+     "fill": [
+      70,
+      205,
+      110
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+   "block": 1,
+   "texture": 2,
+   "note": "영상 제목 띠",
+   "ops": [
+    {
+     "op": "rowref",
+     "rect": [
+      6,
+      194,
+      254,
+      224
+     ],
+     "ref_x": 3
+    },
+    {
+     "op": "rowref",
+     "rect": [
+      6,
+      225,
+      254,
+      256
+     ],
+     "ref_x": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      194,
+      256,
+      224
+     ],
+     "text": "미카사, 강탈.",
+     "font": "sans",
+     "weight": 600,
+     "size": 17,
+     "fill": [
+      70,
+      205,
+      110
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      225,
+      256,
+      256
+     ],
+     "text": "사랑하라 소녀여",
+     "font": "sans",
+     "weight": 600,
+     "size": 17,
+     "fill": [
+      70,
+      205,
+      110
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/SOUND_V.CBD",
+   "block": 0,
+   "texture": 1,
+   "note": "음악 감상 もどる 버튼",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      10,
+      68,
+      86,
+      96
+     ],
+     "select": "dark",
+     "thr": 150,
+     "dilate": 2,
+     "radius": 4,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      4,
+      66,
+      90,
+      96
+     ],
+     "text": "뒤로",
+     "font": "sans",
+     "weight": 800,
+     "size": 20,
+     "fill": [
+      50,
+      40,
+      190
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/APPEND/SOUND_V.CBD",
+   "block": 0,
+   "texture": 2,
+   "note": "음악 감상 안내문(원문 두 줄 → 한 줄)",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      48,
+      256,
+      96
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      49,
+      240,
+      72
+     ],
+     "text": "연주할 곡을 선택해 주세요.",
+     "font": "serif",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      10,
+      10,
+      10
+     ],
+     "align": "left"
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 652,
+   "texture": 0,
+   "note": "쌍무 설계도 제목(巳型霊子甲冑兵器 / 名称 双武). 작은 주석 글씨는 판독 불가라 그대로",
+   "ops": [
+    {
+     "op": "grid_bg",
+     "rect": [
+      214,
+      56,
+      430,
+      113
+     ],
+     "row_ref": [
+      470,
+      640
+     ],
+     "col_ref": [
+      2,
+      52
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      214,
+      62,
+      430,
+      90
+     ],
+     "text": "사형 영자갑주 병기",
+     "font": "sans",
+     "weight": 800,
+     "size": 21,
+     "fill": [
+      150,
+      240,
+      205
+     ],
+     "glow": [
+      [
+       60,
+       170,
+       125
+      ],
+      2,
+      1.0
+     ],
+     "track": 2
+    },
+    {
+     "op": "text",
+     "rect": [
+      256,
+      90,
+      388,
+      116
+     ],
+     "text": "명칭 쌍무",
+     "font": "sans",
+     "weight": 800,
+     "size": 19,
+     "fill": [
+      150,
+      240,
+      205
+     ],
+     "glow": [
+      [
+       60,
+       170,
+       125
+      ],
+      2,
+      1.0
+     ],
+     "track": 8
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 844,
+   "texture": 0,
+   "note": "광무 조종 패널: 세로 표기 光武二式·光武F2와 대원 이름. 상자 안 작은 글씨(5px)는 판독 불가라 그대로",
+   "ops": [
+    {
+     "op": "replace_gray",
+     "rect": [
+      50,
+      97,
+      66,
+      149
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      48,
+      98,
+      68,
+      148
+     ],
+     "text": "광무2식",
+     "font": "serif",
+     "weight": 800,
+     "size": 10,
+     "fill": [
+      240,
+      240,
+      240
+     ],
+     "vertical": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      306,
+      97,
+      324,
+      149
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      304,
+      98,
+      326,
+      148
+     ],
+     "text": "광무F2",
+     "font": "serif",
+     "weight": 800,
+     "size": 10,
+     "fill": [
+      240,
+      240,
+      240
+     ],
+     "vertical": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      97,
+      53,
+      140,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      98,
+      53,
+      142,
+      62
+     ],
+     "text": "오오가미",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      145,
+      53,
+      188,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      146,
+      53,
+      190,
+      62
+     ],
+     "text": "사쿠라",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      193,
+      53,
+      236,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      194,
+      53,
+      238,
+      62
+     ],
+     "text": "스미레",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      241,
+      53,
+      284,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      242,
+      53,
+      286,
+      62
+     ],
+     "text": "마리아",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      289,
+      53,
+      332,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      290,
+      53,
+      334,
+      62
+     ],
+     "text": "칸나",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      353,
+      53,
+      396,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      354,
+      53,
+      398,
+      62
+     ],
+     "text": "에리카",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      401,
+      53,
+      444,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      402,
+      53,
+      446,
+      62
+     ],
+     "text": "글리신",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      449,
+      53,
+      492,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      450,
+      53,
+      494,
+      62
+     ],
+     "text": "코쿠리코",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      497,
+      53,
+      540,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      498,
+      53,
+      542,
+      62
+     ],
+     "text": "로벨리아",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    },
+    {
+     "op": "replace_gray",
+     "rect": [
+      545,
+      53,
+      588,
+      62
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      546,
+      53,
+      590,
+      62
+     ],
+     "text": "하나비",
+     "font": "sans",
+     "weight": 600,
+     "size": 8,
+     "fill": [
+      225,
+      225,
+      235
+     ],
+     "align": "left",
+     "binary": true
+    }
+   ]
+  },
+  {
+   "source": "SLG/G03/E/FXI3C00_05.BT1",
+   "block": 0,
+   "texture": 0,
+   "note": "광무 조종 패널(전투 연출): 세로 표기 光武二式. 이름·상자 글씨는 4~5px라 판독 불가",
+   "ops": [
+    {
+     "op": "replace_gray",
+     "rect": [
+      128,
+      145,
+      147,
+      198
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      127,
+      146,
+      148,
+      197
+     ],
+     "text": "광무2식",
+     "font": "serif",
+     "weight": 800,
+     "size": 10,
+     "fill": [
+      240,
+      240,
+      240
+     ],
+     "vertical": true
+    }
+   ]
+  },
+  {
+   "source": "SLG/G03/E/FXI3C00_05.BT1",
+   "block": 0,
+   "texture": 1,
+   "note": "광무 조종 패널(전투 연출): 세로 표기 光武F2",
+   "ops": [
+    {
+     "op": "replace_gray",
+     "rect": [
+      128,
+      145,
+      147,
+      196
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      153
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      127,
+      146,
+      148,
+      195
+     ],
+     "text": "광무F2",
+     "font": "serif",
+     "weight": 800,
+     "size": 10,
+     "fill": [
+      240,
+      240,
+      240
+     ],
+     "vertical": true
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CINEMA/ICT.CBD",
+   "block": 0,
+   "texture": 1,
+   "note": "제국화격단 통신 화면: 團擊華國帝·中続接·了完続接(오른쪽부터 읽는 표기). 붓글씨 華撃 문양은 그대로",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      22,
+      173,
+      186,
+      197
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      22,
+      173,
+      186,
+      197
+     ],
+     "text": "제국화격단",
+     "font": "sans",
+     "weight": 900,
+     "size": 16,
+     "fill": [
+      235,
+      245,
+      235
+     ],
+     "stroke": [
+      [
+       50,
+       180,
+       90
+      ],
+      2
+     ],
+     "track": 14
+    },
+    {
+     "op": "fill",
+     "rect": [
+      0,
+      240,
+      112,
+      256
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      0,
+      240,
+      46,
+      256
+     ],
+     "text": "접속 중",
+     "font": "sans",
+     "weight": 900,
+     "size": 13,
+     "fill": [
+      235,
+      245,
+      235
+     ],
+     "stroke": [
+      [
+       50,
+       180,
+       90
+      ],
+      2
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      50,
+      240,
+      112,
+      256
+     ],
+     "text": "접속 완료",
+     "font": "sans",
+     "weight": 900,
+     "size": 13,
+     "fill": [
+      235,
+      245,
+      235
+     ],
+     "stroke": [
+      [
+       50,
+       180,
+       90
+      ],
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 752,
+   "texture": 0,
+   "note": "전투 해설 제목 高機動兵装【疾風】(오른쪽부터). 아래 작은 수치 글씨는 판독 불가",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      38,
+      0,
+      171,
+      17
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      38,
+      0,
+      171,
+      17
+     ],
+     "text": "【질풍】 고기동 병장",
+     "font": "serif",
+     "weight": 800,
+     "size": 13,
+     "fill": [
+      255,
+      255,
+      255
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 753,
+   "texture": 0,
+   "note": "전투 해설 제목 高機動兵装【疾風】(오른쪽부터). 아래 작은 수치 글씨는 판독 불가",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      38,
+      0,
+      171,
+      17
+     ],
+     "rgba": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      38,
+      0,
+      171,
+      17
+     ],
+     "text": "【질풍】 고기동 병장",
+     "font": "serif",
+     "weight": 800,
+     "size": 13,
+     "fill": [
+      255,
+      255,
+      255
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1285,
+   "texture": 0,
+   "note": "마작 리치 버튼",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      16,
+      4,
+      88,
+      25
+     ],
+     "select": "dark",
+     "dilate": 2,
+     "radius": 3,
+     "thr": 110,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      18,
+      3,
+      86,
+      26
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      60,
+      40,
+      5
+     ],
+     "track": 4
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 1297,
+   "texture": 0,
+   "note": "마작 화면 안내(b1263과 같은 배치)",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      74,
+      427,
+      154,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      74,
+      429,
+      154,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      74,
+      423,
+      154,
+      449
+     ],
+     "text": "필살 공격",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      214,
+      427,
+      282,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      214,
+      429,
+      282,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      214,
+      423,
+      282,
+      449
+     ],
+     "text": "역 목록",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      350,
+      427,
+      416,
+      446
+     ],
+     "select": "dark",
+     "thr": 120,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      350,
+      429,
+      416,
+      445
+     ],
+     "select": "dark",
+     "thr": 170,
+     "dilate": 1,
+     "radius": 4
+    },
+    {
+     "op": "text",
+     "rect": [
+      350,
+      423,
+      416,
+      449
+     ],
+     "text": "리치",
+     "font": "sans",
+     "weight": 800,
+     "size": 17,
+     "fill": [
+      74,
+      32,
+      41
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      512,
+      226,
+      576,
+      250
+     ],
+     "select": "all",
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      505,
+      226,
+      583,
+      250
+     ],
+     "text": "과제",
+     "font": "sans",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       30,
+       40,
+       40
+      ],
+      2
+     ],
+     "track": 4
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      429,
+      299,
+      451,
+      323
+     ],
+     "select": "light",
+     "thr": 150,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      428,
+      299,
+      452,
+      323
+     ],
+     "text": "선",
+     "font": "sans",
+     "weight": 900,
+     "size": 20,
+     "fill": [
+      250,
+      250,
+      250
+     ],
+     "stroke": [
+      [
+       10,
+       10,
+       40
+      ],
+      1
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      484,
+      360,
+      528,
+      385
+     ],
+     "select": "near",
+     "color": [
+      30,
+      100,
+      200
+     ],
+     "thr": 220,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      484,
+      360,
+      560,
+      385
+     ],
+     "text": "오오가미",
+     "font": "sans",
+     "weight": 700,
+     "size": 15,
+     "fill": [
+      30,
+      100,
+      200
+     ],
+     "align": "left"
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      508,
+      424,
+      584,
+      448
+     ],
+     "select": "light",
+     "thr": 140,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      570,
+      425,
+      584,
+      447
+     ],
+     "select": "far",
+     "color": [
+      90,
+      40,
+      110
+     ],
+     "thr": 60,
+     "dilate": 1,
+     "radius": 3
+    },
+    {
+     "op": "text",
+     "rect": [
+      500,
+      423,
+      590,
+      449
+     ],
+     "text": "제1국",
+     "font": "sans",
+     "weight": 600,
+     "size": 18,
+     "fill": [
+      235,
+      235,
+      240
+     ],
+     "track": 3
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/ITEM_LG.DAT",
+   "block": 9,
+   "texture": 0,
+   "note": "아이템 노 관람권: 能楽·高砂·観覧券. 아래 작은 글씨는 판독 불가",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      150,
+      46,
+      171,
+      87
+     ],
+     "select": "light",
+     "dilate": 2,
+     "radius": 4,
+     "thr": 170,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      150,
+      46,
+      171,
+      86
+     ],
+     "text": "노가쿠",
+     "font": "serif",
+     "weight": 700,
+     "size": 11,
+     "fill": [
+      225,
+      205,
+      175
+     ],
+     "vertical": true
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      98,
+      80,
+      158,
+      148
+     ],
+     "select": "light",
+     "dilate": 3,
+     "radius": 5,
+     "thr": 170,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      112,
+      84,
+      150,
+      146
+     ],
+     "text": "다카사고",
+     "font": "serif",
+     "weight": 700,
+     "size": 14,
+     "fill": [
+      230,
+      210,
+      180
+     ],
+     "vertical": true
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      92,
+      186,
+      166,
+      208
+     ],
+     "select": "dark",
+     "dilate": 1,
+     "radius": 3,
+     "thr": 110,
+     "local": true
+    },
+    {
+     "op": "text",
+     "rect": [
+      90,
+      186,
+      168,
+      209
+     ],
+     "text": "관람권",
+     "font": "serif",
+     "weight": 900,
+     "size": 18,
+     "fill": [
+      45,
+      35,
+      30
+     ],
+     "track": 6
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/WARNING2.CBD",
+   "block": 0,
+   "texture": 0,
+   "note": "경고 화면 제목 謹警",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      216,
+      50,
+      420,
+      114
+     ],
+     "select": "dark",
+     "dilate": 2,
+     "radius": 5,
+     "thr": 150
+    },
+    {
+     "op": "text",
+     "rect": [
+      218,
+      52,
+      298,
+      112
+     ],
+     "text": "경",
+     "font": "sans",
+     "weight": 900,
+     "size": 52,
+     "fill": [
+      215,
+      60,
+      60
+     ],
+     "stroke": [
+      [
+       60,
+       40,
+       40
+      ],
+      2
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      338,
+      52,
+      418,
+      112
+     ],
+     "text": "고",
+     "font": "sans",
+     "weight": 900,
+     "size": 52,
+     "fill": [
+      215,
+      60,
+      60
+     ],
+     "stroke": [
+      [
+       60,
+       40,
+       40
+      ],
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 588,
+   "texture": 0,
+   "note": "잘못된 배경 번호 디버그 화면(정상 진행에선 안 나옴)",
+   "ops": [
+    {
+     "op": "inpaint",
+     "rect": [
+      30,
+      30,
+      412,
+      96
+     ],
+     "select": "near",
+     "dilate": 2,
+     "radius": 5,
+     "thr": 220,
+     "color": [
+      250,
+      240,
+      20
+     ]
+    },
+    {
+     "op": "inpaint",
+     "rect": [
+      30,
+      30,
+      412,
+      96
+     ],
+     "select": "dark",
+     "dilate": 1,
+     "radius": 5,
+     "thr": 45
+    },
+    {
+     "op": "text",
+     "rect": [
+      34,
+      30,
+      420,
+      62
+     ],
+     "text": "잘못된 BG 번호입니다.",
+     "font": "serif",
+     "weight": 900,
+     "size": 26,
+     "fill": [
+      255,
+      250,
+      40
+     ],
+     "shadow": [
+      [
+       20,
+       20,
+       40,
+       220
+      ],
+      2,
+      2,
+      1
+     ],
+     "align": "left"
+    },
+    {
+     "op": "text",
+     "rect": [
+      34,
+      62,
+      420,
+      94
+     ],
+     "text": "즉시 보고해 주세요.",
+     "font": "serif",
+     "weight": 900,
+     "size": 26,
+     "fill": [
+      255,
+      250,
+      40
+     ],
+     "shadow": [
+      [
+       20,
+       20,
+       40,
+       220
+      ],
+      2,
+      2,
+      1
+     ],
+     "align": "left"
+    }
+   ]
   }
  ]
 }

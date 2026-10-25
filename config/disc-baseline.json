@@ -6,6 +6,210 @@
    "size": 265020,
    "sha256": "dad1cd1094377525a90c549bf68be69ac59cc5f0871dbca4681907112ea734eb",
    "reason": "오프닝 시 다음 세로 제목 「サクラ大戦4」「〜恋せよ乙女〜」 텍스처(블록 2, 4)"
+  },
+  {
+   "path": "SLG/UNITS/SAKURA_S_N.BC",
+   "size": 1825992,
+   "sha256": "9eaf37638deece6e38dc2f70c783d29fef0b9285e1910dc9beb030cca14eb520",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/SUMIRE_S_N.BC",
+   "size": 1823560,
+   "sha256": "c1b17ee078d66f998003eb82034e2e54d992c65ed737afc7a4a7c2683de99119",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/MARIA_S_N.BC",
+   "size": 1826920,
+   "sha256": "c2592084abeb3b42926ce56eb49d5361c46afd69561fea74728e977e7967b546",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/KANNA_S_N.BC",
+   "size": 1878472,
+   "sha256": "c9266c4ad72d685df5aeaf2e463f9c0b2be16ee40e4353fdc1219b42a644d393",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/IRIS_S_N.BC",
+   "size": 1901960,
+   "sha256": "d57d7a3d449d5981af5c90c1afd8ffa5929dcd9ba0633ced5c6c62f0f8e4327a",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/KOURAN_S_N.BC",
+   "size": 1852712,
+   "sha256": "45b0da8af82be79b38b3df9caf1a806692c934defb6c926d83f98fb5cc81291d",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/ORIHIME_S_N.BC",
+   "size": 1958440,
+   "sha256": "d06afc056976f2dafe1e7fe99408ada0a4f4222f778875e61937494770184faa",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/RENI_S_N.BC",
+   "size": 1893864,
+   "sha256": "97cde7eb002277cb9a8e1c8df60cb118dea85043fb41682ee0d7a8ca29648b67",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/ERICA_S_N.BC",
+   "size": 1860424,
+   "sha256": "f7915819883404303f921318856ddd1110fa929e1287d8e98e803b896971a487",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/GLYCINE_S_N.BC",
+   "size": 1906600,
+   "sha256": "de36ae9e2fed42f5e949cf5158d84ece8f4075643d0c4960c3671e703e2fe886",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/COQUELICOT_S_N.BC",
+   "size": 1872424,
+   "sha256": "92cb69d0e191581f555a77ea77c4eaba4c0ae840758ddf9751fcb9fd5a1d827f",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/LOBELIA_S_N.BC",
+   "size": 1835912,
+   "sha256": "f4acb67c09a69f00c76408b9c9c7fdda6630ee6dd2245ee2a066d0f4f9591511",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/HANABI_S_N.BC",
+   "size": 1922248,
+   "sha256": "b0cb2a08321aeabb875cd5d1c07bec66bce4ffa605f3c660b00275a6afe03f87",
+   "reason": "합체 공격 컷인 이름판(「大神一郎」·대원 이름) 텍스처, src/remake_cutin_names.py"
+  },
+  {
+   "path": "SLG/UNITS/SAKURA_S.GRCT",
+   "size": 71100,
+   "sha256": "52e685709a244dca1614453648f791be5543f7897a9d6ddde36786e952b27b7c",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/SUMIRE_S.GRCT",
+   "size": 71100,
+   "sha256": "9d222ead5ee3c994131b60443a4f9eacc5e677bd89511e6632de102718be1a7a",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/MARIA_S.GRCT",
+   "size": 71100,
+   "sha256": "4c3059532e4473de7a4931a82c4b49adec3c4f1f09335211148dbffc0dcc7e44",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KANNA_S.GRCT",
+   "size": 71100,
+   "sha256": "9200cf34e04781d1def335bb44bdfa7b59ffa9a3487f6ce00ecc80d8f913c1e6",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/IRIS_S.GRCT",
+   "size": 70944,
+   "sha256": "f5a280270c9ecff5730a11fccbec3c58c981be2fa5be16d88260837e5743a378",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KOURAN_S.GRCT",
+   "size": 71100,
+   "sha256": "1767997533956847c0837b67f764afe99a9a7c8e1a93c7db9ac6bb8ad78f938a",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/ORIHIME_S.GRCT",
+   "size": 71100,
+   "sha256": "c183dc80ab3a04dc831ae6cf603b3ff0d5baf725f0626089ad4f6397db16f55f",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/RENI_S.GRCT",
+   "size": 71100,
+   "sha256": "c8ded452936c6f7463ad0dd8bfa6ae8773fc8cd3bf635dad0a9c1494cae3b344",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/ERICA_S.GRCT",
+   "size": 71100,
+   "sha256": "2cf0dfbcc991964f07298e36bd50369d2e18f86655a27eb7d98034a7603f9ccc",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/GLYCINE_S.GRCT",
+   "size": 71100,
+   "sha256": "0648e2d8277cb4a3577e4e7a564b503ff2d3d3b5747c56f725da79f51eb4fcf7",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/COQUELICOT_S.GRCT",
+   "size": 71100,
+   "sha256": "1c40e46c2e71e85b6975c216899af4aa5c2b942dc5199891076a5674bd6868c3",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/LOBELIA_S.GRCT",
+   "size": 71100,
+   "sha256": "2205b63b68a1cc76f600dbb165efbc9f94872aa049d6beb092aaaeef7cccba74",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/HANABI_S.GRCT",
+   "size": 71100,
+   "sha256": "03f58daf5803a4df1a02a9731e81cf7bb022556d69a9cf0baffe3c7e068c9df0",
+   "reason": "합체 공격 컷인 기술 이름판(「大神 & さくら」「狼虎滅却 桜花絢爛」) 텍스처, src/remake_combo_plates.py"
+  },
+  {
+   "path": "ADVDATA/NC_ALL1.DAT",
+   "size": 21190656,
+   "sha256": "529595d37c7b992ce4a61f1b0f3c44bac8ca1fca5aab3a43b85872abb2265221",
+   "reason": "시 구절 「花の命は…」과 스태프 크레딧 텍스처(b728~b748), src/remake_nc_titles.py"
+  },
+  {
+   "path": "ADVDATA/APPEND/EBG_V.CBD",
+   "size": 374896,
+   "sha256": "838e77095de2a9f6a2b0d41102c0fb45d4a7ee2247597575dfbd131c4f98bf6a",
+   "reason": "부록 CG 감상 「只今現像中」·버튼(前へ·次へ·もどる·メニュー消去) 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "ADVDATA/APPEND/MOVIE_V.CBD",
+   "size": 440560,
+   "sha256": "d922f3dc3c14c3c5a1c415bb3c27b30a0438423ee57f85305e091d280d620554",
+   "reason": "부록 영상 감상 「只今現像中」·もどる·영상 제목 띠 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "ADVDATA/APPEND/SOUND_V.CBD",
+   "size": 714352,
+   "sha256": "ab3376f7dfc06c9af6a1051f930ee729d49b2d82fa444eacd7ad498955b8332a",
+   "reason": "부록 음악 감상 안내문·もどる 버튼 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "ADVDATA/CINEMA/ICT.CBD",
+   "size": 421744,
+   "sha256": "57358c42914658df5f5ec08ca6cd138a7ad876a18a4a71cf96db4a6b1344b464",
+   "reason": "제국화격단 통신 화면 「帝國華撃團」「接続中」「接続完了」 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "ADVDATA/ITEM_LG.DAT",
+   "size": 1595392,
+   "sha256": "5751ad0f11838879f3d8fad2670b5e4c4e09aad3e1d8749acecf649a0cb6a1b7",
+   "reason": "아이템 노 관람권(能楽·高砂·観覧券) 텍스처 b9, assets/images/remake/ui.json"
+  },
+  {
+   "path": "SYSDATA/WARNING2.CBD",
+   "size": 266492,
+   "sha256": "8656c5a6bd9b6281c5e9b421bd99cae9c550fc80165335ca28186bffd86bc674",
+   "reason": "경고 화면 제목 「謹警」 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "SLG/G03/E/FXI3C00_05.BT1",
+   "size": 396396,
+   "sha256": "84adb94c71339c248615aed9b45f549686d08d87ce85c14b56844de57f53f2e8",
+   "reason": "광무 조종 패널 세로 표기 「光武二式」「光武F2」 텍스처, assets/images/remake/ui.json"
   }
  ]
 }

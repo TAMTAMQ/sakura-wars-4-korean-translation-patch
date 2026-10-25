@@ -8,8 +8,8 @@ $ErrorActionPreference = 'Stop'
 if (-not (Test-Path -LiteralPath $Python)) { $Python = 'python' }
 
 if (-not $SkipImages -and $ImagePython) {
-    # 재제작 PNG → 게임 텍스처(assets/images/native) 순서: SLG 이름판, 스태프롤, UI, 로고, 재삽입
-    foreach ($step in 'remake_slg_plates', 'remake_staff_roll', 'remake_ui', 'remake_logo', 'inject_images') {
+    # 재제작 PNG → 게임 텍스처(assets/images/native) 순서: SLG 이름판, 스태프롤, UI, 로고, 컷인 이름판, 명대사, NC 시·크레딧, 합체 기술판, 재삽입
+    foreach ($step in 'remake_slg_plates', 'remake_staff_roll', 'remake_ui', 'remake_logo', 'remake_cutin_names', 'remake_quotes', 'remake_nc_titles', 'remake_combo_plates', 'inject_images') {
         & $ImagePython "$PSScriptRoot\src\$step.py"
         if ($LASTEXITCODE -ne 0) { throw "이미지 단계 실패: $step" }
     }

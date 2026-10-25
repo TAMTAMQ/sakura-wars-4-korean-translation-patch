@@ -49,7 +49,7 @@ def main():
     rows = json.loads((REVIEW / 'image_review.json').read_text(encoding='utf-8'))
     remake = {}
     # 뒤 단계가 앞 단계를 덮는다(로고는 UI 결과 위에 만든다)
-    for idx in [ROOT / 'assets/images/remake' / d / 'index.json' for d in ('slg', 'staffroll', 'ui', 'logo')]:
+    for idx in [ROOT / 'assets/images/remake' / d / 'index.json' for d in ('slg', 'staffroll', 'ui', 'logo', 'cutin', 'quotes', 'nc', 'combo')]:
         if not idx.exists():
             continue
         for r in json.loads(idx.read_text(encoding='utf-8')):
@@ -81,8 +81,9 @@ def main():
            'background:repeating-conic-gradient(#aaa 0 25%,#ccc 0 50%) 0 0/16px 16px}',
            'h3{margin:0 0 4px;font-size:14px}.note{margin:2px 0 6px}.m{color:#777;font-size:11px}',
            '</style></head><body>',
-           '<h1>v0.5 개선판 변경 이미지 검수표</h1>',
-           '<p>원본 → v0.5 → 재제작(보존본) → 개별 수정 순서입니다. 기존 재제작본은 보존하며, '
+           '<h1>이미지 검수표</h1>',
+           '<p>원본 → v0.5 → 재제작(보존본) → 개별 수정 순서입니다. v0.5가 손대지 않아 새로 번역한 이미지는 '
+           '원본 → 재제작 두 칸만 있습니다. 기존 재제작본은 보존하며, '
            '추가 수정이 있는 이미지에만 오른쪽 비교 칸을 표시합니다.</p>',
            '<p>개별 수정은 표시된 부분만 바꾼 결과이며 이미지 전체의 검수 완료를 뜻하지 않습니다. '
            '제목의 기존 판정과 별도로, 아래에 이번 수정 범위와 수정부 확대 비교를 표시합니다.</p>',
@@ -111,10 +112,12 @@ def main():
         if r['note']:
             out.append(f'<div class="note">{html.escape(r["note"])}</div>')
         out.append('<div class="imgs">')
-        imgs = [('원본', r['original']), ('v0.5', r['patched'])]
+        imgs = [('원본', r['original'])]
+        if r['patched']:  # v0.5가 손대지 않은 원본 이미지 행은 v0.5 칸이 없다
+            imgs.append(('v0.5', r['patched']))
         key = (r['source'], r['block'], r['texture'])
         if key in remake:
-            imgs.append(('재제작 (보존본)', remake[key]))
+            imgs.append(('재제작 (보존본)' if r['patched'] else '재제작', remake[key]))
         correction = individual.get(key)
         if correction:
             imgs.append(('개별 수정', correction['remake']))

@@ -1,0 +1,345 @@
+[
+ {
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SAKURA_S_N.BC/0183_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SAKURA_S_N.BC/0183_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "text": "신구지 사쿠라",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SAKURA_S_N.BC/0184_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "text": "신구지 사쿠라",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SAKURA_S_N.BC/0184_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 201,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SUMIRE_S_N.BC/0201_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 201,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SUMIRE_S_N.BC/0201_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 202,
+  "texture": 1,
+  "text": "칸자키 스미레",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SUMIRE_S_N.BC/0202_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 202,
+  "texture": 0,
+  "text": "칸자키 스미레",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/SUMIRE_S_N.BC/0202_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/MARIA_S_N.BC/0183_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/MARIA_S_N.BC/0183_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "text": "마리아・타치바나",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/MARIA_S_N.BC/0184_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "text": "마리아・타치바나",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/MARIA_S_N.BC/0184_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 190,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KANNA_S_N.BC/0190_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 190,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KANNA_S_N.BC/0190_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 191,
+  "texture": 1,
+  "text": "키리시마 칸나",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KANNA_S_N.BC/0191_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "text": "키리시마 칸나",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KANNA_S_N.BC/0191_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 190,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/IRIS_S_N.BC/0190_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 190,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/IRIS_S_N.BC/0190_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "text": "아이리스",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/IRIS_S_N.BC/0191_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KOURAN_S_N.BC/0184_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KOURAN_S_N.BC/0184_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 185,
+  "texture": 0,
+  "text": "이 홍란",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/KOURAN_S_N.BC/0185_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 191,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ORIHIME_S_N.BC/0191_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ORIHIME_S_N.BC/0191_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 192,
+  "texture": 1,
+  "text": "솔레타・오리히메",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ORIHIME_S_N.BC/0192_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 192,
+  "texture": 0,
+  "text": "솔레타・오리히메",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ORIHIME_S_N.BC/0192_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 167,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/RENI_S_N.BC/0167_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 167,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/RENI_S_N.BC/0167_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 168,
+  "texture": 1,
+  "text": "레니・밀히슈트라세",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/RENI_S_N.BC/0168_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 168,
+  "texture": 0,
+  "text": "레니・밀히슈트라세",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/RENI_S_N.BC/0168_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ERICA_S_N.BC/0183_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ERICA_S_N.BC/0183_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 186,
+  "texture": 1,
+  "text": "에리카・폰티느",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ERICA_S_N.BC/0186_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 186,
+  "texture": 0,
+  "text": "에리카・폰티느",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/ERICA_S_N.BC/0186_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 163,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/GLYCINE_S_N.BC/0163_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 163,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/GLYCINE_S_N.BC/0163_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 164,
+  "texture": 1,
+  "text": "글리신・블뢰메르",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/GLYCINE_S_N.BC/0164_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 164,
+  "texture": 0,
+  "text": "글리신・블뢰메르",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/GLYCINE_S_N.BC/0164_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 188,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/COQUELICOT_S_N.BC/0188_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 188,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/COQUELICOT_S_N.BC/0188_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "text": "코쿠리코",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/COQUELICOT_S_N.BC/0191_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 199,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/LOBELIA_S_N.BC/0199_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 199,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/LOBELIA_S_N.BC/0199_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 202,
+  "texture": 1,
+  "text": "로벨리아・카를리니",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/LOBELIA_S_N.BC/0202_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 202,
+  "texture": 0,
+  "text": "로벨리아・카를리니",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/LOBELIA_S_N.BC/0202_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 185,
+  "texture": 1,
+  "text": "키타오지 하나비",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/HANABI_S_N.BC/0185_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 185,
+  "texture": 0,
+  "text": "키타오지 하나비",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/HANABI_S_N.BC/0185_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 186,
+  "texture": 1,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/HANABI_S_N.BC/0186_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 186,
+  "texture": 0,
+  "text": "오오가미 이치로",
+  "remake": "assets/images/remake/cutin/SLG/UNITS/HANABI_S_N.BC/0186_0000.png"
+ }
+]

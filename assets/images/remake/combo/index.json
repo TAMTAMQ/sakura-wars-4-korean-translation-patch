@@ -1,0 +1,158 @@
+[
+ {
+  "source": "SLG/UNITS/SAKURA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 사쿠라",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 앵화현란"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/SAKURA_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/SUMIRE_S.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": {
+   "N": "오오가미 & 스미레",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 아훔의 춤"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/SUMIRE_S.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/MARIA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 마리아",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 부두시시이"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/MARIA_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KANNA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 칸나",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 백랑권"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/KANNA_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/IRIS_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 아이리스",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 판타스티크 베제"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/IRIS_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KOURAN_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 홍란",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 천지풍운"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/KOURAN_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ORIHIME_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 오리히메",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 두에토"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/ORIHIME_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/RENI_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 레니",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 글뤽클리히카이트"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/RENI_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/ERICA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 에리카",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 베네딕시옹"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/ERICA_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/GLYCINE_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 글리신",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 에테르넬 아무르"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/GLYCINE_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/COQUELICOT_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 코쿠리코",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 아무르 소르시에르"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/COQUELICOT_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/LOBELIA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 로벨리아",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 아모레 센차 피네"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/LOBELIA_S.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/HANABI_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": {
+   "N": "오오가미 & 하나비",
+   "B1": "쌍",
+   "B2": "무",
+   "A": "낭호멸각 화조풍월"
+  },
+  "remake": "assets/images/remake/combo/SLG/UNITS/HANABI_S.GRCT/0000_0001.png"
+ }
+]

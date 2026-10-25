@@ -3471,5 +3471,4394 @@
   ],
   "original": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_original.png",
   "patched": "assets/extracted/images/SYSDATA/WARNING.CBD/0002_BPV1/0000_patched.png"
+ },
+ {
+  "id": 178,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI. 한국어: 사쿠라대전４",
+  "source": "SLG/G01/E/EV01001EFF00.BT1",
+  "block": 2,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G01/E/EV01001EFF00.BT1 b2 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0002_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 179,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI. 한국어: 사랑하라소녀여",
+  "source": "SLG/G01/E/EV01001EFF00.BT1",
+  "block": 4,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G01/E/EV01001EFF00.BT1 b4 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0004_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 180,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · CG 감상 「只今現像中」. 한국어: 지금 현상 중",
+  "source": "ADVDATA/APPEND/EBG_V.CBD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/EBG_V.CBD b0 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0000_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 181,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · CG 감상 버튼 前へ·次へ·もどる·メニュー消去 (もどる는 두 조각이 이어진다). 한국어: 이전 / 다음 / 뒤로 / 메뉴 지우기",
+  "source": "ADVDATA/APPEND/EBG_V.CBD",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/EBG_V.CBD b1 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0001_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 182,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 영상 감상 화면 「只今現像中」 4곳·もどる. 한국어: 현상 중 / 돌아가기",
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/MOVIE_V.CBD b0 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0000_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 183,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 영상 감상 「只今現像中」 표지·もどる 버튼. 한국어: 현상 중 / 돌아가기",
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/MOVIE_V.CBD b1 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 184,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 영상 제목 띠. 한국어: 광무2식, 기동! / 출격! 파리화격단!!",
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/MOVIE_V.CBD b1 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 185,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 영상 제목 띠. 한국어: 미카사, 강탈. / 사랑하라 소녀여",
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 2,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/MOVIE_V.CBD b1 t2"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0002_original.png",
+  "patched": null
+ },
+ {
+  "id": 186,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 음악 감상 もどる 버튼. 한국어: 뒤로",
+  "source": "ADVDATA/APPEND/SOUND_V.CBD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/SOUND_V.CBD b0 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 187,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 음악 감상 안내문(원문 두 줄 → 한 줄). 한국어: 연주할 곡을 선택해 주세요.",
+  "source": "ADVDATA/APPEND/SOUND_V.CBD",
+  "block": 0,
+  "texture": 2,
+  "size": [
+   256,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/APPEND/SOUND_V.CBD b0 t2"
+  ],
+  "original": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0002_original.png",
+  "patched": null
+ },
+ {
+  "id": 188,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 쌍무 설계도 제목(巳型霊子甲冑兵器 / 名称 双武). 작은 주석 글씨는 판독 불가라 그대로. 한국어: 사형 영자갑주 병기 / 명칭 쌍무",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 652,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b652 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0652_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 189,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 광무 조종 패널: 세로 표기 光武二式·光武F2와 대원 이름. 상자 안 작은 글씨(5px)는 판독 불가라 그대로. 한국어: 광무2식 / 광무F2 / 오오가미 / 사쿠라 / 스미레 / 마리아 / 칸나 / 에리카 / 글리신 / 코쿠리코 / 로벨리아 / 하나비",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 844,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b844 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0844_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 190,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 광무 조종 패널(전투 연출): 세로 표기 光武二式. 이름·상자 글씨는 4~5px라 판독 불가. 한국어: 광무2식",
+  "source": "SLG/G03/E/FXI3C00_05.BT1",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/E/FXI3C00_05.BT1 b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 191,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 광무 조종 패널(전투 연출): 세로 표기 光武F2. 한국어: 광무F2",
+  "source": "SLG/G03/E/FXI3C00_05.BT1",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/G03/E/FXI3C00_05.BT1 b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 192,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 제국화격단 통신 화면: 團擊華國帝·中続接·了完続接(오른쪽부터 읽는 표기). 붓글씨 華撃 문양은 그대로. 한국어: 제국화격단 / 접속 중 / 접속 완료",
+  "source": "ADVDATA/CINEMA/ICT.CBD",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CINEMA/ICT.CBD b0 t1"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CINEMA/ICT.CBD/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 193,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 전투 해설 제목 高機動兵装【疾風】(오른쪽부터). 아래 작은 수치 글씨는 판독 불가. 한국어: 【질풍】 고기동 병장",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 752,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b752 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0752_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 194,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 전투 해설 제목 高機動兵装【疾風】(오른쪽부터). 아래 작은 수치 글씨는 판독 불가. 한국어: 【질풍】 고기동 병장",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 753,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b753 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0753_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 195,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 마작 리치 버튼. 한국어: 리치",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1285,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1285 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1285_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 196,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 마작 화면 안내(b1263과 같은 배치). 한국어: 필살 공격 / 역 목록 / 리치 / 과제 / 선 / 오오가미 / 제1국",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1297,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1297 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1297_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 197,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 아이템 노 관람권: 能楽·高砂·観覧券. 아래 작은 글씨는 판독 불가. 한국어: 노가쿠 / 다카사고 / 관람권",
+  "source": "ADVDATA/ITEM_LG.DAT",
+  "block": 9,
+  "texture": 0,
+  "size": [
+   256,
+   256
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/ITEM_LG.DAT b9 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/ITEM_LG.DAT/0009_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 198,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 경고 화면 제목 謹警. 한국어: 경 / 고",
+  "source": "SYSDATA/WARNING2.CBD",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "SYSDATA/WARNING2.CBD b0 t0"
+  ],
+  "original": "assets/extracted/images/SYSDATA/WARNING2.CBD/0000_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 199,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 잘못된 배경 번호 디버그 화면(정상 진행에선 안 나옴). 한국어: 잘못된 BG 번호입니다. / 즉시 보고해 주세요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 588,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b588 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0588_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 200,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_S_N.BC b183 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_S_N.BC/0183_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 201,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_S_N.BC b183 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_S_N.BC/0183_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 202,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 신구지 사쿠라",
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_S_N.BC b184 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_S_N.BC/0184_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 203,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 신구지 사쿠라",
+  "source": "SLG/UNITS/SAKURA_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_S_N.BC b184 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_S_N.BC/0184_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 204,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 201,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_S_N.BC b201 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_S_N.BC/0201_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 205,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 201,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_S_N.BC b201 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_S_N.BC/0201_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 206,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 칸자키 스미레",
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 202,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_S_N.BC b202 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_S_N.BC/0202_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 207,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 칸자키 스미레",
+  "source": "SLG/UNITS/SUMIRE_S_N.BC",
+  "block": 202,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_S_N.BC b202 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_S_N.BC/0202_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 208,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_S_N.BC b183 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_S_N.BC/0183_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 209,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_S_N.BC b183 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_S_N.BC/0183_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 210,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 마리아・타치바나",
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_S_N.BC b184 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_S_N.BC/0184_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 211,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 마리아・타치바나",
+  "source": "SLG/UNITS/MARIA_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_S_N.BC b184 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_S_N.BC/0184_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 212,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 190,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_S_N.BC b190 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_S_N.BC/0190_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 213,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 190,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_S_N.BC b190 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_S_N.BC/0190_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 214,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 키리시마 칸나",
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 191,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_S_N.BC b191 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_S_N.BC/0191_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 215,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 키리시마 칸나",
+  "source": "SLG/UNITS/KANNA_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_S_N.BC b191 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_S_N.BC/0191_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 216,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 190,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/IRIS_S_N.BC b190 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_S_N.BC/0190_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 217,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 190,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/IRIS_S_N.BC b190 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_S_N.BC/0190_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 218,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 아이리스",
+  "source": "SLG/UNITS/IRIS_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/IRIS_S_N.BC b191 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_S_N.BC/0191_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 219,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 184,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KOURAN_S_N.BC b184 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_S_N.BC/0184_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 220,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 184,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KOURAN_S_N.BC b184 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_S_N.BC/0184_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 221,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 이 홍란",
+  "source": "SLG/UNITS/KOURAN_S_N.BC",
+  "block": 185,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KOURAN_S_N.BC b185 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_S_N.BC/0185_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 222,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 191,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_S_N.BC b191 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_S_N.BC/0191_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 223,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_S_N.BC b191 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_S_N.BC/0191_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 224,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 솔레타・오리히메",
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 192,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_S_N.BC b192 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_S_N.BC/0192_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 225,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 솔레타・오리히메",
+  "source": "SLG/UNITS/ORIHIME_S_N.BC",
+  "block": 192,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_S_N.BC b192 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_S_N.BC/0192_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 226,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 167,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_S_N.BC b167 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_S_N.BC/0167_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 227,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 167,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_S_N.BC b167 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_S_N.BC/0167_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 228,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 레니・밀히슈트라세",
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 168,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_S_N.BC b168 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_S_N.BC/0168_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 229,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 레니・밀히슈트라세",
+  "source": "SLG/UNITS/RENI_S_N.BC",
+  "block": 168,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_S_N.BC b168 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_S_N.BC/0168_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 230,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 183,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_S_N.BC b183 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_S_N.BC/0183_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 231,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 183,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_S_N.BC b183 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_S_N.BC/0183_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 232,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 에리카・폰티느",
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 186,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_S_N.BC b186 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_S_N.BC/0186_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 233,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 에리카・폰티느",
+  "source": "SLG/UNITS/ERICA_S_N.BC",
+  "block": 186,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_S_N.BC b186 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_S_N.BC/0186_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 234,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 163,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_S_N.BC b163 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_S_N.BC/0163_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 235,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 163,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_S_N.BC b163 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_S_N.BC/0163_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 236,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 글리신・블뢰메르",
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 164,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_S_N.BC b164 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_S_N.BC/0164_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 237,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 글리신・블뢰메르",
+  "source": "SLG/UNITS/GLYCINE_S_N.BC",
+  "block": 164,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_S_N.BC b164 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_S_N.BC/0164_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 238,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 188,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/COQUELICOT_S_N.BC b188 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_S_N.BC/0188_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 239,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 188,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/COQUELICOT_S_N.BC b188 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_S_N.BC/0188_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 240,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 코쿠리코",
+  "source": "SLG/UNITS/COQUELICOT_S_N.BC",
+  "block": 191,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/COQUELICOT_S_N.BC b191 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_S_N.BC/0191_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 241,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 199,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_S_N.BC b199 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_S_N.BC/0199_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 242,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 199,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_S_N.BC b199 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_S_N.BC/0199_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 243,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 로벨리아・카를리니",
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 202,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_S_N.BC b202 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_S_N.BC/0202_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 244,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 로벨리아・카를리니",
+  "source": "SLG/UNITS/LOBELIA_S_N.BC",
+  "block": 202,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_S_N.BC b202 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_S_N.BC/0202_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 245,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 키타오지 하나비",
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 185,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_S_N.BC b185 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_S_N.BC/0185_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 246,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 키타오지 하나비",
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 185,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_S_N.BC b185 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_S_N.BC/0185_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 247,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 186,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_S_N.BC b186 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_S_N.BC/0186_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 248,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 컷인 이름판. 한국어: 오오가미 이치로",
+  "source": "SLG/UNITS/HANABI_S_N.BC",
+  "block": 186,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_S_N.BC b186 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_S_N.BC/0186_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 249,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저…… 오오가미 소위님이세요? / 저, 신구지 사쿠라라고 해요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 923,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b923 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0923_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 250,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저…… / 살아 있어도 괜찮은 건가요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 924,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b924 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0924_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 251,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 귀왕을 쓰러뜨리면…… / 아버지의 혼이 돌아온다. / 그렇게 여겨져요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 925,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b925 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0925_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 252,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저…… / 아버지와, 싸우겠어요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 926,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b926 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0926_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 253,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 흐응…… 오오가미 씨는, / 꽤 바람둥이시네요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 927,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b927 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0927_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 254,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 열두 시까지, / 마법의 시간을 주세요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 928,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b928 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0928_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 255,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 여보…… 아침이에요…… / 라니……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 929,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b929 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0929_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 256,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 평범한 여자아이처럼, / 좋아하는 사람과 있고 싶어! / ……저, 욕심쟁이인가요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 930,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b930 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0930_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 257,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 오오가미 씨…… 앞으로도…… / 쭉 곁에 있어 주세요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 931,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b931 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0931_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 258,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 거기 떨어뜨린 포크…… / 새것으로 / 바꿔 주시지 않겠어요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 932,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b932 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0932_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 259,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 제가 소중히 여기는 / 모든 것을 위해 싸우겠어요!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 933,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b933 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0933_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 260,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 남자분과 단둘이 첫 참배라니…… / 저, 처음이에요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 934,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b934 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0934_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 261,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 신데렐라에게 걸린 마법은, / 열두 시에 풀려 버리지만…… / 어째서인지, 아세요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 935,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b935 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0935_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 262,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……할아버님. / 저…… / 제국화격단으로 돌아가겠어요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 936,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b936 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0936_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 263,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……그렇겠지요. / 소위는, 화조의 대장이시니까요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 937,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b937 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0937_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 264,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아버님, 어머님…… / 다녀오겠습니다.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 938,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b938 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0938_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 265,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저는 제극의 톱스타! / 빛나지 않으면 안 된답니다!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 939,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b939 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0939_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 266,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 둘이서, 함께 있을 수 있음을 / 솔직하게 감사하고 싶어요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 940,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b940 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0940_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 267,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 당신이 제격에 배속된 / 오오가미 소위인가요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 941,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b941 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0941_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 268,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 의상이 귀여워서…… / 그만…… 저도 모르게……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 942,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b942 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0942_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 269,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 대장…… 대장은, / 제가 반드시 지킬게요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 943,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b943 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0943_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 270,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 하나 충고해 두죠. / 여자 얼굴을 빤히 보지 말 것!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 944,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b944 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0944_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 271,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저는…… / 살아 있는 기쁨을…… / 감사했어요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 945,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b945 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0945_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 272,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 정말, 대장…… / 놀리지 마세요!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 946,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b946 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0946_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 273,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 당신은 대장 실격이에요!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 947,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b947 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0947_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 274,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 나를 구하러 오다니…… / 바보야, 당신들……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 948,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b948 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0948_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 275,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……대장, / 저를…… 지켜 주실 건가요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 949,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b949 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0949_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 276,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 어쩐지 낯짝이 좋더라니. / ……마음에 들었어.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 950,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b950 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0950_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 277,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 오키나와서 오던 배가 가라앉아서. / 헤엄쳐 왔다니까.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 951,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b951 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0951_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 278,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 나 같은 건…… / 힘자랑만 할 줄 아는 / 무뚝뚝한 여자인걸……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 952,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b952 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0952_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 279,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 나라면 할 수 있을 거야! / 이번에야말로, 아버지를 넘어서겠어!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 953,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b953 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0953_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 280,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그럼 대장, / 우선 대련부터 해 볼까.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 954,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b954 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0954_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 281,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 내 몸에 붕대 감는 건 / 자주 하는데…… / 남한테 감는 건 어렵네.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 955,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b955 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0955_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 282,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 잠깐 기다려어—!! / 그 맞선!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 956,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b956 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0956_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 283,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아버지…… 내 대장, / 멋지지? 강해 보이지?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 957,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b957 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0957_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 284,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 대장이 이렇게 해 주면…… / 마음이 편해져…… / 어쩐지, 굉장히 안심이 돼……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 958,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b958 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0958_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 285,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이 애는 곰돌이 장 폴! / 사이좋게 지내 줘!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 959,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b959 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0959_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 286,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아이리스, 어린애 아니란 말야! / 오빠 같은 건…… 정말 싫어!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 960,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b960 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0960_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 287,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아이리스, 화나면 / 무섭단 말이야—!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 961,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b961 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0961_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 288,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 두부 모서리에 머리 박고 / 울어 버려—!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 962,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b962 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0962_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 289,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저기, 오빠. / 내일, 아이리스랑 데이트하자!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 963,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b963 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0963_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 290,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 오빠는…… 응큼해!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 964,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b964 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0964_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 291,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그럼…… 뽀뽀해 줘!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 965,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b965 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0965_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 292,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아이리스…… / 혼자는 싫어……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 966,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b966 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0966_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 293,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 아이리스…… 좋아해?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 967,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b967 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0967_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 294,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 내 이름은 이홍란이라 캅니더. / 제격・하나야시키 지부에서 오늘부로 / 긴자 본부로 전속됐습니더.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 968,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b968 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0968_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 295,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 괜찮다! / 이런 일도 있을까 싶어서, / 수리 공구는 늘 갖고 댕긴다 카이!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 969,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b969 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0969_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 296,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 내 바이크 뒤에 탄 남자는, / 니가 처음이데이!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 970,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b970 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0970_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 297,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 내, 한 번쯤, / 인체 개조, 해 보고 싶었다 아이가!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 971,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b971 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0971_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 298,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 오오가미 씨 신무에는, / 내 사랑이 듬뿍 담겨 있다 카이!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 972,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b972 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0972_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 299,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 안녕하십니꺼아! / 홍야코라예~!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 973,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b973 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0973_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 300,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그래…… 내한테는, / 화조 동료들이…… / 소중한 가족이 있었던 기라.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 974,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b974 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0974_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 301,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그래도, 내 발명의 원점은…… / 이 시계인 기라.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 975,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b975 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0975_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 302,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이러고 있으믄, 내…… / 억수로 맘이 편하데이……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 976,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b976 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0976_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 303,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 차오! / 솔레타・오리히메예~요. / 오리히메라고 불러 주세~요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 977,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b977 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0977_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 304,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그러니까, 처음에 / 한마디 해 둘게~요. / 바~보!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 978,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b978 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0978_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 305,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 역시, 일본 남자는 / 무례하고 경박하고 최악이에~요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 979,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b979 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0979_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 306,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 무대 위에서 주고받는 대사는 / 인스피레이션이 중요하답니다.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 980,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b980 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0980_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 307,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 소위님…… / 정말 와 주셨군요…… / 그래도…… 조금 지각이에~요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 981,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b981 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0981_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 308,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 파파…… 저는 갈게요. / 소중한 사람을 위해……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 982,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b982 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0982_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 309,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 자, 너…… / 동료 별들 곁으로 돌아가렴……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 983,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b983 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0983_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 310,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 좀 더 일찍, / 소위님을 만나고 싶었어…… / 그랬다면……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 984,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b984 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0984_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 311,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 언제까지나 둘이 / 함께 있을 수 있도록…… / 제가 거는 주문이에~요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 985,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b985 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0985_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 312,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그리고…… / 나는 「레니」라고 불러도 돼.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 986,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b986 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0986_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 313,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 나는…… / 무엇을 위해 싸우는 거야?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 987,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b987 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0987_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 314,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……알았어.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 988,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b988 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0988_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 315,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 다녀왔어, 대장…… / 다녀왔어…… 나의 동료들……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 989,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b989 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0989_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 316,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이런 축하를 / 받아 본 건…… 처음이야.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 990,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b990 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0990_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 317,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 무대에는…… / 신이 있어.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 991,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b991 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0991_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 318,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 사람과…… 헤어진다는 건…… / 이렇게…… 괴로운 일이었구나.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 992,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b992 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0992_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 319,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 즐겁다는 건, / 이런 걸까…… 하고 / 생각하고 있었어.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 993,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b993 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0993_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 320,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그럼, 대장…… / 잘 자.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 994,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b994 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0994_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 321,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 자, 이제 괜찮아요. / 하느님이 기적을 / 일으켜 주셨으니까요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 995,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b995 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0995_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 322,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 일본 사람은 / 머리에 촌마게라는 게 / 있는 거 아니었어요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 996,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b996 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0996_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 323,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 에리카, / 화가 잔뜩 났어요~!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 997,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b997 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0997_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 324,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 싫다…… / 맨날 비야……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 998,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b998 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0998_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 325,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그래도, 이번엔…… / 여러 가지가 겹쳐서…… / 웃는 게…… 힘들어요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 999,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b999 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0999_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 326,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 부탁이에요…… 하느님…… / 저에게 기적을…… / 모두를 도울 수 있는 힘을……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1000,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1000 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1000_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 327,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 새까만 머리의 다정한 사람이에요. / 에헤헤…… / 말해 버렸다.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1001,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1001 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1001_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 328,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 정말…… 치사해요. / 오오가미 씨 웃는 얼굴을 보면…… / 안심이 돼 버리잖아요.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1002,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1002 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1002_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 329,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저…… 오오가미 씨가 / 좋았어요…… / 아마…… 처음 만났을 때부터……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1003,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1003 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1003_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 330,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 에리카의 지인인 모양이니 / 일단, 이름은 밝혀 두겠다.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1004,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1004 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1004_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 331,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 나는 블뢰메르 가와 함께 / 살아갈 수밖에 없다…… / 귀공처럼은 될 수 없다……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1005,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1005 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1005_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 332,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 사람은 긍지로 사는 법이다. / 지킬 긍지가 없는 귀공을 / 나는 경멸한다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1006,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1006 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1006_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 333,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 귀공에게 결투를 신청한다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1007,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1007 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1007_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 334,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그 남자가…… / 나에게 가르쳐 주었다. / 진정한 귀족의 마음이란 것을!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1008,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1008 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1008_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 335,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 만약 너를 잃는다면 / 남겨진 나는 어떻게 되나! / 울며 지낼 수밖에 없단 말이다!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1009,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1009 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1009_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 336,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 귀여워어엇!! / ……라고 말하겠지, / 에리카나 코쿠리코라면.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1010,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1010 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1010_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 337,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 지금 생각하면…… 귀공을 위해서라면 / 목숨을 버려도 아깝지 않다고…… / 생각했던 것일지도 모르겠군.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1011,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1011 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1011_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 338,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 무례한 놈…… / 이대로 좋은 거다……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1012,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1012 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1012_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 339,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 내 이름은 코쿠리코. / 아저씨 이름은?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1013,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1013 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1013_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 340,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그러니까…… 나는 웃는 거야……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1014,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1014 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1014_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 341,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이치로 심술쟁이!! / 이제 몰라! 메롱이다!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1015,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1015 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1015_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 342,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 있지…… 내 꿈은, / 이루어지지 않는 걸까? / 꿈…… 꾸면 안 되는 걸까?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1016,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1016 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1016_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 343,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 매지컬 엔젤・코쿠리코의 / 꿈의 매직쇼야!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1017,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1017 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1017_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 344,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 있지, 이치로…… / 나 웃고 있지……?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1018,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1018 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1018_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 345,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 있잖아…… 나는 말이야…… / 이치로의 신부가 / 될 거라는 거야.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1019,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1019 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1019_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 346,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……조금만 더 기다려 줘. / 열심히 어른이 될 테니까……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1020,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1020 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1020_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 347,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이치로는 알아? / 나…… 이치로를, / 정말 좋아해.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1021,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1021 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1021_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 348,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 닥쳐…… 대체 뭐야 너는? / 농담 들을 생각 없어.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1022,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1022 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1022_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 349,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 대답은 「농」이야. / 나는…… / 나를 위해서만 힘을 써.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1023,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1023 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1023_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 350,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 우훗! / 사피르라고 해요오. / 잘 부탁드려요옹!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1024,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1024 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1024_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 351,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 승리의 포즈…… / 잡아 볼까—!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1025,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1025 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1025_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 352,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 자아…… 어떻게 할까나. / 난 지금의 파리 따위 / 어떻게 되든 상관없거든.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1026,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1026 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1026_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 353,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 벽 저편과 벽 이편…… / 어느 쪽이 안이고…… / 어느 쪽이 밖인 걸까 하고.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1027,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1027 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1027_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 354,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 젠장…… / 그런 놈들 죽어 봤자, / 아프지도 않을 줄 알았는데……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1028,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1028 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1028_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 355,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 칫…… 방법을 모르겠다면 / 가르쳐 주지…… / 남자의 책임은 이렇게 지는 거야.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1029,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1029 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1029_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 356,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이대로…… / 시간이 멈췄으면……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1030,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1030 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1030_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 357,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 네, 오오가미 씨에 대해서도 / 여러 가지 들었어요. / 후후후……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1031,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1031 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1031_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 358,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저…… / 아직, 살아 있는 건가요?",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1032,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1032 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1032_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 359,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: ……화끈.",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1033,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1033 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1033_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 360,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 미안…… 해요…… / 저…… 아직, 당신 곁으로는 / 갈 수 없게 되어 버렸어요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1034,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1034 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1034_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 361,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 저도…… / 저도, 살고 싶어!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1035,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1035 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1035_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 362,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 네…… 저예요. / 키타오지 하나비…… 갑니다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1036,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1036 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1036_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 363,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 그러니까…… / 지켜봐 주세요 / 필립……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1037,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1037 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1037_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 364,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 이런 말을 하는 건, / 정숙하지 못한 일이라는 걸 / 알고 있어요……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1038,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1038 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1038_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 365,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 오오가미 씨의 미래도…… / 저의 미래도……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1039,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1039 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1039_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 366,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 제국화격단에 배속된 / 제국 해군 소위 오오가미 이치로, / 지금 막, 출두했습니다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1040,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1040 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1040_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 367,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 분골쇄신의 각오로 힘내겠습니다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1041,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1041 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1041_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 368,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 손님! / 저는, 지금이야 비록 / 매표원을 하고 있지만, 사실은……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1042,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1042 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1042_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 369,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 제도를 지킨다…… / 모두의 미래를 지킨다…… / 우리는…… 정의다!!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1043,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1043 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1043_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 370,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 모, 몸이 멋대로……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1044,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1044 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1044_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 371,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 모두, 미안…… / 모든 것은 대장인, / 나의 책임이다……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1045,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1045 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1045_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 372,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 목숨을 버리는 건…… / 내가 절대로 용서하지 않을 테니까!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1046,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1046 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1046_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 373,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 모든 사람들의 행복을, / 평화를 지키기 위해 싸운다…… / 그것이, 나의 긍지다!",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1047,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1047 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1047_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 374,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 명대사 이미지. 한국어: 살아서 돌아오겠습니다. / 새로운 미래를 / 우리 손으로 만들기 위해……",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1048,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b1048 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1048_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 375,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 꽃의 목숨",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 728,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b728 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0728_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 376,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 짧고",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 729,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b729 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0729_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 377,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 꿈꾸는 세월은",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 730,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b730 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0730_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 378,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 달음질쳐 지나가네",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 731,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b731 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0731_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 379,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 아아",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 732,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b732 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0732_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 380,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 잔혹한 시간이여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 733,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b733 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0733_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 381,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 무자비한 것이여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 734,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b734 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0734_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 382,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 허나",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 735,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b735 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0735_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 383,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 내 가슴에",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 736,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b736 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0736_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 384,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 피어나는",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 737,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b737 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0737_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 385,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 그대여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 738,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b738 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0738_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 386,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 꽃이여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 739,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b739 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0739_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 387,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 그대여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 740,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b740 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0740_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 388,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 꽃이여",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 741,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b741 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0741_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 389,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 제작 총지휘 / 카야마 테츠",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 742,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b742 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0742_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 390,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 총괄 프로듀서 / 히로이 오지",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 743,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b743 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0743_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 391,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 캐릭터 원안 / 후지시마 코스케",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 744,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b744 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0744_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 392,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 캐릭터 디자인 / 총작화 감독 / 마츠바라 히데노리",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 745,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b745 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0745_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 393,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 작곡・음악 감독 / 다나카 코헤이",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 746,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b746 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0746_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 394,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 구성・각본 / 아카호리 사토루",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 747,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b747 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0747_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 395,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 시 구절·스태프 크레딧. 한국어: 각본 / 카와사키 히로유키",
+  "source": "ADVDATA/NC_ALL1.DAT",
+  "block": 748,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/NC_ALL1.DAT b748 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/NC_ALL1.DAT/0748_ADCG/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 396,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 사쿠라  /  합  /  체  /  낭호멸각 앵화현란",
+  "source": "SLG/UNITS/SAKURA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SAKURA_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SAKURA_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 397,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 스미레  /  합  /  체  /  낭호멸각 아훔의 춤",
+  "source": "SLG/UNITS/SUMIRE_S.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/SUMIRE_S.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/SUMIRE_S.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 398,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 마리아  /  합  /  체  /  낭호멸각 부두시시이",
+  "source": "SLG/UNITS/MARIA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/MARIA_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/MARIA_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 399,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 칸나  /  합  /  체  /  낭호멸각 백랑권",
+  "source": "SLG/UNITS/KANNA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KANNA_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KANNA_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 400,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 아이리스  /  합  /  체  /  낭호멸각 판타스티크 베제",
+  "source": "SLG/UNITS/IRIS_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/IRIS_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/IRIS_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 401,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 홍란  /  합  /  체  /  낭호멸각 천지풍운",
+  "source": "SLG/UNITS/KOURAN_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KOURAN_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KOURAN_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 402,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 오리히메  /  합  /  체  /  낭호멸각 두에토",
+  "source": "SLG/UNITS/ORIHIME_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ORIHIME_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ORIHIME_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 403,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 레니  /  합  /  체  /  낭호멸각 글뤽클리히카이트",
+  "source": "SLG/UNITS/RENI_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/RENI_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/RENI_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 404,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 에리카  /  합  /  체  /  낭호멸각 베네딕시옹",
+  "source": "SLG/UNITS/ERICA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/ERICA_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/ERICA_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 405,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 글리신  /  합  /  체  /  낭호멸각 에테르넬 아무르",
+  "source": "SLG/UNITS/GLYCINE_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/GLYCINE_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/GLYCINE_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 406,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 코쿠리코  /  합  /  체  /  낭호멸각 아무르 소르시에르",
+  "source": "SLG/UNITS/COQUELICOT_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/COQUELICOT_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/COQUELICOT_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 407,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 로벨리아  /  합  /  체  /  낭호멸각 아모레 센차 피네",
+  "source": "SLG/UNITS/LOBELIA_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/LOBELIA_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/LOBELIA_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 408,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 합체 공격 기술 이름판. 한국어: 오오가미 & 하나비  /  합  /  체  /  낭호멸각 화조풍월",
+  "source": "SLG/UNITS/HANABI_S.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   128,
+   128
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/HANABI_S.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/HANABI_S.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
  }
 ]

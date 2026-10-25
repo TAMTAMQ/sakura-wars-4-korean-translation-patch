@@ -294,5 +294,165 @@
   "original": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0004_BPV1/0000_original.png",
   "patched": "assets/extracted/images/SLG/G01/E/EV01001EFF00.BT1/0004_BPV1/0000_original.png",
   "remake": "assets/images/remake/ui/SLG/G01/E/EV01001EFF00.BT1/0004_0000.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/EBG_V.CBD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0000_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/EBG_V.CBD/0000_0000.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/EBG_V.CBD",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/EBG_V.CBD/0001_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/EBG_V.CBD/0001_0000.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0000_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/MOVIE_V.CBD/0000_0000.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/MOVIE_V.CBD/0001_0000.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0001_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/MOVIE_V.CBD/0001_0001.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/MOVIE_V.CBD",
+  "block": 1,
+  "texture": 2,
+  "original": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/MOVIE_V.CBD/0001_BPV1/0002_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/MOVIE_V.CBD/0001_0002.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/SOUND_V.CBD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0001_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/SOUND_V.CBD/0000_0001.png"
+ },
+ {
+  "source": "ADVDATA/APPEND/SOUND_V.CBD",
+  "block": 0,
+  "texture": 2,
+  "original": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0002_original.png",
+  "patched": "assets/extracted/images/ADVDATA/APPEND/SOUND_V.CBD/0000_BPV1/0002_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/APPEND/SOUND_V.CBD/0000_0002.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 652,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0652_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0652_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0652_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 844,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0844_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0844_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0844_0000.png"
+ },
+ {
+  "source": "SLG/G03/E/FXI3C00_05.BT1",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/SLG/G03/E/FXI3C00_05.BT1/0000_0000.png"
+ },
+ {
+  "source": "SLG/G03/E/FXI3C00_05.BT1",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/SLG/G03/E/FXI3C00_05.BT1/0000_BPV1/0001_original.png",
+  "remake": "assets/images/remake/ui/SLG/G03/E/FXI3C00_05.BT1/0000_0001.png"
+ },
+ {
+  "source": "ADVDATA/CINEMA/ICT.CBD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/CINEMA/ICT.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CINEMA/ICT.CBD/0000_BPV1/0001_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CINEMA/ICT.CBD/0000_0001.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 752,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0752_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0752_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0752_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 753,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0753_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0753_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0753_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1285,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1285_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1285_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1285_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 1297,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1297_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/1297_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/1297_0000.png"
+ },
+ {
+  "source": "ADVDATA/ITEM_LG.DAT",
+  "block": 9,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/ITEM_LG.DAT/0009_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/ITEM_LG.DAT/0009_BPV1/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/ITEM_LG.DAT/0009_0000.png"
+ },
+ {
+  "source": "SYSDATA/WARNING2.CBD",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/SYSDATA/WARNING2.CBD/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/WARNING2.CBD/0000_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/SYSDATA/WARNING2.CBD/0000_0000.png"
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 588,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0588_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0588_ADCG/0000_original.png",
+  "remake": "assets/images/remake/ui/ADVDATA/CG_ALL1.DAT/0588_0000.png"
  }
 ]

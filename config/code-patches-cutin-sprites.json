@@ -1,0 +1,28 @@
+{
+ "patches": [
+  {
+   "file": "SLG/UNITS/GLYCINE_S_N.BC",
+   "offset": 579828,
+   "original_hex": "000040250000a8430000c0430000804200000042000032000000003f0000003fffffffffffffffffffffffffffffffff000000000000003f0000803f0000803f",
+   "new_hex": "000040250000a8430000c0430000804200000042000032000000003f0000003fffffffffffffffffffffffffffffffff0000803e0000003f0000803f0000803f",
+   "kind": "sprite-uv",
+   "note": "SLG/UNITS/GLYCINE_S_N.BC 컷인 이름판 NJSP 항목 0x8D8F4 UV (remake_cutin_names.py)"
+  },
+  {
+   "file": "SLG/UNITS/GLYCINE_S_N.BC",
+   "offset": 579892,
+   "original_hex": "00004025000094430000c0430000804100000042000031000000003f0000003fffffffffffffffffffffffffffffffff0000403f000000000000803f0000003f",
+   "new_hex": "00004025000094430000c0430000804100000042000031000000003f0000003fffffffffffffffffffffffffffffffff000000000000003f0000803e0000803f",
+   "kind": "sprite-uv",
+   "note": "SLG/UNITS/GLYCINE_S_N.BC 컷인 이름판 NJSP 항목 0x8D934 UV (remake_cutin_names.py)"
+  },
+  {
+   "file": "SLG/UNITS/GLYCINE_S_N.BC",
+   "offset": 579956,
+   "original_hex": "0100402500008c430000c0430000804100000042000030000000003f0000003fffffffffffffffffffffffffffffffff000000000000003f0000803e0000803f",
+   "new_hex": "0000402500008c430000c0430000804100000042000030000000003f0000003fffffffffffffffffffffffffffffffff0000403f000000000000803f0000003f",
+   "kind": "sprite-uv",
+   "note": "SLG/UNITS/GLYCINE_S_N.BC 컷인 이름판 NJSP 항목 0x8D974 UV (remake_cutin_names.py)"
+  }
+ ]
+}

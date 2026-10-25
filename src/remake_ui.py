@@ -222,6 +222,8 @@ def draw_text(arr, op):
 def _draw_text(arr, op):
     x0, y0, x1, y1 = op['rect']
     fill, edge = layout_text(op)
+    if op.get('binary'):  # 아주 작은 글씨: 계단 없는 2단계로(중간 회색이 없어 압축 크기가 덜 는다)
+        fill, edge = (fill > 0.45).astype(float), (edge > 0.45).astype(float)
     region = arr[y0:y1, x0:x1].astype(float) / 255
     if 'glow' in op:
         col, rad, k = op['glow']
@@ -344,6 +346,25 @@ def main():
                 fx0, fy0, fx1, fy1 = op['from']
                 tx, ty = op['to']
                 arr[ty:ty + fy1 - fy0, tx:tx + fx1 - fx0] = arr[fy0:fy1, fx0:fx1].copy()
+            elif op['op'] == 'replace_gray':
+                # 단색 반투명 바탕 위 회색·흰 글자만 바탕값으로 바꾼다(무채색 판정, 청록 모눈선은 남긴다).
+                # 번짐 메움(inpaint)은 바탕에 잡음이 생겨 압축 크기가 커졌다(b844).
+                x0, y0, x1, y1 = op['rect']
+                sub = arr[y0:y1, x0:x1].astype(int)
+                gray = (sub[..., :3].max(-1) - sub[..., :3].min(-1) <= op.get('tol', 8)) & (sub[..., :3].max(-1) >= op.get('min', 20))
+                sub[gray] = op['rgba']
+                arr[y0:y1, x0:x1] = sub.astype(np.uint8)
+            elif op['op'] == 'grid_bg':
+                # 모눈 바탕(설계도 b652): 바탕 = 줄별 값 + 열별 값 - 전체 값. 줄 값은 row_ref 가로 구간의 중앙값,
+                # 열 값은 col_ref 세로 구간의 중앙값. 글자 없는 구간에서 재므로 모눈선이 이어진다.
+                x0, y0, x1, y1 = op['rect']
+                rx0, rx1 = op['row_ref']
+                cy0, cy1 = op['col_ref']
+                f = arr.astype(float)
+                row = np.median(f[y0:y1, rx0:rx1], axis=1)
+                col = np.median(f[cy0:cy1, x0:x1], axis=0)
+                base = np.median(f[cy0:cy1, rx0:rx1].reshape(-1, 4), axis=0)
+                arr[y0:y1, x0:x1] = np.clip(row[:, None] + col[None, :] - base, 0, 255).round().astype(np.uint8)
             elif op['op'] == 'fill':
                 x0, y0, x1, y1 = op['rect']
                 arr[y0:y1, x0:x1] = op['rgba']
