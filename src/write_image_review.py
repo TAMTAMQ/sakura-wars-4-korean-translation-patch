@@ -49,7 +49,7 @@ def main():
     rows = json.loads((REVIEW / 'image_review.json').read_text(encoding='utf-8'))
     remake = {}
     # 뒤 단계가 앞 단계를 덮는다(로고는 UI 결과 위에 만든다)
-    for idx in [ROOT / 'assets/images/remake' / d / 'index.json' for d in ('slg', 'staffroll', 'ui', 'logo', 'cutin', 'quotes', 'nc', 'combo')]:
+    for idx in [ROOT / 'assets/images/remake' / d / 'index.json' for d in ('slg', 'staffroll', 'ui', 'logo', 'cutin', 'quotes', 'nc', 'combo', 'kumi')]:
         if not idx.exists():
             continue
         for r in json.loads(idx.read_text(encoding='utf-8')):

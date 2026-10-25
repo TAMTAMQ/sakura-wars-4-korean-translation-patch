@@ -16,7 +16,7 @@ REVIEW = ROOT / 'assets/images/review/image_review.json'
 STAGES = {  # 단계 → 행 메모 머리말
     'slg': 'SLG 이름판', 'staffroll': '스태프롤', 'ui': 'UI', 'logo': '로고',
     'cutin': '합체 공격 컷인 이름판', 'quotes': '명대사 이미지', 'nc': '시 구절·스태프 크레딧',
-    'combo': '합체 공격 기술 이름판',
+    'combo': '합체 공격 기술 이름판', 'kumi': '부대 이름판',
 }
 
 

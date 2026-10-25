@@ -7860,5 +7860,784 @@
   ],
   "original": "assets/extracted/images/SLG/UNITS/HANABI_S.GRCT/0000_BPV1/0001_original.png",
   "patched": null
+ },
+ {
+  "id": 409,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・화조",
+  "source": "SLG/UNITS/KUMI_01.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_01.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_01.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 410,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・화조",
+  "source": "SLG/UNITS/KUMI_01.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_01.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_01.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 411,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・홍조",
+  "source": "SLG/UNITS/KUMI_02.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_02.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_02.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 412,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・홍조",
+  "source": "SLG/UNITS/KUMI_02.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_02.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_02.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 413,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・창조",
+  "source": "SLG/UNITS/KUMI_03.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_03.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_03.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 414,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・창조",
+  "source": "SLG/UNITS/KUMI_03.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_03.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_03.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 415,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・수조",
+  "source": "SLG/UNITS/KUMI_04.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_04.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_04.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 416,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・수조",
+  "source": "SLG/UNITS/KUMI_04.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_04.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_04.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 417,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・전조",
+  "source": "SLG/UNITS/KUMI_05.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_05.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_05.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 418,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・전조",
+  "source": "SLG/UNITS/KUMI_05.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_05.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_05.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 419,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・제도조",
+  "source": "SLG/UNITS/KUMI_06.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_06.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_06.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 420,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・제도조",
+  "source": "SLG/UNITS/KUMI_06.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_06.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_06.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 421,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・파리조",
+  "source": "SLG/UNITS/KUMI_07.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_07.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_07.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 422,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・파리조",
+  "source": "SLG/UNITS/KUMI_07.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_07.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_07.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 423,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・동양조",
+  "source": "SLG/UNITS/KUMI_08.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_08.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_08.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 424,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・동양조",
+  "source": "SLG/UNITS/KUMI_08.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_08.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_08.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 425,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・어른조",
+  "source": "SLG/UNITS/KUMI_09.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_09.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_09.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 426,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・어른조",
+  "source": "SLG/UNITS/KUMI_09.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_09.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_09.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 427,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・미니조",
+  "source": "SLG/UNITS/KUMI_10.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_10.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_10.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 428,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・미니조",
+  "source": "SLG/UNITS/KUMI_10.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_10.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_10.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 429,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・기라성조",
+  "source": "SLG/UNITS/KUMI_11.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_11.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_11.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 430,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・기라성조",
+  "source": "SLG/UNITS/KUMI_11.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_11.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_11.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 431,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・귀족조",
+  "source": "SLG/UNITS/KUMI_12.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_12.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_12.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 432,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・귀족조",
+  "source": "SLG/UNITS/KUMI_12.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_12.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_12.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 433,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・금은조",
+  "source": "SLG/UNITS/KUMI_13.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_13.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_13.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 434,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・금은조",
+  "source": "SLG/UNITS/KUMI_13.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_13.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_13.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 435,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・라이벌조",
+  "source": "SLG/UNITS/KUMI_14.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_14.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_14.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 436,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・라이벌조",
+  "source": "SLG/UNITS/KUMI_14.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_14.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_14.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 437,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・벚꽃조",
+  "source": "SLG/UNITS/KUMI_15.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_15.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_15.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 438,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・벚꽃조",
+  "source": "SLG/UNITS/KUMI_15.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_15.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_15.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 439,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・미식조",
+  "source": "SLG/UNITS/KUMI_16.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_16.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_16.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 440,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・미식조",
+  "source": "SLG/UNITS/KUMI_16.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_16.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_16.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 441,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・도조",
+  "source": "SLG/UNITS/KUMI_17.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_17.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_17.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 442,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・도조",
+  "source": "SLG/UNITS/KUMI_17.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_17.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_17.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 443,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・멋쟁이조",
+  "source": "SLG/UNITS/KUMI_18.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_18.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_18.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 444,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・멋쟁이조",
+  "source": "SLG/UNITS/KUMI_18.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_18.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_18.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 445,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・개그조",
+  "source": "SLG/UNITS/KUMI_19.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_19.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_19.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 446,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단・개그조",
+  "source": "SLG/UNITS/KUMI_19.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_19.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_19.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 447,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단 ~절대 정의~",
+  "source": "SLG/UNITS/KUMI_20.GRCT",
+  "block": 0,
+  "texture": 0,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_20.GRCT b0 t0"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_20.GRCT/0000_BPV1/0000_original.png",
+  "patched": null
+ },
+ {
+  "id": 448,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. 부대 이름판. 한국어: 오오가미 화격단 ~절대 정의~",
+  "source": "SLG/UNITS/KUMI_20.GRCT",
+  "block": 0,
+  "texture": 1,
+  "size": [
+   64,
+   64
+  ],
+  "copies": 1,
+  "members": [
+   "SLG/UNITS/KUMI_20.GRCT b0 t1"
+  ],
+  "original": "assets/extracted/images/SLG/UNITS/KUMI_20.GRCT/0000_BPV1/0001_original.png",
+  "patched": null
+ },
+ {
+  "id": 449,
+  "verdict": "재제작 완료",
+  "category": "미번역",
+  "note": "v0.5가 손대지 않은 원본 이미지. UI · 엔딩 마지막 「完」 카드(배경 CG, VQ 압축). 한국어: 끝",
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 269,
+  "texture": 0,
+  "size": [
+   640,
+   480
+  ],
+  "copies": 1,
+  "members": [
+   "ADVDATA/CG_ALL1.DAT b269 t0"
+  ],
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0269_ADCG/0000_original.png",
+  "patched": null
  }
 ]

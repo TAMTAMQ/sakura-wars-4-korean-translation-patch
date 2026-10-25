@@ -53,16 +53,26 @@ def texture(payload,w,h,pf,layout):
     if not 0<w<=4096 or not 0<h<=4096: raise ValueError('텍스처 크기 오류')
     if layout in (3,4,16,17):
         entries=256 if layout in (3,4) else (16 if w<=16 else 32 if w<=32 else 128 if w<=64 else 256)
+        if layout==17:  # 작은 VQ 밉맵: 코드북 크기는 데이터 길이에서 구한다(밉맵 코드 수를 뺀 나머지)
+            codes=sum(max(1,(w>>k)*(h>>k)//4) for k in range(w.bit_length()))
+            room=(len(payload)-codes)//8  # 뒤에 정렬 채움이 붙을 수 있어 2의 거듭제곱으로 내린다
+            if 16<=room: entries=min(256,1<<(room.bit_length()-1))
         cb=np.frombuffer(payload[:entries*8],dtype='<u2').reshape(entries,4)
         codes=np.frombuffer(payload[entries*8:],dtype='uint8')
-        if layout in (4,17): codes=codes[-w*h//4:]
+        if layout in (4,17):
+            # 밉맵 코드: 1×1 단계 1바이트 + 2×2부터 가장 큰 단계까지. 그 뒤 32바이트 정렬 채움이 올 수 있어 끝에서 자르지 않는다
+            total=1+sum((w>>k)*(h>>k)//4 for k in range(w.bit_length()) if (w>>k)>=2)
+            codes=codes[total-w*h//4:total] if len(codes)>=total else codes[-w*h//4:]
         ids=codes[morton(w//2,h//2)]
         values=np.empty((h,w),dtype=np.uint16)
         for y in range(2):
             for x in range(2): values[y::2,x::2]=cb[ids,x*2+y]
     else:
         pix=np.frombuffer(payload[:len(payload)//2*2],dtype='<u2')
-        if layout in (2,18): pix=pix[-w*h:]
+        if layout in (2,18):
+            # 밉맵: 앞 채움 3픽셀 + 1×1부터 가장 큰 단계까지. 뒤 정렬 채움이 있을 수 있어 끝에서 자르지 않는다
+            total=3+sum((w>>k)*(h>>k) for k in range(w.bit_length()))
+            pix=pix[total-w*h:total] if len(pix)>=total else pix[-w*h:]
         values=pix[morton(w,h)] if layout in (1,2,13,18) else pix[:w*h].reshape(h,w)
     return Image.fromarray(rgba(values,pf))
 def blocks(raw):
@@ -102,18 +112,22 @@ def decode_bpv(dec):
     if 8+count*12>len(dec): raise ValueError('BPV1 표 범위')
     result=[]
     descriptors=[u32(dec,8+i*12) for i in range(count)]
+    starts=sorted({struct.unpack_from('<I',dec,d)[0] for d in descriptors}|{len(dec)})
     for i,desc in enumerate(descriptors):
         data_off,mode=struct.unpack_from('<II',dec,desc)
         w,h=struct.unpack_from('<II',dec,desc+16)
         pf=(mode>>16)&255; layout=mode>>24
         if data_off>=len(dec): raise ValueError('픽셀 위치 오류')
-        img=texture(dec[data_off:],w,h,pf,layout)
+        # 밉맵 형식은 가장 큰 단계가 데이터 끝에 있다. 다음 텍스처 시작에서 끊지 않으면 뒤 텍스처를 읽어 깨진다.
+        end=next(o for o in starts if o>data_off) if layout in (2,4,17,18) else len(dec)
+        img=texture(dec[data_off:end],w,h,pf,layout)
         result.append((i,img,{'width':w,'height':h,'pixel_format':pf,'layout':layout,'data_offset':data_off,'descriptor':desc}))
     return result
 def decode_adcg(dec):
     count=u32(dec,4); tw,th=struct.unpack_from('<HH',dec,8); table=u32(dec,12)
     fw,fh=struct.unpack_from('<HH',dec,20)
     pf=dec[16]  # 0=ARGB1555, 1=RGB565, 2=ARGB4444. 스태프롤 등 대부분이 4444다
+    vq=bool(dec[17]&0x10)  # 배경 CG(CG_ALL1 b0~b814 등): 타일마다 코드북+VQ 색인(layout 16과 같은 구조)
     if table+count*16>len(dec) or not 0<tw<=1024 or not 0<th<=1024: raise ValueError('ADCG 표 오류')
     if pf not in (0,1,2): raise ValueError('ADCG 픽셀 포맷 '+str(pf))
     canvas=Image.new('RGBA',(fw,fh),(0,0,0,0))
@@ -121,9 +135,10 @@ def decode_adcg(dec):
         entry=table+i*16
         tileid,ptr,xy,flags=struct.unpack_from('<IIII',dec,entry)
         start=entry+ptr; x=xy&65535; y=xy>>16
-        data=dec[start:start+tw*th*2]
-        if len(data)!=tw*th*2: raise ValueError('ADCG 타일 범위')
-        tile=texture(data,tw,th,pf,1)
+        size=tw*th//4+(16 if tw<=16 else 32 if tw<=32 else 128 if tw<=64 else 256)*8 if vq else tw*th*2
+        data=dec[start:start+size]
+        if len(data)!=size: raise ValueError('ADCG 타일 범위')
+        tile=texture(data,tw,th,pf,16 if vq else 1)
         canvas.paste(tile,(x,y))
     return [(0,canvas,{'width':fw,'height':fh,'tiles':count,'tile_size':[tw,th],'pixel_format':pf})]
 def main():

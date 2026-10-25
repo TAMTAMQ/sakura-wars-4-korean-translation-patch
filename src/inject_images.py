@@ -33,7 +33,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / 'originals/v05'
 DISC = ROOT / 'originals/disc'  # v0.5가 손대지 않은 파일(config/disc-baseline.json)은 원본 디스크가 기준선
 NATIVE = ROOT / 'assets/images/native'
-STAGES = ['slg', 'staffroll', 'ui', 'logo', 'individual', 'cutin', 'quotes', 'nc', 'combo']
+STAGES = ['slg', 'staffroll', 'ui', 'logo', 'individual', 'cutin', 'quotes', 'nc', 'combo', 'kumi']
 ALLOW_MOVE = '--allow-move' in sys.argv  # 기본: 레코드를 옮기지 않는다(파일 크기·위치 그대로)
 
 
@@ -151,7 +151,11 @@ def rebuild_adcg(dec, img, expansion=None):
     fw, fh = struct.unpack_from('<HH', dec, 20)
     if img.shape[:2] != (fh, fw):
         raise ValueError('ADCG 크기 불일치')
-    size = tw * th * 2
+    vq = bool(dec[17] & 0x10)  # 배경 CG: 타일마다 코드북+VQ 색인(layout 16)
+    size = tw * th // 4 + (16 if tw <= 16 else 32 if tw <= 32 else 128 if tw <= 64 else 256) * 8 if vq else tw * th * 2
+    layout = 16 if vq else 1
+    if vq and expansion is not None and expansion.get('additional_tiles'):
+        raise ValueError('VQ ADCG 타일 추가는 지원하지 않음(grow_pool만)')
     entries = []
     for i in range(count):
         e = table + i * 16
@@ -203,10 +207,14 @@ def rebuild_adcg(dec, img, expansion=None):
         return bytes(output)
     tiles = []
     for e, s, x, y in entries:
-        old = np.asarray(E.texture(bytes(dec[s:s + size]), tw, th, pf, 1).convert('RGBA')).copy()
+        orig = bytes(dec[s:s + size])
+        old = np.asarray(E.texture(orig, tw, th, pf, layout).convert('RGBA')).copy()
         vw, vh = min(tw, fw - x), min(th, fh - y)
+        if vq and np.array_equal(old[:vh, :vw], img[y:y + vh, x:x + vw]):
+            tiles.append(orig)  # 바뀌지 않은 VQ 타일은 다시 양자화하지 않는다
+            continue
         old[:vh, :vw] = img[y:y + vh, x:x + vw]  # 캔버스 밖 부분은 원래 타일 값을 둔다
-        tiles.append(encode_texture(old, bytes(size), tw, th, pf, 1))
+        tiles.append(encode_texture(old, orig if vq else bytes(size), tw, th, pf, layout))
     uniq = {}
     for t in tiles:
         uniq.setdefault(t, len(uniq))
@@ -412,7 +420,7 @@ def main(source_prefix=None):
                         mode = struct.unpack_from('<I', dec_old, E.u32(dec_old, 8 + t * 12) + 4)[0]
                         vq = (mode >> 24) in (3, 4, 16, 17)
                     else:
-                        vq = False
+                        vq = bool(dec_old[17] & 0x10)
                     # 4444/565/1555 단계로 양자화된 PNG는 반올림 1단계 차이까지만 허용.
                     # VQ는 손실 압축이라 평균 차이로 판정한다.
                     if vq:

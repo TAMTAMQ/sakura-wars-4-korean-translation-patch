@@ -1,0 +1,282 @@
+[
+ {
+  "source": "SLG/UNITS/KUMI_01.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・화조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_01.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_01.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・화조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_01.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_02.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・홍조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_02.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_02.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・홍조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_02.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_03.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・창조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_03.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_03.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・창조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_03.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_04.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・수조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_04.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_04.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・수조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_04.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_05.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・전조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_05.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_05.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・전조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_05.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_06.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・제도조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_06.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_06.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・제도조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_06.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_07.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・파리조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_07.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_07.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・파리조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_07.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_08.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・동양조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_08.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_08.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・동양조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_08.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_09.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・어른조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_09.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_09.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・어른조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_09.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_10.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・미니조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_10.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_10.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・미니조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_10.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_11.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・기라성조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_11.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_11.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・기라성조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_11.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_12.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・귀족조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_12.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_12.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・귀족조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_12.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_13.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・금은조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_13.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_13.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・금은조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_13.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_14.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・라이벌조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_14.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_14.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・라이벌조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_14.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_15.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・벚꽃조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_15.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_15.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・벚꽃조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_15.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_16.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・미식조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_16.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_16.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・미식조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_16.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_17.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・도조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_17.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_17.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・도조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_17.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_18.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・멋쟁이조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_18.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_18.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・멋쟁이조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_18.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_19.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단・개그조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_19.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_19.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단・개그조",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_19.GRCT/0000_0001.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_20.GRCT",
+  "block": 0,
+  "texture": 0,
+  "text": "오오가미 화격단 ~절대 정의~",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_20.GRCT/0000_0000.png"
+ },
+ {
+  "source": "SLG/UNITS/KUMI_20.GRCT",
+  "block": 0,
+  "texture": 1,
+  "text": "오오가미 화격단 ~절대 정의~",
+  "remake": "assets/images/remake/kumi/SLG/UNITS/KUMI_20.GRCT/0000_0001.png"
+ }
+]

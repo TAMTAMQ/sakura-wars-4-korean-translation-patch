@@ -670,6 +670,13 @@
     ]
    ],
    "reason": "NC_ALL1 시·크레딧(remake_nc_titles.py): 한국어 글자가 원본 글자 타일 밖으로 나가는 칸에 64×64 타일을 더한다. 캔버스 640×480과 기존 타일 좌표는 유지한다."
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 269,
+   "original_decoded_size": 19736,
+   "grow_pool": true,
+   "reason": "엔딩 「完」 카드(VQ 배경 CG)를 「끝」으로 바꾸며 고유 타일이 하나 늘어 픽셀 풀을 늘린다. 타일 좌표·개수·캔버스는 그대로다."
   }
  ]
 }

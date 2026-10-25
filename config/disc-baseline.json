@@ -210,6 +210,126 @@
    "size": 396396,
    "sha256": "84adb94c71339c248615aed9b45f549686d08d87ce85c14b56844de57f53f2e8",
    "reason": "광무 조종 패널 세로 표기 「光武二式」「光武F2」 텍스처, assets/images/remake/ui.json"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_01.GRCT",
+   "size": 17124,
+   "sha256": "6026f44fff1559bf3e60a4e9517511fd9f127e115d857bc4af24794fb18bfcf6",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_02.GRCT",
+   "size": 17124,
+   "sha256": "f7eec62b9822c4aa2829bd99b84be102e746ae9a7c63fcc1d75673d106c5fee7",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_03.GRCT",
+   "size": 17124,
+   "sha256": "9dddd650ab13218825f54a4b1907f226949ab392dab7d36aba6cf5acfc689869",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_04.GRCT",
+   "size": 17124,
+   "sha256": "103c3d5486de97580c0790c3a89c1006bb1f29f602c05e374f593e658eb0534e",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_05.GRCT",
+   "size": 17124,
+   "sha256": "ed4aaae22640bbb3f78f8562757879f3bb9fb1a0d0b3935c7258049953a186b4",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_06.GRCT",
+   "size": 17124,
+   "sha256": "2317b532c57bf424d48ccce62f27430e63f22c3a566c617d3e26fc4e6e4b6ac5",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_07.GRCT",
+   "size": 17124,
+   "sha256": "6ea317e4f67f3fae2b6d65198097163b03290bef3bd4e3d93ac5c148f0113ed8",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_08.GRCT",
+   "size": 17124,
+   "sha256": "dfe0bdd30ce6f2d98ef2bfe2542ba0c4535158e63b54a4d807bcab3cfacd81ff",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_09.GRCT",
+   "size": 17124,
+   "sha256": "18028c31ed11ca427e617f7728528a49f626d1741b860d42ff813606e750fdb2",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_10.GRCT",
+   "size": 17124,
+   "sha256": "ba81d055b7075e61ac388de849910e70f5cb2e153c7430c0810e72244bc70be4",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_11.GRCT",
+   "size": 17124,
+   "sha256": "c223096f058c471244f59798cc22507c966c40a8de667163ce1e94fb21a1441d",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_12.GRCT",
+   "size": 17124,
+   "sha256": "2bd05cde0c78a00bef2f929f9d7b8675c1d8977870d22795848a7cdcf2c51cde",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_13.GRCT",
+   "size": 17124,
+   "sha256": "65ad87fe86cdc9347d3695135004019322290765a6669068f524d78130b97094",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_14.GRCT",
+   "size": 17124,
+   "sha256": "edaa6d4aa35a5ed85fa8aa162a1159b4ca9af54b57bf8636fa619f95639627bf",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_15.GRCT",
+   "size": 17124,
+   "sha256": "b10ea36f1a41ba8559bc9ea28484d80f7beea2e4359959b7eab6c3d6be3028a4",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_16.GRCT",
+   "size": 17124,
+   "sha256": "e9e43dd511419ea0a3c7e1b1d1620d8095c9ffefb7b1474cdad049ebcd9b59cc",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_17.GRCT",
+   "size": 17124,
+   "sha256": "104e2ad9873c64ba229a3fe84dd37eb9525e7d38957a8336d635fdf4251f9165",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_18.GRCT",
+   "size": 17124,
+   "sha256": "fb67211a4b4b149dc1df55aa6d62cb1ee27670b4c998c46399018ed8cd227183",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_19.GRCT",
+   "size": 17124,
+   "sha256": "97754bc3adeef62d5adab5307d75c863a8ef1577cc1b0fe1c1eab78a91c528cc",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
+  },
+  {
+   "path": "SLG/UNITS/KUMI_20.GRCT",
+   "size": 17124,
+   "sha256": "a9086c0221f14f70dea451f1efe2a557f3dd171afa790ada5c5da860a4752111",
+   "reason": "부대 이름판 「大神華撃団・○組」 텍스처, src/remake_kumi_plates.py"
   }
  ]
 }

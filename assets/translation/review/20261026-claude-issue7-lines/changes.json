@@ -1,0 +1,68 @@
+[
+  {
+    "unit": "dialogue:f1be4c5acb86c0ca",
+    "source": "わかってるわ、琴さま！//ほら……アナタたち大丈夫？//あの避難所まで走れる？",
+    "before": {
+      "id": "dialogue:f1be4c5acb86c0ca",
+      "source": "わかってるわ、琴さま！//ほら……アナタたち大丈夫？//あの避難所まで走れる？",
+      "text": "알고 있어요，코토 님∈//자…괜찮아？//저 피난처까지 달릴 수 있어？",
+      "review": "번역 검수",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0954"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0003"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f1be4c5acb86c0ca",
+      "source": "わかってるわ、琴さま！//ほら……アナタたち大丈夫？//あの避難所まで走れる？",
+      "text": "알았어요，코토 님∈//자…다들 괜찮아？//피난처까지 달릴 수 있어？",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0954"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0003"
+        }
+      ]
+    },
+    "reason": "이슈 #7: 「アナタたち」 번역 누락 → 「다들」(대사 칸 60바이트)"
+  },
+  {
+    "unit": "dialogue:131bd6d7a096c0c5",
+    "source": "ぐはっ……//ひ……ひるむな∈//応戦しろ！",
+    "before": {
+      "id": "dialogue:131bd6d7a096c0c5",
+      "source": "ぐはっ……//ひ……ひるむな∈//応戦しろ！",
+      "text": "윽…주…주춤하지 마라∈//응전하라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0961"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0012"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:131bd6d7a096c0c5",
+      "source": "ぐはっ……//ひ……ひるむな∈//応戦しろ！",
+      "text": "윽…겁…겁먹지 마라∈//응전하라∈",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC3.LIP#0961"
+        },
+        {
+          "id": "SLG/G04/E/EV04002.SBN#0012"
+        }
+      ]
+    },
+    "reason": "이슈 #7: 「ひるむな」 「주춤하지 마라」 → 「겁먹지 마라」(「뭇」은 글꼴에 없음)"
+  }
+]

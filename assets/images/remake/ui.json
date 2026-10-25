@@ -8455,6 +8455,47 @@
      "align": "left"
     }
    ]
+  },
+  {
+   "source": "ADVDATA/CG_ALL1.DAT",
+   "block": 269,
+   "texture": 0,
+   "note": "엔딩 마지막 「完」 카드(배경 CG, VQ 압축)",
+   "ops": [
+    {
+     "op": "fill",
+     "rect": [
+      512,
+      304,
+      614,
+      400
+     ],
+     "rgba": [
+      255,
+      255,
+      255,
+      255
+     ]
+    },
+    {
+     "op": "text",
+     "rect": [
+      500,
+      306,
+      620,
+      398
+     ],
+     "text": "끝",
+     "font": "gungso",
+     "weight": 0,
+     "size": 80,
+     "fill": [
+      10,
+      10,
+      10
+     ]
+    }
+   ]
   }
  ]
 }
