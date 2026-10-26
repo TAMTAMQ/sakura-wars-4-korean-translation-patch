@@ -1,0 +1,396 @@
+{
+  "schema": "sakura-ending-credits-layout/v1",
+  "file": "ADVDATA/SCRIPT/S0410.SBX",
+  "baseline_sha256": "e3004bab7b31b0caf608f2856e526572e19afb29fb8a718b9c63746d159ca49c",
+  "first_column_cells": 10,
+  "note": "공유 문안의 이름 경계를 유지하고 첫 이름을 한글 10칸+성명 사이 반각 공백 1개로 맞춘다. 포인터 표에서 참조되지 않고 번역 용량으로도 예약되지 않은 ASCR 문자열 풀만 재사용. 코드·파일 크기·행 수·스크롤 시점 불변.",
+  "rows": [
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2585",
+      "offset": 138474,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2586",
+      "offset": 171712,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2587",
+      "offset": 131517,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2619",
+      "offset": 202541,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2622",
+      "offset": 172790,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2626",
+      "offset": 118958,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2643",
+      "offset": 156615,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2644",
+      "offset": 209786,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2645",
+      "offset": 170822,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2646",
+      "offset": 226170,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2653",
+      "offset": 216073,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2654",
+      "offset": 227709,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2655",
+      "offset": 208209,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2662",
+      "offset": 228889,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2663",
+      "offset": 234388,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2695",
+      "offset": 122712,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2696",
+      "offset": 128959,
+      "capacity": 29
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2697",
+      "offset": 124627,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2698",
+      "offset": 134110,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2699",
+      "offset": 126579,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2700",
+      "offset": 224422,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2721",
+      "offset": 208694,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2722",
+      "offset": 138053,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2723",
+      "offset": 208994,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2724",
+      "offset": 178103,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2725",
+      "offset": 219960,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2726",
+      "offset": 226503,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2730",
+      "offset": 145790,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2739",
+      "offset": 228632,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2740",
+      "offset": 146293,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2743",
+      "offset": 219696,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2748",
+      "offset": 225779,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2749",
+      "offset": 161952,
+      "capacity": 27
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2751",
+      "offset": 115334,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2755",
+      "offset": 225688,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2777",
+      "offset": 121900,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2790",
+      "offset": 117459,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2797",
+      "offset": 210432,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2813",
+      "offset": 189393,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2815",
+      "offset": 230461,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2816",
+      "offset": 122000,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2819",
+      "offset": 229557,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2820",
+      "offset": 229978,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2821",
+      "offset": 189779,
+      "capacity": 37
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2822",
+      "offset": 124705,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2823",
+      "offset": 169871,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2824",
+      "offset": 132911,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2825",
+      "offset": 190590,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2826",
+      "offset": 170866,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2827",
+      "split_at": 8,
+      "offset": 232015,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2829",
+      "offset": 228196,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2830",
+      "offset": 195107,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2831",
+      "offset": 228558,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2850",
+      "offset": 229644,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2854",
+      "offset": 230101,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2859",
+      "offset": 115096,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2860",
+      "offset": 121694,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2861",
+      "offset": 233370,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2862",
+      "offset": 162414,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2863",
+      "offset": 142348,
+      "capacity": 29
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2875",
+      "offset": 122598,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2882",
+      "offset": 210626,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2890",
+      "offset": 123358,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2891",
+      "offset": 133889,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2892",
+      "offset": 233492,
+      "capacity": 31
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2895",
+      "offset": 173870,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2896",
+      "offset": 213298,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2897",
+      "offset": 232266,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2901",
+      "offset": 230662,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2902",
+      "offset": 118325,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2914",
+      "offset": 125166,
+      "capacity": 29
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2915",
+      "offset": 221190,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2917",
+      "offset": 183955,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2918",
+      "offset": 209687,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2921",
+      "offset": 228931,
+      "capacity": 33
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2923",
+      "split_at": 8,
+      "offset": 225629,
+      "capacity": 35
+    },
+    {
+      "id": "ADVDATA/SCRIPT/S0410.SBX#2924",
+      "offset": 228407,
+      "capacity": 35
+    }
+  ]
+}

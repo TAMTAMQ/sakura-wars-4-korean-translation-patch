@@ -11,7 +11,7 @@ def main():
     directory=ROOT/'assets/translation/review'
     decisions={r['unit']:r for r in read_jsonl(directory/'decisions.jsonl')}
     changes={}
-    for path in sorted(directory.glob('20261022-*/changes.json')):
+    for path in sorted(directory.glob('20*/changes.json')):
         for change in json.loads(path.read_text(encoding='utf-8')):
             key=change['unit']
             changes.setdefault(key,change)

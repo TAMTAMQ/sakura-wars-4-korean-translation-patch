@@ -16,7 +16,7 @@
 {"id": "dialogue:fb2602ca6a609781", "source": "紅蘭さんが、帝都タワーの//アンテナを利用して、巴里と//通信できるようになったんです。", "text": "홍란 씨가 제도 타워의//안테나를 이용해서 파리와//통신할 수 있게 됐어요．", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0125"}]}
 {"id": "dialogue:51869b3baaddac76", "source": "さすが、紅蘭だな。//作戦指令室だね。//すぐに行くよ！", "text": "역시 홍란이야．//작전 지령실이지？바로 갈게∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0126"}]}
 {"id": "dialogue:869fe91ea6febd97", "source": "グラン・マからの通信か……//大型キネマトロンのスイッチは//これだな。", "text": "그란 마에게서 온 통신인가…//대형 키네마트론 스위치는 이거군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0129"}]}
-{"id": "dialogue:2ee493abb96a5901", "source": "おや、ムッシュ。//元気そうじゃないか。", "text": "이런，무슈．잘 지내는 것 같네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0130"}]}
+{"id": "dialogue:2ee493abb96a5901", "source": "おや、ムッシュ。//元気そうじゃないか。", "text": "이런，무슈．잘 지내는 것 같네．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0130"}]}
 {"id": "dialogue:93fa84fab6c91df5", "source": "支配人、お久しぶりです。//巴里は平和ですか？", "text": "지배인님，오랜만입니다．//파리는 평화롭습니까？", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0131"}]}
 {"id": "dialogue:3cdb73fcb16f1fd3", "source": "ああ、心配いらないよ。//大きな事件も特にないしね。", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0132"}], "parts": [{"ref": "dialogue:bbcd6ce0f74bbdd8"}]}
 {"id": "dialogue:51a729ae6e150e2a", "source": "でもさ……レディに対して、//平和ですか？　はないだろう。//もっと気の利いたことを言いな。", "text": "그런데 말이야…레이디한테，//「평화로운가요？」라니//너무하잖아．좀 더 센스 있게 말해 봐．", "review": "보관 원문 대조·공통 문안 연결 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0133"}]}
@@ -27,7 +27,7 @@
 {"id": "dialogue:5c49ae65c5897abc", "source": "支配人……//あいかわらず、お美しいですね。", "text": "지배인님…//여전히 아름다우시네요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0139"}]}
 {"id": "dialogue:b19f08a8b6a156a5", "source": "少し太ったのでは……//甘いものばかり食べていては//体によくないですよ。", "text": "조금 살이 찐 것 같은데…단 것만//계속 먹으면 몸에 좋지 않습니다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0143"}]}
 {"id": "dialogue:7be4593329978348", "source": "ウナーン！//ウニャウニャ∈", "text": "우냐아앙∈우냐우냐∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0148"}]}
-{"id": "dialogue:dce4cb67ab947007", "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくなって//さびしいとさ。", "text": "무슈가 제도로 가 버려서，싸움//상대가 없어졌다며 외롭다더군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0149"}]}
+{"id": "dialogue:dce4cb67ab947007", "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくなって//さびしいとさ。", "text": "무슈가 제도로 가 버려서，싸움//상대가 없어졌다며 외롭다더군．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0149"}]}
 {"id": "dialogue:49c17abe03a642fe", "source": "ウニャーン。", "text": "우냥．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0150"}]}
 {"id": "dialogue:4763636350c413b0", "source": "ナポレオン……//あいかわらずだな……", "text": "나폴레옹…여전하구나…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0151"}]}
 {"id": "dialogue:9b49895eb5cd610a", "source": "す、すみません……", "text": "죄，죄송합니다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#0154"}]}
@@ -1222,16 +1222,16 @@
 {"id": "dialogue:07800a4bf8ea8004", "source": "ウィ、オーナー。//欧州防衛会議の要綱ですね。//もう整理はできています。", "text": "위，오너님．//유럽 방위 회의의 요강이군요．//이미 정리는 끝났습니다．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1858"}]}
 {"id": "dialogue:6d9d1b320fe7b2dc", "source": "お持ちになる前に、//機密に関しての誓約印を//お願いしますね。", "text": "가져가시기 전에，기밀에 관한//서약 날인을 부탁드릴게요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1859"}]}
 {"id": "dialogue:ebc41b48f59b375a", "source": "あの……支配人。", "text": "저기…지배인님．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1860"}]}
-{"id": "dialogue:21e3dbc0d2c30174", "source": "……ムッシュ〓//まったく悪い子だねぇ……//仕事中に通信してくるなんて。", "text": "…무슈〓정말 나쁜 아이네…//업무 중에 통신을 하다니．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1861"}]}
+{"id": "dialogue:21e3dbc0d2c30174", "source": "……ムッシュ〓//まったく悪い子だねぇ……//仕事中に通信してくるなんて。", "text": "…무슈〓정말 나쁜 아이네…//업무 중에 통신을 하다니．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1861"}]}
 {"id": "dialogue:4fb7cb710e6a4ea3", "source": "あ……すみません。//シャノワールのことが、//気になったもので……", "text": "아…죄송합니다．//샤노와르가 신경 쓰여서 말이죠…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1862"}]}
 {"id": "dialogue:700ff138fb8c7a1b", "source": "まぁ……一人抜けたから、//ステージが地味に//なっちゃったけどね。", "text": "뭐…한 명이 빠져 버려서，무대가//좀 밋밋해져 버렸지만 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1863"}]}
 {"id": "dialogue:7c7a08d0c5692009", "source": "その分……残りのみんなが、//がんばってくれてるよ。//チームワークってやつだろ？", "text": "그만큼…남은 모두가，노력해 주고//있어．팀워크라는 거겠지？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1864"}]}
-{"id": "dialogue:735d83ea6b242942", "source": "あの子たち……ムッシュが//教えてくれたことだって、//自慢げに言ってたよ。", "text": "그 아이들…무슈가 가르쳐//준 거라고，자랑스럽게 말하더군．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1865"}]}
+{"id": "dialogue:735d83ea6b242942", "source": "あの子たち……ムッシュが//教えてくれたことだって、//自慢げに言ってたよ。", "text": "그 아이들…무슈가 가르쳐//준 거라고，자랑스럽게 말하더군．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1865"}]}
 {"id": "dialogue:9bd776316ca7e044", "source": "……そうですか。//みんなが……//本当によかったですね。", "text": "…그렇군요．모두가…//정말 다행이네요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1866"}]}
 {"id": "dialogue:495150878a751f47", "source": "オーナー！//お客さんが来てますよー∈", "text": "오너∈손님이 오셨어요～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1867"}]}
 {"id": "dialogue:352e76da6cbec0d8", "source": "いま行くよ。//先に貴賓室に//案内してあげておくれ。", "text": "지금 갈게．//먼저 귀빈실로 안내해 주렴．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1868"}]}
 {"id": "dialogue:ac868e51168a36dd", "source": "ウィ、オーナー。//すぐに来てくださいねぇ。", "text": "위，오너．얼른 와 주세요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1869"}]}
-{"id": "dialogue:fa34022d237e3748", "source": "じゃ……そういうことだから。//ムッシュは、//そっちでがんばるんだよ。", "text": "그럼…그런 거니까．//무슈는，그쪽에서 힘내야 해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1870"}]}
+{"id": "dialogue:fa34022d237e3748", "source": "じゃ……そういうことだから。//ムッシュは、//そっちでがんばるんだよ。", "text": "그럼…그런 거니까．//무슈는，그쪽에서 힘내야 해．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1870"}]}
 {"id": "dialogue:37f7adc3195083ba", "source": "じゃあね。//また今度、//ゆっくり話でもしようね。", "text": "그럼 안녕．다음에 또，//천천히 이야기라도 나누자．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1872"}]}
 {"id": "dialogue:3909e83132d866fa", "source": "支配人もいそがしそうだな。//さて……そろそろ//ほかの場所に行くか。", "text": "지배인님도 바빠 보이네．//자…슬슬 다른 곳에 가 볼까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1873"}]}
 {"id": "dialogue:38bf7d6acbaa9cd0", "source": "6_302_2", "text": "6_302_2", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0220.SBX#1874"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#2185"}, {"id": "ADVDATA/SCRIPT/S0220.SBX#3596"}]}

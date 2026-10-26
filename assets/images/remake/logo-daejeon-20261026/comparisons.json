@@ -1,0 +1,42 @@
+[
+  {
+    "source": "ADVDATA/CG_ALL1.DAT",
+    "block": 733,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_CG_ALL1.DAT_733-comparison.png"
+  },
+  {
+    "source": "ADVDATA/CG_ALL1.DAT",
+    "block": 735,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_CG_ALL1.DAT_735-comparison.png"
+  },
+  {
+    "source": "SYSDATA/TITLESEQ.CBD",
+    "block": 3,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/SYSDATA_TITLESEQ.CBD_3-comparison.png"
+  },
+  {
+    "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+    "block": 2,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_EYECATCH_EYEC_DTS00.CBD_2-comparison.png"
+  },
+  {
+    "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+    "block": 2,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_EYECATCH_EYEC_DTS01.CBD_2-comparison.png"
+  },
+  {
+    "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+    "block": 2,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_EYECATCH_EYEC_DTS02.CBD_2-comparison.png"
+  },
+  {
+    "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+    "block": 0,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/ADVDATA_EYECATCH_TAIN_DTS.CBD_0-comparison.png"
+  },
+  {
+    "source": "MINIGAME/E2MGTITL.ADC",
+    "block": 0,
+    "comparison": "assets/images/remake/logo-daejeon-20261026/MINIGAME_E2MGTITL.ADC_0-comparison.png"
+  }
+]

@@ -108,5 +108,85 @@
   "remake": "assets/images/remake/individual/SLG/G03/CMAP03.GRCT/0017_0001.png",
   "note": "하나비 이름판: 번역 대상이 아닌 F2 두 칸을 원본 복원.",
   "scope": "기호만 복원: 한글 글꼴·크기·배치는 이번 수정에 포함되지 않음."
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 733,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0733_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/CG_ALL1.DAT/0733_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "ADVDATA/CG_ALL1.DAT",
+  "block": 735,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/CG_ALL1.DAT/0735_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/CG_ALL1.DAT/0735_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "SYSDATA/TITLESEQ.CBD",
+  "block": 3,
+  "texture": 0,
+  "original": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/SYSDATA/TITLESEQ.CBD/0003_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/SYSDATA/TITLESEQ.CBD/0003_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS00.CBD/0002_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS01.CBD/0002_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+  "block": 2,
+  "texture": 0,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_BPV1/0000_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/EYEC_DTS02.CBD/0002_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+  "block": 0,
+  "texture": 1,
+  "original": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_original.png",
+  "patched": "assets/extracted/images/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_BPV1/0001_patched.png",
+  "remake": "assets/images/remake/logo/ADVDATA/EYECATCH/TAIN_DTS.CBD/0000_0001.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
+ },
+ {
+  "source": "MINIGAME/E2MGTITL.ADC",
+  "block": 0,
+  "texture": 0,
+  "original": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_original.png",
+  "patched": "assets/extracted/images/MINIGAME/E2MGTITL.ADC/0000_ADCG/0000_patched.png",
+  "remake": "assets/images/remake/logo/MINIGAME/E2MGTITL.ADC/0000_0000.png",
+  "scope": "이슈 #7 로고 본문 재제작",
+  "note": "작은 검은 대·전 상자를 없애고 본문 크기의 대전으로 통일. 원본 사본별 캔버스·분할 좌표·숫자 4를 보존. 이전 재제작본은 logo-daejeon-20261026/before/에 별도 보존."
  }
 ]

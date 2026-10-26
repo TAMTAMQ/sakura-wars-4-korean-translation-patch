@@ -1,0 +1,191 @@
+[
+  {
+    "unit": "dialogue:4143db9fe469220b",
+    "source": "レニ……お礼を言うのは、//俺の方だよ……//さて、そろそろ行くか。",
+    "before": {
+      "id": "dialogue:4143db9fe469220b",
+      "source": "レニ……お礼を言うのは、//俺の方だよ……//さて、そろそろ行くか。",
+      "text": "레니…고맙다는 말은，내 쪽에서//해야 할 말이야…자，슬슬 가 볼까．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1844"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4143db9fe469220b",
+      "source": "レニ……お礼を言うのは、//俺の方だよ……//さて、そろそろ行くか。",
+      "text": "레니…고맙다는 말은，//내가 해야 할 말이야…//자，슬슬 가 볼까．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#1844"
+        }
+      ]
+    },
+    "reason": "이슈 #7: 俺の方의 직역 「내 쪽에서」를 자연스러운 「내가」로 교정. 15칸·3줄 유지."
+  },
+  {
+    "unit": "dialogue:bbf24229fe95fd30",
+    "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+    "before": {
+      "id": "dialogue:bbf24229fe95fd30",
+      "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+      "text": "…모여 준 사람들의 웃는 얼굴을//보고 있으면 제도의 복구도//머지않았다고 생각한다．",
+      "review": "원문 대조 교정 · 2026-10-22",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0126"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bbf24229fe95fd30",
+      "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。",
+      "text": "…모여든 사람들의 웃는 얼굴을//보고 있으면 제도의 복구도//머지않았다고 생각한다．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0126"
+        }
+      ]
+    },
+    "reason": "이슈 #7: 「모여 준」을 장면에 맞는 「모여든」으로 교정."
+  },
+  {
+    "unit": "dialogue:9ba8e68ca89971a4",
+    "source": "そして、俺にすべてをまかされた//「あぁ、無情」は、//クライマックスを迎える……",
+    "before": {
+      "id": "dialogue:9ba8e68ca89971a4",
+      "source": "そして、俺にすべてをまかされた//「あぁ、無情」は、//クライマックスを迎える……",
+      "text": "그리고，모든 것을 내가 맡게 된//「레 미제라블」은，//클라이맥스를 맞이한다…",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0127"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:9ba8e68ca89971a4",
+      "source": "そして、俺にすべてをまかされた//「あぁ、無情」は、//クライマックスを迎える……",
+      "text": "그리고，내가 모든 것을 맡은//「레 미제라블」은，//클라이맥스를 맞이한다…",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0127"
+        }
+      ]
+    },
+    "reason": "이슈 #7: 수동형 직역을 「내가 모든 것을 맡은」으로 교정."
+  },
+  {
+    "unit": "dialogue:fd9d7be14eff86e1",
+    "source": "　Ｂｅｅ　Ｔｒａｉｎ",
+    "before": {
+      "id": "dialogue:fd9d7be14eff86e1",
+      "source": "　Ｂｅｅ　Ｔｒａｉｎ",
+      "text": "　Ｂｅｅ　Ｔｒａｉｎ",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2703"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fd9d7be14eff86e1",
+      "source": "　Ｂｅｅ　Ｔｒａｉｎ",
+      "text": "Ｂｅｅ　Ｔｒａｉｎ",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2703"
+        }
+      ]
+    },
+    "reason": "엔딩 스태프롤의 일부 이름·회사에만 남아 있던 원문 들여쓰기 제거. 같은 왼쪽 기준에 맞춘다."
+  },
+  {
+    "unit": "dialogue:db13ea06e9a93776",
+    "source": "　Ａ．Ｐ．Ｐ．Ｐ．",
+    "before": {
+      "id": "dialogue:db13ea06e9a93776",
+      "source": "　Ａ．Ｐ．Ｐ．Ｐ．",
+      "text": "　Ａ．Ｐ．Ｐ．Ｐ．",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2709"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:db13ea06e9a93776",
+      "source": "　Ａ．Ｐ．Ｐ．Ｐ．",
+      "text": "Ａ．Ｐ．Ｐ．Ｐ．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2709"
+        }
+      ]
+    },
+    "reason": "엔딩 스태프롤의 일부 이름·회사에만 남아 있던 원문 들여쓰기 제거. 같은 왼쪽 기준에 맞춘다."
+  },
+  {
+    "unit": "dialogue:0d5dbdc3050eb8f8",
+    "source": "　ＧＡＩＮＡＸ",
+    "before": {
+      "id": "dialogue:0d5dbdc3050eb8f8",
+      "source": "　ＧＡＩＮＡＸ",
+      "text": "　ＧＡＩＮＡＸ",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2713"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:0d5dbdc3050eb8f8",
+      "source": "　ＧＡＩＮＡＸ",
+      "text": "ＧＡＩＮＡＸ",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2713"
+        }
+      ]
+    },
+    "reason": "엔딩 스태프롤의 일부 이름·회사에만 남아 있던 원문 들여쓰기 제거. 같은 왼쪽 기준에 맞춘다."
+  },
+  {
+    "unit": "dialogue:76710ab39ce81dc2",
+    "source": "　ＩＫＩＦ＋",
+    "before": {
+      "id": "dialogue:76710ab39ce81dc2",
+      "source": "　ＩＫＩＦ＋",
+      "text": "　ＩＫＩＦ＋",
+      "review": "교차 검토 필요",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2747"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:76710ab39ce81dc2",
+      "source": "　ＩＫＩＦ＋",
+      "text": "ＩＫＩＦ＋",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2747"
+        }
+      ]
+    },
+    "reason": "엔딩 스태프롤의 일부 이름·회사에만 남아 있던 원문 들여쓰기 제거. 같은 왼쪽 기준에 맞춘다."
+  }
+]

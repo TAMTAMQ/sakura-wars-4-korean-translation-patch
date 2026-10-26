@@ -15,7 +15,7 @@ def fingerprint(catalogue, key):
     return digest(json.dumps({'source': unit['source'], 'texts': texts}, ensure_ascii=False, sort_keys=True))
 
 
-def apply(label, plan, reviews):
+def apply(label, plan, reviews, date='2026-10-22'):
     current, old_rows, hashes = load()
     evidence = ROOT / 'assets/translation/review' / label
     if evidence.exists():
@@ -29,7 +29,7 @@ def apply(label, plan, reviews):
             raise ValueError('조합 문안은 참조 구절을 수정하세요: ' + key)
         for field in ['parts', 'breaks', 'variants']:
             unit.pop(field, None)
-        unit.update(text=correction['text'], review='원문 대조 교정 · 2026-10-22')
+        unit.update(text=correction['text'], review='원문 대조 교정 · ' + date)
         for use in unit['occurrences']:
             changed_ids.add(use['id'])
             use.pop('form', None)
@@ -64,10 +64,10 @@ def apply(label, plan, reviews):
         raise ValueError(json.dumps(errors, ensure_ascii=False, indent=2))
     records = []
     for key, review in reviews.items():
-        records.append({'unit':key, **review, 'date':'2026-10-22', 'content_sha256':fingerprint(proposed,key)})
+        records.append({'unit':key, **review, 'date':date, 'content_sha256':fingerprint(proposed,key)})
     for key, correction in plan.items():
         records = [r for r in records if r['unit'] != key]
-        records.append({'unit':key, 'status':'approved', 'date':'2026-10-22', 'note':correction['reason'], 'content_sha256':fingerprint(proposed,key)})
+        records.append({'unit':key, 'status':'approved', 'date':date, 'note':correction['reason'], 'content_sha256':fingerprint(proposed,key)})
     evidence.mkdir(parents=True)
     with zipfile.ZipFile(evidence/'before.zip','w',zipfile.ZIP_DEFLATED) as archive:
         archive.write(index_path,index_path.relative_to(ROOT))

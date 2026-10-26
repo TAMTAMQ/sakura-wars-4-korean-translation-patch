@@ -8,8 +8,8 @@
 {"id": "dialogue:659c0346784dc1d2", "source": "帝都は長安の事件からの//復興途中だったが、//劇場は満席になった……", "text": "제도는 나가야스 사건 뒤//복구 중이었으나，//극장은 만석이 되었다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0123"}]}
 {"id": "dialogue:13f01a0bb4c7d6c8", "source": "初舞台を前にして、//みんなも緊張していたが……", "text": "첫 무대를 앞두고，//모두 긴장하고 있었지만…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0124"}]}
 {"id": "dialogue:998a474edfc21151", "source": "満席になったことを知ると、//その顔には、//よろこびがあふれていた。", "text": "만석이 됐다는 걸 알자，그 얼굴에는//기쁨이 넘쳐흐르고 있었다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0125"}]}
-{"id": "dialogue:bbf24229fe95fd30", "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。", "text": "…모여 준 사람들의 웃는 얼굴을//보고 있으면 제도의 복구도//머지않았다고 생각한다．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0126"}]}
-{"id": "dialogue:9ba8e68ca89971a4", "source": "そして、俺にすべてをまかされた//「あぁ、無情」は、//クライマックスを迎える……", "text": "그리고，모든 것을 내가 맡게 된//「레 미제라블」은，//클라이맥스를 맞이한다…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0127"}]}
+{"id": "dialogue:bbf24229fe95fd30", "source": "……集まってくれた人たちの//笑顔を見ていると、//帝都の復興もすぐだと思う。", "text": "…모여든 사람들의 웃는 얼굴을//보고 있으면 제도의 복구도//머지않았다고 생각한다．", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0126"}]}
+{"id": "dialogue:9ba8e68ca89971a4", "source": "そして、俺にすべてをまかされた//「あぁ、無情」は、//クライマックスを迎える……", "text": "그리고，내가 모든 것을 맡은//「레 미제라블」은，//클라이맥스를 맞이한다…", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0127"}]}
 {"id": "dialogue:40d6e331814f3b14", "source": "それは罪か〓//人は法律の前に生きている！//正義は法律の前に絶対のはすだ∈", "text": "그게 죄인가〓인간은 법보다//먼저 존재한다∈정의는//법보다 앞서는 절대적인 것∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0131"}]}
 {"id": "dialogue:e9a0c0e1c36e57b4", "source": "この街の奴らにも、//シャノワールの実力を//見せつけてやらないとね。", "text": "이 도시 녀석들에게도，샤노와르의//실력을 똑똑히 보여 줘야겠어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0149"}]}
 {"id": "dialogue:e84d8958e7b6090a", "source": "ああ、そうだな。//よろしく頼むよ、みんな。", "text": "아아，그렇지．잘 부탁해，다들．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#0151"}]}
@@ -694,7 +694,7 @@
 {"id": "dialogue:b053c23a0cc33029", "source": "いや……ちがうんだよ。//レニが声を出して//笑うなんてめずらしくてさ。", "text": "아니…그게 아니야．레니가 소리를//내며 웃다니 드문 일이라서 말이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1834"}]}
 {"id": "dialogue:abc0f85e2f959f4d", "source": "いいや……いい笑顔だよ。//レニ、これからも、//俺たちに笑顔を見せてくれよ。", "text": "아니…좋은 미소야．//레니，앞으로도，//우리에게 미소를 보여 줘．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1836"}]}
 {"id": "dialogue:d7be529277225c0b", "source": "ああ、俺の方こそ、//よろしく頼むよ。", "text": "아아，나야말로 잘 부탁해．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1841"}]}
-{"id": "dialogue:4143db9fe469220b", "source": "レニ……お礼を言うのは、//俺の方だよ……//さて、そろそろ行くか。", "text": "레니…고맙다는 말은，내 쪽에서//해야 할 말이야…자，슬슬 가 볼까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1844"}]}
+{"id": "dialogue:4143db9fe469220b", "source": "レニ……お礼を言うのは、//俺の方だよ……//さて、そろそろ行くか。", "text": "레니…고맙다는 말은，//내가 해야 할 말이야…//자，슬슬 가 볼까．", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1844"}]}
 {"id": "dialogue:62e278d8a2717fea", "source": "4_118_2", "text": "4_118_2", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1845"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#2314"}, {"id": "ADVDATA/SCRIPT/S0410.SBX#3151"}]}
 {"id": "dialogue:16e46c97dab7c3e2", "source": "おい、飛びつくなって！//ははははは……//お前はいつも元気だな。", "text": "어이，달려들지 마∈하하하하하…//넌 언제나 활기차구나．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1847"}]}
 {"id": "dialogue:77c4d382dce79e6a", "source": "なぁ、知ってるか？//俺たち……この帝都の未来を//まかされたんだぞ。", "text": "있잖아，알고 있어？//우리들…이 제도의 미래를//맡게 되었다고 말이야．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#1848"}]}
@@ -1280,17 +1280,17 @@
 {"id": "dialogue:78a31c1443de0dc5", "source": "　秋山一則　　奥村幸子", "text": "아키야마 카즈노리　　오쿠무라 사치코", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2700"}]}
 {"id": "dialogue:89074ae4e0fb8f5b", "source": "　森田　典", "text": "모리타 노리", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2701"}]}
 {"id": "dialogue:8f7addd6b91b2f43", "source": "　工藤一央", "text": "쿠도 카즈오", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2702"}]}
-{"id": "dialogue:fd9d7be14eff86e1", "source": "　Ｂｅｅ　Ｔｒａｉｎ", "text": "　Ｂｅｅ　Ｔｒａｉｎ", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2703"}]}
+{"id": "dialogue:fd9d7be14eff86e1", "source": "　Ｂｅｅ　Ｔｒａｉｎ", "text": "Ｂｅｅ　Ｔｒａｉｎ", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2703"}]}
 {"id": "dialogue:c07d124287733a53", "source": "　動画工房", "text": "동화공방", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2704"}]}
 {"id": "dialogue:3fedefec585aaad5", "source": "　亜細亜堂", "text": "아지아도", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2705"}]}
 {"id": "dialogue:123eebb3bb7414c4", "source": "　有限会社  スタジオたくらんけ", "text": "유한회사 스튜디오 타쿠란케", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2706"}]}
 {"id": "dialogue:54d7141a8b89bad1", "source": "　（株）スタジオディーン", "text": "（주）스튜디오 딘", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2707"}]}
 {"id": "dialogue:59ae2499e426221e", "source": "　ＯＨ！プロダクション", "text": "ＯＨ！프로덕션", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2708"}]}
-{"id": "dialogue:db13ea06e9a93776", "source": "　Ａ．Ｐ．Ｐ．Ｐ．", "text": "　Ａ．Ｐ．Ｐ．Ｐ．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2709"}]}
+{"id": "dialogue:db13ea06e9a93776", "source": "　Ａ．Ｐ．Ｐ．Ｐ．", "text": "Ａ．Ｐ．Ｐ．Ｐ．", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2709"}]}
 {"id": "dialogue:e991ec0737636f2b", "source": "　（有）デルタ・ピーク・", "text": "（유）델타 피크・", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2710"}]}
 {"id": "dialogue:4f120aa29b004580", "source": "　　　　　　　プロダクション", "text": "프로덕션", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2711"}]}
 {"id": "dialogue:1c038776c9bed30c", "source": "　スタジオ コクピット", "text": "스튜디오 콕핏", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2712"}]}
-{"id": "dialogue:0d5dbdc3050eb8f8", "source": "　ＧＡＩＮＡＸ", "text": "　ＧＡＩＮＡＸ", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2713"}]}
+{"id": "dialogue:0d5dbdc3050eb8f8", "source": "　ＧＡＩＮＡＸ", "text": "ＧＡＩＮＡＸ", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2713"}]}
 {"id": "dialogue:dee1f66005a38c71", "source": "　マジックバス", "text": "매직 버스", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2714"}]}
 {"id": "dialogue:b29db3ca4d477d4c", "source": "　すたじおガッシュ", "text": "스튜디오 가슈", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2715"}]}
 {"id": "dialogue:7eda98f71018c0c5", "source": "色彩設計・色指定", "text": "색채 설계・색 지정", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2716"}]}
@@ -1323,7 +1323,7 @@
 {"id": "dialogue:8ab2e329fe9e3b01", "source": "３ＤＣＧＩ監督", "text": "３ＤＣＧＩ감독", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2744"}]}
 {"id": "dialogue:2970696f3edd2d61", "source": "　木船徳光", "text": "키후네 토쿠미츠", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2745"}]}
 {"id": "dialogue:79200adc0084fb0b", "source": "３ＤＣＧＩ", "text": "３ＤＣＧＩ", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2746"}]}
-{"id": "dialogue:76710ab39ce81dc2", "source": "　ＩＫＩＦ＋", "text": "　ＩＫＩＦ＋", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2747"}]}
+{"id": "dialogue:76710ab39ce81dc2", "source": "　ＩＫＩＦ＋", "text": "ＩＫＩＦ＋", "review": "원문 대조 교정 · 2026-10-26", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2747"}]}
 {"id": "dialogue:17ba5f4a76d4ff0c", "source": "　　馬場就大　　木村太一", "text": "바바 나루히로　　키무라 타이치", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2748"}]}
 {"id": "dialogue:7a20ce6dc01549ef", "source": "　　稲垣　明　　呉　新紅", "text": "이나가키 아키라　　우 신훙", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2749"}]}
 {"id": "dialogue:b509a571bebdb346", "source": "　　≪中　裕", "text": "하마나카 유타카", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0410.SBX#2750"}]}

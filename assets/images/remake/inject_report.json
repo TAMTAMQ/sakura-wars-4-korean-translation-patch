@@ -123,342 +123,6 @@
    ]
   },
   {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 68957,
-     "slot": 72476,
-     "old": 67301,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 82360,
-     "slot": 86736,
-     "old": 77316,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS03.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS04.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS05.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS06.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS07.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS08.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS09.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS10.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS11.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS12.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS13.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/EYEC_DTS14.CBD",
-   "blocks": [
-    {
-     "block": 2,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 61461,
-     "slot": 63944,
-     "old": 55309,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      1
-     ],
-     "compressed": true,
-     "payload": 126223,
-     "slot": 133840,
-     "old": 129569,
-     "max_diff": {
-      "1": 0
-     },
-     "mean_diff": {
-      "1": 0.0
-     }
-    }
-   ]
-  },
-  {
    "source": "ADVDATA/ITEM_LG.DAT",
    "blocks": [
     {
@@ -847,24 +511,6 @@
      "payload": 302058,
      "slot": 319344,
      "old": 318322,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "MINIGAME/E2MGTITL.ADC",
-   "blocks": [
-    {
-     "block": 0,
-     "textures": [
-      0
-     ],
-     "compressed": false,
      "max_diff": {
       "0": 0
      },
@@ -1898,27 +1544,6 @@
      },
      "mean_diff": {
       "1": 0.0
-     }
-    }
-   ]
-  },
-  {
-   "source": "SYSDATA/TITLESEQ.CBD",
-   "blocks": [
-    {
-     "block": 3,
-     "textures": [
-      0
-     ],
-     "compressed": true,
-     "payload": 251343,
-     "slot": 273600,
-     "old": 253235,
-     "max_diff": {
-      "0": 0
-     },
-     "mean_diff": {
-      "0": 0.0
      }
     }
    ]
@@ -4498,7 +4123,7 @@
       0
      ],
      "compressed": true,
-     "payload": 37861,
+     "payload": 38260,
      "slot": 40920,
      "old": 35412,
      "gr_idx_entries": [
@@ -4517,7 +4142,7 @@
       0
      ],
      "compressed": true,
-     "payload": 70106,
+     "payload": 69393,
      "slot": 77784,
      "old": 70183,
      "max_diff": {
@@ -6930,6 +6555,381 @@
      "payload": 275816,
      "slot": 288728,
      "old": 273659,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "SYSDATA/TITLESEQ.CBD",
+   "blocks": [
+    {
+     "block": 3,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 247456,
+     "slot": 273600,
+     "old": 253235,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS00.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 68936,
+     "slot": 72476,
+     "old": 67301,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS01.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 82429,
+     "slot": 86736,
+     "old": 77316,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS02.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS03.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS04.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS05.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS06.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS07.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS08.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS09.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS10.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS11.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS12.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS13.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/EYEC_DTS14.CBD",
+   "blocks": [
+    {
+     "block": 2,
+     "textures": [
+      0
+     ],
+     "compressed": true,
+     "payload": 61512,
+     "slot": 63944,
+     "old": 55309,
+     "max_diff": {
+      "0": 0
+     },
+     "mean_diff": {
+      "0": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "ADVDATA/EYECATCH/TAIN_DTS.CBD",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      1
+     ],
+     "compressed": true,
+     "payload": 126238,
+     "slot": 133840,
+     "old": 129569,
+     "max_diff": {
+      "1": 0
+     },
+     "mean_diff": {
+      "1": 0.0
+     }
+    }
+   ]
+  },
+  {
+   "source": "MINIGAME/E2MGTITL.ADC",
+   "blocks": [
+    {
+     "block": 0,
+     "textures": [
+      0
+     ],
+     "compressed": false,
      "max_diff": {
       "0": 0
      },

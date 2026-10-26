@@ -440,7 +440,7 @@
 {"id": "dialogue:e5a07e8631191720", "source": "", "text": "sakusen03cam.go2", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0001"}]}
 {"id": "dialogue:554ea40f76cdd8be", "source": "", "text": "오오가미 씨，//거대 마조기병 「하쿠시키」를//격파해 주세요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0002"}]}
 {"id": "dialogue:6f528f6d53a0fa19", "source": "", "text": "파리화격단이 도착해서，//전력은 호각이//되었다고요∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0003"}]}
-{"id": "dialogue:f2278c38d8963aca", "source": "", "text": "남은 건，//무슈의 지휘에 달렸어…//반드시 이겨야 해∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0004"}]}
+{"id": "dialogue:f2278c38d8963aca", "source": "", "text": "남은 건，//무슈의 지휘에 달렸어…//반드시 이겨야 해∈", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0004"}]}
 {"id": "dialogue:bf47f147cbc5293e", "source": "", "text": "main", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00061840:0005"}]}
 {"id": "dialogue:38b247cc754d4f2d", "source": "", "text": "중시 작전이다∈", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00056d7c:0000"}]}
 {"id": "dialogue:d9fca1bf3ddec613", "source": "", "text": "기동력을 살려 싸우자．", "review": "교차 검토 필요", "occurrences": [{"id": "SLG/G03/SMAP03.ESM#00056d7c:0001"}]}

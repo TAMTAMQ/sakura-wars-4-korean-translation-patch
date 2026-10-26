@@ -1,10 +1,9 @@
 {
   "total": 19365,
   "status": {
-    "approved": 19359,
-    "pending": 6
+    "approved": 19365
   },
-  "corrected_units": 2391,
+  "corrected_units": 11049,
   "scope": "대사 검수만 수행. 게임 내 표시 확인 제외.",
-  "all_dialogue_review_complete": false
+  "all_dialogue_review_complete": true
 }

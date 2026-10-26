@@ -159,7 +159,7 @@
 {"id": "dialogue:60754fd29273822d", "source": "中尉さんを信じた、//わたしがバカでした！//最低です。", "text": "중위님을 믿었던，제가//바보였어요∈정말 최악이에요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0577"}]}
 {"id": "dialogue:e0cf03d6fb32469b", "source": "……想像した。//隊長……最低だ。", "text": "…상상했어．대장…최악이야．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0578"}]}
 {"id": "dialogue:cb745b44dc470423", "source": "大神さんはいつも通り//固まってしまったんで……//わたしから説明しますね。", "text": "오오가미 씨는 평소처럼//굳어버리셔서…제가 설명할게요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0580"}]}
-{"id": "dialogue:b212ec29d5a6bf55", "source": "あの……ムッシュ米田は、//どこにいらっしゃいますか？", "text": "저기…무슈 요네다는，//어디에 계시나요？", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0586"}]}
+{"id": "dialogue:b212ec29d5a6bf55", "source": "あの……ムッシュ米田は、//どこにいらっしゃいますか？", "text": "저기…무슈 요네다는，//어디에 계시나요？", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0586"}]}
 {"id": "dialogue:91d277a84a08837e", "source": "そ、それなら、//俺が案内するよ。", "text": "그，그렇다면，내가 안내할게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0587"}]}
 {"id": "dialogue:60dc6fb99caa9485", "source": "じゃ……じゃあ、みんな。//ゆっくりとゴハンを//食べていてくれ。", "text": "그럼…그럼，모두들．//천천히 밥을 먹고 있어 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0589"}]}
 {"id": "dialogue:301cfcd0be8ccfbe", "source": "それではみなさん、//またあとで//お話しましょうねーっ！", "text": "그럼 여러분，나중에 다시//이야기 나누도록 해요～∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0590"}, {"id": "ADVDATA/SCRIPT/S0210.SBX#1331"}]}
@@ -220,7 +220,7 @@
 {"id": "dialogue:e8a3df76dbaeedf4", "source": "二人ともやめるんだ。//この勝負は俺が預かる、いいな。", "text": "둘 다 그만둬．//이 승부는 내가 맡겠다，알겠지？", "review": "재검수2", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0753"}]}
 {"id": "dialogue:c3020c810914fa44", "source": "フゥ……しかたあるまい。//貴公がそこまで言うなら、//この場は引き下がろう。", "text": "후우…어쩔 수 없군．//귀공이 그렇게까지 말한다면，//이 자리는 물러나도록 하지．", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0754"}]}
 {"id": "dialogue:5df60410f31f65a7", "source": "はぁ……", "text": "하아…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0755"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#2695"}]}
-{"id": "dialogue:60bd4451e305a604", "source": "……そうだ。//ムッシュ米田はどこにおられる？", "text": "…그렇지．//무슈 요네다는 어디 계시나？", "review": "번역 검수", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0756"}]}
+{"id": "dialogue:60bd4451e305a604", "source": "……そうだ。//ムッシュ米田はどこにおられる？", "text": "…그렇지．//무슈 요네다는 어디 계시나？", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0756"}]}
 {"id": "dialogue:ce2a9a22852c5580", "source": "あ、それなら、//俺が案内するよ。", "text": "아，그렇다면，내가 안내할게．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0758"}]}
 {"id": "dialogue:c96c854e48c5cb1e", "source": "じゃあ、みんな……//ゆっくりとゴハンを//食べていてくれ。", "text": "그럼，모두들…//천천히 밥을 먹고 있어 줘．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0760"}]}
 {"id": "dialogue:3b7eae9aaeabf396", "source": "なんだ、巴里華撃団の//グリシーヌじゃないか〓//来るなんて聞いてねぇぞ。", "text": "뭐야，파리화격단의 글리신//아니냐〓온다는 말은 못 들었다고．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0210.SBX#0765"}]}

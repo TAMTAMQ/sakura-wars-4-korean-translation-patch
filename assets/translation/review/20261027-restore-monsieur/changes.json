@@ -1,0 +1,1373 @@
+[
+  {
+    "unit": "dialogue:7327f3275ae119f4",
+    "source": "あの……ムッシュ・米田は、//どこにいらっしゃいますか？",
+    "before": {
+      "id": "dialogue:7327f3275ae119f4",
+      "source": "あの……ムッシュ・米田は、//どこにいらっしゃいますか？",
+      "text": "저기…요네다 씨는，//어디에 계시나요？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0305"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7327f3275ae119f4",
+      "source": "あの……ムッシュ・米田は、//どこにいらっしゃいますか？",
+      "text": "저기…무슈 요네다는，//어디에 계시나요？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0305"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:bb5555ade904c50a",
+    "source": "……そうだ。//ムッシュ・米田は//どこにおられる？",
+    "before": {
+      "id": "dialogue:bb5555ade904c50a",
+      "source": "……そうだ。//ムッシュ・米田は//どこにおられる？",
+      "text": "…맞다．요네다 씨는//어디에 계시나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0417"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bb5555ade904c50a",
+      "source": "……そうだ。//ムッシュ・米田は//どこにおられる？",
+      "text": "…맞다．무슈 요네다는//어디에 계시나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0417"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:61b6cde45c0c93f6",
+    "source": "おや、ムッシュ。//元気そうじゃないか。",
+    "before": {
+      "id": "dialogue:61b6cde45c0c93f6",
+      "source": "おや、ムッシュ。//元気そうじゃないか。",
+      "text": "이런，총각．잘 지내는 것 같군．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0748"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:61b6cde45c0c93f6",
+      "source": "おや、ムッシュ。//元気そうじゃないか。",
+      "text": "이런，무슈．잘 지내는 것 같군．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0748"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:954c9454546d2e94",
+    "source": "ふふ……どういたしまして。//ムッシュに言われると、//なんだかこそばゆいね。",
+    "before": {
+      "id": "dialogue:954c9454546d2e94",
+      "source": "ふふ……どういたしまして。//ムッシュに言われると、//なんだかこそばゆいね。",
+      "text": "후훗…천만에．총각이 그런//말을 하니，왠지 쑥스럽네．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0751"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0140"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:954c9454546d2e94",
+      "source": "ふふ……どういたしまして。//ムッシュに言われると、//なんだかこそばゆいね。",
+      "text": "후훗…천만에．무슈가 그런//말을 하니，왠지 쑥스럽네．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0751"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0140"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:a2991c4c0147e2ce",
+    "source": "まぁ、ムッシュは、//あたしが紳士に育てたんだから、//大丈夫なようだね。",
+    "before": {
+      "id": "dialogue:a2991c4c0147e2ce",
+      "source": "まぁ、ムッシュは、//あたしが紳士に育てたんだから、//大丈夫なようだね。",
+      "text": "뭐，총각은，내가 신사로 키워//냈으니까，괜찮은 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0753"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0142"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:a2991c4c0147e2ce",
+      "source": "まぁ、ムッシュは、//あたしが紳士に育てたんだから、//大丈夫なようだね。",
+      "text": "뭐，무슈는，내가 신사로 키워//냈으니까，괜찮은 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0753"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0142"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:282121cfeba53968",
+    "source": "ムッシュ、余計なお世話だよ。//そういうことは、//言わなくてもいいんだよ。",
+    "before": {
+      "id": "dialogue:282121cfeba53968",
+      "source": "ムッシュ、余計なお世話だよ。//そういうことは、//言わなくてもいいんだよ。",
+      "text": "총각，쓸데없는 참견이야．//그런 건，말 안 해도 돼．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0754"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0144"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:282121cfeba53968",
+      "source": "ムッシュ、余計なお世話だよ。//そういうことは、//言わなくてもいいんだよ。",
+      "text": "무슈，쓸데없는 참견이야．//그런 건，말 안 해도 돼．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0754"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0144"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:2289c3463bb52eb8",
+    "source": "まったく、ムッシュときたら……//育て方をまちがえたかねぇ。",
+    "before": {
+      "id": "dialogue:2289c3463bb52eb8",
+      "source": "まったく、ムッシュときたら……//育て方をまちがえたかねぇ。",
+      "text": "정말이지，총각도 참…//내가 잘못 키운 걸까．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0756"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0146"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2289c3463bb52eb8",
+      "source": "まったく、ムッシュときたら……//育て方をまちがえたかねぇ。",
+      "text": "정말이지，무슈도 참…//내가 잘못 키운 걸까．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0756"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0146"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:7b9d0a5120a54076",
+    "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくって//さびしいとさ。",
+    "before": {
+      "id": "dialogue:7b9d0a5120a54076",
+      "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくって//さびしいとさ。",
+      "text": "총각이 제도로 가 버려서，//싸움 상대가 없어졌다며//외롭다고 하더군．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0757"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7b9d0a5120a54076",
+      "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくって//さびしいとさ。",
+      "text": "무슈가 제도로 가 버려서，//싸움 상대가 없어졌다며//외롭다고 하더군．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0757"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:3fe31e9ab8a7f1c0",
+    "source": "いいよ、無理に言わなくても。//そういう野暮なところも//ムッシュらしいさ。",
+    "before": {
+      "id": "dialogue:3fe31e9ab8a7f1c0",
+      "source": "いいよ、無理に言わなくても。//そういう野暮なところも//ムッシュらしいさ。",
+      "text": "괜찮아，억지로 말하지 않아도．//그런 눈치 없는 점도 총각답달까．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0758"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0153"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3fe31e9ab8a7f1c0",
+      "source": "いいよ、無理に言わなくても。//そういう野暮なところも//ムッシュらしいさ。",
+      "text": "괜찮아，억지로 말하지 않아도．//그런 눈치 없는 점도 무슈답달까．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0758"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0153"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:4e34843b207263ce",
+    "source": "ああ、そうだ、ムッシュ。//エリカはもう//そっちに着いたかい？",
+    "before": {
+      "id": "dialogue:4e34843b207263ce",
+      "source": "ああ、そうだ、ムッシュ。//エリカはもう//そっちに着いたかい？",
+      "text": "아아，맞다，총각．//에리카는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0759"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0155"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0170"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4e34843b207263ce",
+      "source": "ああ、そうだ、ムッシュ。//エリカはもう//そっちに着いたかい？",
+      "text": "아아，맞다，무슈．//에리카는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0759"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0155"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0170"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:32efc28c2edb7a16",
+    "source": "ああ、そうだ、ムッシュ。//グリシーヌはもう//そっちに着いたかい？",
+    "before": {
+      "id": "dialogue:32efc28c2edb7a16",
+      "source": "ああ、そうだ、ムッシュ。//グリシーヌはもう//そっちに着いたかい？",
+      "text": "아아，맞다，총각．//글리신은 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0761"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0158"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:32efc28c2edb7a16",
+      "source": "ああ、そうだ、ムッシュ。//グリシーヌはもう//そっちに着いたかい？",
+      "text": "아아，맞다，무슈．//글리신은 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0761"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0158"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:5f78efad3276dabb",
+    "source": "さすがはグリシーヌ。//まずはムッシュの//腕試しときたか。",
+    "before": {
+      "id": "dialogue:5f78efad3276dabb",
+      "source": "さすがはグリシーヌ。//まずはムッシュの//腕試しときたか。",
+      "text": "역시 글리신이군．우선 총각의//실력을 시험해 보겠다는 건가．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0762"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0160"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5f78efad3276dabb",
+      "source": "さすがはグリシーヌ。//まずはムッシュの//腕試しときたか。",
+      "text": "역시 글리신이군．우선 무슈의//실력을 시험해 보겠다는 건가．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0762"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0160"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:cfef2c7b98bedf20",
+    "source": "ああ、そうだ、ムッシュ。//コクリコはもう//そっちに着いたかい？",
+    "before": {
+      "id": "dialogue:cfef2c7b98bedf20",
+      "source": "ああ、そうだ、ムッシュ。//コクリコはもう//そっちに着いたかい？",
+      "text": "아아，맞다，총각．//코쿠리코는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0763"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0161"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cfef2c7b98bedf20",
+      "source": "ああ、そうだ、ムッシュ。//コクリコはもう//そっちに着いたかい？",
+      "text": "아아，맞다，무슈．//코쿠리코는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0763"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0161"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:bc88351f9897fc28",
+    "source": "ああ、そうだ、ムッシュ。//ロベリアはもう//そっちに着いたかい？",
+    "before": {
+      "id": "dialogue:bc88351f9897fc28",
+      "source": "ああ、そうだ、ムッシュ。//ロベリアはもう//そっちに着いたかい？",
+      "text": "아아，맞다，총각．//로벨리아는 벌써 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0765"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0164"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:bc88351f9897fc28",
+      "source": "ああ、そうだ、ムッシュ。//ロベリアはもう//そっちに着いたかい？",
+      "text": "아아，맞다，무슈．//로벨리아는 벌써 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0765"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0164"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:5d5abaa824dcbc0e",
+    "source": "ああ、そうだ、ムッシュ。//花火はもうそっちに着いたかい？",
+    "before": {
+      "id": "dialogue:5d5abaa824dcbc0e",
+      "source": "ああ、そうだ、ムッシュ。//花火はもうそっちに着いたかい？",
+      "text": "아아，맞다，총각．//하나비는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0767"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0167"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5d5abaa824dcbc0e",
+      "source": "ああ、そうだ、ムッシュ。//花火はもうそっちに着いたかい？",
+      "text": "아아，맞다，무슈．//하나비는 벌써 그쪽에 도착했나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0767"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0167"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:07572ae904d50712",
+    "source": "ムッシュ・迫水は、//ギンザの成り立ちに//原因があるって言ってたけど……",
+    "before": {
+      "id": "dialogue:07572ae904d50712",
+      "source": "ムッシュ・迫水は、//ギンザの成り立ちに//原因があるって言ってたけど……",
+      "text": "사코미즈 씨는，긴자가 생겨난//과정에 원인이 있다고 했지만…",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0772"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0175"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:07572ae904d50712",
+      "source": "ムッシュ・迫水は、//ギンザの成り立ちに//原因があるって言ってたけど……",
+      "text": "무슈 사코미즈는，긴자가 생겨난//과정에 원인이 있다고 했지만…",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0772"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0175"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:1bf544e487a44d23",
+    "source": "ムッシュ・迫水が言うには、//ギンザって言うのは、//巨大な封印らしいんだ。",
+    "before": {
+      "id": "dialogue:1bf544e487a44d23",
+      "source": "ムッシュ・迫水が言うには、//ギンザって言うのは、//巨大な封印らしいんだ。",
+      "text": "사코미즈 씨 말로는，긴자라는//곳은，거대한 봉인인 모양이야．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0773"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0177"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1bf544e487a44d23",
+      "source": "ムッシュ・迫水が言うには、//ギンザって言うのは、//巨大な封印らしいんだ。",
+      "text": "무슈 사코미즈 말로는，긴자라는//곳은，거대한 봉인인 모양이야．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0773"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0177"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:4c69a2db3228e74d",
+    "source": "ムッシュ、大変だろうけど、//しっかりとやるんだよ。",
+    "before": {
+      "id": "dialogue:4c69a2db3228e74d",
+      "source": "ムッシュ、大変だろうけど、//しっかりとやるんだよ。",
+      "text": "총각，힘들겠지만，//제대로 해내야 해．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0777"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0181"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:4c69a2db3228e74d",
+      "source": "ムッシュ、大変だろうけど、//しっかりとやるんだよ。",
+      "text": "무슈，힘들겠지만，//제대로 해내야 해．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0777"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0181"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:1ba5ca2f10301a43",
+    "source": "もちろんさ。//ムッシュは今でも、//巴里華撃団の一員なんだからね。",
+    "before": {
+      "id": "dialogue:1ba5ca2f10301a43",
+      "source": "もちろんさ。//ムッシュは今でも、//巴里華撃団の一員なんだからね。",
+      "text": "물론이지．총각은 지금도，//파리화격단의 일원이니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0779"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0188"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:1ba5ca2f10301a43",
+      "source": "もちろんさ。//ムッシュは今でも、//巴里華撃団の一員なんだからね。",
+      "text": "물론이지．무슈는 지금도，//파리화격단의 일원이니까 말이야．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0779"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0188"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:05051c9e269dc1dc",
+    "source": "ムッシュ……//なんでも自分でできるなんてのは//単なるうぬぼれだよ。",
+    "before": {
+      "id": "dialogue:05051c9e269dc1dc",
+      "source": "ムッシュ……//なんでも自分でできるなんてのは//単なるうぬぼれだよ。",
+      "text": "총각…뭐든 혼자 할 수 있다는//생각은 자만일 뿐이야．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0781"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0193"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:05051c9e269dc1dc",
+      "source": "ムッシュ……//なんでも自分でできるなんてのは//単なるうぬぼれだよ。",
+      "text": "무슈…뭐든 혼자 할 수 있다는//생각은 자만일 뿐이야．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0781"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0193"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:5a8c48d24176553e",
+    "source": "ムッシュ、平和を守るのに、//帝都も巴里もないだろう。",
+    "before": {
+      "id": "dialogue:5a8c48d24176553e",
+      "source": "ムッシュ、平和を守るのに、//帝都も巴里もないだろう。",
+      "text": "총각，평화를 지키는 데//제도와 파리를 가릴 필요는 없잖아．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0785"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0198"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5a8c48d24176553e",
+      "source": "ムッシュ、平和を守るのに、//帝都も巴里もないだろう。",
+      "text": "무슈，평화를 지키는 데//제도와 파리를 가릴 필요는 없잖아．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0785"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0198"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:334c0e4dd36c10ef",
+    "source": "ムッシュがなんと言おうと、//あたしたちは//助けに行くからね。",
+    "before": {
+      "id": "dialogue:334c0e4dd36c10ef",
+      "source": "ムッシュがなんと言おうと、//あたしたちは//助けに行くからね。",
+      "text": "총각이 뭐라고 하든，//우리는 도우러 갈 거야．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0787"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0200"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:334c0e4dd36c10ef",
+      "source": "ムッシュがなんと言おうと、//あたしたちは//助けに行くからね。",
+      "text": "무슈가 뭐라고 하든，//우리는 도우러 갈 거야．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0787"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0200"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:7ddd2f10edb98969",
+    "source": "あ、ムッシュ……//おまけも送っといたから、//エリカのこと頼んだよ。",
+    "before": {
+      "id": "dialogue:7ddd2f10edb98969",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//エリカのこと頼んだよ。",
+      "text": "아，총각…덤도 같이 보내//뒀으니까，에리카를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0214"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7ddd2f10edb98969",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//エリカのこと頼んだよ。",
+      "text": "아，무슈…덤도 같이 보내//뒀으니까，에리카를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0793"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0214"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:025a2e56429125e4",
+    "source": "あ、ムッシュ……//おまけも送っといたから、//グリシーヌのこと頼んだよ。",
+    "before": {
+      "id": "dialogue:025a2e56429125e4",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//グリシーヌのこと頼んだよ。",
+      "text": "아，총각…덤도 같이 보냈으니까，//글리신을 잘 부탁해．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0794"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0210"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:025a2e56429125e4",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//グリシーヌのこと頼んだよ。",
+      "text": "아，무슈…덤도 같이 보냈으니까，//글리신을 잘 부탁해．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0794"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0210"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:186c25ecb62a3449",
+    "source": "あ、ムッシュ……//おまけも送っといたから、//コクリコのこと頼んだよ。",
+    "before": {
+      "id": "dialogue:186c25ecb62a3449",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//コクリコのこと頼んだよ。",
+      "text": "아，총각…덤도 같이 보냈으니까，//코쿠리코를 부탁해．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0795"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0211"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:186c25ecb62a3449",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//コクリコのこと頼んだよ。",
+      "text": "아，무슈…덤도 같이 보냈으니까，//코쿠리코를 부탁해．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0795"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0211"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:89b53898264097ef",
+    "source": "あ、ムッシュ……//おまけも送っといたから、//ロベリアのこと頼んだよ。",
+    "before": {
+      "id": "dialogue:89b53898264097ef",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//ロベリアのこと頼んだよ。",
+      "text": "아，총각…//덤도 같이 보내 두었으니까，//로벨리아를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0796"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0212"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:89b53898264097ef",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//ロベリアのこと頼んだよ。",
+      "text": "아，무슈…//덤도 같이 보내 두었으니까，//로벨리아를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0796"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0212"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:e2e1b5a7667a5e65",
+    "source": "あ、ムッシュ……//おまけも送っといたから、//花火のこと頼んだよ。",
+    "before": {
+      "id": "dialogue:e2e1b5a7667a5e65",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//花火のこと頼んだよ。",
+      "text": "아，총각…덤도 같이 보냈으니까，//하나비를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0797"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0213"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e2e1b5a7667a5e65",
+      "source": "あ、ムッシュ……//おまけも送っといたから、//花火のこと頼んだよ。",
+      "text": "아，무슈…덤도 같이 보냈으니까，//하나비를 부탁할게．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC2.LIP#0797"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0213"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:3cae7d00c073df05",
+    "source": "ムッシュも、//そんなところで見てないで、//さっさと仕事しておいで∈",
+    "before": {
+      "id": "dialogue:3cae7d00c073df05",
+      "source": "ムッシュも、//そんなところで見てないで、//さっさと仕事しておいで∈",
+      "text": "총각도，그런 데서 보고만 있지//말고，어서 가서 일하고 오너라∈",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0409"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2195"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3cae7d00c073df05",
+      "source": "ムッシュも、//そんなところで見てないで、//さっさと仕事しておいで∈",
+      "text": "무슈도，그런 데서 보고만 있지//말고，어서 가서 일하고 오너라∈",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0409"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#2195"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:f6c9611180a66576",
+    "source": "さぁ、ムッシュ、//聞かせておくれ……//トーキョーであったことをさ……",
+    "before": {
+      "id": "dialogue:f6c9611180a66576",
+      "source": "さぁ、ムッシュ、//聞かせておくれ……//トーキョーであったことをさ……",
+      "text": "자，총각，들려주게나…//도쿄에서 있었던 일을 말이야…",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0884"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0968"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f6c9611180a66576",
+      "source": "さぁ、ムッシュ、//聞かせておくれ……//トーキョーであったことをさ……",
+      "text": "자，무슈，들려주게나…//도쿄에서 있었던 일을 말이야…",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/LIPSYNC4.LIP#0884"
+        },
+        {
+          "id": "ADVDATA/SCRIPT/S0410.SBX#0968"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:b212ec29d5a6bf55",
+    "source": "あの……ムッシュ米田は、//どこにいらっしゃいますか？",
+    "before": {
+      "id": "dialogue:b212ec29d5a6bf55",
+      "source": "あの……ムッシュ米田は、//どこにいらっしゃいますか？",
+      "text": "저기…요네다 씨는，//어디에 계시나요？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0586"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:b212ec29d5a6bf55",
+      "source": "あの……ムッシュ米田は、//どこにいらっしゃいますか？",
+      "text": "저기…무슈 요네다는，//어디에 계시나요？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0586"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:60bd4451e305a604",
+    "source": "……そうだ。//ムッシュ米田はどこにおられる？",
+    "before": {
+      "id": "dialogue:60bd4451e305a604",
+      "source": "……そうだ。//ムッシュ米田はどこにおられる？",
+      "text": "…그렇지．//요네다 씨는 어디 계시나？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0756"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:60bd4451e305a604",
+      "source": "……そうだ。//ムッシュ米田はどこにおられる？",
+      "text": "…그렇지．//무슈 요네다는 어디 계시나？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0210.SBX#0756"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:2ee493abb96a5901",
+    "source": "おや、ムッシュ。//元気そうじゃないか。",
+    "before": {
+      "id": "dialogue:2ee493abb96a5901",
+      "source": "おや、ムッシュ。//元気そうじゃないか。",
+      "text": "이런，총각．잘 지내는 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0130"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:2ee493abb96a5901",
+      "source": "おや、ムッシュ。//元気そうじゃないか。",
+      "text": "이런，무슈．잘 지내는 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0130"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:dce4cb67ab947007",
+    "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくなって//さびしいとさ。",
+    "before": {
+      "id": "dialogue:dce4cb67ab947007",
+      "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくなって//さびしいとさ。",
+      "text": "총각이 제도로 가 버려서，싸움//상대가 없어졌다며 외롭다더군．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0149"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:dce4cb67ab947007",
+      "source": "ムッシュが帝都に行ったんで、//ケンカ相手がいなくなって//さびしいとさ。",
+      "text": "무슈가 제도로 가 버려서，싸움//상대가 없어졌다며 외롭다더군．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#0149"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:21e3dbc0d2c30174",
+    "source": "……ムッシュ〓//まったく悪い子だねぇ……//仕事中に通信してくるなんて。",
+    "before": {
+      "id": "dialogue:21e3dbc0d2c30174",
+      "source": "……ムッシュ〓//まったく悪い子だねぇ……//仕事中に通信してくるなんて。",
+      "text": "…총각〓정말 나쁜 아이네…//업무 중에 통신을 하다니．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1861"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:21e3dbc0d2c30174",
+      "source": "……ムッシュ〓//まったく悪い子だねぇ……//仕事中に通信してくるなんて。",
+      "text": "…무슈〓정말 나쁜 아이네…//업무 중에 통신을 하다니．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1861"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:735d83ea6b242942",
+    "source": "あの子たち……ムッシュが//教えてくれたことだって、//自慢げに言ってたよ。",
+    "before": {
+      "id": "dialogue:735d83ea6b242942",
+      "source": "あの子たち……ムッシュが//教えてくれたことだって、//自慢げに言ってたよ。",
+      "text": "그 아이들…총각이 가르쳐//준 거라고，자랑스럽게 말하더군．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1865"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:735d83ea6b242942",
+      "source": "あの子たち……ムッシュが//教えてくれたことだって、//自慢げに言ってたよ。",
+      "text": "그 아이들…무슈가 가르쳐//준 거라고，자랑스럽게 말하더군．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1865"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:fa34022d237e3748",
+    "source": "じゃ……そういうことだから。//ムッシュは、//そっちでがんばるんだよ。",
+    "before": {
+      "id": "dialogue:fa34022d237e3748",
+      "source": "じゃ……そういうことだから。//ムッシュは、//そっちでがんばるんだよ。",
+      "text": "그럼…그런 거니까．//총각은，그쪽에서 힘내야 해．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1870"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:fa34022d237e3748",
+      "source": "じゃ……そういうことだから。//ムッシュは、//そっちでがんばるんだよ。",
+      "text": "그럼…그런 거니까．//무슈는，그쪽에서 힘내야 해．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0220.SBX#1870"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:e69327291c232855",
+    "source": "あぁ、ムッシュかい？//メルとシーなら、//凱旋門支部に行ったよ。",
+    "before": {
+      "id": "dialogue:e69327291c232855",
+      "source": "あぁ、ムッシュかい？//メルとシーなら、//凱旋門支部に行ったよ。",
+      "text": "아아，총각인가？//멜과 시라면，개선문 지부에 갔어．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2742"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:e69327291c232855",
+      "source": "あぁ、ムッシュかい？//メルとシーなら、//凱旋門支部に行ったよ。",
+      "text": "아아，무슈인가？//멜과 시라면，개선문 지부에 갔어．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2742"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:86d431d358412bc1",
+    "source": "で、ムッシュはどうなんだい？//そっちで、あの子たちとは、//うまくやってるのかい？",
+    "before": {
+      "id": "dialogue:86d431d358412bc1",
+      "source": "で、ムッシュはどうなんだい？//そっちで、あの子たちとは、//うまくやってるのかい？",
+      "text": "그래서，총각은 어때？그쪽에서，//그 아이들과는，잘 지내고 있어？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2744"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:86d431d358412bc1",
+      "source": "で、ムッシュはどうなんだい？//そっちで、あの子たちとは、//うまくやってるのかい？",
+      "text": "그래서，무슈는 어때？그쪽에서，//그 아이들과는，잘 지내고 있어？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2744"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:3fb099c4fd087370",
+    "source": "ふぅ……そういう意味で//聞いたんじゃないんだけどさ。//ま、ムッシュらしくていいよ。",
+    "before": {
+      "id": "dialogue:3fb099c4fd087370",
+      "source": "ふぅ……そういう意味で//聞いたんじゃないんだけどさ。//ま、ムッシュらしくていいよ。",
+      "text": "후우…그런 뜻으로//물어본 건 아니지만 말이야．//뭐，총각답고 좋네．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2746"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:3fb099c4fd087370",
+      "source": "ふぅ……そういう意味で//聞いたんじゃないんだけどさ。//ま、ムッシュらしくていいよ。",
+      "text": "후우…그런 뜻으로//물어본 건 아니지만 말이야．//뭐，무슈답고 좋네．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2746"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:78254cc5f9216617",
+    "source": "まったく……//ムッシュ・迫水も、//どこまで本気なんだか？",
+    "before": {
+      "id": "dialogue:78254cc5f9216617",
+      "source": "まったく……//ムッシュ・迫水も、//どこまで本気なんだか？",
+      "text": "정말이지…사코미즈 씨도，//대체 어디까지 진심인 거야？",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2757"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:78254cc5f9216617",
+      "source": "まったく……//ムッシュ・迫水も、//どこまで本気なんだか？",
+      "text": "정말이지…무슈 사코미즈도，//대체 어디까지 진심인 거야？",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2757"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:5e44bfe3be8b95fd",
+    "source": "それじゃあね、ムッシュ。//しっかりとおやり。",
+    "before": {
+      "id": "dialogue:5e44bfe3be8b95fd",
+      "source": "それじゃあね、ムッシュ。//しっかりとおやり。",
+      "text": "그럼 이만，총각．제대로 해 보렴．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2758"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:5e44bfe3be8b95fd",
+      "source": "それじゃあね、ムッシュ。//しっかりとおやり。",
+      "text": "그럼 이만，무슈．제대로 해 보렴．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "ADVDATA/SCRIPT/S0310.SBX#2758"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:7c790d564b03095a",
+    "source": "さぁ……//ムッシュが親だよ。",
+    "before": {
+      "id": "dialogue:7c790d564b03095a",
+      "source": "さぁ……//ムッシュが親だよ。",
+      "text": "자…//총각이 딜러란다．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0006"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:7c790d564b03095a",
+      "source": "さぁ……//ムッシュが親だよ。",
+      "text": "자…//무슈가 딜러란다．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0006"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:cf5a4af77bce13a1",
+    "source": "おやおや。ムッシュも//やるようになったねぇ……",
+    "before": {
+      "id": "dialogue:cf5a4af77bce13a1",
+      "source": "おやおや。ムッシュも//やるようになったねぇ……",
+      "text": "어머나．총각도//제법 하게 되었네…",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0009"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:cf5a4af77bce13a1",
+      "source": "おやおや。ムッシュも//やるようになったねぇ……",
+      "text": "어머나．무슈도//제법 하게 되었네…",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0009"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:188fe16d74684c68",
+    "source": "楽しかったよ、ムッシュ……//レディーのもてなし方、//わかってきたみたいだね。",
+    "before": {
+      "id": "dialogue:188fe16d74684c68",
+      "source": "楽しかったよ、ムッシュ……//レディーのもてなし方、//わかってきたみたいだね。",
+      "text": "즐거웠어，총각…//레이디를 대접하는 법도//이제 좀 아는 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0010"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:188fe16d74684c68",
+      "source": "楽しかったよ、ムッシュ……//レディーのもてなし方、//わかってきたみたいだね。",
+      "text": "즐거웠어，무슈…//레이디를 대접하는 법도//이제 좀 아는 것 같네．",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "MINIGAME/JT24GRAN.SBN#0010"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  },
+  {
+    "unit": "dialogue:f2278c38d8963aca",
+    "source": "",
+    "before": {
+      "id": "dialogue:f2278c38d8963aca",
+      "source": "",
+      "text": "남은 건，//총각의 지휘에 달렸어…//반드시 이겨야 해∈",
+      "review": "원문 대조 교정 · 2026-10-26",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00061840:0004"
+        }
+      ]
+    },
+    "after": {
+      "id": "dialogue:f2278c38d8963aca",
+      "source": "",
+      "text": "남은 건，//무슈의 지휘에 달렸어…//반드시 이겨야 해∈",
+      "review": "원문 대조 교정 · 2026-10-27",
+      "occurrences": [
+        {
+          "id": "SLG/G03/SMAP03.ESM#00061840:0004"
+        }
+      ]
+    },
+    "reason": "사용자 지정: 무슈 호칭과 원래 조사를 복원. 별도 의미 교정인 천만에는 유지."
+  }
+]

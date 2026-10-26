@@ -148,7 +148,14 @@ def build(root=ROOT,output=None,lip_align=False,lip_retime=True):
         result[rel][pos:pos+len(expected)]=new
     disc_lip={rel:safe(root/'originals/disc',rel).read_bytes() for rel in lip_offb} if lip_align else {}
     disc_text={}
+    from ending_credits import plan as plan_ending_credits
+    ending_writes, ending_ids, ending_report = plan_ending_credits(root, baseline, rows, codes, encode)
+    for args in ending_writes:
+        write(*args)
     for key,row in rows.items():
+        if key in ending_ids:
+            changed.append(key)
+            continue
         rel=row['file']; raw=bytes.fromhex(row['raw_hex'])
         if rel in disc_lip:
             # 시험 기능: 일본어 원문의 글자 칸 위치에 한글을 맞춘다(원문이 쓰던 0 채움 구간까지 사용)
@@ -221,6 +228,20 @@ def build(root=ROOT,output=None,lip_align=False,lip_retime=True):
                 if data[cursor:start]!=baseline[rel][cursor:start]: raise ValueError('보호 경계 침범: '+rel)
                 cursor=end
             if len(data)==len(baseline[rel]) and data[cursor:]!=baseline[rel][cursor:]: raise ValueError('보호 경계 침범: '+rel)
+    if ending_report['rows']:
+        from ending_credits import verify_blank_fonts
+        verify_blank_fonts(result, codes)
+    preserved_assets=[]
+    preservation=root/'config/preserved-assets.json'
+    if preservation.exists():
+        for item in readjson(preservation)['files']:
+            rel=item['path']
+            original=safe(root/'originals/disc',rel).read_bytes()
+            if sha(original)!=item['sha256']:
+                raise ValueError('원본 유지 자산 해시 불일치: '+rel)
+            if rel in result and bytes(result[rel])!=original:
+                raise ValueError('사용자 원본 유지 요청 자산 변경 금지: '+rel)
+            preserved_assets.append({'path':rel,'sha256':sha(original),'included_in_patch':rel in result})
     output=output or root/'out/sakura_wars_4_kr_dev.dcp'
     output.parent.mkdir(parents=True,exist_ok=True)
     fd,tmp=tempfile.mkstemp(suffix='.partial',dir=output.parent); os.close(fd)
@@ -239,7 +260,8 @@ def build(root=ROOT,output=None,lip_align=False,lip_retime=True):
     report={'output':str(output),'sha256':sha(output.read_bytes()),'files':len(result),
         'changed_translation_ids':changed,'changed_files':sorted(writes),'baseline_payload_equal':not writes,
         'segment_hashes':segment_hashes,'index_sha256':sha((root/'assets/translation/index.json').read_bytes()),
-        'runtime_verified':False,'release_approved':False,'dialogue':dialogue_info}
+        'runtime_verified':False,'release_approved':False,'dialogue':dialogue_info,
+        'ending_credit_layout':ending_report,'preserved_assets':preserved_assets}
     (output.parent/'build-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps({k:v for k,v in report.items() if k!='segment_hashes'},ensure_ascii=False,indent=2))
     return report

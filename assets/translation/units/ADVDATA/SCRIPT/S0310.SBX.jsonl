@@ -2002,11 +2002,11 @@
 {"id": "dialogue:88ddb7db5d8850fd", "source": "シャノワールはにぎやかだな。//いつも楽しそうだ……", "text": "샤노와르는 북적북적하구나．//언제나 즐거워 보여…", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2731"}]}
 {"id": "dialogue:8b035a1f32a90167", "source": "2_302_1", "text": "2_302_1", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2733"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#3240"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#3895"}]}
 {"id": "dialogue:564c1b6b0ec0d6f2", "source": "……まぁ、いいか。//帝都も平和になったし、//緊急連絡じゃないみたいだしな。", "text": "…뭐，됐나．//제도도 평화로워졌고，//긴급 연락도 아닌 것 같으니까．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2734"}]}
-{"id": "dialogue:e69327291c232855", "source": "あぁ、ムッシュかい？//メルとシーなら、//凱旋門支部に行ったよ。", "text": "아아，무슈인가？//멜과 시라면，개선문 지부에 갔어．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2742"}]}
+{"id": "dialogue:e69327291c232855", "source": "あぁ、ムッシュかい？//メルとシーなら、//凱旋門支部に行ったよ。", "text": "아아，무슈인가？//멜과 시라면，개선문 지부에 갔어．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2742"}]}
 {"id": "dialogue:7e378c53c542ead2", "source": "ははは……//そうみたいですね。", "text": "하하하…그런 모양이네요．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2743"}]}
-{"id": "dialogue:86d431d358412bc1", "source": "で、ムッシュはどうなんだい？//そっちで、あの子たちとは、//うまくやってるのかい？", "text": "그래서，무슈는 어때？그쪽에서，//그 아이들과는，잘 지내고 있어？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2744"}]}
+{"id": "dialogue:86d431d358412bc1", "source": "で、ムッシュはどうなんだい？//そっちで、あの子たちとは、//うまくやってるのかい？", "text": "그래서，무슈는 어때？그쪽에서，//그 아이들과는，잘 지내고 있어？", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2744"}]}
 {"id": "dialogue:38572c59283ad3af", "source": "みんな仲良くやってますよ。//今日はみんなで、//帝都観光に行きますし。", "text": "모두 사이좋게 지내고 있어요．//오늘은 다 같이，//제도 관광을 갈 거니까요．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2745"}]}
-{"id": "dialogue:3fb099c4fd087370", "source": "ふぅ……そういう意味で//聞いたんじゃないんだけどさ。//ま、ムッシュらしくていいよ。", "text": "후우…그런 뜻으로//물어본 건 아니지만 말이야．//뭐，무슈답고 좋네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2746"}]}
+{"id": "dialogue:3fb099c4fd087370", "source": "ふぅ……そういう意味で//聞いたんじゃないんだけどさ。//ま、ムッシュらしくていいよ。", "text": "후우…그런 뜻으로//물어본 건 아니지만 말이야．//뭐，무슈답고 좋네．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2746"}]}
 {"id": "dialogue:336f23f904db6fe1", "source": "……はぁ。", "text": "…하아．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2747"}]}
 {"id": "dialogue:0788129e1b3a3300", "source": "やぁ、大神くん。//帝都では大活躍だったようだね。", "text": "안녕，오오가미 군．//제도에서는 대활약한 모양이네．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2748"}]}
 {"id": "dialogue:059334c5235eeeb2", "source": "あ、迫水大使！//おひさしぶりです∈", "text": "사코미즈 대사님∈오랜만입니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2749"}]}
@@ -2017,8 +2017,8 @@
 {"id": "dialogue:a6350f9ee3eae674", "source": "は、はぁ……//別にかまいませんが……", "text": "하，하아…딱히 상관없습니다만…", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2754"}]}
 {"id": "dialogue:9457ab5a7af88cac", "source": "……迫水支部長。//メル・レゾン、シー・カプリス、//到着いたしました！", "text": "…사코미즈 지부장님．멜 레종，//시 카프리스，도착했습니다∈", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2755"}]}
 {"id": "dialogue:c2d82345d669db3e", "source": "おっと……//二人が来たようだな。//じゃあ、頼んだよ。", "text": "이런…두 사람이 온 모양이군．//그럼，부탁하네．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2756"}]}
-{"id": "dialogue:78254cc5f9216617", "source": "まったく……//ムッシュ・迫水も、//どこまで本気なんだか？", "text": "정말이지…무슈 사코미즈도，//대체 어디까지 진심인 거야？", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2757"}]}
-{"id": "dialogue:5e44bfe3be8b95fd", "source": "それじゃあね、ムッシュ。//しっかりとおやり。", "text": "그럼 이만，무슈．제대로 해 보렴．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2758"}]}
+{"id": "dialogue:78254cc5f9216617", "source": "まったく……//ムッシュ・迫水も、//どこまで本気なんだか？", "text": "정말이지…무슈 사코미즈도，//대체 어디까지 진심인 거야？", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2757"}]}
+{"id": "dialogue:5e44bfe3be8b95fd", "source": "それじゃあね、ムッシュ。//しっかりとおやり。", "text": "그럼 이만，무슈．제대로 해 보렴．", "review": "원문 대조 교정 · 2026-10-27", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2758"}]}
 {"id": "dialogue:0898d731e0a8b453", "source": "はい、了解しました。//支配人もお元気で。", "text": "네，알겠습니다．//지배인님도 건강하시길．", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2759"}]}
 {"id": "dialogue:d088b24fa71e0d17", "source": "さて……//俺もそろそろ行くか。", "text": "자…나도 슬슬 가 볼까．", "review": "원문 대조 교정 · 2026-10-22", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2760"}]}
 {"id": "dialogue:30987275cabb3ba4", "source": "2_302_2", "text": "2_302_2", "review": "교차 검토 필요", "occurrences": [{"id": "ADVDATA/SCRIPT/S0310.SBX#2761"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#3244"}, {"id": "ADVDATA/SCRIPT/S0310.SBX#3897"}]}

@@ -1,0 +1,10 @@
+{
+  "schema": "sakura-preserved-assets/v1",
+  "files": [
+    {
+      "path": "SLG/COM.BC",
+      "sha256": "61582b65816b46a7a6f884b6b7ba2b03835a92140ae586f9509b052173c02588",
+      "reason": "사용자가 풍림화산(風林火山) 원본 한자와 연출 유지를 명시했고 2026-10-27 재확인했다."
+    }
+  ]
+}

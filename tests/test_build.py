@@ -43,6 +43,24 @@ class GuardTests(unittest.TestCase):
     def test_protected_offset(self):
         self.row['offset']=1; self.segment()
         with self.assertRaisesRegex(ValueError,'보호 필드'): self.runbuild()
+
+    def test_user_preserved_asset_cannot_be_translated(self):
+        source=self.root/'originals/disc/test.SBX'
+        source.parent.mkdir(parents=True)
+        source.write_bytes(self.raw)
+        self.save('config/preserved-assets.json',{'files':[{'path':'test.SBX','sha256':sha(self.raw)}]})
+        self.row['text']='사쿠라';self.segment()
+        with self.assertRaisesRegex(ValueError,'원본 유지 요청 자산 변경 금지'):
+            self.runbuild()
+        self.assertFalse((self.root/'out/sakura_wars_4_kr_dev.dcp').exists())
+
+    def test_user_preserved_asset_rejects_wrong_original(self):
+        source=self.root/'originals/disc/test.SBX'
+        source.parent.mkdir(parents=True)
+        source.write_bytes(b'wrong source')
+        self.save('config/preserved-assets.json',{'files':[{'path':'test.SBX','sha256':sha(self.raw)}]})
+        with self.assertRaisesRegex(ValueError,'원본 유지 자산 해시 불일치'):
+            self.runbuild()
     def test_duplicate_id(self):
         self.segment([self.row,self.row])
         with self.assertRaisesRegex(ValueError,'중복'): self.runbuild()

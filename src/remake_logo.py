@@ -1,8 +1,7 @@
 """『サクラ大戦』 로고를 한글 로고로 다시 만든다.
 
-참고 이미지(한글 디자인 참고용 로고.png) 방식: 가타카나 「サクラ」만 같은
-느낌의 한글 「사쿠라」로 바꾸고, 「大戦」 한자는 그대로 둔 채 아래에 작은
-「대」「전」 이름표를 붙인다. 부제는 한국어로 다시 쓴다.
+「サクラ」「大戦」을 본문 크기의 「사쿠라」「대전」으로 바꾼다.
+작은 검은 읽기 상자는 쓰지 않는다. 숫자 4·영문·부제의 기존 좌표는 보존한다.
 
 「사쿠라」 채움은 원본 サクラ 글자의 붉은 대리석 무늬를 늘려 쓰고, 검은
 테두리·밝은 바깥선·그림자를 원본처럼 겹친다.
@@ -10,6 +9,7 @@
 입력: assets/images/remake/logo.json
 출력: assets/images/remake/logo/<컨테이너>/<블록>_<텍스처>.png, index.json
 """
+import hashlib
 import json
 from pathlib import Path
 
@@ -137,12 +137,43 @@ MASTER = {
     'letters': [['사', [6, 54, 76, 188]], ['쿠', [74, 64, 142, 172]], ['라', [140, 60, 210, 168]]],
     # 참고 로고에서 뽑은 「사쿠라」 글자 모양(사의 ㅏ는 라의 ㅏ를 늘려 기본 길이로)
     'word_rect': [11, 44, 224, 182],  # x=0에서 시작하면 사의 테두리가 텍스처 밖으로 잘렸다
-    'tags': [[[290, 148, 322, 176], '대'], [[360, 148, 392, 176], '전']],
     'protect': [70, 160, 330, 202],  # 「Sakura Wars」 자리: 붉은 サ 획만 지운다
 }
 
 
 _LAYER = None
+
+
+def daejeon_layers():
+    """한 장의 생성 글자층을 고정 좌표로 배치한다. 원본 4와 영문은 보호한다."""
+    cfg = json.loads(CONFIG.read_text(encoding='utf-8'))['daejeon']
+    path = ROOT / cfg['image']
+    if hashlib.sha256(path.read_bytes()).hexdigest() != cfg['sha256']:
+        raise ValueError('대전 로고 원천 이미지 해시 불일치')
+    im = Image.open(path).convert('RGBA')
+    if list(im.size) != cfg['source_size']:
+        raise ValueError('대전 로고 원천 크기 불일치')
+    x0, y0, x1, y1 = cfg['destination']
+    layer = Image.new('RGBA', (640, 480))
+    layer.alpha_composite(im.crop(cfg['source_crop']).resize((x1-x0, y1-y0), Image.LANCZOS), (x0, y0))
+    if cfg.get('palette_colors'):
+        alpha = layer.getchannel('A')
+        layer = layer.quantize(colors=cfg['palette_colors'], method=Image.Quantize.FASTOCTREE,
+                               dither=Image.Dither.NONE).convert('RGBA')
+        layer.putalpha(alpha)
+    protect = Image.new('L', (640, 480))
+    ImageDraw.Draw(protect).polygon([tuple(p) for p in cfg['number4_polygon']], fill=255)
+    index = json.loads((ROOT / 'assets/extracted/images/index.json').read_text(encoding='utf-8'))
+    t = next(t for t in index['textures'] if (t['source'], t['block'], t['texture']) == ('ADVDATA/CG_ALL1.DAT', 733, 0))
+    src = np.asarray(Image.open(ROOT / t['original_png']).convert('RGBA'))
+    region = Image.new('L', (640, 480))
+    ImageDraw.Draw(region).rectangle(cfg['erase_rectangle'], fill=255)
+    pm = np.asarray(protect) > 0
+    orange = (src[..., 0] > 200) & (src[..., 1] > 100) & (src[..., 1] < 200) & (src[..., 2] < 80)
+    erase = ((np.asarray(region) > 0) & (src[..., 3] > 0) & ~pm & ~orange).astype(np.uint8) * 255
+    erase = cv2.dilate(erase, np.ones((3, 3), np.uint8))
+    erase[pm | orange] = 0
+    return layer, erase, np.asarray(protect)
 
 # 원본 サクラ 안쪽 색(#733 측정): 바탕 진홍 (238,17,85), 밝은 광택 (255,102,187)
 FILL_BASE = np.array([238, 17, 85]) / 255
@@ -222,7 +253,6 @@ def place(item):
     out['kana_rect'] = f(MASTER['kana_rect'])
     out['letters'] = [[c, f(r)] for c, r in MASTER['letters']]
     out['word_rect'] = f(MASTER['word_rect'])
-    out['tags'] = [[f(r), c] for r, c in MASTER['tags']]
     out['protect'] = f(MASTER['protect'])
     out['scale'] = k
     return out
@@ -234,6 +264,7 @@ def run(item):
     t = next(t for t in index['textures'] if (t['source'], t['block'], t['texture']) == (item['source'], item['block'], item['texture']))
     # base_image: 다른 재제작 단계(예: 대원 명단 글자) 결과 위에 로고만 다시 만든다
     arr = np.asarray(Image.open(ROOT / item.get('base_image', t['original_png'])).convert('RGBA')).copy()
+    original_base = arr.copy()
     s = item.get('scale', 1.0)
     h, w = arr.shape[:2]
     kx0, ky0, kx1, ky1 = item['kana_rect']
@@ -287,6 +318,10 @@ def run(item):
         keep = blue_mask if 'blue_erase' in item else np.zeros_like(erase)
         # 덮일 자리까지 함께 지워야 인페인팅이 옛 붉은 획을 끌어오지 않는다(새 글자가 그 위를 덮는다)
         erase = ((foot > 0) & ~orange_all).astype(np.uint8) * 255 | keep
+        _, kanji_erase, _ = daejeon_layers()
+        k, ox, oy = item['transform']
+        M = np.float32([[k, 0, ox], [0, k, oy]])
+        erase |= cv2.warpAffine(kanji_erase, M, (w, h), flags=cv2.INTER_NEAREST)
     if item.get('background') == 'transparent':
         arr[erase > 0] = 0
     else:
@@ -295,6 +330,14 @@ def run(item):
         arr[..., :3] = rgb
         arr[..., 3] = a
     dst = arr.astype(float) / 255
+    if 'transform' in item:
+        purple, _, number4 = daejeon_layers()
+        k, ox, oy = item['transform']
+        # 한글 「대전」 전체를 같은 마스터 좌표로 옮긴다. 글자별 재분할·자간 변경 없음.
+        rgba = np.asarray(purple)
+        M = np.float32([[k, 0, ox], [0, k, oy]])
+        placed = cv2.warpAffine(rgba, M, (w, h), flags=cv2.INTER_LINEAR)
+        dst = over(dst, placed[..., :3] / 255, placed[..., 3] / 255)
     # 사쿠라
     mask = np.zeros((h, w))
     if item.get('word_mask', True) and 'word_rect' in item:
@@ -324,8 +367,12 @@ def run(item):
         tt = np.clip((np.arange(h) - ly0) / max(1, ly1 - ly0), 0, 1)[:, None, None]
         grad = np.broadcast_to(top * (1 - tt) + bot * tt, (h, w, 3))
         dst = styled(dst, mask, gloss(grad.copy(), mask, s), s)
-    for rect, txt in item.get('tags', []):
-        dst = tag(dst, rect, txt, s)
+    if 'transform' in item and 'blue_erase' not in item:
+        _, _, number4 = daejeon_layers()
+        k, ox, oy = item['transform']
+        M = np.float32([[k, 0, ox], [0, k, oy]])
+        keep4 = cv2.warpAffine(number4, M, (w, h), flags=cv2.INTER_NEAREST) > 0
+        dst[keep4] = original_base[keep4] / 255
     for op in item.get('subtitle', []):
         x0, y0, x1, y1 = op['erase']
         # 띠 안쪽 줄 전체를 그 줄의 띠 색 하나로 칠한다(옅은 획 가장자리까지 남지 않게).
